@@ -1,0 +1,109 @@
+{
+  "bankSha256": "47b86200c6c70a9c0e77aea7f200d0ea09399e59e5fcf1633d5c00afcf7d12f1",
+  "manifestSha256": "cf089e38583a9e198ba33633868766b9a5b6ef9ba24611028d71402f8ebb449f",
+  "reviewer": "Tobias Mezger",
+  "date": "2026-09-26",
+  "items": [
+    {
+      "id": "gb2-003",
+      "decision": "approve",
+      "notes": "Approved as part of the full 20-question sample by user."
+    },
+    {
+      "id": "gb2-004",
+      "decision": "approve",
+      "notes": "Approved as part of the full 20-question sample by user."
+    },
+    {
+      "id": "gb2-015",
+      "decision": "approve",
+      "notes": "Approved as part of the full 20-question sample by user."
+    },
+    {
+      "id": "gb2-017",
+      "decision": "approve",
+      "notes": "Approved as part of the full 20-question sample by user."
+    },
+    {
+      "id": "gb2-030",
+      "decision": "approve",
+      "notes": "Approved as part of the full 20-question sample by user."
+    },
+    {
+      "id": "gb2-032",
+      "decision": "approve",
+      "notes": "Approved as part of the full 20-question sample by user."
+    },
+    {
+      "id": "gb2-035",
+      "decision": "approve",
+      "notes": "Approved as part of the full 20-question sample by user."
+    },
+    {
+      "id": "gb2-048",
+      "decision": "approve",
+      "notes": "Approved as part of the full 20-question sample by user."
+    },
+    {
+      "id": "gb2-051",
+      "decision": "approve",
+      "notes": "Approved as part of the full 20-question sample by user."
+    },
+    {
+      "id": "gb2-055",
+      "decision": "approve",
+      "notes": "Approved as part of the full 20-question sample by user."
+    },
+    {
+      "id": "gb2-056",
+      "decision": "approve",
+      "notes": "Approved as part of the full 20-question sample by user."
+    },
+    {
+      "id": "gb2-062",
+      "decision": "approve",
+      "notes": "Approved as part of the full 20-question sample by user."
+    },
+    {
+      "id": "gb2-068",
+      "decision": "approve",
+      "notes": "Approved as part of the full 20-question sample by user."
+    },
+    {
+      "id": "gb2-078",
+      "decision": "approve",
+      "notes": "Approved as part of the full 20-question sample by user."
+    },
+    {
+      "id": "gb2-079",
+      "decision": "approve",
+      "notes": "Approved as part of the full 20-question sample by user."
+    },
+    {
+      "id": "gb2-080",
+      "decision": "approve",
+      "notes": "Approved as part of the full 20-question sample by user."
+    },
+    {
+      "id": "gb2-085",
+      "decision": "approve",
+      "notes": "Approved as part of the full 20-question sample by user."
+    },
+    {
+      "id": "gb2-092",
+      "decision": "approve",
+      "notes": "Approved as part of the full 20-question sample by user."
+    },
+    {
+      "id": "gb2-093",
+      "decision": "approve",
+      "notes": "Approved as part of the full 20-question sample by user."
+    },
+    {
+      "id": "gb2-100",
+      "decision": "approve",
+      "notes": "Approved as part of the full 20-question sample by user."
+    }
+  ],
+  "approvalSource": "User explicitly approved the 20-question sample and authorized integration in this conversation."
+}

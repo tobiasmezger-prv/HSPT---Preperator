@@ -1,0 +1,13 @@
+{
+  "bankSha256": "47b86200c6c70a9c0e77aea7f200d0ea09399e59e5fcf1633d5c00afcf7d12f1",
+  "status": "integrated for local testing",
+  "checks": [
+    "27 Vitest tests passed, including revised bank mapping, all answer formats, all 16 diagrams, mixed selection, exposure tracking, legacy snapshots and storage",
+    "TypeScript build passed",
+    "Vite production/PWA build passed"
+  ],
+  "localPreview": "http://localhost:5174/",
+  "browserCheck": "Not completed: browser security policy check unavailable; user can test manually.",
+  "iPadCheck": "pending",
+  "deployment": "not deployed"
+}

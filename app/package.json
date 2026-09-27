@@ -1,0 +1,34 @@
+{
+  "name": "hspt-practice",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "node scripts/content-release.mjs validate && vitest run && tsc -b && vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "test": "vitest run",
+    "validate:bank": "vitest run tests/bank.test.ts tests/fixture.test.ts tests/gables.test.tsx",
+    "content": "node scripts/content-release.mjs",
+    "content:validate": "node scripts/content-release.mjs validate"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "idb": "^8.0.3"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "typescript": "~5.8.3",
+    "vite": "^6.3.5",
+    "vitest": "^3.2.0",
+    "vite-plugin-pwa": "^1.0.0",
+    "@vitejs/plugin-react": "^4.5.0",
+    "fake-indexeddb": "^6.0.0"
+  },
+  "engines": {
+    "node": "24.x"
+  },
+  "packageManager": "pnpm@11.25.0"
+}

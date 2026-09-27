@@ -1,0 +1,2306 @@
+{
+  "bankSha256": "47b86200c6c70a9c0e77aea7f200d0ea09399e59e5fcf1633d5c00afcf7d12f1",
+  "checker": "Codex agent-assisted editorial review",
+  "items": [
+    {
+      "id": "gb2-001",
+      "format": "number_series",
+      "difficulty": 1,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-001",
+        "priorId": "dev-01",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-002",
+      "format": "number_series",
+      "difficulty": 2,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-002",
+        "priorId": "dev-02",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-003",
+      "format": "number_series",
+      "difficulty": 2,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-003",
+        "priorId": "dev-03",
+        "action": "replaced: source overlap or scaffolded format"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-004",
+      "format": "number_series",
+      "difficulty": 1,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-004",
+        "priorId": "dev-09",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-005",
+      "format": "number_series",
+      "difficulty": 1,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-005",
+        "priorId": "quant-013",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-006",
+      "format": "number_series",
+      "difficulty": 1,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-006",
+        "priorId": "quant-014",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-007",
+      "format": "number_series",
+      "difficulty": 2,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-007",
+        "priorId": "quant-015",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-008",
+      "format": "number_series",
+      "difficulty": 2,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-008",
+        "priorId": "quant-016",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-009",
+      "format": "number_series",
+      "difficulty": 2,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-009",
+        "priorId": "quant-017",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-010",
+      "format": "number_series",
+      "difficulty": 3,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-010",
+        "priorId": "quant-018",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-011",
+      "format": "number_series",
+      "difficulty": 2,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-011",
+        "priorId": "quant-019",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-012",
+      "format": "number_series",
+      "difficulty": 1,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-012",
+        "priorId": "quant-020",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-013",
+      "format": "number_series",
+      "difficulty": 2,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-013",
+        "priorId": "quant-021",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-014",
+      "format": "number_series",
+      "difficulty": 2,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-014",
+        "priorId": "quant-022",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-015",
+      "format": "number_series",
+      "difficulty": 2,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-015",
+        "priorId": "quant-023",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-016",
+      "format": "number_series",
+      "difficulty": 2,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-016",
+        "priorId": "quant-024",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-017",
+      "format": "number_series",
+      "difficulty": 2,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-017",
+        "priorId": "quant-025",
+        "action": "replaced: source overlap or scaffolded format"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-018",
+      "format": "number_series",
+      "difficulty": 2,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-018",
+        "priorId": "quant-026",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-019",
+      "format": "number_series",
+      "difficulty": 2,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-019",
+        "priorId": "quant-027",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-020",
+      "format": "number_series",
+      "difficulty": 3,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-020",
+        "priorId": "quant-028",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-021",
+      "format": "number_series",
+      "difficulty": 1,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-021",
+        "priorId": "quant-029",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-022",
+      "format": "number_series",
+      "difficulty": 1,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-022",
+        "priorId": "quant-030",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-023",
+      "format": "number_series",
+      "difficulty": 2,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-023",
+        "priorId": "quant-031",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-024",
+      "format": "number_series",
+      "difficulty": 2,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-024",
+        "priorId": "quant-032",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-025",
+      "format": "number_series",
+      "difficulty": 2,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-025",
+        "priorId": "quant-033",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-026",
+      "format": "number_series",
+      "difficulty": 2,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-026",
+        "priorId": "quant-034",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-027",
+      "format": "number_series",
+      "difficulty": 3,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-027",
+        "priorId": "quant-035",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-028",
+      "format": "number_series",
+      "difficulty": 1,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-028",
+        "priorId": "quant-036",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-029",
+      "format": "number_series",
+      "difficulty": 2,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-029",
+        "priorId": "quant-037",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-030",
+      "format": "number_series",
+      "difficulty": 3,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-030",
+        "priorId": "quant-038",
+        "action": "replaced: source overlap or scaffolded format"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-031",
+      "format": "number_series",
+      "difficulty": 3,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-031",
+        "priorId": "quant-039",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-032",
+      "format": "number_series",
+      "difficulty": 3,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-032",
+        "priorId": "quant-040",
+        "action": "replaced: source overlap or scaffolded format"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-033",
+      "format": "number_series",
+      "difficulty": 3,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-033",
+        "priorId": "quant-041",
+        "action": "replaced: source overlap or scaffolded format"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-034",
+      "format": "number_series",
+      "difficulty": 3,
+      "skillBrief": "Infer changes or interleaved rules; use all supplied terms. Missing terms, pairs and letter-number outputs broaden the prior next-number-only bank.",
+      "referenceScope": [
+        "Test 1 Q61, 68, 71, 83, 94, 97, 105; question PDF pp6\u201310; paired guide pp5\u20138",
+        "Test 2 Q62\u201363, 69, 71\u201372, 76, 79, 81, 86, 89\u201390, 93, 95, 99, 101, 104, 106, 108; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q62, 65, 69\u201370, 75, 77, 80, 84, 91, 93, 97, 100\u2013101, 105, 107; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-034",
+        "priorId": "quant-042",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "intended rule fits all terms; checked constant differences/ratios, changing gaps and alternating branches where applicable; no equally natural different offered answer identified"
+    },
+    {
+      "id": "gb2-035",
+      "format": "number_manipulation",
+      "difficulty": 1,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-035",
+        "priorId": "dev-05",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-036",
+      "format": "number_manipulation",
+      "difficulty": 2,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-036",
+        "priorId": "dev-08",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-037",
+      "format": "number_manipulation",
+      "difficulty": 1,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-037",
+        "priorId": "quant-059",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-038",
+      "format": "number_manipulation",
+      "difficulty": 2,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-038",
+        "priorId": "quant-060",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-039",
+      "format": "number_manipulation",
+      "difficulty": 2,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-039",
+        "priorId": "quant-061",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-040",
+      "format": "number_manipulation",
+      "difficulty": 2,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-040",
+        "priorId": "quant-062",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-041",
+      "format": "number_manipulation",
+      "difficulty": 2,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-041",
+        "priorId": "quant-063",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-042",
+      "format": "number_manipulation",
+      "difficulty": 2,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-042",
+        "priorId": "quant-064",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-043",
+      "format": "number_manipulation",
+      "difficulty": 1,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-043",
+        "priorId": "quant-065",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-044",
+      "format": "number_manipulation",
+      "difficulty": 2,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-044",
+        "priorId": "quant-066",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-045",
+      "format": "number_manipulation",
+      "difficulty": 2,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-045",
+        "priorId": "quant-067",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-046",
+      "format": "number_manipulation",
+      "difficulty": 2,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-046",
+        "priorId": "quant-068",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-047",
+      "format": "number_manipulation",
+      "difficulty": 2,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-047",
+        "priorId": "quant-069",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-048",
+      "format": "number_manipulation",
+      "difficulty": 2,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-048",
+        "priorId": "quant-070",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-049",
+      "format": "number_manipulation",
+      "difficulty": 2,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-049",
+        "priorId": "quant-071",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-050",
+      "format": "number_manipulation",
+      "difficulty": 3,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-050",
+        "priorId": "quant-072",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-051",
+      "format": "number_manipulation",
+      "difficulty": 2,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-051",
+        "priorId": "quant-073",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-052",
+      "format": "number_manipulation",
+      "difficulty": 2,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-052",
+        "priorId": "quant-074",
+        "action": "retained/rechecked"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-053",
+      "format": "number_manipulation",
+      "difficulty": 2,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-053",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-054",
+      "format": "number_manipulation",
+      "difficulty": 2,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-054",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-055",
+      "format": "number_manipulation",
+      "difficulty": 2,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-055",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-056",
+      "format": "number_manipulation",
+      "difficulty": 3,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-056",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-057",
+      "format": "number_manipulation",
+      "difficulty": 1,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-057",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-058",
+      "format": "number_manipulation",
+      "difficulty": 2,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-058",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-059",
+      "format": "number_manipulation",
+      "difficulty": 2,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-059",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-060",
+      "format": "number_manipulation",
+      "difficulty": 2,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-060",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-061",
+      "format": "number_manipulation",
+      "difficulty": 2,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-061",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-062",
+      "format": "number_manipulation",
+      "difficulty": 2,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-062",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-063",
+      "format": "number_manipulation",
+      "difficulty": 2,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-063",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-064",
+      "format": "number_manipulation",
+      "difficulty": 3,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-064",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-065",
+      "format": "number_manipulation",
+      "difficulty": 3,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-065",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-066",
+      "format": "number_manipulation",
+      "difficulty": 2,
+      "skillBrief": "Translate concise verbal arithmetic; preserve the requested order and finish all operations. Foundation computations retained; contextual variants extend rather than reproduce source stems.",
+      "referenceScope": [
+        "Test 1 Q62\u201363, 66, 69\u201370, 74, 78, 81, 84\u201385, 90, 93, 96, 102\u2013103, 108\u2013109, 112; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q61, 66\u201367, 73\u201374, 80, 83, 85, 88, 92, 97, 100, 103, 107, 109, 111\u2013112; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q61, 64, 67\u201368, 71, 73, 78, 81, 83, 86, 90, 94\u201395, 102, 104, 108\u2013109, 111; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-066",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-067",
+      "format": "nongeometric_comparison",
+      "difficulty": 2,
+      "skillBrief": "Evaluate labeled quantities and choose one true relationship; use fractions, decimals, powers, order of operations and signs.",
+      "referenceScope": [
+        "Test 1 Q72\u201373, 77, 86, 89, 95, 99, 104, 110; question PDF pp7\u201311; guide pp5\u20138",
+        "Test 2 Q65, 70, 75, 82, 87, 94, 98, 105; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q63, 74, 76, 85, 88, 96, 98, 103, 110; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-067",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-068",
+      "format": "nongeometric_comparison",
+      "difficulty": 2,
+      "skillBrief": "Evaluate labeled quantities and choose one true relationship; use fractions, decimals, powers, order of operations and signs.",
+      "referenceScope": [
+        "Test 1 Q72\u201373, 77, 86, 89, 95, 99, 104, 110; question PDF pp7\u201311; guide pp5\u20138",
+        "Test 2 Q65, 70, 75, 82, 87, 94, 98, 105; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q63, 74, 76, 85, 88, 96, 98, 103, 110; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-068",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-069",
+      "format": "nongeometric_comparison",
+      "difficulty": 2,
+      "skillBrief": "Evaluate labeled quantities and choose one true relationship; use fractions, decimals, powers, order of operations and signs.",
+      "referenceScope": [
+        "Test 1 Q72\u201373, 77, 86, 89, 95, 99, 104, 110; question PDF pp7\u201311; guide pp5\u20138",
+        "Test 2 Q65, 70, 75, 82, 87, 94, 98, 105; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q63, 74, 76, 85, 88, 96, 98, 103, 110; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-069",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-070",
+      "format": "nongeometric_comparison",
+      "difficulty": 2,
+      "skillBrief": "Evaluate labeled quantities and choose one true relationship; use fractions, decimals, powers, order of operations and signs.",
+      "referenceScope": [
+        "Test 1 Q72\u201373, 77, 86, 89, 95, 99, 104, 110; question PDF pp7\u201311; guide pp5\u20138",
+        "Test 2 Q65, 70, 75, 82, 87, 94, 98, 105; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q63, 74, 76, 85, 88, 96, 98, 103, 110; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-070",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-071",
+      "format": "nongeometric_comparison",
+      "difficulty": 2,
+      "skillBrief": "Evaluate labeled quantities and choose one true relationship; use fractions, decimals, powers, order of operations and signs.",
+      "referenceScope": [
+        "Test 1 Q72\u201373, 77, 86, 89, 95, 99, 104, 110; question PDF pp7\u201311; guide pp5\u20138",
+        "Test 2 Q65, 70, 75, 82, 87, 94, 98, 105; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q63, 74, 76, 85, 88, 96, 98, 103, 110; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-071",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-072",
+      "format": "nongeometric_comparison",
+      "difficulty": 2,
+      "skillBrief": "Evaluate labeled quantities and choose one true relationship; use fractions, decimals, powers, order of operations and signs.",
+      "referenceScope": [
+        "Test 1 Q72\u201373, 77, 86, 89, 95, 99, 104, 110; question PDF pp7\u201311; guide pp5\u20138",
+        "Test 2 Q65, 70, 75, 82, 87, 94, 98, 105; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q63, 74, 76, 85, 88, 96, 98, 103, 110; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-072",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-073",
+      "format": "nongeometric_comparison",
+      "difficulty": 2,
+      "skillBrief": "Evaluate labeled quantities and choose one true relationship; use fractions, decimals, powers, order of operations and signs.",
+      "referenceScope": [
+        "Test 1 Q72\u201373, 77, 86, 89, 95, 99, 104, 110; question PDF pp7\u201311; guide pp5\u20138",
+        "Test 2 Q65, 70, 75, 82, 87, 94, 98, 105; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q63, 74, 76, 85, 88, 96, 98, 103, 110; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-073",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-074",
+      "format": "nongeometric_comparison",
+      "difficulty": 2,
+      "skillBrief": "Evaluate labeled quantities and choose one true relationship; use fractions, decimals, powers, order of operations and signs.",
+      "referenceScope": [
+        "Test 1 Q72\u201373, 77, 86, 89, 95, 99, 104, 110; question PDF pp7\u201311; guide pp5\u20138",
+        "Test 2 Q65, 70, 75, 82, 87, 94, 98, 105; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q63, 74, 76, 85, 88, 96, 98, 103, 110; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-074",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-075",
+      "format": "nongeometric_comparison",
+      "difficulty": 2,
+      "skillBrief": "Evaluate labeled quantities and choose one true relationship; use fractions, decimals, powers, order of operations and signs.",
+      "referenceScope": [
+        "Test 1 Q72\u201373, 77, 86, 89, 95, 99, 104, 110; question PDF pp7\u201311; guide pp5\u20138",
+        "Test 2 Q65, 70, 75, 82, 87, 94, 98, 105; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q63, 74, 76, 85, 88, 96, 98, 103, 110; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-075",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-076",
+      "format": "nongeometric_comparison",
+      "difficulty": 2,
+      "skillBrief": "Evaluate labeled quantities and choose one true relationship; use fractions, decimals, powers, order of operations and signs.",
+      "referenceScope": [
+        "Test 1 Q72\u201373, 77, 86, 89, 95, 99, 104, 110; question PDF pp7\u201311; guide pp5\u20138",
+        "Test 2 Q65, 70, 75, 82, 87, 94, 98, 105; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q63, 74, 76, 85, 88, 96, 98, 103, 110; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-076",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-077",
+      "format": "nongeometric_comparison",
+      "difficulty": 2,
+      "skillBrief": "Evaluate labeled quantities and choose one true relationship; use fractions, decimals, powers, order of operations and signs.",
+      "referenceScope": [
+        "Test 1 Q72\u201373, 77, 86, 89, 95, 99, 104, 110; question PDF pp7\u201311; guide pp5\u20138",
+        "Test 2 Q65, 70, 75, 82, 87, 94, 98, 105; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q63, 74, 76, 85, 88, 96, 98, 103, 110; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-077",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-078",
+      "format": "nongeometric_comparison",
+      "difficulty": 3,
+      "skillBrief": "Evaluate labeled quantities and choose one true relationship; use fractions, decimals, powers, order of operations and signs.",
+      "referenceScope": [
+        "Test 1 Q72\u201373, 77, 86, 89, 95, 99, 104, 110; question PDF pp7\u201311; guide pp5\u20138",
+        "Test 2 Q65, 70, 75, 82, 87, 94, 98, 105; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q63, 74, 76, 85, 88, 96, 98, 103, 110; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-078",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-079",
+      "format": "nongeometric_comparison",
+      "difficulty": 3,
+      "skillBrief": "Evaluate labeled quantities and choose one true relationship; use fractions, decimals, powers, order of operations and signs.",
+      "referenceScope": [
+        "Test 1 Q72\u201373, 77, 86, 89, 95, 99, 104, 110; question PDF pp7\u201311; guide pp5\u20138",
+        "Test 2 Q65, 70, 75, 82, 87, 94, 98, 105; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q63, 74, 76, 85, 88, 96, 98, 103, 110; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-079",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-080",
+      "format": "nongeometric_comparison",
+      "difficulty": 1,
+      "skillBrief": "Evaluate labeled quantities and choose one true relationship; use fractions, decimals, powers, order of operations and signs.",
+      "referenceScope": [
+        "Test 1 Q72\u201373, 77, 86, 89, 95, 99, 104, 110; question PDF pp7\u201311; guide pp5\u20138",
+        "Test 2 Q65, 70, 75, 82, 87, 94, 98, 105; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q63, 74, 76, 85, 88, 96, 98, 103, 110; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-080",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-081",
+      "format": "nongeometric_comparison",
+      "difficulty": 2,
+      "skillBrief": "Evaluate labeled quantities and choose one true relationship; use fractions, decimals, powers, order of operations and signs.",
+      "referenceScope": [
+        "Test 1 Q72\u201373, 77, 86, 89, 95, 99, 104, 110; question PDF pp7\u201311; guide pp5\u20138",
+        "Test 2 Q65, 70, 75, 82, 87, 94, 98, 105; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q63, 74, 76, 85, 88, 96, 98, 103, 110; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-081",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-082",
+      "format": "nongeometric_comparison",
+      "difficulty": 2,
+      "skillBrief": "Evaluate labeled quantities and choose one true relationship; use fractions, decimals, powers, order of operations and signs.",
+      "referenceScope": [
+        "Test 1 Q72\u201373, 77, 86, 89, 95, 99, 104, 110; question PDF pp7\u201311; guide pp5\u20138",
+        "Test 2 Q65, 70, 75, 82, 87, 94, 98, 105; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q63, 74, 76, 85, 88, 96, 98, 103, 110; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-082",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-083",
+      "format": "nongeometric_comparison",
+      "difficulty": 2,
+      "skillBrief": "Evaluate labeled quantities and choose one true relationship; use fractions, decimals, powers, order of operations and signs.",
+      "referenceScope": [
+        "Test 1 Q72\u201373, 77, 86, 89, 95, 99, 104, 110; question PDF pp7\u201311; guide pp5\u20138",
+        "Test 2 Q65, 70, 75, 82, 87, 94, 98, 105; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q63, 74, 76, 85, 88, 96, 98, 103, 110; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-083",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-084",
+      "format": "nongeometric_comparison",
+      "difficulty": 3,
+      "skillBrief": "Evaluate labeled quantities and choose one true relationship; use fractions, decimals, powers, order of operations and signs.",
+      "referenceScope": [
+        "Test 1 Q72\u201373, 77, 86, 89, 95, 99, 104, 110; question PDF pp7\u201311; guide pp5\u20138",
+        "Test 2 Q65, 70, 75, 82, 87, 94, 98, 105; question PDF pp6\u201310; guide pp3\u20136",
+        "Test 3 Q63, 74, 76, 85, 88, 96, 98, 103, 110; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-084",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "not applicable"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-085",
+      "format": "geometric_comparison",
+      "difficulty": 2,
+      "skillBrief": "Read original equal-cell grids, scaled bars, dimensioned rectangles or marked angles. These are editorial extensions of visual reasoning, not reproductions of the reference geometry.",
+      "referenceScope": [
+        "Test 1 Q64, 67, 79, 82, 92, 98, 106, 111; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q64, 68, 77\u201378, 84, 91, 96, 102, 110; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q66, 72, 79, 82, 92, 99, 106, 112; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-085",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "new programmatic geometry, labels and shading"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-086",
+      "format": "geometric_comparison",
+      "difficulty": 2,
+      "skillBrief": "Read original equal-cell grids, scaled bars, dimensioned rectangles or marked angles. These are editorial extensions of visual reasoning, not reproductions of the reference geometry.",
+      "referenceScope": [
+        "Test 1 Q64, 67, 79, 82, 92, 98, 106, 111; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q64, 68, 77\u201378, 84, 91, 96, 102, 110; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q66, 72, 79, 82, 92, 99, 106, 112; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-086",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "new programmatic geometry, labels and shading"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-087",
+      "format": "geometric_comparison",
+      "difficulty": 3,
+      "skillBrief": "Read original equal-cell grids, scaled bars, dimensioned rectangles or marked angles. These are editorial extensions of visual reasoning, not reproductions of the reference geometry.",
+      "referenceScope": [
+        "Test 1 Q64, 67, 79, 82, 92, 98, 106, 111; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q64, 68, 77\u201378, 84, 91, 96, 102, 110; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q66, 72, 79, 82, 92, 99, 106, 112; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-087",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "new programmatic geometry, labels and shading"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-088",
+      "format": "geometric_comparison",
+      "difficulty": 1,
+      "skillBrief": "Read original equal-cell grids, scaled bars, dimensioned rectangles or marked angles. These are editorial extensions of visual reasoning, not reproductions of the reference geometry.",
+      "referenceScope": [
+        "Test 1 Q64, 67, 79, 82, 92, 98, 106, 111; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q64, 68, 77\u201378, 84, 91, 96, 102, 110; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q66, 72, 79, 82, 92, 99, 106, 112; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-088",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "new programmatic geometry, labels and shading"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-089",
+      "format": "geometric_comparison",
+      "difficulty": 2,
+      "skillBrief": "Read original equal-cell grids, scaled bars, dimensioned rectangles or marked angles. These are editorial extensions of visual reasoning, not reproductions of the reference geometry.",
+      "referenceScope": [
+        "Test 1 Q64, 67, 79, 82, 92, 98, 106, 111; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q64, 68, 77\u201378, 84, 91, 96, 102, 110; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q66, 72, 79, 82, 92, 99, 106, 112; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-089",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "new programmatic geometry, labels and shading"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-090",
+      "format": "geometric_comparison",
+      "difficulty": 2,
+      "skillBrief": "Read original equal-cell grids, scaled bars, dimensioned rectangles or marked angles. These are editorial extensions of visual reasoning, not reproductions of the reference geometry.",
+      "referenceScope": [
+        "Test 1 Q64, 67, 79, 82, 92, 98, 106, 111; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q64, 68, 77\u201378, 84, 91, 96, 102, 110; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q66, 72, 79, 82, 92, 99, 106, 112; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-090",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "new programmatic geometry, labels and shading"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-091",
+      "format": "geometric_comparison",
+      "difficulty": 2,
+      "skillBrief": "Read original equal-cell grids, scaled bars, dimensioned rectangles or marked angles. These are editorial extensions of visual reasoning, not reproductions of the reference geometry.",
+      "referenceScope": [
+        "Test 1 Q64, 67, 79, 82, 92, 98, 106, 111; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q64, 68, 77\u201378, 84, 91, 96, 102, 110; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q66, 72, 79, 82, 92, 99, 106, 112; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-091",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "new programmatic geometry, labels and shading"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-092",
+      "format": "geometric_comparison",
+      "difficulty": 3,
+      "skillBrief": "Read original equal-cell grids, scaled bars, dimensioned rectangles or marked angles. These are editorial extensions of visual reasoning, not reproductions of the reference geometry.",
+      "referenceScope": [
+        "Test 1 Q64, 67, 79, 82, 92, 98, 106, 111; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q64, 68, 77\u201378, 84, 91, 96, 102, 110; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q66, 72, 79, 82, 92, 99, 106, 112; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-092",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "new programmatic geometry, labels and shading"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-093",
+      "format": "geometric_comparison",
+      "difficulty": 2,
+      "skillBrief": "Read original equal-cell grids, scaled bars, dimensioned rectangles or marked angles. These are editorial extensions of visual reasoning, not reproductions of the reference geometry.",
+      "referenceScope": [
+        "Test 1 Q64, 67, 79, 82, 92, 98, 106, 111; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q64, 68, 77\u201378, 84, 91, 96, 102, 110; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q66, 72, 79, 82, 92, 99, 106, 112; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-093",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "new programmatic geometry, labels and shading"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-094",
+      "format": "geometric_comparison",
+      "difficulty": 2,
+      "skillBrief": "Read original equal-cell grids, scaled bars, dimensioned rectangles or marked angles. These are editorial extensions of visual reasoning, not reproductions of the reference geometry.",
+      "referenceScope": [
+        "Test 1 Q64, 67, 79, 82, 92, 98, 106, 111; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q64, 68, 77\u201378, 84, 91, 96, 102, 110; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q66, 72, 79, 82, 92, 99, 106, 112; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-094",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "new programmatic geometry, labels and shading"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-095",
+      "format": "geometric_comparison",
+      "difficulty": 2,
+      "skillBrief": "Read original equal-cell grids, scaled bars, dimensioned rectangles or marked angles. These are editorial extensions of visual reasoning, not reproductions of the reference geometry.",
+      "referenceScope": [
+        "Test 1 Q64, 67, 79, 82, 92, 98, 106, 111; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q64, 68, 77\u201378, 84, 91, 96, 102, 110; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q66, 72, 79, 82, 92, 99, 106, 112; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-095",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "new programmatic geometry, labels and shading"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-096",
+      "format": "geometric_comparison",
+      "difficulty": 2,
+      "skillBrief": "Read original equal-cell grids, scaled bars, dimensioned rectangles or marked angles. These are editorial extensions of visual reasoning, not reproductions of the reference geometry.",
+      "referenceScope": [
+        "Test 1 Q64, 67, 79, 82, 92, 98, 106, 111; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q64, 68, 77\u201378, 84, 91, 96, 102, 110; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q66, 72, 79, 82, 92, 99, 106, 112; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-096",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "new programmatic geometry, labels and shading"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-097",
+      "format": "geometric_comparison",
+      "difficulty": 1,
+      "skillBrief": "Read original equal-cell grids, scaled bars, dimensioned rectangles or marked angles. These are editorial extensions of visual reasoning, not reproductions of the reference geometry.",
+      "referenceScope": [
+        "Test 1 Q64, 67, 79, 82, 92, 98, 106, 111; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q64, 68, 77\u201378, 84, 91, 96, 102, 110; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q66, 72, 79, 82, 92, 99, 106, 112; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-097",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "new programmatic geometry, labels and shading"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-098",
+      "format": "geometric_comparison",
+      "difficulty": 1,
+      "skillBrief": "Read original equal-cell grids, scaled bars, dimensioned rectangles or marked angles. These are editorial extensions of visual reasoning, not reproductions of the reference geometry.",
+      "referenceScope": [
+        "Test 1 Q64, 67, 79, 82, 92, 98, 106, 111; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q64, 68, 77\u201378, 84, 91, 96, 102, 110; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q66, 72, 79, 82, 92, 99, 106, 112; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-098",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "new programmatic geometry, labels and shading"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-099",
+      "format": "geometric_comparison",
+      "difficulty": 2,
+      "skillBrief": "Read original equal-cell grids, scaled bars, dimensioned rectangles or marked angles. These are editorial extensions of visual reasoning, not reproductions of the reference geometry.",
+      "referenceScope": [
+        "Test 1 Q64, 67, 79, 82, 92, 98, 106, 111; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q64, 68, 77\u201378, 84, 91, 96, 102, 110; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q66, 72, 79, 82, 92, 99, 106, 112; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-099",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "new programmatic geometry, labels and shading"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    },
+    {
+      "id": "gb2-100",
+      "format": "geometric_comparison",
+      "difficulty": 3,
+      "skillBrief": "Read original equal-cell grids, scaled bars, dimensioned rectangles or marked angles. These are editorial extensions of visual reasoning, not reproductions of the reference geometry.",
+      "referenceScope": [
+        "Test 1 Q64, 67, 79, 82, 92, 98, 106, 111; question PDF pp6\u201311; guide pp5\u20138",
+        "Test 2 Q64, 68, 77\u201378, 84, 91, 96, 102, 110; question PDF pp6\u201311; guide pp3\u20136",
+        "Test 3 Q66, 72, 79, 82, 92, 99, 106, 112; question PDF pp6\u201311; guide pp5\u20138"
+      ],
+      "priorBank": {
+        "id": "gb2-100",
+        "priorId": null,
+        "action": "new original item"
+      },
+      "novelty": {
+        "method": "agent-assisted comparison with all three quantitative source sections and existing 100; arithmetic similarities are not automatically substantive matches",
+        "finding": "no additional substantive match identified; common skill/format overlap retained",
+        "visual": "new programmatic geometry, labels and shading"
+      },
+      "editorialCheck": "stem, key, worked explanation and tip reviewed; difficulty provisional",
+      "sequenceCheck": "not applicable"
+    }
+  ]
+}

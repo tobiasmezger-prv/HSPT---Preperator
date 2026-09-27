@@ -1,0 +1,973 @@
+{
+  "gb2-001": {
+    "kind": "series",
+    "terms": [
+      "7",
+      "12",
+      "17",
+      "22"
+    ],
+    "rule": "cycle",
+    "params": [
+      5
+    ]
+  },
+  "gb2-002": {
+    "kind": "series",
+    "terms": [
+      "2",
+      "5",
+      "9",
+      "14",
+      "20"
+    ],
+    "rule": "gaps",
+    "params": [
+      3,
+      1
+    ]
+  },
+  "gb2-003": {
+    "kind": "series",
+    "terms": [
+      9,
+      27,
+      26,
+      78,
+      77
+    ],
+    "rule": "op_cycle",
+    "params": [
+      [
+        "mul",
+        3
+      ],
+      [
+        "add",
+        -1
+      ]
+    ],
+    "output": 2
+  },
+  "gb2-004": {
+    "kind": "series",
+    "terms": [
+      "160",
+      "80",
+      "40",
+      "20"
+    ],
+    "rule": "multiply",
+    "params": "1/2"
+  },
+  "gb2-005": {
+    "kind": "series",
+    "terms": [
+      "53",
+      "46",
+      "39",
+      "32"
+    ],
+    "rule": "cycle",
+    "params": [
+      -7
+    ]
+  },
+  "gb2-006": {
+    "kind": "series",
+    "terms": [
+      "1.2",
+      "1.6",
+      "2.0",
+      "2.4"
+    ],
+    "rule": "cycle",
+    "params": [
+      "2/5"
+    ]
+  },
+  "gb2-007": {
+    "kind": "series",
+    "terms": [
+      "4",
+      "6",
+      "10",
+      "16",
+      "24"
+    ],
+    "rule": "gaps",
+    "params": [
+      2,
+      2
+    ]
+  },
+  "gb2-008": {
+    "kind": "series",
+    "terms": [
+      "60",
+      "49",
+      "39",
+      "30",
+      "22"
+    ],
+    "rule": "gaps",
+    "params": [
+      -11,
+      1
+    ]
+  },
+  "gb2-009": {
+    "kind": "series",
+    "terms": [
+      "8",
+      "11",
+      "16",
+      "19",
+      "24"
+    ],
+    "rule": "cycle",
+    "params": [
+      3,
+      5
+    ]
+  },
+  "gb2-010": {
+    "kind": "series",
+    "terms": [
+      "2",
+      "20",
+      "5",
+      "18",
+      "8",
+      "16"
+    ],
+    "rule": "branches",
+    "params": [
+      3,
+      -2
+    ]
+  },
+  "gb2-011": {
+    "kind": "series",
+    "terms": [
+      "1/4",
+      "3/4",
+      "5/4",
+      "7/4"
+    ],
+    "rule": "cycle",
+    "params": [
+      "1/2"
+    ]
+  },
+  "gb2-012": {
+    "kind": "series",
+    "terms": [
+      "14",
+      "23",
+      null,
+      "41",
+      "50"
+    ],
+    "rule": "cycle",
+    "params": [
+      9
+    ]
+  },
+  "gb2-013": {
+    "kind": "series",
+    "terms": [
+      "5",
+      "8",
+      "13",
+      "20",
+      "29"
+    ],
+    "rule": "gaps",
+    "params": [
+      3,
+      2
+    ]
+  },
+  "gb2-014": {
+    "kind": "series",
+    "terms": [
+      "50",
+      "48",
+      "44",
+      "38",
+      "30"
+    ],
+    "rule": "gaps",
+    "params": [
+      -2,
+      -2
+    ]
+  },
+  "gb2-015": {
+    "kind": "series",
+    "terms": [
+      "12",
+      "19",
+      "15",
+      "22",
+      "18"
+    ],
+    "rule": "cycle",
+    "params": [
+      7,
+      -4
+    ]
+  },
+  "gb2-016": {
+    "kind": "series",
+    "terms": [
+      "2",
+      "3",
+      "5",
+      "8",
+      "13"
+    ],
+    "rule": "sum_previous",
+    "params": []
+  },
+  "gb2-017": {
+    "kind": "series",
+    "terms": [
+      3,
+      7,
+      11,
+      18,
+      25,
+      null,
+      45
+    ],
+    "rule": "paired_gaps",
+    "params": [
+      4,
+      3
+    ]
+  },
+  "gb2-018": {
+    "kind": "series",
+    "terms": [
+      "3",
+      "12",
+      "20",
+      "27",
+      "33"
+    ],
+    "rule": "gaps",
+    "params": [
+      9,
+      -1
+    ]
+  },
+  "gb2-019": {
+    "kind": "series",
+    "terms": [
+      "-11",
+      "-6",
+      "-1",
+      "4"
+    ],
+    "rule": "cycle",
+    "params": [
+      5
+    ]
+  },
+  "gb2-020": {
+    "kind": "series",
+    "terms": [
+      "4",
+      "6",
+      "9",
+      "13",
+      "15",
+      "18"
+    ],
+    "rule": "cycle",
+    "params": [
+      2,
+      3,
+      4
+    ]
+  },
+  "gb2-021": {
+    "kind": "series",
+    "terms": [
+      "2",
+      "6",
+      "18",
+      "54"
+    ],
+    "rule": "multiply",
+    "params": 3
+  },
+  "gb2-022": {
+    "kind": "series",
+    "terms": [
+      "405",
+      "135",
+      "45",
+      "15"
+    ],
+    "rule": "multiply",
+    "params": "1/3"
+  },
+  "gb2-023": {
+    "kind": "series",
+    "terms": [
+      "2",
+      "5",
+      "11",
+      "23"
+    ],
+    "rule": "affine",
+    "params": [
+      2,
+      1
+    ]
+  },
+  "gb2-024": {
+    "kind": "series",
+    "terms": [
+      "4",
+      "11",
+      "32",
+      "95"
+    ],
+    "rule": "affine",
+    "params": [
+      3,
+      -1
+    ]
+  },
+  "gb2-025": {
+    "kind": "series",
+    "terms": [
+      "6",
+      "3",
+      "1.5",
+      "0.75"
+    ],
+    "rule": "multiply",
+    "params": "1/2"
+  },
+  "gb2-026": {
+    "kind": "series",
+    "terms": [
+      "1",
+      "2",
+      "6",
+      "12",
+      "36"
+    ],
+    "rule": "multiply_cycle",
+    "params": [
+      2,
+      3
+    ]
+  },
+  "gb2-027": {
+    "kind": "series",
+    "terms": [
+      "1",
+      "2",
+      "6",
+      "24",
+      "120"
+    ],
+    "rule": "rising_multiply",
+    "params": 2
+  },
+  "gb2-028": {
+    "kind": "series",
+    "terms": [
+      "0.07",
+      "0.7",
+      "7",
+      "70"
+    ],
+    "rule": "multiply",
+    "params": 10
+  },
+  "gb2-029": {
+    "kind": "series",
+    "terms": [
+      "7",
+      "28",
+      null,
+      "448"
+    ],
+    "rule": "multiply",
+    "params": 4
+  },
+  "gb2-030": {
+    "kind": "series",
+    "terms": [
+      96,
+      5,
+      48,
+      7,
+      24,
+      9
+    ],
+    "rule": "mixed_branches",
+    "params": [
+      "1/2",
+      2
+    ],
+    "output": 2
+  },
+  "gb2-031": {
+    "kind": "series",
+    "terms": [
+      "8",
+      "12",
+      "18",
+      "27"
+    ],
+    "rule": "multiply",
+    "params": "3/2"
+  },
+  "gb2-032": {
+    "kind": "alphanumeric",
+    "terms": [
+      "M1",
+      "K4",
+      "I9"
+    ],
+    "letterStep": -2,
+    "numberRule": "squares"
+  },
+  "gb2-033": {
+    "kind": "series",
+    "terms": [
+      2,
+      9,
+      28,
+      65,
+      126
+    ],
+    "rule": "cube_plus_one",
+    "params": []
+  },
+  "gb2-034": {
+    "kind": "series",
+    "terms": [
+      "2",
+      "3",
+      "4",
+      "9",
+      "8",
+      "27"
+    ],
+    "rule": "multiply_branches",
+    "params": [
+      2,
+      3
+    ]
+  },
+  "gb2-035": {
+    "kind": "numeric",
+    "expression": "84/4"
+  },
+  "gb2-036": {
+    "kind": "numeric",
+    "expression": "(35-9)/2"
+  },
+  "gb2-037": {
+    "kind": "numeric",
+    "expression": "350/10"
+  },
+  "gb2-038": {
+    "kind": "numeric",
+    "expression": "80*15/100"
+  },
+  "gb2-039": {
+    "kind": "numeric",
+    "expression": "18/(30/100)"
+  },
+  "gb2-040": {
+    "kind": "numeric",
+    "expression": "40*(1-20/100)"
+  },
+  "gb2-041": {
+    "kind": "numeric",
+    "expression": "35*3/5"
+  },
+  "gb2-042": {
+    "kind": "numeric",
+    "expression": "15*3-12-16"
+  },
+  "gb2-043": {
+    "kind": "numeric",
+    "expression": "7+3*8"
+  },
+  "gb2-044": {
+    "kind": "numeric",
+    "expression": "19*6"
+  },
+  "gb2-045": {
+    "kind": "numeric",
+    "expression": "64*3/8"
+  },
+  "gb2-046": {
+    "kind": "numeric",
+    "expression": "15/5*8"
+  },
+  "gb2-047": {
+    "kind": "numeric",
+    "expression": "72/3+1"
+  },
+  "gb2-048": {
+    "kind": "numeric",
+    "expression": "157%6"
+  },
+  "gb2-049": {
+    "kind": "numeric",
+    "expression": "52/4"
+  },
+  "gb2-050": {
+    "kind": "numeric",
+    "expression": "(46+8)/2"
+  },
+  "gb2-051": {
+    "kind": "numeric",
+    "expression": "(50-40)/40"
+  },
+  "gb2-052": {
+    "kind": "numeric",
+    "expression": "3/4/2"
+  },
+  "gb2-053": {
+    "kind": "numeric",
+    "expression": "(72-72/3)/4"
+  },
+  "gb2-054": {
+    "kind": "numeric",
+    "expression": "18+4*5-3*2"
+  },
+  "gb2-055": {
+    "kind": "numeric",
+    "expression": "60*9/10-6"
+  },
+  "gb2-056": {
+    "kind": "numeric",
+    "expression": "3*16-2*14"
+  },
+  "gb2-057": {
+    "kind": "numeric",
+    "expression": "20-12"
+  },
+  "gb2-058": {
+    "kind": "numeric",
+    "expression": "11*3-6"
+  },
+  "gb2-059": {
+    "kind": "numeric",
+    "expression": "2*100-5*30"
+  },
+  "gb2-060": {
+    "kind": "numeric",
+    "expression": "9**2-7**2"
+  },
+  "gb2-061": {
+    "kind": "numeric",
+    "expression": "3/4-5/12"
+  },
+  "gb2-062": {
+    "kind": "numeric",
+    "expression": "(35+7)//8"
+  },
+  "gb2-063": {
+    "kind": "numeric",
+    "expression": "42/(3/2)"
+  },
+  "gb2-064": {
+    "kind": "numeric",
+    "expression": "54/6*4+7"
+  },
+  "gb2-065": {
+    "kind": "numeric",
+    "expression": "87/3-2"
+  },
+  "gb2-066": {
+    "kind": "numeric",
+    "expression": "(25-4)/3"
+  },
+  "gb2-067": {
+    "kind": "relations",
+    "values": {
+      "P": "3/8*80",
+      "Q": "35/100*80",
+      "R": "3/10*100"
+    },
+    "predicates": [
+      "P==Q",
+      "Q>R",
+      "P==R and R>Q",
+      "P<Q and Q<R"
+    ]
+  },
+  "gb2-068": {
+    "kind": "relations",
+    "values": {
+      "P": "-3*4",
+      "Q": "5-14",
+      "R": "-2*5"
+    },
+    "predicates": [
+      "P==R",
+      "P>Q and Q>R",
+      "Q>R and R>P",
+      "R>P and P>Q"
+    ]
+  },
+  "gb2-069": {
+    "kind": "relations",
+    "values": {
+      "P": "4*(9-2)",
+      "Q": "4*9-2",
+      "R": "4*9-4*2"
+    },
+    "predicates": [
+      "P==Q and Q==R",
+      "P==R and R<Q",
+      "P>R",
+      "Q<R"
+    ]
+  },
+  "gb2-070": {
+    "kind": "relations",
+    "values": {
+      "P": "11/12",
+      "Q": "7/8",
+      "R": "5/6"
+    },
+    "predicates": [
+      "P>Q and Q>R",
+      "Q>P and P>R",
+      "R>Q and Q>P",
+      "P==Q"
+    ]
+  },
+  "gb2-071": {
+    "kind": "relations",
+    "values": {
+      "P": "7/20",
+      "Q": "305/1000",
+      "R": "33/100"
+    },
+    "predicates": [
+      "P>R and R>Q",
+      "P==R",
+      "Q>P",
+      "P<R"
+    ]
+  },
+  "gb2-072": {
+    "kind": "relations",
+    "values": {
+      "P": "2**3",
+      "Q": "3**2",
+      "R": "4**2"
+    },
+    "predicates": [
+      "P>Q",
+      "R<Q",
+      "P+Q==R",
+      "P+Q>R"
+    ]
+  },
+  "gb2-073": {
+    "kind": "relations",
+    "values": {
+      "P": "60/100*45",
+      "Q": "40/100*45",
+      "R": "9"
+    },
+    "predicates": [
+      "P+R==Q",
+      "Q==R",
+      "P==Q",
+      "P-Q==R"
+    ]
+  },
+  "gb2-074": {
+    "kind": "relations",
+    "values": {
+      "P": "1/(1/4)",
+      "Q": "1/(1/2)",
+      "R": "1/2"
+    },
+    "predicates": [
+      "P>Q and Q>R",
+      "R>P",
+      "P<Q and Q<R",
+      "P==Q"
+    ]
+  },
+  "gb2-075": {
+    "kind": "relations",
+    "values": {
+      "P": "(8+20)/2",
+      "Q": "(11+17)/2",
+      "R": "15"
+    },
+    "predicates": [
+      "P==R",
+      "P<Q",
+      "P==Q and Q<R",
+      "Q>R"
+    ]
+  },
+  "gb2-076": {
+    "kind": "relations",
+    "values": {
+      "P": "3/5*50",
+      "Q": "3/5*45",
+      "R": "2/3*45"
+    },
+    "predicates": [
+      "P==Q",
+      "P==R and R>Q",
+      "Q>R",
+      "P<R"
+    ]
+  },
+  "gb2-077": {
+    "kind": "relations",
+    "values": {
+      "P": "8/10*6/10",
+      "Q": "8/10+6/10",
+      "R": "8/10-6/10"
+    },
+    "predicates": [
+      "P==R",
+      "P>Q",
+      "R>P",
+      "Q>P and P>R"
+    ]
+  },
+  "gb2-078": {
+    "kind": "relations",
+    "values": {
+      "P": "1/2+1/3",
+      "Q": "3/4",
+      "R": "5/6"
+    },
+    "predicates": [
+      "Q==R",
+      "P==R and R>Q",
+      "P<Q",
+      "P>R"
+    ]
+  },
+  "gb2-079": {
+    "kind": "relations",
+    "values": {
+      "P": "(60-50)/50",
+      "Q": "(60-50)/60",
+      "R": "1/5"
+    },
+    "predicates": [
+      "P==Q",
+      "Q>R",
+      "P==R and R>Q",
+      "P<Q"
+    ]
+  },
+  "gb2-080": {
+    "kind": "relations",
+    "values": {
+      "P": "12*7",
+      "Q": "6*14",
+      "R": "3*28"
+    },
+    "predicates": [
+      "Q>R",
+      "P>Q",
+      "R<Q",
+      "P==Q and Q==R"
+    ]
+  },
+  "gb2-081": {
+    "kind": "relations",
+    "values": {
+      "P": "7",
+      "Q": "-7",
+      "R": "3-(-3)"
+    },
+    "predicates": [
+      "P>R and R>Q",
+      "P==Q",
+      "Q>R",
+      "R>P"
+    ]
+  },
+  "gb2-082": {
+    "kind": "relations",
+    "values": {
+      "P": "15**2",
+      "Q": "14*16",
+      "R": "13*17"
+    },
+    "predicates": [
+      "R>Q and Q>P",
+      "P==Q",
+      "Q<R",
+      "P>Q and Q>R"
+    ]
+  },
+  "gb2-083": {
+    "kind": "relations",
+    "values": {
+      "P": "(30-12)/2",
+      "Q": "30/2-12",
+      "R": "3"
+    },
+    "predicates": [
+      "P>Q and Q==R",
+      "P<R",
+      "Q>R",
+      "P==Q"
+    ]
+  },
+  "gb2-084": {
+    "kind": "relations",
+    "values": {
+      "P": "-2/3",
+      "Q": "-3/4",
+      "R": "-5/8"
+    },
+    "predicates": [
+      "P==Q",
+      "Q>P and P>R",
+      "P>R and R>Q",
+      "R>P and P>Q"
+    ]
+  },
+  "gb2-085": {
+    "kind": "relations",
+    "values": {
+      "P": "3/10",
+      "Q": "5/12",
+      "R": "2/6"
+    },
+    "predicates": [
+      "P==R",
+      "R>Q",
+      "P<R and R<Q",
+      "Q<P and P<R"
+    ],
+    "visualCheck": "fractions"
+  },
+  "gb2-086": {
+    "kind": "numeric",
+    "expression": "15*2/3-6",
+    "visualCheck": "target"
+  },
+  "gb2-087": {
+    "kind": "numeric",
+    "expression": "(3+5)/(12+12)",
+    "visualCheck": "combined"
+  },
+  "gb2-088": {
+    "kind": "numeric",
+    "expression": "(6-2)/16",
+    "visualCheck": "erase"
+  },
+  "gb2-089": {
+    "kind": "relations",
+    "values": {
+      "K": "6",
+      "L": "10",
+      "M": "8"
+    },
+    "predicates": [
+      "K==M",
+      "K+M>L",
+      "L<K",
+      "K+M<L"
+    ],
+    "visualCheck": "bars"
+  },
+  "gb2-090": {
+    "kind": "numeric",
+    "expression": "30-(5+9+7+3)",
+    "visualCheck": "barTotal"
+  },
+  "gb2-091": {
+    "kind": "numeric",
+    "expression": "10-(4+10+10)/3",
+    "visualCheck": "barMean"
+  },
+  "gb2-092": {
+    "kind": "relations",
+    "values": {
+      "P": "8",
+      "Q": "12-2",
+      "R": "4+2"
+    },
+    "predicates": [
+      "P>Q and Q>R",
+      "Q>P and P>R",
+      "Q==P",
+      "R>Q"
+    ],
+    "visualCheck": "barTransfer"
+  },
+  "gb2-093": {
+    "kind": "relations",
+    "values": {
+      "PP": "2*(7+3)",
+      "QP": "4*5",
+      "PA": "7*3",
+      "QA": "5*5"
+    },
+    "predicates": [
+      "PA==QA",
+      "QA<PA",
+      "PP>QP",
+      "PP==QP and QA>PA"
+    ],
+    "visualCheck": "rectangles"
+  },
+  "gb2-094": {
+    "kind": "numeric",
+    "expression": "2*(7+3)-2*(6+2)",
+    "visualCheck": "perimeterGap"
+  },
+  "gb2-095": {
+    "kind": "numeric",
+    "expression": "4*3/(8*3)",
+    "visualCheck": "areaRatio"
+  },
+  "gb2-096": {
+    "kind": "numeric",
+    "expression": "6",
+    "visualCheck": "squareSide"
+  },
+  "gb2-097": {
+    "kind": "numeric",
+    "expression": "180-68",
+    "visualCheck": "straight"
+  },
+  "gb2-098": {
+    "kind": "numeric",
+    "expression": "90-34",
+    "visualCheck": "right"
+  },
+  "gb2-099": {
+    "kind": "numeric",
+    "expression": "180-42-65",
+    "visualCheck": "three"
+  },
+  "gb2-100": {
+    "kind": "numeric",
+    "expression": "90/3*2",
+    "visualCheck": "ratio"
+  }
+}

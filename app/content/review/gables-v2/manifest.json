@@ -1,0 +1,197 @@
+{
+  "policy": "gables-v2-sample-policy-1",
+  "bankSha256": "47b86200c6c70a9c0e77aea7f200d0ea09399e59e5fcf1633d5c00afcf7d12f1",
+  "auditSha256": "1efcffbd9cad2147f0f717b4609db3dea7f3c5e71813a680c29634cccfe58d04",
+  "mathSha256": "2d0ff410e3b24992692e342a20e51ab8ef6c2618f0053eb54b9bd6ce3306ff34",
+  "editorialSha256": "5f963a972e2ecff6a45384f84520c6de9fa72a1d2f0646c61f932bee14324f70",
+  "visualSha256": "3948d15cc9efc5d8550a4451fdadb8dab4f19c04a80f33a3e0f12d1b55e8a873",
+  "quotas": {
+    "number_series": 6,
+    "number_manipulation": 6,
+    "nongeometric_comparison": 4,
+    "geometric_comparison": 4
+  },
+  "forced": {
+    "number_series": [
+      "gb2-003",
+      "gb2-017",
+      "gb2-030",
+      "gb2-032"
+    ],
+    "number_manipulation": [
+      "gb2-056",
+      "gb2-062"
+    ],
+    "nongeometric_comparison": [
+      "gb2-079"
+    ],
+    "geometric_comparison": [
+      "gb2-085",
+      "gb2-092",
+      "gb2-093",
+      "gb2-100"
+    ]
+  },
+  "sample": [
+    {
+      "number": 1,
+      "id": "gb2-003",
+      "reason": "Prespecified format/risk coverage",
+      "difficulty": 2,
+      "answerFormat": "numeric_pair",
+      "visual": null
+    },
+    {
+      "number": 2,
+      "id": "gb2-004",
+      "reason": "Foundation difficulty coverage",
+      "difficulty": 1,
+      "answerFormat": "numeric",
+      "visual": null
+    },
+    {
+      "number": 3,
+      "id": "gb2-015",
+      "reason": "Content-hash-seeded selection within format",
+      "difficulty": 2,
+      "answerFormat": "numeric",
+      "visual": null
+    },
+    {
+      "number": 4,
+      "id": "gb2-017",
+      "reason": "Prespecified format/risk coverage",
+      "difficulty": 2,
+      "answerFormat": "numeric",
+      "visual": null
+    },
+    {
+      "number": 5,
+      "id": "gb2-030",
+      "reason": "Prespecified format/risk coverage",
+      "difficulty": 3,
+      "answerFormat": "numeric_pair",
+      "visual": null
+    },
+    {
+      "number": 6,
+      "id": "gb2-032",
+      "reason": "Prespecified format/risk coverage",
+      "difficulty": 3,
+      "answerFormat": "alphanumeric",
+      "visual": null
+    },
+    {
+      "number": 7,
+      "id": "gb2-035",
+      "reason": "Foundation difficulty coverage",
+      "difficulty": 1,
+      "answerFormat": "numeric",
+      "visual": null
+    },
+    {
+      "number": 8,
+      "id": "gb2-048",
+      "reason": "Content-hash-seeded selection within format",
+      "difficulty": 2,
+      "answerFormat": "numeric",
+      "visual": null
+    },
+    {
+      "number": 9,
+      "id": "gb2-051",
+      "reason": "Content-hash-seeded selection within format",
+      "difficulty": 2,
+      "answerFormat": "numeric",
+      "visual": null
+    },
+    {
+      "number": 10,
+      "id": "gb2-055",
+      "reason": "Content-hash-seeded selection within format",
+      "difficulty": 2,
+      "answerFormat": "numeric",
+      "visual": null
+    },
+    {
+      "number": 11,
+      "id": "gb2-056",
+      "reason": "Prespecified format/risk coverage",
+      "difficulty": 3,
+      "answerFormat": "numeric",
+      "visual": null
+    },
+    {
+      "number": 12,
+      "id": "gb2-062",
+      "reason": "Prespecified format/risk coverage",
+      "difficulty": 2,
+      "answerFormat": "numeric",
+      "visual": null
+    },
+    {
+      "number": 13,
+      "id": "gb2-068",
+      "reason": "Content-hash-seeded selection within format",
+      "difficulty": 2,
+      "answerFormat": "relationship",
+      "visual": null
+    },
+    {
+      "number": 14,
+      "id": "gb2-078",
+      "reason": "Content-hash-seeded selection within format",
+      "difficulty": 3,
+      "answerFormat": "relationship",
+      "visual": null
+    },
+    {
+      "number": 15,
+      "id": "gb2-079",
+      "reason": "Prespecified format/risk coverage",
+      "difficulty": 3,
+      "answerFormat": "relationship",
+      "visual": null
+    },
+    {
+      "number": 16,
+      "id": "gb2-080",
+      "reason": "Foundation difficulty coverage",
+      "difficulty": 1,
+      "answerFormat": "relationship",
+      "visual": null
+    },
+    {
+      "number": 17,
+      "id": "gb2-085",
+      "reason": "Prespecified format/risk coverage",
+      "difficulty": 2,
+      "answerFormat": "relationship",
+      "visual": "grids"
+    },
+    {
+      "number": 18,
+      "id": "gb2-092",
+      "reason": "Prespecified format/risk coverage",
+      "difficulty": 3,
+      "answerFormat": "relationship",
+      "visual": "bars"
+    },
+    {
+      "number": 19,
+      "id": "gb2-093",
+      "reason": "Prespecified format/risk coverage",
+      "difficulty": 2,
+      "answerFormat": "relationship",
+      "visual": "rectangles"
+    },
+    {
+      "number": 20,
+      "id": "gb2-100",
+      "reason": "Prespecified format/risk coverage",
+      "difficulty": 3,
+      "answerFormat": "numeric",
+      "visual": "angles"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "integration": "integrated for local testing",
+  "batch": "gables-v2",
+  "bankSha256": "47b86200c6c70a9c0e77aea7f200d0ea09399e59e5fcf1633d5c00afcf7d12f1",
+  "contentEvidence": "passed",
+  "humanSample": "approved",
+  "releaseReady": false,
+  "remainingGates": [
+    "Browser and iPad rendering verification"
+  ],
+  "note": "This gate never certifies app integration or deploys. Unsampled items are not individually human-approved."
+}

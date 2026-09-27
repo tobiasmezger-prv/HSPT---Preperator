@@ -1,0 +1,1725 @@
+{
+  "bankHash": "8ba665df7096f4f71737e661932126046a1deb4c2aed3fbd4e2349f67a878c0d",
+  "auditVersion": "public-example-calibration-v1",
+  "sources": {
+    "STS": {
+      "url": "https://www.ststesting.com/hp_int_sts.pdf",
+      "locator": "PDF page 5 / printed page 1, Description of the Subtests",
+      "role": "Official category definition; no public item difficulty calibration"
+    },
+    "TM": {
+      "url": "https://www.testingmom.com/tests/high-school-placement-test-hspt-overview/hspt-practice-questions-by-subtest/hspt-quantitative-skills-practice-questions/",
+      "locator": "Public Quantitative sample items 1–4",
+      "role": "Third-party original examples; not released current exam questions"
+    },
+    "TV": {
+      "url": "https://thetutorverse.com/hspt/",
+      "locator": "Quantitative Comparison, Number Series, and Word Problem sample headings",
+      "role": "Third-party original examples; note duplicated Roman numeral in webpage comparison stem"
+    }
+  },
+  "scope": "Format and editorial demand comparison of all 100 items; not comparison to secure current exam items or empirical difficulty equating.",
+  "examSimulationReady": false,
+  "items": [
+    {
+      "id": "dev-01",
+      "questionHash": "d84f990dabe78fab8298457fd3dfa3fac7c974d3e45ca3052821dbb558c1ef82",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 1,
+      "recommendedDifficulty": 1,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "dev-02",
+      "questionHash": "2fd8842f3ab077ff5675faf62d18eff9a0aad2154e9f8be92d67878bc7eaf5a1",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "dev-03",
+      "questionHash": "48c209fb58741df695f4ffe94d141555bb6b7b42096f9a4eae98e5459cd38b71",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 1,
+      "recommendedDifficulty": 1,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "dev-04",
+      "questionHash": "7ddc2dbd75c9c1ce9f9cb7f4b647b322a514a962eb8da4f817011ef8fb34cce4",
+      "format": "nongeometric_comparison",
+      "alignment": "partial",
+      "risk": 3,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Practices a relevant quantity comparison, but choices are values rather than relationships among labeled expressions.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "dev-05",
+      "questionHash": "e0a318ab7489ac8583c66256a710fad823e1131bae7bf583f247debdc8466c85",
+      "format": "number_manipulation",
+      "alignment": "close",
+      "risk": 2,
+      "currentDifficulty": 1,
+      "recommendedDifficulty": 1,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Relevant verbal or arithmetic manipulation. Preserve compact wording and distractors for omitted or reversed steps. Foundation-level warm-up; not evidence of exam-average difficulty.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "dev-06",
+      "questionHash": "9f0b8c79b6f11b951bb88050c164c725b71c69724ff581f8562843be33a56f6e",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 1,
+      "recommendedDifficulty": 1,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation. Explicit symbol definitions make many items scaffolded arithmetic; consider concise verbal manipulation for an exam-style rewrite.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "dev-07",
+      "questionHash": "75120b50201e91c484b48449637657ca73aa2eba02fa7bc4741affa59182e246",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 1,
+      "recommendedDifficulty": 1,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "dev-08",
+      "questionHash": "753ebb87a3db54cd8b9d9eb01642772a98f7a1bb74ee9bfef3f39a6ccf4d8fec",
+      "format": "number_manipulation",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Relevant verbal or arithmetic manipulation. Preserve compact wording and distractors for omitted or reversed steps.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "dev-09",
+      "questionHash": "0d453c05b4cee2aeec665f1f1304dddbae8a9a9a9540d5b0c4a484a61724f738",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 1,
+      "recommendedDifficulty": 1,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "dev-10",
+      "questionHash": "c613b2eada4254e62186361aa90037747bd5b28e4cb55740362342ee4fc624ee",
+      "format": "nongeometric_comparison",
+      "alignment": "partial",
+      "risk": 3,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Practices a relevant quantity comparison, but choices are values rather than relationships among labeled expressions. Also functions as arithmetic/conversion practice; category label alone does not establish format fidelity.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "dev-11",
+      "questionHash": "f60a9abfcc9c8e55ef1138895ce1382b3c086bd856aa092d515d0484ec7deeb3",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation. Explicit symbol definitions make many items scaffolded arithmetic; consider concise verbal manipulation for an exam-style rewrite.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "dev-12",
+      "questionHash": "f282a91460947d2732fd8bd549aac79d4a443f81b9f66e21ff26df69dfe353ba",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 1,
+      "recommendedDifficulty": 1,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-013",
+      "questionHash": "492660d312950debbe212a856228d62ff4c9895ba67a86673155a00296504f45",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 1,
+      "recommendedDifficulty": 1,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-014",
+      "questionHash": "7e1937f8c64278d8978918f334b7e1eb9b162a993f07a8478b5d3e67502e6a9b",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 1,
+      "recommendedDifficulty": 1,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-015",
+      "questionHash": "69c3b31722a0691c201742fe5ffb6fae8698d547acc2fca67097148583f9dad5",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-016",
+      "questionHash": "f6da1a5e18d978861c4588adaff442f172d5886eec8c800f5f1e5c780b2edcd6",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-017",
+      "questionHash": "7c7f57c1cc7e907bbe9cad8a2c06f9766dd37f1a7686c2f4ef91af44de03f832",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-018",
+      "questionHash": "888631a76f098e9b0221db643849c8b60683ff5eb039121dfd58131bc299cf13",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 3,
+      "currentDifficulty": 3,
+      "recommendedDifficulty": 3,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples. Useful stretch reasoning; ask the sample reviewer to check the intended simplest rule and mental workload.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-019",
+      "questionHash": "ead13bee570382b5cc4d12f64b6adda061488f5df9d4ac50d6454084a4d92632",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-020",
+      "questionHash": "979b182f78ac7f206edb19035ac94c0f2230fc822b2c5d1e44dab377b4f99156",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 1,
+      "recommendedDifficulty": 1,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-021",
+      "questionHash": "be25279d1e32ce458999411774c5081c97d7b36568d369be72d9569871ff8ccb",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-022",
+      "questionHash": "cd247f245f43ebb3c90a47695701c8209edc669b18d08a96cefcd3b8796fa653",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-023",
+      "questionHash": "94d90caa8fcf92664d4993eb8a5a61504315c36ac2d1c793132ba86bc828dd62",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-024",
+      "questionHash": "b919b2a7f6fc412b9d2f576422deebdf5137059dca9f25f65cbc5090b091bf18",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-025",
+      "questionHash": "1f6a21785e0ab7abdfcdcf2404469d92845fb6c9b0c76f0f9e9ceb1f3af8b21b",
+      "format": "number_series",
+      "alignment": "partial",
+      "risk": 2,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Explicit rule or nth-term prompt trains computation more than discovering the pattern; retain as foundation practice, not a full format match.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-026",
+      "questionHash": "fab2544f174cbc7c9b5876fc1a1fe36c1b83c197e9a7eae7c2b88f6a8b25fdc6",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-027",
+      "questionHash": "7830ac34780f0db2b1af12539cafe5141af46d84e506000d887195cb9fe83c7b",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-028",
+      "questionHash": "df1e1d11bb697abf3bd416d3b4df079e14eabbcc512b1fee629b81476d9356a1",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 3,
+      "currentDifficulty": 3,
+      "recommendedDifficulty": 3,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples. Useful stretch reasoning; ask the sample reviewer to check the intended simplest rule and mental workload.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-029",
+      "questionHash": "69c4e58c0f56e9605c4df4003a71a032134ce75bc2ce602678f044607ce1ad61",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 1,
+      "recommendedDifficulty": 1,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-030",
+      "questionHash": "25edfa4d8a4b5a597ceaa5529e1237f65beff57d666895a2dfb434e58c8657f9",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 1,
+      "recommendedDifficulty": 1,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-031",
+      "questionHash": "0a086b2d95f9f144a201d8ca5f46a5e6a9715c43b7f670ab42936b351f990091",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-032",
+      "questionHash": "8f8e0c7b9c144a4e229df7ad203444ec24a6e788247a8ccb53cbd970df7f3b9c",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-033",
+      "questionHash": "52dc1174e015698232ab1773b79c20a4599858cea9ef1314793fb9c1f03d4998",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-034",
+      "questionHash": "3950448c0c9248c28794335715c7d8d41f9b2c22117b144d5dd44006759cefb3",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-035",
+      "questionHash": "c2a137d95e36cd7fc33b6378ce312a968e7ac374eeea94285aea59bbdf49e2cf",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 3,
+      "currentDifficulty": 3,
+      "recommendedDifficulty": 3,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples. Useful stretch reasoning; ask the sample reviewer to check the intended simplest rule and mental workload.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-036",
+      "questionHash": "2427e4e0ef7ef3a8c131420c995486f4fbfbee7f79fbc66dda5407d11613f1a0",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 1,
+      "recommendedDifficulty": 1,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-037",
+      "questionHash": "066d647a2d515c7097268a1d99cee13581b29bf9fc0abe2521f42d4842e773c1",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-038",
+      "questionHash": "024922b64d9810f198f41a3a220cedda485886cfa1a4e3563fa40725e65e1984",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-039",
+      "questionHash": "df2462be9182cb2edffd5a9aba907ade6bf4e617f9a31d1b805dd6a83a563703",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 3,
+      "currentDifficulty": 3,
+      "recommendedDifficulty": 3,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples. Useful stretch reasoning; ask the sample reviewer to check the intended simplest rule and mental workload.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-040",
+      "questionHash": "38f18dbc26bd518382960bfa9a435c19c7baa3246ef56d9e009fc106cc55d622",
+      "format": "number_series",
+      "alignment": "partial",
+      "risk": 2,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Explicit rule or nth-term prompt trains computation more than discovering the pattern; retain as foundation practice, not a full format match.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-041",
+      "questionHash": "0a16867991fcd5381b433a9142eaef9eec43639e684b748a9148ade006de13b9",
+      "format": "number_series",
+      "alignment": "partial",
+      "risk": 3,
+      "currentDifficulty": 3,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Explicit rule or nth-term prompt trains computation more than discovering the pattern; retain as foundation practice, not a full format match. The rule is supplied; only two operations are required, so a hard label overstates the reasoning demand.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-042",
+      "questionHash": "12d20e463ce127ea334ac0aa5297a7164fbacd4c2ad38dc44bf58fd43bb3e223",
+      "format": "number_series",
+      "alignment": "close",
+      "risk": 3,
+      "currentDifficulty": 3,
+      "recommendedDifficulty": 3,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Matches the concise four-choice continuation or missing-term format of public series examples. Useful stretch reasoning; ask the sample reviewer to check the intended simplest rule and mental workload.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-043",
+      "questionHash": "58804259cf39356f008bc6e37cf26306b02c15fcef45e0a643622c9d76d09e81",
+      "format": "nongeometric_comparison",
+      "alignment": "partial",
+      "risk": 3,
+      "currentDifficulty": 1,
+      "recommendedDifficulty": 1,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Practices a relevant quantity comparison, but choices are values rather than relationships among labeled expressions.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-044",
+      "questionHash": "6cdac35a40e0454389e91837a1a27c88a0a5697b61e07accd1f68fde887b3ed8",
+      "format": "nongeometric_comparison",
+      "alignment": "partial",
+      "risk": 3,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Practices a relevant quantity comparison, but choices are values rather than relationships among labeled expressions.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-045",
+      "questionHash": "60bd77638fcae1d426e174a87b99d4bff0c26622876a6b62c726b90f754a6a12",
+      "format": "nongeometric_comparison",
+      "alignment": "partial",
+      "risk": 3,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Practices a relevant quantity comparison, but choices are values rather than relationships among labeled expressions.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-046",
+      "questionHash": "d2763e3cd08bbdd693c3c71d668023ce008fe3673e83c78b1902c00236efa2bc",
+      "format": "nongeometric_comparison",
+      "alignment": "partial",
+      "risk": 3,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Practices a relevant quantity comparison, but choices are values rather than relationships among labeled expressions.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-047",
+      "questionHash": "3d2dd178023c059aaad96633453ece91ea06ac21319336add1ea3b1f12455538",
+      "format": "nongeometric_comparison",
+      "alignment": "partial",
+      "risk": 3,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Practices a relevant quantity comparison, but choices are values rather than relationships among labeled expressions.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-048",
+      "questionHash": "3ecbd8bdc983a308ddcb0bf28134a6e6b6748edcf2a6e3ea9df2d7bf5a29d4d3",
+      "format": "nongeometric_comparison",
+      "alignment": "partial",
+      "risk": 3,
+      "currentDifficulty": 1,
+      "recommendedDifficulty": 1,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Practices a relevant quantity comparison, but choices are values rather than relationships among labeled expressions.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-049",
+      "questionHash": "03b696780ee352b3f9d140263bf4150eeb98dd5ab74ac7eb788871d3429e6829",
+      "format": "nongeometric_comparison",
+      "alignment": "partial",
+      "risk": 3,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Practices a relevant quantity comparison, but choices are values rather than relationships among labeled expressions.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-050",
+      "questionHash": "bc56f90a9bf3e5473b3b254a0eacc380de65c959c28afc2038bc1c1db7b5bb5f",
+      "format": "nongeometric_comparison",
+      "alignment": "partial",
+      "risk": 3,
+      "currentDifficulty": 1,
+      "recommendedDifficulty": 1,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Practices a relevant quantity comparison, but choices are values rather than relationships among labeled expressions. Also functions as arithmetic/conversion practice; category label alone does not establish format fidelity.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-051",
+      "questionHash": "26c67d664b01c8a3e806cbed191b5cfdc144d0d2f4f60a6c5b86137f086f80ad",
+      "format": "geometric_comparison",
+      "alignment": "partial",
+      "risk": 4,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Relevant geometric quantities, but text-only computation does not exercise reading and comparing figures. Add diagram-based relationship items before claiming section fidelity.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-052",
+      "questionHash": "bbe52edc7eb417aba24db3947b09e9a720b532b4f2d6126410766ec9ab3fda7f",
+      "format": "geometric_comparison",
+      "alignment": "partial",
+      "risk": 4,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Relevant geometric quantities, but text-only computation does not exercise reading and comparing figures. Add diagram-based relationship items before claiming section fidelity.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-053",
+      "questionHash": "fa516abf1ee4165052531c8ff9bb3525bcb9d465ef516d443398610f2e5f6de2",
+      "format": "nongeometric_comparison",
+      "alignment": "partial",
+      "risk": 3,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Practices a relevant quantity comparison, but choices are values rather than relationships among labeled expressions. Also functions as arithmetic/conversion practice; category label alone does not establish format fidelity.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-054",
+      "questionHash": "b8f9fb27dac73161f8f14ca3f43056ecef8fddad7a6bb3338056d997711ebd58",
+      "format": "nongeometric_comparison",
+      "alignment": "partial",
+      "risk": 3,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Practices a relevant quantity comparison, but choices are values rather than relationships among labeled expressions. Also functions as arithmetic/conversion practice; category label alone does not establish format fidelity.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-055",
+      "questionHash": "f89e7774ef280e2bcc632b06496f2f1484b25fda9a26b01a231915e54fcc87c6",
+      "format": "nongeometric_comparison",
+      "alignment": "partial",
+      "risk": 3,
+      "currentDifficulty": 3,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Practices a relevant quantity comparison, but choices are values rather than relationships among labeled expressions. Square a familiar fraction and compare four values; provisional medium is more defensible than hard.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-056",
+      "questionHash": "28fa64a9454b2dca730cea66c559244a3b6f21f6598d4c80e9009e8f65c52788",
+      "format": "geometric_comparison",
+      "alignment": "partial",
+      "risk": 4,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Relevant geometric quantities, but text-only computation does not exercise reading and comparing figures. Add diagram-based relationship items before claiming section fidelity.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-057",
+      "questionHash": "2552faabfad2b7717b0c0fcd38509b844505686fd0b4047e12820017741f596e",
+      "format": "nongeometric_comparison",
+      "alignment": "partial",
+      "risk": 3,
+      "currentDifficulty": 3,
+      "recommendedDifficulty": 3,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Practices a relevant quantity comparison, but choices are values rather than relationships among labeled expressions.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-058",
+      "questionHash": "0b0a2fa456799c1b8c96e168563f4d9e6c387b3a3839585e85f3b9efa10d7688",
+      "format": "geometric_comparison",
+      "alignment": "partial",
+      "risk": 4,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Relevant geometric quantities, but text-only computation does not exercise reading and comparing figures. Add diagram-based relationship items before claiming section fidelity.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-059",
+      "questionHash": "5e030bd880ebc84d3332293502884b6ed8f4b4e7741a5bdf0bb16616f74b7468",
+      "format": "number_manipulation",
+      "alignment": "close",
+      "risk": 2,
+      "currentDifficulty": 1,
+      "recommendedDifficulty": 1,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Relevant verbal or arithmetic manipulation. Preserve compact wording and distractors for omitted or reversed steps. Foundation-level warm-up; not evidence of exam-average difficulty.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-060",
+      "questionHash": "64d69d354fb4813c96efb841cd44829fa555ab3e066f43ad669b1fe566980e21",
+      "format": "number_manipulation",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Relevant verbal or arithmetic manipulation. Preserve compact wording and distractors for omitted or reversed steps.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-061",
+      "questionHash": "a57b6fb07dc06e2260812cb6e5548ecf1140326d119f507792e77350410f130d",
+      "format": "number_manipulation",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Relevant verbal or arithmetic manipulation. Preserve compact wording and distractors for omitted or reversed steps.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-062",
+      "questionHash": "f1bdd53d72704e90dae43e398bd1dc7aa2794d579d8b56d5c77af14663423ee2",
+      "format": "number_manipulation",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Relevant verbal or arithmetic manipulation. Preserve compact wording and distractors for omitted or reversed steps.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-063",
+      "questionHash": "a0c0f87b61e091c294527daecc1fb8367cdd3fec7f81b0dce867e5794305c4c8",
+      "format": "number_manipulation",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Relevant verbal or arithmetic manipulation. Preserve compact wording and distractors for omitted or reversed steps.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-064",
+      "questionHash": "3688c02b878cfde61d92f47a9cc18b78a94248cd8098d78f35ec10217d710819",
+      "format": "number_manipulation",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Relevant verbal or arithmetic manipulation. Preserve compact wording and distractors for omitted or reversed steps.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-065",
+      "questionHash": "b419da7b079300720d8db13dbfbd4781bb59b22e877df5fbc27c2523917361d7",
+      "format": "number_manipulation",
+      "alignment": "close",
+      "risk": 2,
+      "currentDifficulty": 1,
+      "recommendedDifficulty": 1,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Relevant verbal or arithmetic manipulation. Preserve compact wording and distractors for omitted or reversed steps. Foundation-level warm-up; not evidence of exam-average difficulty.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-066",
+      "questionHash": "678ddb7f1515ca7c73cf8038de18c3826e5c5a7a810fe1f177a70c1fdf3c06cc",
+      "format": "number_manipulation",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Relevant verbal or arithmetic manipulation. Preserve compact wording and distractors for omitted or reversed steps.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-067",
+      "questionHash": "bc8827b2597123971b0269514c8142861c11a688bc4d982b253142e0a633123e",
+      "format": "number_manipulation",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Relevant verbal or arithmetic manipulation. Preserve compact wording and distractors for omitted or reversed steps.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-068",
+      "questionHash": "4ddd4d6cb3c53e17d21428582bf039b33246dd714da15e8c5f8659924e18f14c",
+      "format": "number_manipulation",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Relevant verbal or arithmetic manipulation. Preserve compact wording and distractors for omitted or reversed steps.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-069",
+      "questionHash": "8ada51e7f569b61cd0c2b1a4d1bd34283452061f4829106dddd246253e6f6853",
+      "format": "number_manipulation",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Relevant verbal or arithmetic manipulation. Preserve compact wording and distractors for omitted or reversed steps.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-070",
+      "questionHash": "1eebd6d631c8af860e51e7ee8dd343a2d8f5f588279550e85f2f7f43c5899d49",
+      "format": "number_manipulation",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Relevant verbal or arithmetic manipulation. Preserve compact wording and distractors for omitted or reversed steps.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-071",
+      "questionHash": "06e27e8ffe1d20ca9148f588683d84cb59e5d51948d44d5b565c6ca8024c4479",
+      "format": "number_manipulation",
+      "alignment": "close",
+      "risk": 3,
+      "currentDifficulty": 3,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Relevant verbal or arithmetic manipulation. Preserve compact wording and distractors for omitted or reversed steps. A standard one-part/three-part total problem; medium unless student timing suggests otherwise.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-072",
+      "questionHash": "1ba58fb54e6c80e7e7407d1edaa7448355bad2eed67f4e86fffa24217c6386b3",
+      "format": "number_manipulation",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 3,
+      "recommendedDifficulty": 3,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Relevant verbal or arithmetic manipulation. Preserve compact wording and distractors for omitted or reversed steps.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-073",
+      "questionHash": "655133451e90106477267e8e32db0a5952dd89d5bcbf0380f83d047cfa1d37ff",
+      "format": "number_manipulation",
+      "alignment": "close",
+      "risk": 1,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Relevant verbal or arithmetic manipulation. Preserve compact wording and distractors for omitted or reversed steps.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-074",
+      "questionHash": "7894cf9394512a227665cf24df6126be76475971368bb0e9b3675b70d4f2f220",
+      "format": "number_manipulation",
+      "alignment": "close",
+      "risk": 3,
+      "currentDifficulty": 3,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Relevant verbal or arithmetic manipulation. Preserve compact wording and distractors for omitted or reversed steps. One fraction multiplication after parsing the context; medium rather than hard.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-075",
+      "questionHash": "ff73bec1f53b6ecb658a8e01256f530ece85da4f610e5da524ff7f5d8ce5f062",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 1,
+      "recommendedDifficulty": 1,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation. Explicit symbol definitions make many items scaffolded arithmetic; consider concise verbal manipulation for an exam-style rewrite.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-076",
+      "questionHash": "d441122b8ef4d748ce6be41b46ec3700f076a98d72ce109683375168a691bcd2",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation. Explicit symbol definitions make many items scaffolded arithmetic; consider concise verbal manipulation for an exam-style rewrite.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-077",
+      "questionHash": "e8634cc5afa0f0ba8b892b6205f8121f4e7725077df84dff0d2dc9115a4243e4",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation. Explicit symbol definitions make many items scaffolded arithmetic; consider concise verbal manipulation for an exam-style rewrite.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-078",
+      "questionHash": "e08d60d48c9a015c1b25205612a54fb960d208ed03130a6a4e6eb646088a4e55",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 1,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation. Explicit symbol definitions make many items scaffolded arithmetic; consider concise verbal manipulation for an exam-style rewrite. A small perfect square plus a constant; foundation rather than medium.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-079",
+      "questionHash": "ca330f6b2e0d3957b54a386a7d04cb20f642735c8bba752b81824c82de46f2b0",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 1,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation. Explicit symbol definitions make many items scaffolded arithmetic; consider concise verbal manipulation for an exam-style rewrite. Direct substitution followed by multiplication and addition; a foundation item.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-080",
+      "questionHash": "d9e7d5a1a070b7f10298716a1d40c63cc834692958159a4178f16772ff421b17",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation. Explicit symbol definitions make many items scaffolded arithmetic; consider concise verbal manipulation for an exam-style rewrite.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-081",
+      "questionHash": "2fceeb6c61ab21e296b05baaf5ae228b3333c716a72d5a09ae86b17e34310f88",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 1,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation. Explicit symbol definitions make many items scaffolded arithmetic; consider concise verbal manipulation for an exam-style rewrite. The row rule is supplied and the required operation is one addition.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-082",
+      "questionHash": "66dc1686581a6f254df641f5d72eb578b03e1b837aef2e94a732807c20d6c3da",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation. Explicit symbol definitions make many items scaffolded arithmetic; consider concise verbal manipulation for an exam-style rewrite.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-083",
+      "questionHash": "584389c1e82875245f023323d51093785aaaac33089ebf5e77147ef4b44de766",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 3,
+      "recommendedDifficulty": 3,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation. Explicit symbol definitions make many items scaffolded arithmetic; consider concise verbal manipulation for an exam-style rewrite.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-084",
+      "questionHash": "3830a36f2292b4a9cfddb65fcf25f589ebc39b6084336e01fb79699162ed9d62",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 3,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation. Explicit symbol definitions make many items scaffolded arithmetic; consider concise verbal manipulation for an exam-style rewrite. Two explicitly ordered machine steps do not demand difficult pattern discovery.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-085",
+      "questionHash": "524aec098672a39d163049c824b822827c177c9fa4c1fbda6a34d41482aac2f7",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 1,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation. Explicit symbol definitions make many items scaffolded arithmetic; consider concise verbal manipulation for an exam-style rewrite. The digit-sum rule is supplied and requires only one addition.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-086",
+      "questionHash": "cbae43ee0a5dd30622d77901409d5c22234cb22f6577f65a4f48c43025dc8f4b",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 3,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation. Explicit symbol definitions make many items scaffolded arithmetic; consider concise verbal manipulation for an exam-style rewrite. Substitute the circle value and solve one simple equation; medium rather than hard.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-087",
+      "questionHash": "9ae91f7aef2862118bf6ab57c6aa40ff73db4a39f5c0fe4128987c083d1f8fd5",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 3,
+      "recommendedDifficulty": 3,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation. Explicit symbol definitions make many items scaffolded arithmetic; consider concise verbal manipulation for an exam-style rewrite.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-088",
+      "questionHash": "ad47ea8db7b57b9ef260f57e1f29e6583e04564a8d2553354d4e2bf738697786",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation. Explicit symbol definitions make many items scaffolded arithmetic; consider concise verbal manipulation for an exam-style rewrite.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-089",
+      "questionHash": "7c05d3bf72712b862131cfc28dc1d4eab003de1d9ce9486cc6a7ac6b9021b51e",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-090",
+      "questionHash": "53e57fd8b327f240bb354a6e3a27cd283918b8aa1f35ce0345fffe9cbcb07338",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-091",
+      "questionHash": "d5575a94ccde0d53750e2b6f63365f6ad6e14fdf1cdf28d8b0774901a2732057",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-092",
+      "questionHash": "93b9db90d6b0f85658987506ed74ef222847a335ad4d95cc2673078b5763ac0e",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 1,
+      "recommendedDifficulty": 1,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-093",
+      "questionHash": "7e6ad4f8684f0813c244b0f5fdbe2d74af1cac7390dcf468cbef875a7888e78a",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-094",
+      "questionHash": "f84db5b52753aec79969d5e4b5825e73529ca71436d533ed94fa572ef9b65b87",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-095",
+      "questionHash": "9947b9a54ea2356ef28b83e372cc2018493721ed0f1a5a5f17055fd9f9bf4973",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 1,
+      "recommendedDifficulty": 1,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-096",
+      "questionHash": "4687cc37f2bf5846a9a189f97d77c28a05efb5c452ee38a0577a158e95dbe90f",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 1,
+      "recommendedDifficulty": 1,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-097",
+      "questionHash": "bcefbde56ac5e019a238dc4410bebe1aeac60bac5f5b005ced90c061767362cd",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-098",
+      "questionHash": "d6f47458842d91506545439d01fcb81b3848c2a62bc680556b257dce2b088830",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-099",
+      "questionHash": "d83467e7f8805c02d32923fb2ed9b10ed2322247609bda5c2b41c5b6397a663a",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    },
+    {
+      "id": "quant-100",
+      "questionHash": "c70c415a9b4d61391207903abb928360d60243892f50903cb40183b32dd386e8",
+      "format": "supplemental_reasoning",
+      "alignment": "supplemental",
+      "risk": 3,
+      "currentDifficulty": 2,
+      "recommendedDifficulty": 2,
+      "difficultyBasis": "editorial, uncalibrated; public examples provide no item-level psychometric data",
+      "note": "Related numerical reasoning, but this standalone format is not established as a core category by the consulted references. Keep as supplemental practice; do not use equal category quotas for an exam simulation.",
+      "referenceIds": [
+        "STS",
+        "TM",
+        "TV"
+      ],
+      "disposition": "retain_for_skill_practice"
+    }
+  ]
+}

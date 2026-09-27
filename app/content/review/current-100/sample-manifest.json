@@ -1,0 +1,61 @@
+{
+  "policyVersion": "sample-review-v1",
+  "bankHash": "8ba665df7096f4f71737e661932126046a1deb4c2aed3fbd4e2349f67a878c0d",
+  "sampleIds": [
+    "dev-05",
+    "dev-09",
+    "dev-12",
+    "quant-013",
+    "quant-018",
+    "quant-020",
+    "quant-028",
+    "quant-032",
+    "quant-042",
+    "quant-053",
+    "quant-056",
+    "quant-057",
+    "quant-058",
+    "quant-069",
+    "quant-074",
+    "quant-075",
+    "quant-076",
+    "quant-081",
+    "quant-092",
+    "quant-098"
+  ],
+  "reasons": {
+    "quant-056": "Coverage: geometric format",
+    "dev-12": "Coverage: difficulty 1",
+    "quant-028": "Coverage: difficulty 3",
+    "quant-074": "Risk-based check within skill",
+    "quant-069": "Seeded pick within skill; prefer a new pattern family",
+    "dev-05": "Seeded pick within skill; prefer a new pattern family",
+    "quant-058": "Risk-based check within skill",
+    "quant-057": "Seeded pick within skill; prefer a new pattern family",
+    "quant-053": "Seeded pick within skill; prefer a new pattern family",
+    "quant-092": "Risk-based check within skill",
+    "quant-098": "Seeded pick within skill; prefer a new pattern family",
+    "quant-018": "Risk-based check within skill",
+    "quant-020": "Seeded pick within skill; prefer a new pattern family",
+    "quant-013": "Seeded pick within skill; prefer a new pattern family",
+    "quant-042": "Risk-based check within skill",
+    "dev-09": "Seeded pick within skill; prefer a new pattern family",
+    "quant-032": "Seeded pick within skill; prefer a new pattern family",
+    "quant-076": "Risk-based check within skill",
+    "quant-081": "Seeded pick within skill; prefer a new pattern family",
+    "quant-075": "Seeded pick within skill; prefer a new pattern family"
+  },
+  "skillCounts": {
+    "number_manipulation": 3,
+    "sequence_multiplicative": 3,
+    "odd_one_out": 3,
+    "sequence_additive": 4,
+    "numeric_comparison": 4,
+    "symbolic_pattern": 3
+  },
+  "difficultyCounts": {
+    "1": 7,
+    "3": 5,
+    "2": 8
+  }
+}

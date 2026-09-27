@@ -1,0 +1,16 @@
+{
+  "reviewedBankSha256": "47b86200c6c70a9c0e77aea7f200d0ea09399e59e5fcf1633d5c00afcf7d12f1",
+  "reviewer": "Codex agent editorial pass (not human approval)",
+  "date": "2026-09-26",
+  "scope": [
+    "All 100 stems, answer options, worked explanations and tips",
+    "All three Gables quantitative sections and matching answer guides",
+    "Known overlap replacements, common pattern similarities, visual arrangements and source exceptions",
+    "Provisional difficulty and sample risk coverage"
+  ],
+  "limits": [
+    "No psychometric calibration",
+    "Agent-assisted similarity check is not exhaustive plagiarism detection",
+    "App integration and iPad checks deferred until after human review"
+  ]
+}

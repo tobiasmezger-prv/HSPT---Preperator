@@ -1,0 +1,129 @@
+{
+  "policyVersion": "sample-review-v1",
+  "bankHash": "8ba665df7096f4f71737e661932126046a1deb4c2aed3fbd4e2349f67a878c0d",
+  "reviewer": "",
+  "reviewedAt": "",
+  "calibrationAcknowledged": false,
+  "items": [
+    {
+      "id": "dev-05",
+      "questionHash": "e0a318ab7489ac8583c66256a710fad823e1131bae7bf583f247debdc8466c85",
+      "decision": "pending",
+      "notes": ""
+    },
+    {
+      "id": "dev-09",
+      "questionHash": "0d453c05b4cee2aeec665f1f1304dddbae8a9a9a9540d5b0c4a484a61724f738",
+      "decision": "pending",
+      "notes": ""
+    },
+    {
+      "id": "dev-12",
+      "questionHash": "f282a91460947d2732fd8bd549aac79d4a443f81b9f66e21ff26df69dfe353ba",
+      "decision": "pending",
+      "notes": ""
+    },
+    {
+      "id": "quant-013",
+      "questionHash": "492660d312950debbe212a856228d62ff4c9895ba67a86673155a00296504f45",
+      "decision": "pending",
+      "notes": ""
+    },
+    {
+      "id": "quant-018",
+      "questionHash": "888631a76f098e9b0221db643849c8b60683ff5eb039121dfd58131bc299cf13",
+      "decision": "pending",
+      "notes": ""
+    },
+    {
+      "id": "quant-020",
+      "questionHash": "979b182f78ac7f206edb19035ac94c0f2230fc822b2c5d1e44dab377b4f99156",
+      "decision": "pending",
+      "notes": ""
+    },
+    {
+      "id": "quant-028",
+      "questionHash": "df1e1d11bb697abf3bd416d3b4df079e14eabbcc512b1fee629b81476d9356a1",
+      "decision": "pending",
+      "notes": ""
+    },
+    {
+      "id": "quant-032",
+      "questionHash": "8f8e0c7b9c144a4e229df7ad203444ec24a6e788247a8ccb53cbd970df7f3b9c",
+      "decision": "pending",
+      "notes": ""
+    },
+    {
+      "id": "quant-042",
+      "questionHash": "12d20e463ce127ea334ac0aa5297a7164fbacd4c2ad38dc44bf58fd43bb3e223",
+      "decision": "pending",
+      "notes": ""
+    },
+    {
+      "id": "quant-053",
+      "questionHash": "fa516abf1ee4165052531c8ff9bb3525bcb9d465ef516d443398610f2e5f6de2",
+      "decision": "pending",
+      "notes": ""
+    },
+    {
+      "id": "quant-056",
+      "questionHash": "28fa64a9454b2dca730cea66c559244a3b6f21f6598d4c80e9009e8f65c52788",
+      "decision": "pending",
+      "notes": ""
+    },
+    {
+      "id": "quant-057",
+      "questionHash": "2552faabfad2b7717b0c0fcd38509b844505686fd0b4047e12820017741f596e",
+      "decision": "pending",
+      "notes": ""
+    },
+    {
+      "id": "quant-058",
+      "questionHash": "0b0a2fa456799c1b8c96e168563f4d9e6c387b3a3839585e85f3b9efa10d7688",
+      "decision": "pending",
+      "notes": ""
+    },
+    {
+      "id": "quant-069",
+      "questionHash": "8ada51e7f569b61cd0c2b1a4d1bd34283452061f4829106dddd246253e6f6853",
+      "decision": "pending",
+      "notes": ""
+    },
+    {
+      "id": "quant-074",
+      "questionHash": "7894cf9394512a227665cf24df6126be76475971368bb0e9b3675b70d4f2f220",
+      "decision": "pending",
+      "notes": ""
+    },
+    {
+      "id": "quant-075",
+      "questionHash": "ff73bec1f53b6ecb658a8e01256f530ece85da4f610e5da524ff7f5d8ce5f062",
+      "decision": "pending",
+      "notes": ""
+    },
+    {
+      "id": "quant-076",
+      "questionHash": "d441122b8ef4d748ce6be41b46ec3700f076a98d72ce109683375168a691bcd2",
+      "decision": "pending",
+      "notes": ""
+    },
+    {
+      "id": "quant-081",
+      "questionHash": "2fceeb6c61ab21e296b05baaf5ae228b3333c716a72d5a09ae86b17e34310f88",
+      "decision": "pending",
+      "notes": ""
+    },
+    {
+      "id": "quant-092",
+      "questionHash": "93b9db90d6b0f85658987506ed74ef222847a335ad4d95cc2673078b5763ac0e",
+      "decision": "pending",
+      "notes": ""
+    },
+    {
+      "id": "quant-098",
+      "questionHash": "d6f47458842d91506545439d01fcb81b3848c2a62bc680556b257dce2b088830",
+      "decision": "pending",
+      "notes": ""
+    }
+  ]
+}

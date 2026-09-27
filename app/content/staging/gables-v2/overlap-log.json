@@ -1,0 +1,19 @@
+{
+  "bankSha256": "47b86200c6c70a9c0e77aea7f200d0ea09399e59e5fcf1633d5c00afcf7d12f1",
+  "resolved": [
+    {
+      "oldId": "dev-03",
+      "source": "Test 1 Q68",
+      "newId": "gb2-003",
+      "resolution": "Replace doubling prefix with alternating multiplication/decrement and two requested outputs."
+    },
+    {
+      "oldId": "quant-038",
+      "source": "Test 3 Q75",
+      "newId": "gb2-030",
+      "resolution": "Replace fractional progression with independently interleaved decreasing and increasing branches."
+    }
+  ],
+  "scope": "All 100 compared editorially with all three source sections. Generic arithmetic and conventional sequence families remain shared. No exhaustive semantic-plagiarism guarantee.",
+  "unresolvedIdentifiedMatches": []
+}

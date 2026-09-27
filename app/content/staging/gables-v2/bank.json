@@ -1,0 +1,3193 @@
+[
+  {
+    "id": "gb2-001",
+    "skill": "sequence_additive",
+    "stem": "What number comes next?  7, 12, 17, 22, …",
+    "templateFamily": "constant-addition",
+    "choices": [
+      "27",
+      "29",
+      "25",
+      "26"
+    ],
+    "guide": {
+      "correctChoiceId": "A",
+      "explanation": "Each term increases by 5: 7 + 5 = 12, 12 + 5 = 17, and 17 + 5 = 22. Add 5 again to get 27.",
+      "shortcut": "Check the gaps between consecutive terms. If they stay the same, add that gap once more."
+    },
+    "difficulty": 1,
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "dev-01",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-002",
+    "skill": "sequence_additive",
+    "stem": "What number comes next?  2, 5, 9, 14, 20, …",
+    "templateFamily": "increasing-differences",
+    "choices": [
+      "25",
+      "26",
+      "27",
+      "28"
+    ],
+    "guide": {
+      "correctChoiceId": "C",
+      "explanation": "The differences are 3, 4, 5, and 6. The next difference is 7, so 20 + 7 = 27.",
+      "shortcut": "If the gaps change, write the gaps as a second sequence. Here they increase by 1."
+    },
+    "difficulty": 2,
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "dev-02",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "skill": "sequence_multiplicative",
+    "format": "number_series",
+    "templateFamily": "triple-and-decrement",
+    "difficulty": 2,
+    "stem": "Which pair continues the sequence?  9, 27, 26, 78, 77, …",
+    "choices": [
+      "231, 232",
+      "154, 153",
+      "230, 231",
+      "231, 230"
+    ],
+    "guide": {
+      "correctChoiceId": "D",
+      "explanation": "The steps alternate ×3 and −1. After 77, multiply by 3 to get 231, then subtract 1 to get 230.",
+      "shortcut": "Check both requested terms; a pair can start correctly and still finish incorrectly."
+    },
+    "answerFormat": "numeric_pair",
+    "id": "gb2-003",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "id": "gb2-004",
+    "skill": "sequence_multiplicative",
+    "stem": "What number comes next?  160, 80, 40, 20, …",
+    "templateFamily": "halving",
+    "choices": [
+      "5",
+      "8",
+      "10",
+      "15"
+    ],
+    "guide": {
+      "correctChoiceId": "C",
+      "explanation": "Each term is half the previous term: 160 → 80 → 40 → 20. Half of 20 is 10.",
+      "shortcut": "Check whether each term is multiplied or divided by the same number."
+    },
+    "difficulty": 1,
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "dev-09",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-005",
+    "skill": "sequence_additive",
+    "templateFamily": "constant-subtraction",
+    "difficulty": 1,
+    "stem": "What number comes next?  53, 46, 39, 32, …",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "18",
+      "23",
+      "25",
+      "27"
+    ],
+    "guide": {
+      "correctChoiceId": "C",
+      "explanation": "Each term decreases by 7. Subtract 7 from 32 to get 25.",
+      "shortcut": "Test subtraction when a sequence decreases steadily."
+    },
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-013",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-006",
+    "skill": "sequence_additive",
+    "templateFamily": "decimal-addition",
+    "difficulty": 1,
+    "stem": "What number comes next?  1.2, 1.6, 2.0, 2.4, …",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "2.6",
+      "2.8",
+      "3.0",
+      "3.2"
+    ],
+    "guide": {
+      "correctChoiceId": "B",
+      "explanation": "Each term increases by 0.4. The next term is 2.4 + 0.4 = 2.8.",
+      "shortcut": "Think in tenths: 12, 16, 20, 24, then 28 tenths."
+    },
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-014",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-007",
+    "skill": "sequence_additive",
+    "templateFamily": "increasing-differences",
+    "difficulty": 2,
+    "stem": "What number comes next?  4, 6, 10, 16, 24, …",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "guide": {
+      "correctChoiceId": "C",
+      "explanation": "The increases are 2, 4, 6, and 8. The next increase is 10, giving 34.",
+      "shortcut": "Write the differences before trying a complicated rule."
+    },
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-015",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-008",
+    "skill": "sequence_additive",
+    "templateFamily": "decreasing-differences",
+    "difficulty": 2,
+    "stem": "What number comes next?  60, 49, 39, 30, 22, …",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "15",
+      "16",
+      "17",
+      "14"
+    ],
+    "guide": {
+      "correctChoiceId": "A",
+      "explanation": "The amounts subtracted are 11, 10, 9, and 8. Subtract 7 next: 22 − 7 = 15.",
+      "shortcut": "A decreasing sequence can have shrinking gaps."
+    },
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-016",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-009",
+    "skill": "sequence_additive",
+    "templateFamily": "alternating-addition",
+    "difficulty": 2,
+    "stem": "What number comes next?  8, 11, 16, 19, 24, …",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "32",
+      "25",
+      "27",
+      "29"
+    ],
+    "guide": {
+      "correctChoiceId": "C",
+      "explanation": "The changes alternate between +3 and +5. After +5, use +3 to get 27.",
+      "shortcut": "Check whether the differences repeat in pairs."
+    },
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-017",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-010",
+    "skill": "sequence_additive",
+    "templateFamily": "interleaved-arithmetic",
+    "difficulty": 3,
+    "stem": "What number comes next?  2, 20, 5, 18, 8, 16, …",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "13",
+      "14",
+      "10",
+      "11"
+    ],
+    "guide": {
+      "correctChoiceId": "D",
+      "explanation": "The odd-position terms are 2, 5, 8, increasing by 3. The next term is in that group, so it is 11. The even-position terms decrease by 2.",
+      "shortcut": "Separate the odd and even positions into two smaller sequences."
+    },
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-018",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-011",
+    "skill": "sequence_additive",
+    "templateFamily": "fraction-addition",
+    "difficulty": 2,
+    "stem": "What number comes next?  1/4, 3/4, 5/4, 7/4, …",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "8/4",
+      "9/4",
+      "10/4",
+      "11/4"
+    ],
+    "guide": {
+      "correctChoiceId": "B",
+      "explanation": "The numerator increases by 2 while the denominator stays 4. The next term is 9/4.",
+      "shortcut": "With equal denominators, look at the numerators first."
+    },
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-019",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-012",
+    "skill": "sequence_additive",
+    "templateFamily": "missing-additive-term",
+    "difficulty": 1,
+    "stem": "What number fills the blank?  14, 23, __, 41, 50",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "30",
+      "31",
+      "32",
+      "34"
+    ],
+    "guide": {
+      "correctChoiceId": "C",
+      "explanation": "The sequence adds 9 each time: 14, 23, 32, 41, 50.",
+      "shortcut": "Check your missing term against both neighbors."
+    },
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-020",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-013",
+    "skill": "sequence_additive",
+    "templateFamily": "square-gaps",
+    "difficulty": 2,
+    "stem": "What number comes next?  5, 8, 13, 20, 29, …",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "40",
+      "41",
+      "38",
+      "39"
+    ],
+    "guide": {
+      "correctChoiceId": "A",
+      "explanation": "The gaps are 3, 5, 7, and 9. The next odd-number gap is 11, so the next term is 40.",
+      "shortcut": "Consecutive odd gaps often appear in square-like sequences."
+    },
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-021",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-014",
+    "skill": "sequence_additive",
+    "templateFamily": "growing-subtraction",
+    "difficulty": 2,
+    "stem": "What number comes next?  50, 48, 44, 38, 30, …",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "18",
+      "20",
+      "22",
+      "24"
+    ],
+    "guide": {
+      "correctChoiceId": "B",
+      "explanation": "Subtract 2, then 4, then 6, then 8. Subtract 10 next to get 20.",
+      "shortcut": "Keep the direction of the change: the gaps grow, but the terms fall."
+    },
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-022",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-015",
+    "skill": "sequence_additive",
+    "templateFamily": "alternating-direction",
+    "difficulty": 2,
+    "stem": "What number comes next?  12, 19, 15, 22, 18, …",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "29",
+      "21",
+      "23",
+      "25"
+    ],
+    "guide": {
+      "correctChoiceId": "D",
+      "explanation": "The rule alternates +7 and −4. The last step was −4, so add 7 next: 25.",
+      "shortcut": "Label each step with its sign to spot an alternating rule."
+    },
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-023",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-016",
+    "skill": "sequence_additive",
+    "templateFamily": "sum-previous-two",
+    "difficulty": 2,
+    "stem": "What number comes next?  2, 3, 5, 8, 13, …",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "21",
+      "26",
+      "18",
+      "20"
+    ],
+    "guide": {
+      "correctChoiceId": "A",
+      "explanation": "Starting with the third term, each term is the sum of the two before it. Thus 8 + 13 = 21.",
+      "shortcut": "If one-step differences do not fit, try adding neighboring terms."
+    },
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-024",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "skill": "sequence_additive",
+    "format": "number_series",
+    "templateFamily": "paired-gap-blocks",
+    "difficulty": 2,
+    "stem": "What number fills the blank?  3, 7, 11, 18, 25, __, 45",
+    "choices": [
+      "38",
+      "29",
+      "32",
+      "35"
+    ],
+    "guide": {
+      "correctChoiceId": "D",
+      "explanation": "The differences come in pairs: +4, +4, then +7, +7, then +10, +10. The missing value is 25 + 10 = 35; 35 + 10 = 45.",
+      "shortcut": "Use the term after a blank to check your proposed rule."
+    },
+    "answerFormat": "numeric",
+    "id": "gb2-017",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "id": "gb2-018",
+    "skill": "sequence_additive",
+    "templateFamily": "decreasing-step-size",
+    "difficulty": 2,
+    "stem": "What number comes next?  3, 12, 20, 27, 33, …",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "40",
+      "37",
+      "38",
+      "39"
+    ],
+    "guide": {
+      "correctChoiceId": "C",
+      "explanation": "The increases are 9, 8, 7, and 6. Add 5 next to get 38.",
+      "shortcut": "A growing sequence can have shrinking positive gaps."
+    },
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-026",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-019",
+    "skill": "sequence_additive",
+    "templateFamily": "signed-addition",
+    "difficulty": 2,
+    "stem": "What number comes next?  −11, −6, −1, 4, …",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "9",
+      "11",
+      "5",
+      "7"
+    ],
+    "guide": {
+      "correctChoiceId": "A",
+      "explanation": "The sequence adds 5 each time, even as it crosses zero. The next term is 9.",
+      "shortcut": "Treat crossing zero like any other addition step."
+    },
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-027",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-020",
+    "skill": "sequence_additive",
+    "templateFamily": "three-step-cycle",
+    "difficulty": 3,
+    "stem": "What number comes next?  4, 6, 9, 13, 15, 18, …",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "21",
+      "22",
+      "24",
+      "20"
+    ],
+    "guide": {
+      "correctChoiceId": "B",
+      "explanation": "The increases repeat +2, +3, +4. After +2 and +3, add 4 to get 22.",
+      "shortcut": "Not every repeating pattern has only two steps."
+    },
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-028",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-021",
+    "skill": "sequence_multiplicative",
+    "templateFamily": "tripling",
+    "difficulty": 1,
+    "stem": "What number comes next?  2, 6, 18, 54, …",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "162",
+      "216",
+      "108",
+      "126"
+    ],
+    "guide": {
+      "correctChoiceId": "A",
+      "explanation": "Each term is multiplied by 3. Thus 54 × 3 = 162.",
+      "shortcut": "Check ratios when numbers grow much faster than constant addition."
+    },
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-029",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-022",
+    "skill": "sequence_multiplicative",
+    "templateFamily": "division-by-three",
+    "difficulty": 1,
+    "stem": "What number comes next?  405, 135, 45, 15, …",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "9",
+      "12",
+      "3",
+      "5"
+    ],
+    "guide": {
+      "correctChoiceId": "D",
+      "explanation": "Each term is divided by 3. The next term is 15 ÷ 3 = 5.",
+      "shortcut": "Verify the same divisor works for every neighboring pair."
+    },
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-030",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-023",
+    "skill": "sequence_multiplicative",
+    "templateFamily": "multiply-add",
+    "difficulty": 2,
+    "stem": "What number comes next?  2, 5, 11, 23, …",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "47",
+      "48",
+      "45",
+      "46"
+    ],
+    "guide": {
+      "correctChoiceId": "A",
+      "explanation": "Each term is doubled, then increased by 1. So 23 × 2 + 1 = 47.",
+      "shortcut": "Try a small adjustment after multiplying when simple doubling nearly works."
+    },
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-031",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-024",
+    "skill": "sequence_multiplicative",
+    "templateFamily": "multiply-subtract",
+    "difficulty": 2,
+    "stem": "What number comes next?  4, 11, 32, 95, …",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "285",
+      "286",
+      "190",
+      "284"
+    ],
+    "guide": {
+      "correctChoiceId": "D",
+      "explanation": "Each term is multiplied by 3, then reduced by 1. The next term is 285 − 1 = 284.",
+      "shortcut": "Check the multiply-and-adjust rule on more than one pair."
+    },
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-032",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-025",
+    "skill": "sequence_multiplicative",
+    "templateFamily": "decimal-halving",
+    "difficulty": 2,
+    "stem": "What number comes next?  6, 3, 1.5, 0.75, …",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "0.325",
+      "0.375",
+      "0.5",
+      "0.25"
+    ],
+    "guide": {
+      "correctChoiceId": "B",
+      "explanation": "Each term is half the previous one. Half of 0.75 is 0.375.",
+      "shortcut": "Halving 75 hundredths gives 375 thousandths."
+    },
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-033",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-026",
+    "skill": "sequence_multiplicative",
+    "templateFamily": "alternating-ratios",
+    "difficulty": 2,
+    "stem": "What number comes next?  1, 2, 6, 12, 36, …",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "72",
+      "108",
+      "48",
+      "60"
+    ],
+    "guide": {
+      "correctChoiceId": "A",
+      "explanation": "The multipliers alternate ×2, ×3. After ×3, multiply by 2 to get 72.",
+      "shortcut": "Write the ratio above each gap to reveal a repeating pair."
+    },
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-034",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-027",
+    "skill": "sequence_multiplicative",
+    "templateFamily": "increasing-multipliers",
+    "difficulty": 3,
+    "stem": "What number comes next?  1, 2, 6, 24, 120, …",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "360",
+      "600",
+      "720",
+      "240"
+    ],
+    "guide": {
+      "correctChoiceId": "C",
+      "explanation": "The multipliers are 2, 3, 4, and 5. Multiply by 6 next: 720.",
+      "shortcut": "The multiplier itself can form a counting sequence."
+    },
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-035",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-028",
+    "skill": "sequence_multiplicative",
+    "templateFamily": "powers-of-ten",
+    "difficulty": 1,
+    "stem": "What number comes next?  0.07, 0.7, 7, 70, …",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "140",
+      "700",
+      "7000",
+      "77"
+    ],
+    "guide": {
+      "correctChoiceId": "B",
+      "explanation": "Each term is multiplied by 10. Thus 70 becomes 700.",
+      "shortcut": "Keep track of place value when multiplying by 10."
+    },
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-036",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-029",
+    "skill": "sequence_multiplicative",
+    "templateFamily": "missing-geometric-term",
+    "difficulty": 2,
+    "stem": "What number fills the blank?  7, 28, __, 448",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "56",
+      "84",
+      "112",
+      "224"
+    ],
+    "guide": {
+      "correctChoiceId": "C",
+      "explanation": "The multiplier is 4. The missing term is 28 × 4 = 112, and 112 × 4 = 448.",
+      "shortcut": "Check the multiplier on both sides of the blank."
+    },
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-037",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "skill": "sequence_multiplicative",
+    "format": "number_series",
+    "templateFamily": "halving-and-counting-branches",
+    "difficulty": 3,
+    "stem": "Which pair continues the sequence?  96, 5, 48, 7, 24, 9, …",
+    "choices": [
+      "12, 10",
+      "12, 11",
+      "18, 11",
+      "48, 7"
+    ],
+    "guide": {
+      "correctChoiceId": "B",
+      "explanation": "The odd-position terms halve: 96, 48, 24, 12. The even-position terms increase by 2: 5, 7, 9, 11. The next pair is 12, 11.",
+      "shortcut": "Separate odd and even positions before trying a rule for every adjacent pair."
+    },
+    "answerFormat": "numeric_pair",
+    "id": "gb2-030",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "id": "gb2-031",
+    "skill": "sequence_multiplicative",
+    "templateFamily": "three-halves-ratio",
+    "difficulty": 3,
+    "stem": "What number comes next?  8, 12, 18, 27, …",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "39",
+      "40.5",
+      "54",
+      "36"
+    ],
+    "guide": {
+      "correctChoiceId": "B",
+      "explanation": "Each term is multiplied by 1.5. Add half of 27 to itself: 27 + 13.5 = 40.5.",
+      "shortcut": "Multiplying by 1.5 means adding half the number."
+    },
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-039",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "skill": "sequence_multiplicative",
+    "format": "number_series",
+    "templateFamily": "descending-letters-square-counts",
+    "difficulty": 3,
+    "stem": "What term comes next?  M1, K4, I9, …",
+    "choices": [
+      "F25",
+      "G12",
+      "H16",
+      "G16"
+    ],
+    "guide": {
+      "correctChoiceId": "D",
+      "explanation": "The letters move backward two places: M, K, I, G. The numbers are consecutive squares: 1, 4, 9, 16. Combine the next letter and number to get G16.",
+      "shortcut": "Check the letter and number rules separately before joining them."
+    },
+    "answerFormat": "alphanumeric",
+    "id": "gb2-032",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "sequence_multiplicative",
+    "format": "number_series",
+    "templateFamily": "cube-offset",
+    "difficulty": 3,
+    "stem": "What number comes next?  2, 9, 28, 65, 126, …",
+    "choices": [
+      "196",
+      "216",
+      "217",
+      "180"
+    ],
+    "guide": {
+      "correctChoiceId": "C",
+      "explanation": "The terms are one more than consecutive cubes: 1³ + 1, 2³ + 1, 3³ + 1, 4³ + 1, and 5³ + 1. The next is 6³ + 1 = 217.",
+      "shortcut": "Check familiar powers when simple differences and ratios do not fit."
+    },
+    "answerFormat": "numeric",
+    "id": "gb2-033",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "id": "gb2-034",
+    "skill": "sequence_multiplicative",
+    "templateFamily": "alternating-geometric-branches",
+    "difficulty": 3,
+    "stem": "What number comes next?  2, 3, 4, 9, 8, 27, …",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "16",
+      "54",
+      "81",
+      "12"
+    ],
+    "guide": {
+      "correctChoiceId": "A",
+      "explanation": "Odd-position terms double: 2, 4, 8, then 16. Even-position terms triple: 3, 9, 27.",
+      "shortcut": "Read every other term when a single multiplier does not fit."
+    },
+    "format": "number_series",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-042",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-035",
+    "skill": "number_manipulation",
+    "stem": "What is 25% of 84?",
+    "templateFamily": "quarter",
+    "choices": [
+      "18",
+      "21",
+      "24",
+      "28"
+    ],
+    "guide": {
+      "correctChoiceId": "B",
+      "explanation": "25% is one quarter. Divide 84 by 4 to get 21.",
+      "shortcut": "For 25%, halve the number twice: 84 → 42 → 21."
+    },
+    "difficulty": 1,
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "format": "number_manipulation",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "dev-05",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-036",
+    "skill": "number_manipulation",
+    "stem": "A number is doubled, then 9 is added. The result is 35. What was the original number?",
+    "templateFamily": "reverse-operations",
+    "choices": [
+      "13",
+      "17",
+      "22",
+      "12"
+    ],
+    "guide": {
+      "correctChoiceId": "A",
+      "explanation": "Undo the last operation first: 35 − 9 = 26. Then undo doubling: 26 ÷ 2 = 13. Check: 13 × 2 + 9 = 35.",
+      "shortcut": "Work backward with inverse operations, in reverse order."
+    },
+    "difficulty": 2,
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "format": "number_manipulation",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "dev-08",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-037",
+    "skill": "number_manipulation",
+    "templateFamily": "ten-percent",
+    "difficulty": 1,
+    "stem": "What is 10% of 350?",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "3.5",
+      "30",
+      "35",
+      "50"
+    ],
+    "guide": {
+      "correctChoiceId": "C",
+      "explanation": "Ten percent is one tenth. Dividing 350 by 10 gives 35.",
+      "shortcut": "Move the decimal one place left to find 10%."
+    },
+    "format": "number_manipulation",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-059",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-038",
+    "skill": "number_manipulation",
+    "templateFamily": "percent-decomposition",
+    "difficulty": 2,
+    "stem": "What is 15% of 80?",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "10",
+      "12",
+      "16",
+      "8"
+    ],
+    "guide": {
+      "correctChoiceId": "B",
+      "explanation": "Ten percent of 80 is 8 and 5% is 4. Add them to get 12.",
+      "shortcut": "Split 15% into 10% plus 5%."
+    },
+    "format": "number_manipulation",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-060",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-039",
+    "skill": "number_manipulation",
+    "templateFamily": "reverse-percent",
+    "difficulty": 2,
+    "stem": "18 is 30% of what number?",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "54",
+      "60",
+      "72",
+      "90"
+    ],
+    "guide": {
+      "correctChoiceId": "B",
+      "explanation": "If 30% is 18, then 10% is 6 and 100% is 60.",
+      "shortcut": "Scale down to 10%, then scale up to 100%."
+    },
+    "format": "number_manipulation",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-061",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-040",
+    "skill": "number_manipulation",
+    "templateFamily": "discount",
+    "difficulty": 2,
+    "stem": "A book costs $40 before a 20% discount. What is the sale price in dollars?",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "32",
+      "8",
+      "20",
+      "30"
+    ],
+    "guide": {
+      "correctChoiceId": "A",
+      "explanation": "Twenty percent of 40 is 8. Subtract the discount: 40 − 8 = 32.",
+      "shortcut": "The sale price is 80% of the original, not the discount amount."
+    },
+    "format": "number_manipulation",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-062",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-041",
+    "skill": "number_manipulation",
+    "templateFamily": "ratio-total",
+    "difficulty": 2,
+    "stem": "Red and blue counters are in a ratio of 2:3. There are 35 counters in total. How many are blue?",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "15",
+      "21",
+      "25",
+      "14"
+    ],
+    "guide": {
+      "correctChoiceId": "B",
+      "explanation": "There are 5 equal ratio parts. Each part is 35 ÷ 5 = 7 counters, and blue uses 3 parts: 21.",
+      "shortcut": "Add the ratio parts before dividing the total."
+    },
+    "format": "number_manipulation",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-063",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-042",
+    "skill": "number_manipulation",
+    "templateFamily": "average-missing",
+    "difficulty": 2,
+    "stem": "The average of 12, 16, and a third number is 15. What is the third number?",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "17",
+      "19",
+      "15",
+      "16"
+    ],
+    "guide": {
+      "correctChoiceId": "A",
+      "explanation": "The three numbers must total 45. Subtract 12 and 16: 45 − 28 = 17.",
+      "shortcut": "Convert an average into a total before finding a missing value."
+    },
+    "format": "number_manipulation",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-064",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-043",
+    "skill": "number_manipulation",
+    "templateFamily": "order-of-operations",
+    "difficulty": 1,
+    "stem": "What is 7 + 3 × 8?",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "80",
+      "88",
+      "31",
+      "56"
+    ],
+    "guide": {
+      "correctChoiceId": "C",
+      "explanation": "Multiply first: 3 × 8 = 24. Then add 7 to get 31.",
+      "shortcut": "Multiplication comes before addition unless parentheses change the order."
+    },
+    "format": "number_manipulation",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-065",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-044",
+    "skill": "number_manipulation",
+    "templateFamily": "distributive-mental",
+    "difficulty": 2,
+    "stem": "What is 19 × 6?",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "124",
+      "104",
+      "110",
+      "114"
+    ],
+    "guide": {
+      "correctChoiceId": "D",
+      "explanation": "Use 20 × 6 = 120, then subtract one group of 6: 114.",
+      "shortcut": "Round to a convenient number, then compensate."
+    },
+    "format": "number_manipulation",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-066",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-045",
+    "skill": "number_manipulation",
+    "templateFamily": "fraction-of-quantity",
+    "difficulty": 2,
+    "stem": "What is 3/8 of 64?",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "8",
+      "16",
+      "24",
+      "32"
+    ],
+    "guide": {
+      "correctChoiceId": "C",
+      "explanation": "One eighth of 64 is 8. Three eighths is 3 × 8 = 24.",
+      "shortcut": "Divide by the denominator first when it divides evenly."
+    },
+    "format": "number_manipulation",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-067",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-046",
+    "skill": "number_manipulation",
+    "templateFamily": "unit-rate",
+    "difficulty": 2,
+    "stem": "Five identical notebooks cost $15. How many dollars do eight notebooks cost?",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "18",
+      "21",
+      "24",
+      "40"
+    ],
+    "guide": {
+      "correctChoiceId": "C",
+      "explanation": "Each notebook costs 15 ÷ 5 = 3 dollars. Eight cost 8 × 3 = 24 dollars.",
+      "shortcut": "Find the price of one item before scaling."
+    },
+    "format": "number_manipulation",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-068",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-047",
+    "skill": "number_manipulation",
+    "templateFamily": "consecutive-integers",
+    "difficulty": 2,
+    "stem": "Three consecutive whole numbers have a sum of 72. What is the largest?",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "26",
+      "23",
+      "24",
+      "25"
+    ],
+    "guide": {
+      "correctChoiceId": "D",
+      "explanation": "Their middle number is 72 ÷ 3 = 24. The numbers are 23, 24, and 25.",
+      "shortcut": "For three consecutive numbers, the average is the middle one."
+    },
+    "format": "number_manipulation",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-069",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-048",
+    "skill": "number_manipulation",
+    "templateFamily": "remainder",
+    "difficulty": 2,
+    "stem": "What is the remainder when 157 is divided by 6?",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "2",
+      "3",
+      "5",
+      "1"
+    ],
+    "guide": {
+      "correctChoiceId": "D",
+      "explanation": "The greatest multiple of 6 not exceeding 157 is 156. Subtract to get a remainder of 1.",
+      "shortcut": "Use the nearest lower multiple of the divisor."
+    },
+    "format": "number_manipulation",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-070",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-049",
+    "skill": "number_manipulation",
+    "templateFamily": "proportional-sum",
+    "difficulty": 2,
+    "stem": "One number is three times another. Their sum is 52. What is the smaller number?",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "39",
+      "12",
+      "13",
+      "17"
+    ],
+    "guide": {
+      "correctChoiceId": "C",
+      "explanation": "The smaller number is one part and the larger is three parts. Four parts total 52, so one part is 13.",
+      "shortcut": "Translate “three times” into 3 parts plus 1 part."
+    },
+    "format": "number_manipulation",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-071",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-050",
+    "skill": "number_manipulation",
+    "templateFamily": "difference-equation",
+    "difficulty": 3,
+    "stem": "Two numbers differ by 8 and have a sum of 46. What is the larger number?",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "31",
+      "19",
+      "23",
+      "27"
+    ],
+    "guide": {
+      "correctChoiceId": "D",
+      "explanation": "Their average is 23. Each number is 4 away from the average, so the larger is 27.",
+      "shortcut": "Add half the difference to the average."
+    },
+    "format": "number_manipulation",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-072",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-051",
+    "skill": "number_manipulation",
+    "templateFamily": "percent-increase",
+    "difficulty": 2,
+    "stem": "A value rises from 40 to 50. What is the percentage increase?",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "10%",
+      "20%",
+      "25%",
+      "40%"
+    ],
+    "guide": {
+      "correctChoiceId": "C",
+      "explanation": "The increase is 10. Relative to the original 40, that is 10/40 = 1/4 = 25%.",
+      "shortcut": "Divide by the original value, not the new value."
+    },
+    "format": "number_manipulation",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-073",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "id": "gb2-052",
+    "skill": "number_manipulation",
+    "templateFamily": "successive-fractions",
+    "difficulty": 2,
+    "stem": "A tank is 3/4 full. Half of the water is removed. What fraction of the whole tank is still filled?",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "choices": [
+      "5/8",
+      "1/4",
+      "3/8",
+      "1/2"
+    ],
+    "guide": {
+      "correctChoiceId": "C",
+      "explanation": "Half of the water remains, so take half of 3/4: 3/4 × 1/2 = 3/8.",
+      "shortcut": "“Half of” means multiply by 1/2, not subtract 1/2 of the whole tank."
+    },
+    "format": "number_manipulation",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": "quant-074",
+      "referenceUse": "format calibration only"
+    },
+    "answerFormat": "numeric"
+  },
+  {
+    "skill": "number_manipulation",
+    "format": "number_manipulation",
+    "templateFamily": "fractional-remainder",
+    "difficulty": 2,
+    "stem": "A ribbon is 72 cm long. After 1/3 is cut away, the remaining ribbon is divided into 4 equal pieces. How long is each piece, in cm?",
+    "choices": [
+      "12",
+      "16",
+      "18",
+      "6"
+    ],
+    "guide": {
+      "correctChoiceId": "A",
+      "explanation": "One third of 72 is 24, leaving 48 cm. Divide 48 by 4 to get 12 cm per piece.",
+      "shortcut": "Find what remains before dividing it into pieces."
+    },
+    "answerFormat": "numeric",
+    "id": "gb2-053",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "number_manipulation",
+    "format": "number_manipulation",
+    "templateFamily": "target-balance",
+    "difficulty": 2,
+    "stem": "A balance starts at 18 points. Each correct answer adds 5 points and each incorrect answer removes 2. After 4 correct and 3 incorrect answers, what is the balance?",
+    "choices": [
+      "30",
+      "32",
+      "38",
+      "26"
+    ],
+    "guide": {
+      "correctChoiceId": "B",
+      "explanation": "Four correct answers add 20 points; three incorrect answers remove 6. The final balance is 18 + 20 − 6 = 32.",
+      "shortcut": "Compute gains and losses separately, then combine them."
+    },
+    "answerFormat": "numeric",
+    "id": "gb2-054",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "number_manipulation",
+    "format": "number_manipulation",
+    "templateFamily": "repeated-discount-amount",
+    "difficulty": 2,
+    "stem": "A $60 item is reduced by 10%, then reduced by another $6. What is its final price in dollars?",
+    "choices": [
+      "48",
+      "50",
+      "54",
+      "42"
+    ],
+    "guide": {
+      "correctChoiceId": "A",
+      "explanation": "A 10% reduction removes $6, leaving $54. The additional $6 reduction leaves $48.",
+      "shortcut": "A dollar reduction and a percentage reduction are different operations."
+    },
+    "answerFormat": "numeric",
+    "id": "gb2-055",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "number_manipulation",
+    "format": "number_manipulation",
+    "templateFamily": "weighted-mean",
+    "difficulty": 3,
+    "stem": "Two quiz scores average 14 points. A third score raises the average of all three to 16. What is the third score?",
+    "choices": [
+      "20",
+      "22",
+      "16",
+      "18"
+    ],
+    "guide": {
+      "correctChoiceId": "A",
+      "explanation": "The first two scores total 28. All three must total 48, so the third score is 48 − 28 = 20.",
+      "shortcut": "Convert both averages to totals before subtracting."
+    },
+    "answerFormat": "numeric",
+    "id": "gb2-056",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "number_manipulation",
+    "format": "number_manipulation",
+    "templateFamily": "ratio-transfer",
+    "difficulty": 1,
+    "stem": "A box has 12 red and 20 blue tokens. How many blue tokens must be removed so that red and blue tokens are equally numerous?",
+    "choices": [
+      "4",
+      "8",
+      "12",
+      "16"
+    ],
+    "guide": {
+      "correctChoiceId": "B",
+      "explanation": "Keep the 12 red tokens and reduce the blue count to 12. Remove 20 − 12 = 8 blue tokens.",
+      "shortcut": "Only the named group changes; do not split the difference between groups."
+    },
+    "answerFormat": "numeric",
+    "id": "gb2-057",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "number_manipulation",
+    "format": "number_manipulation",
+    "templateFamily": "inverse-fraction-step",
+    "difficulty": 2,
+    "stem": "After 6 is added to a number, the result is divided by 3 to give 11. What is the original number?",
+    "choices": [
+      "27",
+      "39",
+      "9",
+      "17"
+    ],
+    "guide": {
+      "correctChoiceId": "A",
+      "explanation": "Before division the value was 11 × 3 = 33. Before adding 6 it was 33 − 6 = 27.",
+      "shortcut": "Undo the steps in reverse order."
+    },
+    "answerFormat": "numeric",
+    "id": "gb2-058",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "number_manipulation",
+    "format": "number_manipulation",
+    "templateFamily": "unit-conversion-remainder",
+    "difficulty": 2,
+    "stem": "A 2-metre cord is cut into five 30-cm lengths. How many centimetres remain?",
+    "choices": [
+      "20",
+      "30",
+      "50",
+      "150"
+    ],
+    "guide": {
+      "correctChoiceId": "C",
+      "explanation": "Two metres is 200 cm. Five pieces use 150 cm, leaving 50 cm.",
+      "shortcut": "Convert to one unit before subtracting."
+    },
+    "answerFormat": "numeric",
+    "id": "gb2-059",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "number_manipulation",
+    "format": "number_manipulation",
+    "templateFamily": "difference-of-squares",
+    "difficulty": 2,
+    "stem": "How much greater is the square of 9 than the square of 7?",
+    "choices": [
+      "16",
+      "32",
+      "64",
+      "4"
+    ],
+    "guide": {
+      "correctChoiceId": "B",
+      "explanation": "The squares are 81 and 49. Their difference is 32.",
+      "shortcut": "You can also use (9 − 7)(9 + 7) = 2 × 16."
+    },
+    "answerFormat": "numeric",
+    "id": "gb2-060",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "number_manipulation",
+    "format": "number_manipulation",
+    "templateFamily": "fraction-missing-sum",
+    "difficulty": 2,
+    "stem": "What fraction must be added to 5/12 to make 3/4?",
+    "choices": [
+      "2/3",
+      "1/6",
+      "1/4",
+      "1/3"
+    ],
+    "guide": {
+      "correctChoiceId": "D",
+      "explanation": "Three quarters is 9/12. Subtract 5/12 to get 4/12, which simplifies to 1/3.",
+      "shortcut": "Use a common denominator before finding the missing part."
+    },
+    "answerFormat": "numeric",
+    "id": "gb2-061",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "number_manipulation",
+    "format": "number_manipulation",
+    "templateFamily": "discrete-capacity",
+    "difficulty": 2,
+    "stem": "A tray holds 8 cups. What is the smallest number of trays needed to hold 35 cups?",
+    "choices": [
+      "5",
+      "6",
+      "7",
+      "4"
+    ],
+    "guide": {
+      "correctChoiceId": "A",
+      "explanation": "Four trays hold only 32 cups. One more tray is needed for the remaining 3 cups, so 5 trays are required.",
+      "shortcut": "A partially filled final tray still counts as a whole tray."
+    },
+    "answerFormat": "numeric",
+    "id": "gb2-062",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "number_manipulation",
+    "format": "number_manipulation",
+    "templateFamily": "double-and-half-percent",
+    "difficulty": 2,
+    "stem": "A number is increased by 50% and becomes 42. What was the number?",
+    "choices": [
+      "30",
+      "63",
+      "21",
+      "28"
+    ],
+    "guide": {
+      "correctChoiceId": "D",
+      "explanation": "The new value is 1.5 times the original. Divide 42 by 1.5 to get 28; half of 28 is 14, and 28 + 14 = 42.",
+      "shortcut": "Treat the result as three half-sized parts; the original is two of those parts."
+    },
+    "answerFormat": "numeric",
+    "id": "gb2-063",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "number_manipulation",
+    "format": "number_manipulation",
+    "templateFamily": "equal-groups-change",
+    "difficulty": 3,
+    "stem": "Six equal groups contain 54 counters altogether. Two groups are removed, then 7 counters are added. How many counters are there now?",
+    "choices": [
+      "25",
+      "34",
+      "36",
+      "43"
+    ],
+    "guide": {
+      "correctChoiceId": "D",
+      "explanation": "Each group contains 9 counters. Four groups remain, containing 36; adding 7 gives 43.",
+      "shortcut": "Find one group, then rebuild only the groups that remain."
+    },
+    "answerFormat": "numeric",
+    "id": "gb2-064",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "number_manipulation",
+    "format": "number_manipulation",
+    "templateFamily": "consecutive-odd-total",
+    "difficulty": 3,
+    "stem": "Three consecutive odd numbers total 87. What is the smallest?",
+    "choices": [
+      "25",
+      "27",
+      "29",
+      "31"
+    ],
+    "guide": {
+      "correctChoiceId": "B",
+      "explanation": "The middle number is 87 ÷ 3 = 29. Consecutive odd numbers differ by 2, so the smallest is 27.",
+      "shortcut": "The middle value equals the average for three equally spaced numbers."
+    },
+    "answerFormat": "numeric",
+    "id": "gb2-065",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "number_manipulation",
+    "format": "number_manipulation",
+    "templateFamily": "rate-with-fixed-part",
+    "difficulty": 2,
+    "stem": "A delivery charge is $4 plus $3 for each parcel. The total charge is $25. How many parcels were delivered?",
+    "choices": [
+      "8",
+      "9",
+      "6",
+      "7"
+    ],
+    "guide": {
+      "correctChoiceId": "D",
+      "explanation": "Remove the fixed $4 charge: 25 − 4 = 21. Divide by $3 per parcel to get 7 parcels.",
+      "shortcut": "Subtract the fixed amount before dividing by the per-item amount."
+    },
+    "answerFormat": "numeric",
+    "id": "gb2-066",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "nongeometric_comparison",
+    "templateFamily": "fraction-percent-equality",
+    "difficulty": 2,
+    "stem": "Compare the quantities. Which statement is true?\nP = 3/8 of 80; Q = 35% of 80; R = 0.3 × 100.",
+    "choices": [
+      "P = Q",
+      "Q > R",
+      "P = R > Q",
+      "P < Q < R"
+    ],
+    "guide": {
+      "correctChoiceId": "C",
+      "explanation": "P = 30, Q = 28, and R = 30. Therefore P and R are equal and both exceed Q.",
+      "shortcut": "Find a common quantity before comparing different representations."
+    },
+    "answerFormat": "relationship",
+    "id": "gb2-067",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "nongeometric_comparison",
+    "templateFamily": "negative-order",
+    "difficulty": 2,
+    "stem": "Compare the quantities. Which statement is true?\nP = −3 × 4; Q = 5 − 14; R = −2 × 5.",
+    "choices": [
+      "P = R",
+      "P > Q > R",
+      "Q > R > P",
+      "R > P > Q"
+    ],
+    "guide": {
+      "correctChoiceId": "C",
+      "explanation": "P = −12, Q = −9, and R = −10. Among negatives, the number closer to zero is greater.",
+      "shortcut": "Place negative values on a mental number line."
+    },
+    "answerFormat": "relationship",
+    "id": "gb2-068",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "nongeometric_comparison",
+    "templateFamily": "operation-grouping",
+    "difficulty": 2,
+    "stem": "Compare the quantities. Which statement is true?\nP = 4 × (9 − 2); Q = 4 × 9 − 2; R = 4 × 9 − 4 × 2.",
+    "choices": [
+      "P = Q = R",
+      "P = R < Q",
+      "P > R",
+      "Q < R"
+    ],
+    "guide": {
+      "correctChoiceId": "B",
+      "explanation": "P and R both equal 28 by the distributive property. Q equals 34 because only 2 is subtracted.",
+      "shortcut": "Distribute a multiplier to every term inside parentheses."
+    },
+    "answerFormat": "relationship",
+    "id": "gb2-069",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "nongeometric_comparison",
+    "templateFamily": "fraction-near-one",
+    "difficulty": 2,
+    "stem": "Compare the quantities. Which statement is true?\nP = 11/12; Q = 7/8; R = 5/6.",
+    "choices": [
+      "P > Q > R",
+      "Q > P > R",
+      "R > Q > P",
+      "P = Q"
+    ],
+    "guide": {
+      "correctChoiceId": "A",
+      "explanation": "Their gaps below 1 are 1/12, 1/8, and 1/6. The smallest gap belongs to the greatest fraction.",
+      "shortcut": "Compare distances below 1 rather than dividing all three fractions."
+    },
+    "answerFormat": "relationship",
+    "id": "gb2-070",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "nongeometric_comparison",
+    "templateFamily": "ratio-decimal-order",
+    "difficulty": 2,
+    "stem": "Compare the quantities. Which statement is true?\nP = 7 ÷ 20; Q = 0.305; R = 33%.",
+    "choices": [
+      "P > R > Q",
+      "P = R",
+      "Q > P",
+      "P < R"
+    ],
+    "guide": {
+      "correctChoiceId": "A",
+      "explanation": "P is 0.35, R is 0.33, and Q is 0.305. Thus P > R > Q.",
+      "shortcut": "Write each value to the same decimal precision."
+    },
+    "answerFormat": "relationship",
+    "id": "gb2-071",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "nongeometric_comparison",
+    "templateFamily": "two-quantity-sum",
+    "difficulty": 2,
+    "stem": "Compare the quantities. Which statement is true?\nP = 2³; Q = 3²; R = 4².",
+    "choices": [
+      "P > Q",
+      "R < Q",
+      "P + Q = R",
+      "P + Q > R"
+    ],
+    "guide": {
+      "correctChoiceId": "D",
+      "explanation": "P = 8, Q = 9, and R = 16. Their sum P + Q is 17, which is greater than 16.",
+      "shortcut": "Evaluate the requested relationship, not only the largest single quantity."
+    },
+    "answerFormat": "relationship",
+    "id": "gb2-072",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "nongeometric_comparison",
+    "templateFamily": "percentage-complement",
+    "difficulty": 2,
+    "stem": "Compare the quantities. Which statement is true?\nP = 60% of 45; Q = 40% of 45; R = 9.",
+    "choices": [
+      "P + R = Q",
+      "Q = R",
+      "P = Q",
+      "P − Q = R"
+    ],
+    "guide": {
+      "correctChoiceId": "D",
+      "explanation": "P is 27 and Q is 18. Their difference is 9, equal to R.",
+      "shortcut": "The difference between 60% and 40% is 20% of the same base."
+    },
+    "answerFormat": "relationship",
+    "id": "gb2-073",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "nongeometric_comparison",
+    "templateFamily": "reciprocal-size",
+    "difficulty": 2,
+    "stem": "Compare the quantities. Which statement is true?\nP = 1 ÷ 0.25; Q = 1 ÷ 0.5; R = 1 ÷ 2.",
+    "choices": [
+      "P > Q > R",
+      "R > P",
+      "P < Q < R",
+      "P = Q"
+    ],
+    "guide": {
+      "correctChoiceId": "A",
+      "explanation": "P = 4, Q = 2, and R = 1/2. Dividing by a smaller positive number gives a larger result.",
+      "shortcut": "Division by a fraction below 1 increases a positive number."
+    },
+    "answerFormat": "relationship",
+    "id": "gb2-074",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "nongeometric_comparison",
+    "templateFamily": "mean-versus-midpoint",
+    "difficulty": 2,
+    "stem": "Compare the quantities. Which statement is true?\nP = the average of 8 and 20; Q = the average of 11 and 17; R = 15.",
+    "choices": [
+      "P = R",
+      "P < Q",
+      "P = Q < R",
+      "Q > R"
+    ],
+    "guide": {
+      "correctChoiceId": "C",
+      "explanation": "Both pairs total 28, so both averages are 14. Each is less than 15.",
+      "shortcut": "Pairs with the same sum have the same average."
+    },
+    "answerFormat": "relationship",
+    "id": "gb2-075",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "nongeometric_comparison",
+    "templateFamily": "equal-rate-different-whole",
+    "difficulty": 2,
+    "stem": "Compare the quantities. Which statement is true?\nP = 3/5 of 50; Q = 3/5 of 45; R = 2/3 of 45.",
+    "choices": [
+      "P = Q",
+      "P = R > Q",
+      "Q > R",
+      "P < R"
+    ],
+    "guide": {
+      "correctChoiceId": "B",
+      "explanation": "P = 30, Q = 27, and R = 30. P and R are equal; both exceed Q.",
+      "shortcut": "The same fraction of different wholes does not give the same amount."
+    },
+    "answerFormat": "relationship",
+    "id": "gb2-076",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "nongeometric_comparison",
+    "templateFamily": "decimal-product-size",
+    "difficulty": 2,
+    "stem": "Compare the quantities. Which statement is true?\nP = 0.8 × 0.6; Q = 0.8 + 0.6; R = 0.8 − 0.6.",
+    "choices": [
+      "P = R",
+      "P > Q",
+      "R > P",
+      "Q > P > R"
+    ],
+    "guide": {
+      "correctChoiceId": "D",
+      "explanation": "P = 0.48, Q = 1.4, and R = 0.2. So Q > P > R.",
+      "shortcut": "Multiplying two positive decimals below 1 makes a smaller product."
+    },
+    "answerFormat": "relationship",
+    "id": "gb2-077",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "nongeometric_comparison",
+    "templateFamily": "fractional-sums",
+    "difficulty": 3,
+    "stem": "Compare the quantities. Which statement is true?\nP = 1/2 + 1/3; Q = 3/4; R = 5/6.",
+    "choices": [
+      "Q = R",
+      "P = R > Q",
+      "P < Q",
+      "P > R"
+    ],
+    "guide": {
+      "correctChoiceId": "B",
+      "explanation": "P = 3/6 + 2/6 = 5/6, equal to R. In twelfths, 5/6 is 10/12 and 3/4 is 9/12.",
+      "shortcut": "Simplify one expression before comparing it with the others."
+    },
+    "answerFormat": "relationship",
+    "id": "gb2-078",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "nongeometric_comparison",
+    "templateFamily": "percent-change-same-delta",
+    "difficulty": 3,
+    "stem": "Compare the quantities. Which statement is true?\nP = the increase from 50 to 60 as a fraction of 50; Q = the decrease from 60 to 50 as a fraction of 60; R = 1/5.",
+    "choices": [
+      "P = Q",
+      "Q > R",
+      "P = R > Q",
+      "P < Q"
+    ],
+    "guide": {
+      "correctChoiceId": "C",
+      "explanation": "P is 10/50 = 1/5. Q is 10/60 = 1/6. Equal changes divided by different starting values give different rates.",
+      "shortcut": "Always identify the base used in each fraction."
+    },
+    "answerFormat": "relationship",
+    "id": "gb2-079",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "nongeometric_comparison",
+    "templateFamily": "factor-comparison",
+    "difficulty": 1,
+    "stem": "Compare the quantities. Which statement is true?\nP = 12 × 7; Q = 6 × 14; R = 3 × 28.",
+    "choices": [
+      "Q > R",
+      "P > Q",
+      "R < Q",
+      "P = Q = R"
+    ],
+    "guide": {
+      "correctChoiceId": "D",
+      "explanation": "Each product is 84. Halving one factor while doubling the other leaves the product unchanged.",
+      "shortcut": "Use factor compensation instead of multiplying three times."
+    },
+    "answerFormat": "relationship",
+    "id": "gb2-080",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "nongeometric_comparison",
+    "templateFamily": "absolute-versus-signed",
+    "difficulty": 2,
+    "stem": "Compare the quantities. Which statement is true?\nP = the distance from −7 to 0; Q = −7; R = the distance from 3 to −3.",
+    "choices": [
+      "P > R > Q",
+      "P = Q",
+      "Q > R",
+      "R > P"
+    ],
+    "guide": {
+      "correctChoiceId": "A",
+      "explanation": "Distances are nonnegative: P = 7 and R = 6. Q is −7, so P > R > Q.",
+      "shortcut": "Distance is a length, not a signed coordinate."
+    },
+    "answerFormat": "relationship",
+    "id": "gb2-081",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "nongeometric_comparison",
+    "templateFamily": "square-versus-product",
+    "difficulty": 2,
+    "stem": "Compare the quantities. Which statement is true?\nP = 15²; Q = 14 × 16; R = 13 × 17.",
+    "choices": [
+      "R > Q > P",
+      "P = Q",
+      "Q < R",
+      "P > Q > R"
+    ],
+    "guide": {
+      "correctChoiceId": "D",
+      "explanation": "P = 225, Q = 224, and R = 221. The products decrease as the factors move equally away from 15.",
+      "shortcut": "Use (a − b)(a + b) = a² − b² to compare efficiently."
+    },
+    "answerFormat": "relationship",
+    "id": "gb2-082",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "nongeometric_comparison",
+    "templateFamily": "fraction-of-difference",
+    "difficulty": 2,
+    "stem": "Compare the quantities. Which statement is true?\nP = 1/2 of (30 − 12); Q = 1/2 of 30, minus 12; R = 3.",
+    "choices": [
+      "P > Q = R",
+      "P < R",
+      "Q > R",
+      "P = Q"
+    ],
+    "guide": {
+      "correctChoiceId": "A",
+      "explanation": "P = 18/2 = 9. Q = 15 − 12 = 3, equal to R. The parentheses change what is halved.",
+      "shortcut": "Track which part of the expression the fraction applies to."
+    },
+    "answerFormat": "relationship",
+    "id": "gb2-083",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "nongeometric_comparison",
+    "templateFamily": "fraction-order-signs",
+    "difficulty": 3,
+    "stem": "Compare the quantities. Which statement is true?\nP = −2/3; Q = −3/4; R = −5/8.",
+    "choices": [
+      "P = Q",
+      "Q > P > R",
+      "P > R > Q",
+      "R > P > Q"
+    ],
+    "guide": {
+      "correctChoiceId": "D",
+      "explanation": "In twenty-fourths, P = −16/24, Q = −18/24, and R = −15/24. The greatest is the one closest to zero.",
+      "shortcut": "Use a common denominator, then remember that negative order reverses size intuition."
+    },
+    "answerFormat": "relationship",
+    "id": "gb2-084",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "geometric_comparison",
+    "templateFamily": "grid-fraction-order",
+    "difficulty": 2,
+    "stem": "Each grid is one whole, divided into equal cells. Let P, Q, and R be the fractions shaded in the labeled grids. Which statement is true?",
+    "choices": [
+      "P = R",
+      "R > Q",
+      "P < R < Q",
+      "Q < P < R"
+    ],
+    "guide": {
+      "correctChoiceId": "C",
+      "explanation": "P = 3/10, Q = 5/12, and R = 2/6 = 1/3. In sixtieths these are 18, 25, and 20, so P < R < Q.",
+      "shortcut": "Compare fractions of each whole, not raw numbers of shaded cells."
+    },
+    "answerFormat": "relationship",
+    "visual": {
+      "type": "grids",
+      "panels": [
+        {
+          "label": "P",
+          "rows": 2,
+          "cols": 5,
+          "shaded": [
+            0,
+            6,
+            9
+          ]
+        },
+        {
+          "label": "Q",
+          "rows": 3,
+          "cols": 4,
+          "shaded": [
+            0,
+            2,
+            5,
+            8,
+            11
+          ]
+        },
+        {
+          "label": "R",
+          "rows": 2,
+          "cols": 3,
+          "shaded": [
+            1,
+            4
+          ]
+        }
+      ],
+      "alt": "Equal cells. P: 2 rows by 5 columns; shaded cells (row-major, starting at 1): 1, 7, 10; Q: 3 rows by 4 columns; shaded cells (row-major, starting at 1): 1, 3, 6, 9, 12; R: 2 rows by 3 columns; shaded cells (row-major, starting at 1): 2, 5"
+    },
+    "id": "gb2-085",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "geometric_comparison",
+    "templateFamily": "grid-target",
+    "difficulty": 2,
+    "stem": "The grid has equal-sized cells. How many additional cells must be shaded so that exactly 2/3 of the grid is shaded?",
+    "choices": [
+      "10",
+      "3",
+      "4",
+      "5"
+    ],
+    "guide": {
+      "correctChoiceId": "C",
+      "explanation": "There are 15 cells and 6 are shaded. Two thirds of 15 is 10; shade 10 − 6 = 4 additional cells.",
+      "shortcut": "Find the target number of shaded cells, then subtract those already shaded."
+    },
+    "answerFormat": "numeric",
+    "visual": {
+      "type": "grids",
+      "panels": [
+        {
+          "label": "Grid",
+          "rows": 3,
+          "cols": 5,
+          "shaded": [
+            0,
+            2,
+            5,
+            7,
+            10,
+            12
+          ]
+        }
+      ],
+      "alt": "Equal cells. Grid: 3 rows by 5 columns; shaded cells (row-major, starting at 1): 1, 3, 6, 8, 11, 13"
+    },
+    "id": "gb2-086",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "geometric_comparison",
+    "templateFamily": "grid-combined-whole",
+    "difficulty": 3,
+    "stem": "The two grids are identical and have equal-sized cells. What fraction of all cells in BOTH grids together is shaded?",
+    "choices": [
+      "1/4",
+      "1/3",
+      "5/12",
+      "2/3"
+    ],
+    "guide": {
+      "correctChoiceId": "B",
+      "explanation": "There are 24 cells altogether. The grids have 3 and 5 shaded cells, for 8 shaded cells. Thus 8/24 = 1/3.",
+      "shortcut": "When the question combines two wholes, combine their total cell counts too."
+    },
+    "answerFormat": "numeric",
+    "visual": {
+      "type": "grids",
+      "panels": [
+        {
+          "label": "U",
+          "rows": 3,
+          "cols": 4,
+          "shaded": [
+            0,
+            5,
+            10
+          ]
+        },
+        {
+          "label": "V",
+          "rows": 3,
+          "cols": 4,
+          "shaded": [
+            1,
+            3,
+            4,
+            6,
+            9
+          ]
+        }
+      ],
+      "alt": "Equal cells. U: 3 rows by 4 columns; shaded cells (row-major, starting at 1): 1, 6, 11; V: 3 rows by 4 columns; shaded cells (row-major, starting at 1): 2, 4, 5, 7, 10"
+    },
+    "id": "gb2-087",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "geometric_comparison",
+    "templateFamily": "grid-unshade",
+    "difficulty": 1,
+    "stem": "Two currently shaded cells are erased. What fraction of the grid will then remain shaded?",
+    "choices": [
+      "1/8",
+      "1/4",
+      "3/8",
+      "1/2"
+    ],
+    "guide": {
+      "correctChoiceId": "B",
+      "explanation": "Six of the 16 cells are currently shaded. Erasing two leaves 4 shaded cells, and 4/16 = 1/4.",
+      "shortcut": "The total number of cells stays the same when shading changes."
+    },
+    "answerFormat": "numeric",
+    "visual": {
+      "type": "grids",
+      "panels": [
+        {
+          "label": "Grid",
+          "rows": 4,
+          "cols": 4,
+          "shaded": [
+            0,
+            2,
+            5,
+            7,
+            8,
+            13
+          ]
+        }
+      ],
+      "alt": "Equal cells. Grid: 4 rows by 4 columns; shaded cells (row-major, starting at 1): 1, 3, 6, 8, 9, 14"
+    },
+    "id": "gb2-088",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "geometric_comparison",
+    "templateFamily": "bar-combined-comparison",
+    "difficulty": 2,
+    "stem": "The bars show the number of tickets sold by K, L, and M. Which statement is true?",
+    "choices": [
+      "K = M",
+      "K + M > L",
+      "L < K",
+      "K + M < L"
+    ],
+    "guide": {
+      "correctChoiceId": "B",
+      "explanation": "K sold 6, L sold 10, and M sold 8 tickets. K and M together sold 14, which is more than L’s 10.",
+      "shortcut": "Read the scale, then compute only the relationship being tested."
+    },
+    "answerFormat": "relationship",
+    "visual": {
+      "type": "bars",
+      "labels": [
+        "K",
+        "L",
+        "M"
+      ],
+      "values": [
+        6,
+        10,
+        8
+      ],
+      "maximum": 12,
+      "tick": 2,
+      "unit": "Tickets",
+      "alt": "Tickets; K: 6, L: 10, M: 8. Vertical scale 0 to 12 in steps of 2."
+    },
+    "id": "gb2-089",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "geometric_comparison",
+    "templateFamily": "bar-missing-total",
+    "difficulty": 2,
+    "stem": "The chart shows books read from Monday through Thursday. How many books must be read on Friday to make the five-day total 30?",
+    "choices": [
+      "6",
+      "9",
+      "4",
+      "5"
+    ],
+    "guide": {
+      "correctChoiceId": "A",
+      "explanation": "The four bars total 5 + 9 + 7 + 3 = 24. Friday must add 30 − 24 = 6 books.",
+      "shortcut": "Find the total already shown before finding the missing part."
+    },
+    "answerFormat": "numeric",
+    "visual": {
+      "type": "bars",
+      "labels": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu"
+      ],
+      "values": [
+        5,
+        9,
+        7,
+        3
+      ],
+      "maximum": 10,
+      "tick": 1,
+      "unit": "Books",
+      "alt": "Books; Mon: 5, Tue: 9, Wed: 7, Thu: 3. Vertical scale 0 to 10 in steps of 1."
+    },
+    "id": "gb2-090",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "geometric_comparison",
+    "templateFamily": "bar-average",
+    "difficulty": 2,
+    "stem": "The bars show the number of points earned in three rounds. How many points above the three-round average is Round B?",
+    "choices": [
+      "3",
+      "4",
+      "1",
+      "2"
+    ],
+    "guide": {
+      "correctChoiceId": "D",
+      "explanation": "The total is 4 + 10 + 10 = 24, so the average is 8. Round B has 10 points, which is 2 above average.",
+      "shortcut": "An average uses every round, including tied values."
+    },
+    "answerFormat": "numeric",
+    "visual": {
+      "type": "bars",
+      "labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "values": [
+        4,
+        10,
+        10
+      ],
+      "maximum": 12,
+      "tick": 2,
+      "unit": "Points",
+      "alt": "Points; A: 4, B: 10, C: 10. Vertical scale 0 to 12 in steps of 2."
+    },
+    "id": "gb2-091",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "geometric_comparison",
+    "templateFamily": "bar-transfer",
+    "difficulty": 3,
+    "stem": "Two counters are moved from group Q to group R. After the move, which relationship is true?",
+    "choices": [
+      "P > Q > R",
+      "Q > P > R",
+      "Q = P",
+      "R > Q"
+    ],
+    "guide": {
+      "correctChoiceId": "B",
+      "explanation": "The original counts are P = 8, Q = 12, R = 4. After moving two, Q = 10 and R = 6; P stays 8. So Q > P > R.",
+      "shortcut": "Update both the giving and receiving group, but leave the third group unchanged."
+    },
+    "answerFormat": "relationship",
+    "visual": {
+      "type": "bars",
+      "labels": [
+        "P",
+        "Q",
+        "R"
+      ],
+      "values": [
+        8,
+        12,
+        4
+      ],
+      "maximum": 12,
+      "tick": 2,
+      "unit": "Counters",
+      "alt": "Counters; P: 8, Q: 12, R: 4. Vertical scale 0 to 12 in steps of 2."
+    },
+    "id": "gb2-092",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "geometric_comparison",
+    "templateFamily": "equal-perimeter-distinct-area",
+    "difficulty": 2,
+    "stem": "P is a rectangle and Q is a square with the dimensions shown. Which statement is true?",
+    "choices": [
+      "They have equal areas",
+      "Q has a smaller area than P",
+      "P has a larger perimeter than Q",
+      "They have equal perimeters, but Q has the larger area"
+    ],
+    "guide": {
+      "correctChoiceId": "D",
+      "explanation": "P has perimeter 2(7 + 3) = 20 and area 21. Q has perimeter 4 × 5 = 20 and area 25. The perimeters match, but Q has more area.",
+      "shortcut": "Perimeter and area measure different things; compare them separately."
+    },
+    "answerFormat": "relationship",
+    "visual": {
+      "type": "rectangles",
+      "panels": [
+        {
+          "label": "P",
+          "width": 7,
+          "height": 3
+        },
+        {
+          "label": "Q",
+          "width": 5,
+          "height": 5
+        }
+      ],
+      "unit": "cm",
+      "alt": "Rectangles, dimensions in cm. P: width 7, height 3; Q: width 5, height 5"
+    },
+    "id": "gb2-093",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "geometric_comparison",
+    "templateFamily": "rectangle-perimeter-gap",
+    "difficulty": 2,
+    "stem": "Both figures are rectangles. How many centimetres greater is the perimeter of T than the perimeter of S?",
+    "choices": [
+      "4",
+      "6",
+      "8",
+      "2"
+    ],
+    "guide": {
+      "correctChoiceId": "A",
+      "explanation": "S has perimeter 2(6 + 2) = 16 cm. T has perimeter 2(7 + 3) = 20 cm. The difference is 4 cm.",
+      "shortcut": "Both pairs of sides count toward a rectangle’s perimeter."
+    },
+    "answerFormat": "numeric",
+    "visual": {
+      "type": "rectangles",
+      "panels": [
+        {
+          "label": "S",
+          "width": 6,
+          "height": 2
+        },
+        {
+          "label": "T",
+          "width": 7,
+          "height": 3
+        }
+      ],
+      "unit": "cm",
+      "alt": "Rectangles, dimensions in cm. S: width 6, height 2; T: width 7, height 3"
+    },
+    "id": "gb2-094",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "geometric_comparison",
+    "templateFamily": "rectangle-area-ratio",
+    "difficulty": 2,
+    "stem": "The dimensions are in centimetres. What fraction of rectangle W’s area is rectangle V’s area?",
+    "choices": [
+      "1/2",
+      "2/3",
+      "1/4",
+      "1/3"
+    ],
+    "guide": {
+      "correctChoiceId": "A",
+      "explanation": "V has area 4 × 3 = 12. W has area 8 × 3 = 24. The ratio of V’s area to W’s area is 12/24 = 1/2.",
+      "shortcut": "With equal heights, the area ratio equals the width ratio."
+    },
+    "answerFormat": "numeric",
+    "visual": {
+      "type": "rectangles",
+      "panels": [
+        {
+          "label": "V",
+          "width": 4,
+          "height": 3
+        },
+        {
+          "label": "W",
+          "width": 8,
+          "height": 3
+        }
+      ],
+      "unit": "cm",
+      "alt": "Rectangles, dimensions in cm. V: width 4, height 3; W: width 8, height 3"
+    },
+    "id": "gb2-095",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "geometric_comparison",
+    "templateFamily": "rectangle-square-area",
+    "difficulty": 2,
+    "stem": "A square will have the same area as the rectangle shown. What must the square’s side length be, in centimetres?",
+    "choices": [
+      "8",
+      "9",
+      "4",
+      "6"
+    ],
+    "guide": {
+      "correctChoiceId": "D",
+      "explanation": "The rectangle has area 9 × 4 = 36 square centimetres. A square of side 6 has area 6 × 6 = 36.",
+      "shortcut": "Match areas first, then find the square root to get a side length."
+    },
+    "answerFormat": "numeric",
+    "visual": {
+      "type": "rectangles",
+      "panels": [
+        {
+          "label": "Rectangle",
+          "width": 9,
+          "height": 4
+        }
+      ],
+      "unit": "cm",
+      "alt": "Rectangles, dimensions in cm. Rectangle: width 9, height 4"
+    },
+    "id": "gb2-096",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "geometric_comparison",
+    "templateFamily": "straight-angle-missing",
+    "difficulty": 1,
+    "stem": "A, O, and B lie on a straight line. The marked angle AOC is 68°. What is angle COB, in degrees?",
+    "choices": [
+      "22",
+      "68",
+      "112",
+      "122"
+    ],
+    "guide": {
+      "correctChoiceId": "C",
+      "explanation": "The two adjacent angles form a straight angle of 180°. Subtract 68° to get 112°.",
+      "shortcut": "Adjacent angles on a straight line add to 180°."
+    },
+    "answerFormat": "numeric",
+    "visual": {
+      "type": "angles",
+      "layout": "straight",
+      "known": 68,
+      "labels": [
+        "A",
+        "O",
+        "B",
+        "C"
+      ],
+      "alt": "A, O, B collinear. Ray OC lies above line AB. Angle AOC is 68 degrees; angle COB is unknown."
+    },
+    "id": "gb2-097",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "geometric_comparison",
+    "templateFamily": "right-angle-split",
+    "difficulty": 1,
+    "stem": "The square mark shows that angle POQ is a right angle. Ray OR divides it, and angle POR is 34°. What is angle ROQ, in degrees?",
+    "choices": [
+      "146",
+      "34",
+      "46",
+      "56"
+    ],
+    "guide": {
+      "correctChoiceId": "D",
+      "explanation": "A right angle is 90°. The remaining angle is 90 − 34 = 56°.",
+      "shortcut": "Use the right-angle mark, not an estimate of the drawing."
+    },
+    "answerFormat": "numeric",
+    "visual": {
+      "type": "angles",
+      "layout": "right",
+      "known": 34,
+      "labels": [
+        "P",
+        "O",
+        "Q",
+        "R"
+      ],
+      "alt": "POQ is marked as a right angle. Ray OR lies inside it. POR = 34°, ROQ unknown."
+    },
+    "id": "gb2-098",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "geometric_comparison",
+    "templateFamily": "straight-three-parts",
+    "difficulty": 2,
+    "stem": "A, O, and B lie on a straight line. The two marked adjacent angles are 42° and 65°. What is the remaining angle x, in degrees?",
+    "choices": [
+      "65",
+      "73",
+      "83",
+      "107"
+    ],
+    "guide": {
+      "correctChoiceId": "B",
+      "explanation": "All three adjacent angles total 180°. The known angles total 107°, so x = 180 − 107 = 73°.",
+      "shortcut": "Subtract the sum of the known angles, not their difference."
+    },
+    "answerFormat": "numeric",
+    "visual": {
+      "type": "angles",
+      "layout": "three",
+      "known": [
+        42,
+        65
+      ],
+      "labels": [
+        "A",
+        "O",
+        "B",
+        "C",
+        "D"
+      ],
+      "alt": "A, O, B collinear; rays OC and OD are above the line in order A, C, D, B. Angles AOC = 42°, COD = 65°, DOB = x."
+    },
+    "id": "gb2-099",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  },
+  {
+    "skill": "numeric_comparison",
+    "format": "geometric_comparison",
+    "templateFamily": "right-angle-ratio",
+    "difficulty": 3,
+    "stem": "The square mark shows a right angle split into the two adjacent angles labeled x and 2x. What is the larger angle, in degrees?",
+    "choices": [
+      "45",
+      "60",
+      "90",
+      "30"
+    ],
+    "guide": {
+      "correctChoiceId": "B",
+      "explanation": "The two angles total 90°, so x + 2x = 90°. Three equal parts total 90°, making x = 30° and 2x = 60°.",
+      "shortcut": "Count equal parts before calculating the requested angle."
+    },
+    "answerFormat": "numeric",
+    "visual": {
+      "type": "angles",
+      "layout": "ratio",
+      "known": [
+        1,
+        2
+      ],
+      "labels": [
+        "P",
+        "O",
+        "Q",
+        "R"
+      ],
+      "alt": "POQ is marked as a right angle. Ray OR lies inside it. POR = x, ROQ = 2x."
+    },
+    "id": "gb2-100",
+    "section": "quantitative",
+    "reviewStatus": "pending_human_review",
+    "sourceType": "original_draft",
+    "bankVersion": "gables-v2",
+    "provenance": {
+      "origin": "original AI-assisted authorship",
+      "priorId": null,
+      "referenceUse": "format calibration only"
+    }
+  }
+]

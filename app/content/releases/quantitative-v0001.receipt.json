@@ -1,0 +1,18 @@
+{
+  "releaseId": "quantitative-v0001",
+  "bankChecksum": "214c7e43dcdf94aff1c38e9cca14b7637bac60583712cfd542a68d82812afb8c",
+  "acceptedBatches": [
+    {
+      "batchDir": "content/staging/gables-v2",
+      "reviewDir": "content/review/gables-v2",
+      "bankSha256": "47b86200c6c70a9c0e77aea7f200d0ea09399e59e5fcf1633d5c00afcf7d12f1",
+      "decisionsSha256": "ad83db53cebe1ffe54e6c48b35d79be0b37823c0c50c1494a5eac14e90d90fc6"
+    }
+  ],
+  "changes": {
+    "added": 100,
+    "revised": 0,
+    "retired": 0,
+    "total": 100
+  }
+}

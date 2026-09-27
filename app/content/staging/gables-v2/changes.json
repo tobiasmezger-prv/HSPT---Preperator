@@ -1,0 +1,502 @@
+[
+  {
+    "id": "gb2-001",
+    "priorId": "dev-01",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-002",
+    "priorId": "dev-02",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-003",
+    "priorId": "dev-03",
+    "action": "replaced: source overlap or scaffolded format"
+  },
+  {
+    "id": "gb2-004",
+    "priorId": "dev-09",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-005",
+    "priorId": "quant-013",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-006",
+    "priorId": "quant-014",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-007",
+    "priorId": "quant-015",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-008",
+    "priorId": "quant-016",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-009",
+    "priorId": "quant-017",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-010",
+    "priorId": "quant-018",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-011",
+    "priorId": "quant-019",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-012",
+    "priorId": "quant-020",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-013",
+    "priorId": "quant-021",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-014",
+    "priorId": "quant-022",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-015",
+    "priorId": "quant-023",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-016",
+    "priorId": "quant-024",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-017",
+    "priorId": "quant-025",
+    "action": "replaced: source overlap or scaffolded format"
+  },
+  {
+    "id": "gb2-018",
+    "priorId": "quant-026",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-019",
+    "priorId": "quant-027",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-020",
+    "priorId": "quant-028",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-021",
+    "priorId": "quant-029",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-022",
+    "priorId": "quant-030",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-023",
+    "priorId": "quant-031",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-024",
+    "priorId": "quant-032",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-025",
+    "priorId": "quant-033",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-026",
+    "priorId": "quant-034",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-027",
+    "priorId": "quant-035",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-028",
+    "priorId": "quant-036",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-029",
+    "priorId": "quant-037",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-030",
+    "priorId": "quant-038",
+    "action": "replaced: source overlap or scaffolded format"
+  },
+  {
+    "id": "gb2-031",
+    "priorId": "quant-039",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-032",
+    "priorId": "quant-040",
+    "action": "replaced: source overlap or scaffolded format"
+  },
+  {
+    "id": "gb2-033",
+    "priorId": "quant-041",
+    "action": "replaced: source overlap or scaffolded format"
+  },
+  {
+    "id": "gb2-034",
+    "priorId": "quant-042",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-035",
+    "priorId": "dev-05",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-036",
+    "priorId": "dev-08",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-037",
+    "priorId": "quant-059",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-038",
+    "priorId": "quant-060",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-039",
+    "priorId": "quant-061",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-040",
+    "priorId": "quant-062",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-041",
+    "priorId": "quant-063",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-042",
+    "priorId": "quant-064",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-043",
+    "priorId": "quant-065",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-044",
+    "priorId": "quant-066",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-045",
+    "priorId": "quant-067",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-046",
+    "priorId": "quant-068",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-047",
+    "priorId": "quant-069",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-048",
+    "priorId": "quant-070",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-049",
+    "priorId": "quant-071",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-050",
+    "priorId": "quant-072",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-051",
+    "priorId": "quant-073",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-052",
+    "priorId": "quant-074",
+    "action": "retained/rechecked"
+  },
+  {
+    "id": "gb2-053",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-054",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-055",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-056",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-057",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-058",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-059",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-060",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-061",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-062",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-063",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-064",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-065",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-066",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-067",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-068",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-069",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-070",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-071",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-072",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-073",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-074",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-075",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-076",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-077",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-078",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-079",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-080",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-081",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-082",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-083",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-084",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-085",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-086",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-087",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-088",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-089",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-090",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-091",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-092",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-093",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-094",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-095",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-096",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-097",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-098",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-099",
+    "priorId": null,
+    "action": "new original item"
+  },
+  {
+    "id": "gb2-100",
+    "priorId": null,
+    "action": "new original item"
+  }
+]

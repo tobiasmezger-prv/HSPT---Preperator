@@ -1,0 +1,35 @@
+{
+  "bankSha256": "47b86200c6c70a9c0e77aea7f200d0ea09399e59e5fcf1633d5c00afcf7d12f1",
+  "reviewer": "Codex visual inspection",
+  "status": "16/16 static diagrams inspected",
+  "assets": {
+    "gb2-085.svg": "d42ab136acdbab7231fd40851346be781e99bbbe3329d630536c4e587af0ec52",
+    "gb2-086.svg": "4886b88450ecf7b4722bb90707c73d143901e4e47a0db38f75cc7a7235e09caf",
+    "gb2-087.svg": "58abe4160e3fd88e581fd07b418b79db9510e5edf001c0338bf1a0099a7431bd",
+    "gb2-088.svg": "35e4951c129409787a9bd7eb85d55e4b0f185d5ea869d732abb1c0031f4478b0",
+    "gb2-089.svg": "7b41bf575368b8ec56351bb84166881313aa0e6e4b8a346aec7371701008a708",
+    "gb2-090.svg": "20d6315c9dc9fc47799b2cea218fc2e9b025353bc414fa8c00ff18973c609088",
+    "gb2-091.svg": "29c4a882735e2ffd818f3bc1951fb6b3bb29f03a63dcac94d4a7ccc1275fec11",
+    "gb2-092.svg": "2b0a76fd73b50989c86c0f1c105738b1676cd12dc39c6c1b0af5265b8c919f31",
+    "gb2-093.svg": "ecf87b4039dd54836ddbc938ed6a9824c8a9d05046735bad4a485de73e5e3017",
+    "gb2-094.svg": "aa273a8d21f7a5588a7f839599dd4b9be23de55db94b2ad13826ff16236b9a3f",
+    "gb2-095.svg": "f10d0ff670814494bb707a099652d06bf61fe511a6eeeaf80d77d8d728907255",
+    "gb2-096.svg": "2cb32e0c0968dd6ba194648a14c342eca85160a3aca3da53d3d814ef81ce3fd0",
+    "gb2-097.svg": "923fc89fa85f5fc3a81a3d80529dd916d1d7d9ca6ed8bbd43a4f9447e1ef3e8c",
+    "gb2-098.svg": "179efbabdd67198d1afa935d3db3638b5ab7a9645fc5507306cc000154f4613a",
+    "gb2-099.svg": "a08ee9a1419555a04de7bc56d7d047e034b6ce57fa05459ac51133b4c6bc56a4",
+    "gb2-100.svg": "fb135a950ffcd7cbd3d1f59a1ef97988e0d9d1a35d6910fb1d7a1859b3f99992"
+  },
+  "contactSheets": [
+    "assets/contact-1.png",
+    "assets/contact-2.png"
+  ],
+  "checks": [
+    "Counts, shading, equal-cell geometry",
+    "Bar values, zero baseline, tick scale and labels",
+    "Rectangle dimensions and labels",
+    "Angle rays, marked sectors, right-angle marks and labels",
+    "Accessible descriptions preserve inputs without solution"
+  ],
+  "limits": "Static diagrams only. Browser layout and physical iPad checks are not yet completed."
+}

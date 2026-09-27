@@ -1,0 +1,46 @@
+{
+  "page": "https://gablestutoring.com/practice-tests/",
+  "sources": [
+    {
+      "webLabel": "Test 1",
+      "title": "Catholic High School Entrance Exams For Dummies, printed Practice Test 1",
+      "questionUrl": "https://gablestutoring.com/wp-content/uploads/2020/08/HSPT-Test-3.pdf",
+      "answerUrl": "https://gablestutoring.com/wp-content/uploads/2020/08/HSPT-TEST-3-Answers.pdf",
+      "scope": "Quantitative Q61\u2013112",
+      "questionPrintedPages": "188\u2013193",
+      "answerPrintedPages": "221\u2013224",
+      "accessDate": "2026-09-26",
+      "questionPdfSha256": "5ebde5fcbd47fa1af71ddd86c497b776acf22349547befaaf1aefa2bc2608644",
+      "answerPdfSha256": "c1703de73e1a2b96c2fa8597f8ebee0a05d16265745183820ac7634455977233"
+    },
+    {
+      "webLabel": "Test 2",
+      "title": "Peterson\u2019s, printed Practice Test 5",
+      "questionUrl": "https://gablestutoring.com/wp-content/uploads/2020/08/HSPT-TEST-4-1.pdf",
+      "answerUrl": "https://gablestutoring.com/wp-content/uploads/2020/08/HSPT-TEST-4-Answers.pdf",
+      "scope": "Quantitative Q61\u2013112",
+      "questionPrintedPages": "448\u2013453",
+      "answerPrintedPages": "476\u2013479",
+      "accessDate": "2026-09-26",
+      "questionPdfSha256": "ea0b82a239c6f4a2d1c3361f50228c926d0b3cf2e310eade118c17b36fb07c75",
+      "answerPdfSha256": "78d9117887ab8d02bf2d76d607ff49049a047e68c7da6204d2cc93ddff1e5027"
+    },
+    {
+      "webLabel": "Test 3",
+      "title": "Catholic High School Entrance Exams For Dummies, printed Practice Test 2",
+      "questionUrl": "https://gablestutoring.com/wp-content/uploads/2020/08/HSPT-TEST-5.pdf",
+      "answerUrl": "https://gablestutoring.com/wp-content/uploads/2020/08/HSPT-TEST-5-Answers.pdf",
+      "scope": "Quantitative Q61\u2013112",
+      "questionPrintedPages": "246\u2013251",
+      "answerPrintedPages": "279\u2013282",
+      "accessDate": "2026-09-26",
+      "questionPdfSha256": "addf2b79d25563c467366adc63029d3cf37af6771c066de5921475fdc6a6eda3",
+      "answerPdfSha256": "264019864a927b31ebc92135a4cea7e90a84871ad1f3f3e831fc422e2c3bfeec"
+    }
+  ],
+  "exceptions": [
+    "Test 3 Q87: independently identified question/guide disagreement; excluded as correctness template.",
+    "Test 3 Q89: numerically equal choices; avoid representation-dependent ambiguity."
+  ],
+  "inspection": "Quantitative question sections and paired answer explanations, including scanned pages and relevant figures. Not a certification of reference answer keys."
+}

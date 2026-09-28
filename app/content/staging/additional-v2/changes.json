@@ -1,0 +1,2294 @@
+{
+  "parent": "additional-v1",
+  "changes": [
+    {
+      "id": "ver-a1-001",
+      "reason": "Replace a vocabulary target already encountered in source material.",
+      "before": {
+        "id": "ver-a1-001",
+        "revision": 1,
+        "section": "verbal",
+        "skill": "synonyms",
+        "format": "synonyms",
+        "difficulty": 2,
+        "templateFamily": "synonyms-meticulous",
+        "stem": "Which word is most nearly a synonym for METICULOUS?",
+        "choices": [
+          "wealthy",
+          "hurried",
+          "careful",
+          "uneasy"
+        ],
+        "guide": {
+          "correctChoiceId": "C",
+          "explanation": "Meticulous means extremely attentive to detail. Careful is the closest meaning; the other choices do not express that relationship.",
+          "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      },
+      "after": {
+        "id": "ver-a1-001",
+        "revision": 2,
+        "section": "verbal",
+        "skill": "synonyms",
+        "format": "synonyms",
+        "difficulty": 2,
+        "templateFamily": "synonyms-covet",
+        "stem": "Which word is most nearly a synonym for COVET?",
+        "choices": [
+          "conceal",
+          "purchase",
+          "desire",
+          "reject"
+        ],
+        "guide": {
+          "correctChoiceId": "C",
+          "explanation": "To covet something is to desire it strongly; it does not mean that one has purchased or hidden it.",
+          "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      }
+    },
+    {
+      "id": "ver-a1-020",
+      "reason": "Replace a vocabulary target already encountered in source material.",
+      "before": {
+        "id": "ver-a1-020",
+        "revision": 1,
+        "section": "verbal",
+        "skill": "synonyms",
+        "format": "synonyms",
+        "difficulty": 2,
+        "templateFamily": "synonyms-sparse",
+        "stem": "Which word is most nearly a synonym for SPARSE?",
+        "choices": [
+          "precise",
+          "dense",
+          "scattered",
+          "level"
+        ],
+        "guide": {
+          "correctChoiceId": "C",
+          "explanation": "Sparse means thinly distributed. Scattered is the closest meaning; the other choices do not express that relationship.",
+          "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      },
+      "after": {
+        "id": "ver-a1-020",
+        "revision": 2,
+        "section": "verbal",
+        "skill": "synonyms",
+        "format": "synonyms",
+        "difficulty": 2,
+        "templateFamily": "synonyms-inert",
+        "stem": "Which word is most nearly a synonym for INERT?",
+        "choices": [
+          "weightless",
+          "invisible",
+          "inactive",
+          "valuable"
+        ],
+        "guide": {
+          "correctChoiceId": "C",
+          "explanation": "Inert describes something that does not move or act; inactive is the closest meaning.",
+          "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      }
+    },
+    {
+      "id": "ver-a1-022",
+      "reason": "Replace a vocabulary target already encountered in source material.",
+      "before": {
+        "id": "ver-a1-022",
+        "revision": 1,
+        "section": "verbal",
+        "skill": "synonyms",
+        "format": "synonyms",
+        "difficulty": 2,
+        "templateFamily": "synonyms-abrupt",
+        "stem": "Which word is most nearly a synonym for ABRUPT?",
+        "choices": [
+          "gradual",
+          "sudden",
+          "regular",
+          "polite"
+        ],
+        "guide": {
+          "correctChoiceId": "B",
+          "explanation": "Abrupt means unexpectedly sudden. Sudden is the closest meaning; the other choices do not express that relationship.",
+          "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      },
+      "after": {
+        "id": "ver-a1-022",
+        "revision": 2,
+        "section": "verbal",
+        "skill": "synonyms",
+        "format": "synonyms",
+        "difficulty": 2,
+        "templateFamily": "synonyms-reprieve",
+        "stem": "Which word is most nearly a synonym for REPRIEVE?",
+        "choices": [
+          "punishment",
+          "postponement",
+          "request",
+          "celebration"
+        ],
+        "guide": {
+          "correctChoiceId": "B",
+          "explanation": "A reprieve is a temporary delay or relief, especially a postponement of punishment.",
+          "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      }
+    },
+    {
+      "id": "ver-a1-021",
+      "reason": "Replace a vocabulary target already encountered in source material.",
+      "before": {
+        "id": "ver-a1-021",
+        "revision": 1,
+        "section": "verbal",
+        "skill": "synonyms",
+        "format": "synonyms",
+        "difficulty": 2,
+        "templateFamily": "synonyms-feasible",
+        "stem": "Which word is most nearly a synonym for FEASIBLE?",
+        "choices": [
+          "essential",
+          "impressive",
+          "possible",
+          "finished"
+        ],
+        "guide": {
+          "correctChoiceId": "C",
+          "explanation": "Feasible means capable of being done. Possible is the closest meaning; the other choices do not express that relationship.",
+          "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      },
+      "after": {
+        "id": "ver-a1-021",
+        "revision": 2,
+        "section": "verbal",
+        "skill": "synonyms",
+        "format": "synonyms",
+        "difficulty": 2,
+        "templateFamily": "synonyms-tentative",
+        "stem": "Which word is most nearly a synonym for TENTATIVE?",
+        "choices": [
+          "definite",
+          "lengthy",
+          "uncertain",
+          "immediate"
+        ],
+        "guide": {
+          "correctChoiceId": "C",
+          "explanation": "Tentative means not yet settled or definite; uncertain is the closest choice.",
+          "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      }
+    },
+    {
+      "id": "ver-a1-043",
+      "reason": "Replace a source-exposed or repeated local vocabulary relationship.",
+      "before": {
+        "id": "ver-a1-043",
+        "revision": 1,
+        "section": "verbal",
+        "skill": "antonyms",
+        "format": "antonyms",
+        "difficulty": 2,
+        "templateFamily": "antonyms-abundant",
+        "stem": "Which word is most nearly opposite in meaning to ABUNDANT?",
+        "choices": [
+          "scarce",
+          "ample",
+          "varied",
+          "useful"
+        ],
+        "guide": {
+          "correctChoiceId": "A",
+          "explanation": "Abundant means present in a large quantity. Scarce is the opposite; the other choices do not express that relationship.",
+          "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      },
+      "after": {
+        "id": "ver-a1-043",
+        "revision": 2,
+        "section": "verbal",
+        "skill": "antonyms",
+        "format": "antonyms",
+        "difficulty": 2,
+        "templateFamily": "antonyms-dormant",
+        "stem": "Which word is most nearly opposite in meaning to DORMANT?",
+        "choices": [
+          "active",
+          "hidden",
+          "sleeping",
+          "delayed"
+        ],
+        "guide": {
+          "correctChoiceId": "A",
+          "explanation": "Dormant means inactive for a time. Active is its opposite.",
+          "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      }
+    },
+    {
+      "id": "ver-a1-026",
+      "reason": "Replace a source-exposed or repeated local vocabulary relationship.",
+      "before": {
+        "id": "ver-a1-026",
+        "revision": 1,
+        "section": "verbal",
+        "skill": "antonyms",
+        "format": "antonyms",
+        "difficulty": 2,
+        "templateFamily": "antonyms-scarce",
+        "stem": "Which word is most nearly opposite in meaning to SCARCE?",
+        "choices": [
+          "costly",
+          "rare",
+          "plentiful",
+          "hidden"
+        ],
+        "guide": {
+          "correctChoiceId": "C",
+          "explanation": "Scarce means in short supply. Plentiful is the opposite; the other choices do not express that relationship.",
+          "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      },
+      "after": {
+        "id": "ver-a1-026",
+        "revision": 2,
+        "section": "verbal",
+        "skill": "antonyms",
+        "format": "antonyms",
+        "difficulty": 2,
+        "templateFamily": "antonyms-authentic",
+        "stem": "Which word is most nearly opposite in meaning to AUTHENTIC?",
+        "choices": [
+          "unusual",
+          "valuable",
+          "counterfeit",
+          "ancient"
+        ],
+        "guide": {
+          "correctChoiceId": "C",
+          "explanation": "Authentic means genuine. Counterfeit means made to imitate something genuine and is the opposite.",
+          "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      }
+    },
+    {
+      "id": "ver-a1-028",
+      "reason": "Replace a source-exposed or repeated local vocabulary relationship.",
+      "before": {
+        "id": "ver-a1-028",
+        "revision": 1,
+        "section": "verbal",
+        "skill": "antonyms",
+        "format": "antonyms",
+        "difficulty": 2,
+        "templateFamily": "antonyms-temporary",
+        "stem": "Which word is most nearly opposite in meaning to TEMPORARY?",
+        "choices": [
+          "uncertain",
+          "brief",
+          "timely",
+          "permanent"
+        ],
+        "guide": {
+          "correctChoiceId": "D",
+          "explanation": "Temporary means lasting for a limited time. Permanent is the opposite; the other choices do not express that relationship.",
+          "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      },
+      "after": {
+        "id": "ver-a1-028",
+        "revision": 2,
+        "section": "verbal",
+        "skill": "antonyms",
+        "format": "antonyms",
+        "difficulty": 2,
+        "templateFamily": "antonyms-durable",
+        "stem": "Which word is most nearly opposite in meaning to DURABLE?",
+        "choices": [
+          "lasting",
+          "heavy",
+          "useful",
+          "fragile"
+        ],
+        "guide": {
+          "correctChoiceId": "D",
+          "explanation": "Durable things withstand wear or damage; fragile things are easily damaged.",
+          "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      }
+    },
+    {
+      "id": "ver-a1-032",
+      "reason": "Replace a source-exposed or repeated local vocabulary relationship.",
+      "before": {
+        "id": "ver-a1-032",
+        "revision": 1,
+        "section": "verbal",
+        "skill": "antonyms",
+        "format": "antonyms",
+        "difficulty": 2,
+        "templateFamily": "antonyms-humble",
+        "stem": "Which word is most nearly opposite in meaning to HUMBLE?",
+        "choices": [
+          "quiet",
+          "modest",
+          "arrogant",
+          "poor"
+        ],
+        "guide": {
+          "correctChoiceId": "C",
+          "explanation": "Humble means not boastful about one's importance. Arrogant is the opposite; the other choices do not express that relationship.",
+          "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      },
+      "after": {
+        "id": "ver-a1-032",
+        "revision": 2,
+        "section": "verbal",
+        "skill": "antonyms",
+        "format": "antonyms",
+        "difficulty": 2,
+        "templateFamily": "antonyms-benevolent",
+        "stem": "Which word is most nearly opposite in meaning to BENEVOLENT?",
+        "choices": [
+          "generous",
+          "distant",
+          "malicious",
+          "uncertain"
+        ],
+        "guide": {
+          "correctChoiceId": "C",
+          "explanation": "Benevolent describes goodwill; malicious describes an intention to cause harm.",
+          "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      }
+    },
+    {
+      "id": "ver-a1-036",
+      "reason": "Replace a source-exposed or repeated local vocabulary relationship.",
+      "before": {
+        "id": "ver-a1-036",
+        "revision": 1,
+        "section": "verbal",
+        "skill": "antonyms",
+        "format": "antonyms",
+        "difficulty": 2,
+        "templateFamily": "antonyms-permit",
+        "stem": "Which word is most nearly opposite in meaning to PERMIT?",
+        "choices": [
+          "request",
+          "allow",
+          "forbid",
+          "offer"
+        ],
+        "guide": {
+          "correctChoiceId": "C",
+          "explanation": "Permit means allow. Forbid is the opposite; the other choices do not express that relationship.",
+          "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      },
+      "after": {
+        "id": "ver-a1-036",
+        "revision": 2,
+        "section": "verbal",
+        "skill": "antonyms",
+        "format": "antonyms",
+        "difficulty": 2,
+        "templateFamily": "antonyms-ascend",
+        "stem": "Which word is most nearly opposite in meaning to ASCEND?",
+        "choices": [
+          "pause",
+          "approach",
+          "descend",
+          "wander"
+        ],
+        "guide": {
+          "correctChoiceId": "C",
+          "explanation": "Ascend means move upward; descend means move downward.",
+          "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      }
+    },
+    {
+      "id": "ver-a1-046",
+      "reason": "Replace a source-exposed or repeated local vocabulary relationship.",
+      "before": {
+        "id": "ver-a1-046",
+        "revision": 1,
+        "section": "verbal",
+        "skill": "antonyms",
+        "format": "antonyms",
+        "difficulty": 2,
+        "templateFamily": "antonyms-superficial",
+        "stem": "Which word is most nearly opposite in meaning to SUPERFICIAL?",
+        "choices": [
+          "thorough",
+          "shallow",
+          "visible",
+          "simple"
+        ],
+        "guide": {
+          "correctChoiceId": "A",
+          "explanation": "Superficial means limited to the surface or lacking depth. Thorough is the opposite; the other choices do not express that relationship.",
+          "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      },
+      "after": {
+        "id": "ver-a1-046",
+        "revision": 2,
+        "section": "verbal",
+        "skill": "antonyms",
+        "format": "antonyms",
+        "difficulty": 2,
+        "templateFamily": "antonyms-docile",
+        "stem": "Which word is most nearly opposite in meaning to DOCILE?",
+        "choices": [
+          "defiant",
+          "calm",
+          "patient",
+          "compliant"
+        ],
+        "guide": {
+          "correctChoiceId": "A",
+          "explanation": "Docile describes willingness to follow guidance; defiant describes resistance to it.",
+          "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      }
+    },
+    {
+      "id": "ver-a1-092",
+      "reason": "Replace the recognizable source syllogism structure.",
+      "before": {
+        "id": "ver-a1-092",
+        "revision": 1,
+        "section": "verbal",
+        "skill": "logical_reasoning",
+        "format": "logical_reasoning",
+        "difficulty": 3,
+        "templateFamily": "undetermined overlap",
+        "stem": "All cedar boxes are wooden. Some wooden boxes are painted. Which conclusion is justified?",
+        "choices": [
+          "All painted boxes are cedar.",
+          "All cedar boxes are painted.",
+          "No cedar box is painted.",
+          "The statements do not determine whether any cedar box is painted."
+        ],
+        "guide": {
+          "correctChoiceId": "D",
+          "explanation": "The painted wooden boxes might include cedar boxes, but the statements do not say so.",
+          "shortcut": "Use only the stated facts. Do not reverse an implication or change some into all."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      },
+      "after": {
+        "id": "ver-a1-092",
+        "revision": 2,
+        "section": "verbal",
+        "skill": "logical_reasoning",
+        "format": "logical_reasoning",
+        "difficulty": 3,
+        "templateFamily": "necessary-condition-and-exclusion",
+        "stem": "Only volunteers who complete training may lead a tour. Iris led a tour, and Theo has not completed training. Assuming the rule was followed, which statement must be true?",
+        "choices": [
+          "Every trained volunteer has led a tour.",
+          "Theo may lead a tour if Iris joins him.",
+          "Iris was the only volunteer who completed training.",
+          "Iris completed training, and Theo may not lead a tour."
+        ],
+        "guide": {
+          "correctChoiceId": "D",
+          "explanation": "Leading a tour requires training, so Iris completed it. Theo lacks the required training and is not permitted to lead. Training alone does not prove anyone has actually led a tour.",
+          "shortcut": "Use only the stated facts. Do not reverse an implication or change some into all."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      }
+    },
+    {
+      "id": "lan-a1-018",
+      "reason": "The explanation referred to the first choice after options had been shuffled.",
+      "before": {
+        "id": "lan-a1-018",
+        "revision": 1,
+        "section": "language",
+        "skill": "grammar",
+        "format": "grammar",
+        "difficulty": 2,
+        "templateFamily": "sentence fragment",
+        "stem": "Choose the complete sentence.",
+        "choices": [
+          "Although it was raining.",
+          "Although it was raining, the match continued.",
+          "Because of the sudden rain.",
+          "Running across the wet field."
+        ],
+        "guide": {
+          "correctChoiceId": "B",
+          "explanation": "Only the first choice contains an independent clause with a subject and finite verb.",
+          "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      },
+      "after": {
+        "id": "lan-a1-018",
+        "revision": 2,
+        "section": "language",
+        "skill": "grammar",
+        "format": "grammar",
+        "difficulty": 2,
+        "templateFamily": "sentence fragment",
+        "stem": "Choose the complete sentence.",
+        "choices": [
+          "Although it was raining.",
+          "Although it was raining, the match continued.",
+          "Because of the sudden rain.",
+          "Running across the wet field."
+        ],
+        "guide": {
+          "correctChoiceId": "B",
+          "explanation": "The sentence about the match continuing contains the independent clause “the match continued.” The other choices lack an independent clause.",
+          "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      }
+    },
+    {
+      "id": "lan-a1-027",
+      "reason": "Effect is also a verb; specify the intended meaning.",
+      "before": {
+        "id": "lan-a1-027",
+        "revision": 1,
+        "section": "language",
+        "skill": "usage",
+        "format": "usage",
+        "difficulty": 2,
+        "templateFamily": "affect effect",
+        "stem": "Choose the correct word: The new schedule may ___ attendance.",
+        "choices": [
+          "effects",
+          "effect",
+          "affect",
+          "affection"
+        ],
+        "guide": {
+          "correctChoiceId": "C",
+          "explanation": "Affect is the verb meaning influence; may requires the base form.",
+          "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      },
+      "after": {
+        "id": "lan-a1-027",
+        "revision": 2,
+        "section": "language",
+        "skill": "usage",
+        "format": "usage",
+        "difficulty": 2,
+        "templateFamily": "affect effect",
+        "stem": "Choose the word meaning influence: The new schedule may ___ attendance.",
+        "choices": [
+          "effects",
+          "effect",
+          "affect",
+          "affection"
+        ],
+        "guide": {
+          "correctChoiceId": "C",
+          "explanation": "Affect is the verb meaning influence; may requires the base form.",
+          "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      }
+    },
+    {
+      "id": "lan-a1-046",
+      "reason": "Explicitly test possessive form; avoid ambiguity with attributive nouns.",
+      "before": {
+        "id": "lan-a1-046",
+        "revision": 1,
+        "section": "language",
+        "skill": "punctuation",
+        "format": "punctuation",
+        "difficulty": 1,
+        "templateFamily": "singular possession",
+        "stem": "One student owns the notebook. Choose the correct phrase.",
+        "choices": [
+          "the students notebook",
+          "the students' notebook",
+          "the student's notebook",
+          "the student notebook's"
+        ],
+        "guide": {
+          "correctChoiceId": "C",
+          "explanation": "Singular possession adds apostrophe-s to student.",
+          "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      },
+      "after": {
+        "id": "lan-a1-046",
+        "revision": 2,
+        "section": "language",
+        "skill": "punctuation",
+        "format": "punctuation",
+        "difficulty": 1,
+        "templateFamily": "singular possession",
+        "stem": "One student owns the notebook. Choose the correct singular possessive phrase.",
+        "choices": [
+          "the students notebook",
+          "the students' notebook",
+          "the student's notebook",
+          "the student notebook's"
+        ],
+        "guide": {
+          "correctChoiceId": "C",
+          "explanation": "Singular possession adds apostrophe-s to student.",
+          "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      }
+    },
+    {
+      "id": "lan-a1-047",
+      "reason": "Explicitly test possessive form; avoid ambiguity with attributive nouns.",
+      "before": {
+        "id": "lan-a1-047",
+        "revision": 1,
+        "section": "language",
+        "skill": "punctuation",
+        "format": "punctuation",
+        "difficulty": 1,
+        "templateFamily": "regular plural possession",
+        "stem": "Several teachers share the lounge. Choose the correct phrase.",
+        "choices": [
+          "the teacher's lounge",
+          "the teachers' lounge",
+          "the teachers lounge's",
+          "the teachers lounge"
+        ],
+        "guide": {
+          "correctChoiceId": "B",
+          "explanation": "The plural teachers already ends in s; add an apostrophe after it.",
+          "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      },
+      "after": {
+        "id": "lan-a1-047",
+        "revision": 2,
+        "section": "language",
+        "skill": "punctuation",
+        "format": "punctuation",
+        "difficulty": 1,
+        "templateFamily": "regular plural possession",
+        "stem": "Several teachers share the lounge. Choose the correct plural possessive phrase.",
+        "choices": [
+          "the teacher's lounge",
+          "the teachers' lounge",
+          "the teachers lounge's",
+          "the teachers lounge"
+        ],
+        "guide": {
+          "correctChoiceId": "B",
+          "explanation": "The plural teachers already ends in s; add an apostrophe after it.",
+          "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      }
+    },
+    {
+      "id": "lan-a1-048",
+      "reason": "Explicitly test possessive form; avoid ambiguity with attributive nouns.",
+      "before": {
+        "id": "lan-a1-048",
+        "revision": 1,
+        "section": "language",
+        "skill": "punctuation",
+        "format": "punctuation",
+        "difficulty": 2,
+        "templateFamily": "irregular plural possession",
+        "stem": "Several children share the toys. Choose the correct phrase.",
+        "choices": [
+          "the children toy's",
+          "the childrens' toys",
+          "the childrens toys",
+          "the children's toys"
+        ],
+        "guide": {
+          "correctChoiceId": "D",
+          "explanation": "The irregular plural children takes apostrophe-s.",
+          "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      },
+      "after": {
+        "id": "lan-a1-048",
+        "revision": 2,
+        "section": "language",
+        "skill": "punctuation",
+        "format": "punctuation",
+        "difficulty": 2,
+        "templateFamily": "irregular plural possession",
+        "stem": "Several children share the toys. Choose the correct plural possessive phrase.",
+        "choices": [
+          "the children toy's",
+          "the childrens' toys",
+          "the childrens toys",
+          "the children's toys"
+        ],
+        "guide": {
+          "correctChoiceId": "D",
+          "explanation": "The irregular plural children takes apostrophe-s.",
+          "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      }
+    },
+    {
+      "id": "lan-a1-066",
+      "reason": "Replace a spelling target/close derivative already seen in the source tests.",
+      "before": {
+        "id": "lan-a1-066",
+        "revision": 1,
+        "section": "language",
+        "skill": "spelling",
+        "format": "spelling",
+        "difficulty": 2,
+        "templateFamily": "spelling-necessary",
+        "stem": "Which word is spelled correctly?",
+        "choices": [
+          "necesary",
+          "neccessary",
+          "necessary",
+          "nessesary"
+        ],
+        "guide": {
+          "correctChoiceId": "C",
+          "explanation": "Necessary has one c and two s's.",
+          "shortcut": "Check the whole word, especially doubled consonants and its ending."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      },
+      "after": {
+        "id": "lan-a1-066",
+        "revision": 2,
+        "section": "language",
+        "skill": "spelling",
+        "format": "spelling",
+        "difficulty": 2,
+        "templateFamily": "spelling-rhythm",
+        "stem": "Which word is spelled correctly?",
+        "choices": [
+          "rythm",
+          "rhythum",
+          "rhythm",
+          "rhythem"
+        ],
+        "guide": {
+          "correctChoiceId": "C",
+          "explanation": "Rhythm is spelled r-h-y-t-h-m.",
+          "shortcut": "Check the whole word, especially doubled consonants and its ending."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      }
+    },
+    {
+      "id": "lan-a1-067",
+      "reason": "Replace a spelling target/close derivative already seen in the source tests.",
+      "before": {
+        "id": "lan-a1-067",
+        "revision": 1,
+        "section": "language",
+        "skill": "spelling",
+        "format": "spelling",
+        "difficulty": 2,
+        "templateFamily": "spelling-separate",
+        "stem": "Which word is spelled correctly?",
+        "choices": [
+          "seperete",
+          "seperate",
+          "separrate",
+          "separate"
+        ],
+        "guide": {
+          "correctChoiceId": "D",
+          "explanation": "Separate has a in the second syllable.",
+          "shortcut": "Check the whole word, especially doubled consonants and its ending."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      },
+      "after": {
+        "id": "lan-a1-067",
+        "revision": 2,
+        "section": "language",
+        "skill": "spelling",
+        "format": "spelling",
+        "difficulty": 2,
+        "templateFamily": "spelling-cylinder",
+        "stem": "Which word is spelled correctly?",
+        "choices": [
+          "cylindar",
+          "cillinder",
+          "cylender",
+          "cylinder"
+        ],
+        "guide": {
+          "correctChoiceId": "D",
+          "explanation": "Cylinder has one l and ends in -der.",
+          "shortcut": "Check the whole word, especially doubled consonants and its ending."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      }
+    },
+    {
+      "id": "lan-a1-069",
+      "reason": "Replace a spelling target/close derivative already seen in the source tests.",
+      "before": {
+        "id": "lan-a1-069",
+        "revision": 1,
+        "section": "language",
+        "skill": "spelling",
+        "format": "spelling",
+        "difficulty": 2,
+        "templateFamily": "spelling-privilege",
+        "stem": "Which word is spelled correctly?",
+        "choices": [
+          "privilege",
+          "priviledge",
+          "privelege",
+          "privillage"
+        ],
+        "guide": {
+          "correctChoiceId": "A",
+          "explanation": "Privilege has no d and ends in -lege.",
+          "shortcut": "Check the whole word, especially doubled consonants and its ending."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      },
+      "after": {
+        "id": "lan-a1-069",
+        "revision": 2,
+        "section": "language",
+        "skill": "spelling",
+        "format": "spelling",
+        "difficulty": 2,
+        "templateFamily": "spelling-miniature",
+        "stem": "Which word is spelled correctly?",
+        "choices": [
+          "miniature",
+          "minature",
+          "miniture",
+          "miniatuer"
+        ],
+        "guide": {
+          "correctChoiceId": "A",
+          "explanation": "Miniature includes the sequence mini-a-ture.",
+          "shortcut": "Check the whole word, especially doubled consonants and its ending."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      }
+    },
+    {
+      "id": "lan-a1-071",
+      "reason": "Replace a spelling target/close derivative already seen in the source tests.",
+      "before": {
+        "id": "lan-a1-071",
+        "revision": 1,
+        "section": "language",
+        "skill": "spelling",
+        "format": "spelling",
+        "difficulty": 2,
+        "templateFamily": "spelling-recommend",
+        "stem": "Which word is spelled correctly?",
+        "choices": [
+          "recommmend",
+          "recomend",
+          "reccommend",
+          "recommend"
+        ],
+        "guide": {
+          "correctChoiceId": "D",
+          "explanation": "Recommend has one c and two m's.",
+          "shortcut": "Check the whole word, especially doubled consonants and its ending."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      },
+      "after": {
+        "id": "lan-a1-071",
+        "revision": 2,
+        "section": "language",
+        "skill": "spelling",
+        "format": "spelling",
+        "difficulty": 2,
+        "templateFamily": "spelling-mischievous",
+        "stem": "Which word is spelled correctly?",
+        "choices": [
+          "mischevious",
+          "mischievious",
+          "mischivous",
+          "mischievous"
+        ],
+        "guide": {
+          "correctChoiceId": "D",
+          "explanation": "Mischievous ends in -vous, with no extra i after v.",
+          "shortcut": "Check the whole word, especially doubled consonants and its ending."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      }
+    },
+    {
+      "id": "lan-a1-073",
+      "reason": "Replace a spelling target/close derivative already seen in the source tests.",
+      "before": {
+        "id": "lan-a1-073",
+        "revision": 1,
+        "section": "language",
+        "skill": "spelling",
+        "format": "spelling",
+        "difficulty": 2,
+        "templateFamily": "spelling-maintenance",
+        "stem": "Which word is spelled correctly?",
+        "choices": [
+          "maintenence",
+          "maintainance",
+          "maintenance",
+          "maintanence"
+        ],
+        "guide": {
+          "correctChoiceId": "C",
+          "explanation": "Maintenance uses -tenance, not the full spelling maintain.",
+          "shortcut": "Check the whole word, especially doubled consonants and its ending."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      },
+      "after": {
+        "id": "lan-a1-073",
+        "revision": 2,
+        "section": "language",
+        "skill": "spelling",
+        "format": "spelling",
+        "difficulty": 2,
+        "templateFamily": "spelling-broccoli",
+        "stem": "Which word is spelled correctly?",
+        "choices": [
+          "brocolli",
+          "broccolli",
+          "broccoli",
+          "brocoli"
+        ],
+        "guide": {
+          "correctChoiceId": "C",
+          "explanation": "Broccoli has two c letters and one l.",
+          "shortcut": "Check the whole word, especially doubled consonants and its ending."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      }
+    },
+    {
+      "id": "lan-a1-077",
+      "reason": "Replace a spelling target/close derivative already seen in the source tests.",
+      "before": {
+        "id": "lan-a1-077",
+        "revision": 1,
+        "section": "language",
+        "skill": "spelling",
+        "format": "spelling",
+        "difficulty": 2,
+        "templateFamily": "spelling-argument",
+        "stem": "Which word is spelled correctly?",
+        "choices": [
+          "arguemant",
+          "arguement",
+          "argumant",
+          "argument"
+        ],
+        "guide": {
+          "correctChoiceId": "D",
+          "explanation": "Argument drops the final e of argue before -ment.",
+          "shortcut": "Check the whole word, especially doubled consonants and its ending."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      },
+      "after": {
+        "id": "lan-a1-077",
+        "revision": 2,
+        "section": "language",
+        "skill": "spelling",
+        "format": "spelling",
+        "difficulty": 2,
+        "templateFamily": "spelling-lantern",
+        "stem": "Which word is spelled correctly?",
+        "choices": [
+          "lanturn",
+          "lanterrn",
+          "lantarn",
+          "lantern"
+        ],
+        "guide": {
+          "correctChoiceId": "D",
+          "explanation": "Lantern is spelled l-a-n-t-e-r-n.",
+          "shortcut": "Check the whole word, especially doubled consonants and its ending."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      }
+    },
+    {
+      "id": "lan-a1-080",
+      "reason": "Replace a spelling target/close derivative already seen in the source tests.",
+      "before": {
+        "id": "lan-a1-080",
+        "revision": 1,
+        "section": "language",
+        "skill": "spelling",
+        "format": "spelling",
+        "difficulty": 2,
+        "templateFamily": "spelling-independent",
+        "stem": "Which word is spelled correctly?",
+        "choices": [
+          "independant",
+          "independent",
+          "independet",
+          "indipendent"
+        ],
+        "guide": {
+          "correctChoiceId": "B",
+          "explanation": "Independent ends in -ent, not -ant.",
+          "shortcut": "Check the whole word, especially doubled consonants and its ending."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      },
+      "after": {
+        "id": "lan-a1-080",
+        "revision": 2,
+        "section": "language",
+        "skill": "spelling",
+        "format": "spelling",
+        "difficulty": 2,
+        "templateFamily": "spelling-obstacle",
+        "stem": "Which word is spelled correctly?",
+        "choices": [
+          "obsticle",
+          "obstacle",
+          "obstacel",
+          "obstacal"
+        ],
+        "guide": {
+          "correctChoiceId": "B",
+          "explanation": "Obstacle ends in -acle.",
+          "shortcut": "Check the whole word, especially doubled consonants and its ending."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review"
+      }
+    },
+    {
+      "id": "mat-a1-045",
+      "reason": "Ask directly for the numeric unit used by the choices.",
+      "before": {
+        "id": "mat-a1-045",
+        "revision": 1,
+        "section": "mathematics",
+        "skill": "measurement",
+        "format": "measurement",
+        "difficulty": 2,
+        "templateFamily": "elapsed time",
+        "stem": "A play begins at 6:45 p.m. and lasts 1 hour 50 minutes. At what time does it end? Give minutes after 8:00 p.m.",
+        "choices": [
+          "25",
+          "35",
+          "45",
+          "55"
+        ],
+        "guide": {
+          "correctChoiceId": "B",
+          "explanation": "Adding one hour reaches 7:45; adding 50 minutes reaches 8:35.",
+          "shortcut": "Estimate the size of the result, then check the required operation and units."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "oracleExpression": "(6*60+45+60+50)-8*60"
+      },
+      "after": {
+        "id": "mat-a1-045",
+        "revision": 2,
+        "section": "mathematics",
+        "skill": "measurement",
+        "format": "measurement",
+        "difficulty": 2,
+        "templateFamily": "elapsed time",
+        "stem": "A play begins at 6:45 p.m. and lasts 1 hour 50 minutes. How many minutes after 8:00 p.m. does it end?",
+        "choices": [
+          "25",
+          "35",
+          "45",
+          "55"
+        ],
+        "guide": {
+          "correctChoiceId": "B",
+          "explanation": "Adding one hour reaches 7:45; adding 50 minutes reaches 8:35.",
+          "shortcut": "Estimate the size of the result, then check the required operation and units."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "oracleExpression": "(6*60+45+60+50)-8*60"
+      }
+    },
+    {
+      "id": "mat-a1-088",
+      "reason": "Make the scope of the square unambiguous.",
+      "before": {
+        "id": "mat-a1-088",
+        "revision": 1,
+        "section": "mathematics",
+        "skill": "algebra",
+        "format": "algebra",
+        "difficulty": 2,
+        "templateFamily": "quadratic substitution",
+        "stem": "If y = 2x squared − 3, what is y when x = −2?",
+        "choices": [
+          "5",
+          "−11",
+          "13",
+          "1"
+        ],
+        "guide": {
+          "correctChoiceId": "A",
+          "explanation": "Square −2 first to get 4; 2 × 4 − 3 = 5.",
+          "shortcut": "Estimate the size of the result, then check the required operation and units."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "oracleExpression": "2*(-2)**2-3"
+      },
+      "after": {
+        "id": "mat-a1-088",
+        "revision": 2,
+        "section": "mathematics",
+        "skill": "algebra",
+        "format": "algebra",
+        "difficulty": 2,
+        "templateFamily": "quadratic substitution",
+        "stem": "If y = 2 × x² − 3, what is y when x = −2?",
+        "choices": [
+          "5",
+          "−11",
+          "13",
+          "1"
+        ],
+        "guide": {
+          "correctChoiceId": "A",
+          "explanation": "Square −2 first to get 4; 2 × 4 − 3 = 5.",
+          "shortcut": "Estimate the size of the result, then check the required operation and units."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "oracleExpression": "2*(-2)**2-3"
+      }
+    },
+    {
+      "id": "mat-a1-096",
+      "reason": "State equal selection probabilities.",
+      "before": {
+        "id": "mat-a1-096",
+        "revision": 1,
+        "section": "mathematics",
+        "skill": "statistics_probability",
+        "format": "statistics_probability",
+        "difficulty": 1,
+        "templateFamily": "simple probability",
+        "stem": "A bag holds 5 red, 3 blue and 2 green counters. One counter is chosen at random. What is the probability it is blue, in simplest form?",
+        "choices": [
+          "7/10",
+          "3/7",
+          "1/3",
+          "3/10"
+        ],
+        "guide": {
+          "correctChoiceId": "D",
+          "explanation": "There are 3 blue counters among 10 equally likely counters.",
+          "shortcut": "Estimate the size of the result, then check the required operation and units."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "oracleExpression": "3/(5+3+2)"
+      },
+      "after": {
+        "id": "mat-a1-096",
+        "revision": 2,
+        "section": "mathematics",
+        "skill": "statistics_probability",
+        "format": "statistics_probability",
+        "difficulty": 1,
+        "templateFamily": "simple probability",
+        "stem": "A bag holds 5 red, 3 blue and 2 green counters. One counter is chosen at random. What is the probability it is blue, in simplest form? Each counter remaining in the bag is equally likely to be chosen on each draw.",
+        "choices": [
+          "7/10",
+          "3/7",
+          "1/3",
+          "3/10"
+        ],
+        "guide": {
+          "correctChoiceId": "D",
+          "explanation": "There are 3 blue counters among 10 equally likely counters.",
+          "shortcut": "Estimate the size of the result, then check the required operation and units."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "oracleExpression": "3/(5+3+2)"
+      }
+    },
+    {
+      "id": "mat-a1-100",
+      "reason": "State equal selection probabilities.",
+      "before": {
+        "id": "mat-a1-100",
+        "revision": 1,
+        "section": "mathematics",
+        "skill": "statistics_probability",
+        "format": "statistics_probability",
+        "difficulty": 3,
+        "templateFamily": "dependent events",
+        "stem": "A bag has 4 black and 2 white counters. Two are drawn without replacement. What is the probability both are white, in simplest form?",
+        "choices": [
+          "1/15",
+          "1/9",
+          "1/3",
+          "2/15"
+        ],
+        "guide": {
+          "correctChoiceId": "A",
+          "explanation": "The first white probability is 2/6; after one white is removed it is 1/5. Multiply to get 1/15.",
+          "shortcut": "Estimate the size of the result, then check the required operation and units."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "oracleExpression": "2/6*1/5"
+      },
+      "after": {
+        "id": "mat-a1-100",
+        "revision": 2,
+        "section": "mathematics",
+        "skill": "statistics_probability",
+        "format": "statistics_probability",
+        "difficulty": 3,
+        "templateFamily": "dependent events",
+        "stem": "A bag has 4 black and 2 white counters. Two are drawn without replacement. What is the probability both are white, in simplest form? Each counter remaining in the bag is equally likely to be chosen on each draw.",
+        "choices": [
+          "1/15",
+          "1/9",
+          "1/3",
+          "2/15"
+        ],
+        "guide": {
+          "correctChoiceId": "A",
+          "explanation": "The first white probability is 2/6; after one white is removed it is 1/5. Multiply to get 1/15.",
+          "shortcut": "Estimate the size of the result, then check the required operation and units."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "oracleExpression": "2/6*1/5"
+      }
+    },
+    {
+      "id": "mat-a1-023",
+      "reason": "Replace the five-to-eight notebook reskin of gb2-046.",
+      "before": {
+        "id": "mat-a1-023",
+        "revision": 1,
+        "section": "mathematics",
+        "skill": "ratios_percent",
+        "format": "ratios_percent",
+        "difficulty": 2,
+        "templateFamily": "unit price",
+        "stem": "Five identical notebooks cost $17.50. What is the cost in dollars of eight notebooks?",
+        "choices": [
+          "24",
+          "28",
+          "30",
+          "35"
+        ],
+        "guide": {
+          "correctChoiceId": "B",
+          "explanation": "Each notebook costs 17.50/5 = 3.50; eight cost 28.",
+          "shortcut": "Estimate the size of the result, then check the required operation and units."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "oracleExpression": "17.5/5*8"
+      },
+      "after": {
+        "id": "mat-a1-023",
+        "revision": 2,
+        "section": "mathematics",
+        "skill": "ratios_percent",
+        "format": "ratios_percent",
+        "difficulty": 2,
+        "templateFamily": "pack-and-single-unit-pricing",
+        "stem": "A pack of 6 notebooks costs $15, while a single notebook costs $3. What is the least cost in dollars to buy exactly 8 notebooks?",
+        "choices": [
+          "20",
+          "21",
+          "24",
+          "30"
+        ],
+        "guide": {
+          "correctChoiceId": "B",
+          "explanation": "One pack and two singles cost 15 + 2 × 3 = 21 dollars. Eight singles cost 24 dollars; two packs would buy more than eight notebooks.",
+          "shortcut": "Estimate the size of the result, then check the required operation and units."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "oracleExpression": "15+2*3"
+      }
+    },
+    {
+      "id": "mat-a1-028",
+      "reason": "Replace the same 25-percent growth relationship used by gb2-051.",
+      "before": {
+        "id": "mat-a1-028",
+        "revision": 1,
+        "section": "mathematics",
+        "skill": "ratios_percent",
+        "format": "ratios_percent",
+        "difficulty": 2,
+        "templateFamily": "percent change",
+        "stem": "A plant grows from 20 cm to 25 cm. What is the percent increase?",
+        "choices": [
+          "20",
+          "25",
+          "5",
+          "125"
+        ],
+        "guide": {
+          "correctChoiceId": "B",
+          "explanation": "The increase is 5 cm; 5/20 × 100 = 25%. Use the original height.",
+          "shortcut": "Estimate the size of the result, then check the required operation and units."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "oracleExpression": "(25-20)/20*100"
+      },
+      "after": {
+        "id": "mat-a1-028",
+        "revision": 2,
+        "section": "mathematics",
+        "skill": "ratios_percent",
+        "format": "ratios_percent",
+        "difficulty": 2,
+        "templateFamily": "growth-followed-by-loss",
+        "stem": "A club grew from 24 members to 30 members, then lost 3 members. What is the overall percentage increase from the original membership?",
+        "choices": [
+          "10",
+          "12.5",
+          "20",
+          "25"
+        ],
+        "guide": {
+          "correctChoiceId": "B",
+          "explanation": "The final membership is 27, a gain of 3 from the original 24. The percentage increase is 3/24 × 100 = 12.5.",
+          "shortcut": "Estimate the size of the result, then check the required operation and units."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "oracleExpression": "(30-3-24)/24*100"
+      }
+    },
+    {
+      "id": "mat-a1-064",
+      "reason": "Replace the identical 68-degree straight-angle problem in gb2-097.",
+      "before": {
+        "id": "mat-a1-064",
+        "revision": 1,
+        "section": "mathematics",
+        "skill": "geometry",
+        "format": "geometry",
+        "difficulty": 1,
+        "templateFamily": "supplementary angles",
+        "stem": "Two angles form a straight angle. One is 68 degrees. How many degrees is the other?",
+        "choices": [
+          "292",
+          "22",
+          "122",
+          "112"
+        ],
+        "guide": {
+          "correctChoiceId": "D",
+          "explanation": "A straight angle measures 180 degrees; subtract 68.",
+          "shortcut": "Estimate the size of the result, then check the required operation and units."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "oracleExpression": "180-68"
+      },
+      "after": {
+        "id": "mat-a1-064",
+        "revision": 2,
+        "section": "mathematics",
+        "skill": "geometry",
+        "format": "geometry",
+        "difficulty": 1,
+        "templateFamily": "corresponding-angles",
+        "stem": "Two parallel lines are crossed by a transversal. One angle measures 76 degrees. What is the measure, in degrees, of its corresponding angle at the other intersection?",
+        "choices": [
+          "38",
+          "104",
+          "152",
+          "76"
+        ],
+        "guide": {
+          "correctChoiceId": "D",
+          "explanation": "Corresponding angles formed by a transversal crossing parallel lines are equal, so the other angle is 76 degrees.",
+          "shortcut": "Estimate the size of the result, then check the required operation and units."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "oracleExpression": "76"
+      }
+    },
+    {
+      "id": "mat-a1-085",
+      "reason": "Replace the identical fixed-fee equation in gb2-066.",
+      "before": {
+        "id": "mat-a1-085",
+        "revision": 1,
+        "section": "mathematics",
+        "skill": "algebra",
+        "format": "algebra",
+        "difficulty": 2,
+        "templateFamily": "linear cost",
+        "stem": "A taxi charges $4 plus $3 per mile. A ride costs $25. How many miles was the ride?",
+        "choices": [
+          "9",
+          "21",
+          "7",
+          "8"
+        ],
+        "guide": {
+          "correctChoiceId": "C",
+          "explanation": "Subtract the fixed $4, then divide the remaining $21 by 3.",
+          "shortcut": "Estimate the size of the result, then check the required operation and units."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "oracleExpression": "(25-4)/3"
+      },
+      "after": {
+        "id": "mat-a1-085",
+        "revision": 2,
+        "section": "mathematics",
+        "skill": "algebra",
+        "format": "algebra",
+        "difficulty": 2,
+        "templateFamily": "included-distance-plus-additional-rate",
+        "stem": "A taxi charges $8 for the first 2 miles and $3 for each additional mile. A ride costs $23. How many miles was the ride?",
+        "choices": [
+          "5",
+          "9",
+          "7",
+          "11"
+        ],
+        "guide": {
+          "correctChoiceId": "C",
+          "explanation": "After the first two miles, 23 − 8 = 15 dollars pays for 5 additional miles. The total distance is 2 + 5 = 7 miles.",
+          "shortcut": "Estimate the size of the result, then check the required operation and units."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "oracleExpression": "2+(23-8)/3"
+      }
+    },
+    {
+      "id": "mat-a1-086",
+      "reason": "Replace the identical consecutive-number item in gb2-047.",
+      "before": {
+        "id": "mat-a1-086",
+        "revision": 1,
+        "section": "mathematics",
+        "skill": "algebra",
+        "format": "algebra",
+        "difficulty": 3,
+        "templateFamily": "consecutive integers",
+        "stem": "Three consecutive integers have sum 72. What is the largest?",
+        "choices": [
+          "24",
+          "25",
+          "23",
+          "26"
+        ],
+        "guide": {
+          "correctChoiceId": "B",
+          "explanation": "The middle integer is 72/3 = 24; the largest is one more.",
+          "shortcut": "Estimate the size of the result, then check the required operation and units."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "oracleExpression": "72/3+1"
+      },
+      "after": {
+        "id": "mat-a1-086",
+        "revision": 2,
+        "section": "mathematics",
+        "skill": "algebra",
+        "format": "algebra",
+        "difficulty": 3,
+        "templateFamily": "consecutive-factor-pair",
+        "stem": "Two consecutive positive integers have a product of 156. What is the smaller integer?",
+        "choices": [
+          "11",
+          "12",
+          "13",
+          "14"
+        ],
+        "guide": {
+          "correctChoiceId": "B",
+          "explanation": "The neighboring factors 12 and 13 have product 156, so the smaller integer is 12. The other proposed smaller values give different products.",
+          "shortcut": "Estimate the size of the result, then check the required operation and units."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "oracleExpression": "12"
+      }
+    },
+    {
+      "id": "rea-a1-001",
+      "reason": "Renew passage dependency after correcting contradictory color sorting.",
+      "before": {
+        "id": "rea-a1-001",
+        "revision": 1,
+        "section": "reading",
+        "skill": "main_idea",
+        "format": "main_idea",
+        "difficulty": 2,
+        "templateFamily": "fiction-main_idea",
+        "stem": "Which statement best expresses the story's central idea?",
+        "choices": [
+          "Careful observation can make an ordinary task meaningful.",
+          "Fast work is always more useful than careful work.",
+          "Repairing radios requires expensive tools.",
+          "An organized room needs no further work."
+        ],
+        "guide": {
+          "correctChoiceId": "A",
+          "explanation": "Mara moves from seeking impressive work to recognizing the value of sorting by useful features.",
+          "shortcut": "Choose the statement that covers the whole passage, not just one detail."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "passageId": "passage-a1-01",
+        "passageRevision": 1,
+        "evidenceParagraphs": [
+          1,
+          2,
+          3
+        ]
+      },
+      "after": {
+        "id": "rea-a1-001",
+        "revision": 2,
+        "section": "reading",
+        "skill": "main_idea",
+        "format": "main_idea",
+        "difficulty": 2,
+        "templateFamily": "fiction-main_idea",
+        "stem": "Which statement best expresses the story's central idea?",
+        "choices": [
+          "Careful observation can make an ordinary task meaningful.",
+          "Fast work is always more useful than careful work.",
+          "Repairing radios requires expensive tools.",
+          "An organized room needs no further work."
+        ],
+        "guide": {
+          "correctChoiceId": "A",
+          "explanation": "Mara moves from seeking impressive work to recognizing the value of sorting by useful features.",
+          "shortcut": "Choose the statement that covers the whole passage, not just one detail."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "passageId": "passage-a1-01",
+        "passageRevision": 2,
+        "evidenceParagraphs": [
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "rea-a1-002",
+      "reason": "Renew passage dependency after correcting contradictory color sorting.",
+      "before": {
+        "id": "rea-a1-002",
+        "revision": 1,
+        "section": "reading",
+        "skill": "detail",
+        "format": "detail",
+        "difficulty": 1,
+        "templateFamily": "fiction-detail",
+        "stem": "How does Mara first sort the screws?",
+        "choices": [
+          "By length",
+          "By color",
+          "By width",
+          "By head shape"
+        ],
+        "guide": {
+          "correctChoiceId": "B",
+          "explanation": "Paragraph 1 explicitly describes piles according to color.",
+          "shortcut": "Return to the named paragraph and match the exact detail."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "passageId": "passage-a1-01",
+        "passageRevision": 1,
+        "evidenceParagraphs": [
+          1
+        ]
+      },
+      "after": {
+        "id": "rea-a1-002",
+        "revision": 2,
+        "section": "reading",
+        "skill": "detail",
+        "format": "detail",
+        "difficulty": 1,
+        "templateFamily": "fiction-detail",
+        "stem": "How does Mara first sort the screws?",
+        "choices": [
+          "By length",
+          "By color",
+          "By width",
+          "By head shape"
+        ],
+        "guide": {
+          "correctChoiceId": "B",
+          "explanation": "Paragraph 1 explicitly describes piles according to color.",
+          "shortcut": "Return to the named paragraph and match the exact detail."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "passageId": "passage-a1-01",
+        "passageRevision": 2,
+        "evidenceParagraphs": [
+          1
+        ]
+      }
+    },
+    {
+      "id": "rea-a1-003",
+      "reason": "Renew passage dependency after correcting contradictory color sorting.",
+      "before": {
+        "id": "rea-a1-003",
+        "revision": 1,
+        "section": "reading",
+        "skill": "inference",
+        "format": "inference",
+        "difficulty": 2,
+        "templateFamily": "fiction-inference",
+        "stem": "Why does Mr. Imani leave the ruler rather than sort the screws himself?",
+        "choices": [
+          "He has decided the drawer cannot be organized.",
+          "He wants Mara to work out a better system.",
+          "He needs Mara to polish the ruler.",
+          "He wants all silver screws discarded."
+        ],
+        "guide": {
+          "correctChoiceId": "B",
+          "explanation": "His comparison question and the ruler guide Mara without doing the task for her.",
+          "shortcut": "Choose what the evidence supports without adding an unstated assumption."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "passageId": "passage-a1-01",
+        "passageRevision": 1,
+        "evidenceParagraphs": [
+          2,
+          3
+        ]
+      },
+      "after": {
+        "id": "rea-a1-003",
+        "revision": 2,
+        "section": "reading",
+        "skill": "inference",
+        "format": "inference",
+        "difficulty": 2,
+        "templateFamily": "fiction-inference",
+        "stem": "Why does Mr. Imani leave the ruler rather than sort the screws himself?",
+        "choices": [
+          "He has decided the drawer cannot be organized.",
+          "He wants Mara to work out a better system.",
+          "He needs Mara to polish the ruler.",
+          "He wants all silver screws discarded."
+        ],
+        "guide": {
+          "correctChoiceId": "B",
+          "explanation": "His comparison question and the ruler guide Mara without doing the task for her.",
+          "shortcut": "Choose what the evidence supports without adding an unstated assumption."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "passageId": "passage-a1-01",
+        "passageRevision": 2,
+        "evidenceParagraphs": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "rea-a1-004",
+      "reason": "Renew passage dependency after correcting contradictory color sorting.",
+      "before": {
+        "id": "rea-a1-004",
+        "revision": 1,
+        "section": "reading",
+        "skill": "vocabulary_context",
+        "format": "vocabulary_context",
+        "difficulty": 1,
+        "templateFamily": "fiction-vocabulary_context",
+        "stem": "In paragraph 3, secured most nearly means what?",
+        "choices": [
+          "hid",
+          "fastened",
+          "borrowed",
+          "examined"
+        ],
+        "guide": {
+          "correctChoiceId": "B",
+          "explanation": "Mr. Imani uses a screw to fasten the radio cover.",
+          "shortcut": "Substitute each meaning into the original sentence."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "passageId": "passage-a1-01",
+        "passageRevision": 1,
+        "evidenceParagraphs": [
+          3
+        ]
+      },
+      "after": {
+        "id": "rea-a1-004",
+        "revision": 2,
+        "section": "reading",
+        "skill": "vocabulary_context",
+        "format": "vocabulary_context",
+        "difficulty": 1,
+        "templateFamily": "fiction-vocabulary_context",
+        "stem": "In paragraph 3, secured most nearly means what?",
+        "choices": [
+          "hid",
+          "fastened",
+          "borrowed",
+          "examined"
+        ],
+        "guide": {
+          "correctChoiceId": "B",
+          "explanation": "Mr. Imani uses a screw to fasten the radio cover.",
+          "shortcut": "Substitute each meaning into the original sentence."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "passageId": "passage-a1-01",
+        "passageRevision": 2,
+        "evidenceParagraphs": [
+          3
+        ]
+      }
+    },
+    {
+      "id": "rea-a1-005",
+      "reason": "Renew passage dependency after correcting contradictory color sorting.",
+      "before": {
+        "id": "rea-a1-005",
+        "revision": 1,
+        "section": "reading",
+        "skill": "literary",
+        "format": "literary",
+        "difficulty": 2,
+        "templateFamily": "fiction-literary",
+        "stem": "What does Mara's decision to pull over another drawer suggest?",
+        "choices": [
+          "Her interest in the work has grown.",
+          "She still thinks polishing is the only useful job.",
+          "She intends to undo the completed sorting.",
+          "She wants to hide her earlier mistake."
+        ],
+        "guide": {
+          "correctChoiceId": "A",
+          "explanation": "She voluntarily continues the task after seeing its practical value.",
+          "shortcut": "Connect the literary device or character judgment to specific words and actions."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "passageId": "passage-a1-01",
+        "passageRevision": 1,
+        "evidenceParagraphs": [
+          3
+        ]
+      },
+      "after": {
+        "id": "rea-a1-005",
+        "revision": 2,
+        "section": "reading",
+        "skill": "literary",
+        "format": "literary",
+        "difficulty": 2,
+        "templateFamily": "fiction-literary",
+        "stem": "What does Mara's decision to pull over another drawer suggest?",
+        "choices": [
+          "Her interest in the work has grown.",
+          "She still thinks polishing is the only useful job.",
+          "She intends to undo the completed sorting.",
+          "She wants to hide her earlier mistake."
+        ],
+        "guide": {
+          "correctChoiceId": "A",
+          "explanation": "She voluntarily continues the task after seeing its practical value.",
+          "shortcut": "Connect the literary device or character judgment to specific words and actions."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "passageId": "passage-a1-01",
+        "passageRevision": 2,
+        "evidenceParagraphs": [
+          3
+        ]
+      }
+    },
+    {
+      "id": "rea-a1-006",
+      "reason": "Renew passage dependency after correcting contradictory color sorting.",
+      "before": {
+        "id": "rea-a1-006",
+        "revision": 1,
+        "section": "reading",
+        "skill": "structure",
+        "format": "structure",
+        "difficulty": 2,
+        "templateFamily": "fiction-structure",
+        "stem": "What is the main purpose of the two different silver screws in paragraph 2?",
+        "choices": [
+          "They reveal a weakness in Mara's first sorting method.",
+          "They show that all silver screws are interchangeable.",
+          "They explain why the radio cannot be fixed.",
+          "They establish that color is the best way to sort."
+        ],
+        "guide": {
+          "correctChoiceId": "A",
+          "explanation": "Their shared color but different dimensions exposes the limitation of grouping by color.",
+          "shortcut": "Ask what the paragraph or example contributes to the passage."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "passageId": "passage-a1-01",
+        "passageRevision": 1,
+        "evidenceParagraphs": [
+          2
+        ]
+      },
+      "after": {
+        "id": "rea-a1-006",
+        "revision": 2,
+        "section": "reading",
+        "skill": "structure",
+        "format": "structure",
+        "difficulty": 2,
+        "templateFamily": "fiction-structure",
+        "stem": "What is the main purpose of the two different silver screws in paragraph 2?",
+        "choices": [
+          "They reveal a weakness in Mara's first sorting method.",
+          "They show that all silver screws are interchangeable.",
+          "They explain why the radio cannot be fixed.",
+          "They establish that color is the best way to sort."
+        ],
+        "guide": {
+          "correctChoiceId": "A",
+          "explanation": "Their shared color but different dimensions exposes the limitation of grouping by color.",
+          "shortcut": "Ask what the paragraph or example contributes to the passage."
+        },
+        "provenance": {
+          "origin": "original_agent_authored_draft",
+          "authoredAt": "2026-09-27"
+        },
+        "calibrationReference": "PLAN.md#calibration-sources",
+        "reviewStatus": "pending_human_review",
+        "passageId": "passage-a1-01",
+        "passageRevision": 2,
+        "evidenceParagraphs": [
+          2
+        ]
+      }
+    }
+  ],
+  "passageCorrection": "passage-a1-01 revision 2: silver screws now come from the same color pile."
+}

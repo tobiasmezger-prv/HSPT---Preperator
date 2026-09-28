@@ -1,0 +1,3261 @@
+{
+  "schemaVersion": "hspt-draft-1",
+  "batchId": "reading-additional-v2",
+  "section": "reading",
+  "version": 2,
+  "status": "draft_not_for_publication",
+  "questions": [
+    {
+      "id": "rea-a1-001",
+      "revision": 2,
+      "section": "reading",
+      "skill": "main_idea",
+      "format": "main_idea",
+      "difficulty": 2,
+      "templateFamily": "fiction-main_idea",
+      "stem": "Which statement best expresses the story's central idea?",
+      "choices": [
+        "Careful observation can make an ordinary task meaningful.",
+        "Fast work is always more useful than careful work.",
+        "Repairing radios requires expensive tools.",
+        "An organized room needs no further work."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Mara moves from seeking impressive work to recognizing the value of sorting by useful features.",
+        "shortcut": "Choose the statement that covers the whole passage, not just one detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-01",
+      "passageRevision": 2,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-002",
+      "revision": 2,
+      "section": "reading",
+      "skill": "detail",
+      "format": "detail",
+      "difficulty": 1,
+      "templateFamily": "fiction-detail",
+      "stem": "How does Mara first sort the screws?",
+      "choices": [
+        "By length",
+        "By color",
+        "By width",
+        "By head shape"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Paragraph 1 explicitly describes piles according to color.",
+        "shortcut": "Return to the named paragraph and match the exact detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-01",
+      "passageRevision": 2,
+      "evidenceParagraphs": [
+        1
+      ]
+    },
+    {
+      "id": "rea-a1-003",
+      "revision": 2,
+      "section": "reading",
+      "skill": "inference",
+      "format": "inference",
+      "difficulty": 2,
+      "templateFamily": "fiction-inference",
+      "stem": "Why does Mr. Imani leave the ruler rather than sort the screws himself?",
+      "choices": [
+        "He has decided the drawer cannot be organized.",
+        "He wants Mara to work out a better system.",
+        "He needs Mara to polish the ruler.",
+        "He wants all silver screws discarded."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "His comparison question and the ruler guide Mara without doing the task for her.",
+        "shortcut": "Choose what the evidence supports without adding an unstated assumption."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-01",
+      "passageRevision": 2,
+      "evidenceParagraphs": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-004",
+      "revision": 2,
+      "section": "reading",
+      "skill": "vocabulary_context",
+      "format": "vocabulary_context",
+      "difficulty": 1,
+      "templateFamily": "fiction-vocabulary_context",
+      "stem": "In paragraph 3, secured most nearly means what?",
+      "choices": [
+        "hid",
+        "fastened",
+        "borrowed",
+        "examined"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Mr. Imani uses a screw to fasten the radio cover.",
+        "shortcut": "Substitute each meaning into the original sentence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-01",
+      "passageRevision": 2,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-005",
+      "revision": 2,
+      "section": "reading",
+      "skill": "literary",
+      "format": "literary",
+      "difficulty": 2,
+      "templateFamily": "fiction-literary",
+      "stem": "What does Mara's decision to pull over another drawer suggest?",
+      "choices": [
+        "Her interest in the work has grown.",
+        "She still thinks polishing is the only useful job.",
+        "She intends to undo the completed sorting.",
+        "She wants to hide her earlier mistake."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "She voluntarily continues the task after seeing its practical value.",
+        "shortcut": "Connect the literary device or character judgment to specific words and actions."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-01",
+      "passageRevision": 2,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-006",
+      "revision": 2,
+      "section": "reading",
+      "skill": "structure",
+      "format": "structure",
+      "difficulty": 2,
+      "templateFamily": "fiction-structure",
+      "stem": "What is the main purpose of the two different silver screws in paragraph 2?",
+      "choices": [
+        "They reveal a weakness in Mara's first sorting method.",
+        "They show that all silver screws are interchangeable.",
+        "They explain why the radio cannot be fixed.",
+        "They establish that color is the best way to sort."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Their shared color but different dimensions exposes the limitation of grouping by color.",
+        "shortcut": "Ask what the paragraph or example contributes to the passage."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-01",
+      "passageRevision": 2,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-007",
+      "revision": 1,
+      "section": "reading",
+      "skill": "main_idea",
+      "format": "main_idea",
+      "difficulty": 2,
+      "templateFamily": "expository-main_idea",
+      "stem": "What is the passage mainly explaining?",
+      "choices": [
+        "Why rooftop plants need no maintenance",
+        "Why all buildings should have the same roof design",
+        "How gutters can replace every drainage system",
+        "How planted roofs manage rain and what limits their performance"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "All three paragraphs address water handling, design requirements and variable performance.",
+        "shortcut": "Choose the statement that covers the whole passage, not just one detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-02",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-008",
+      "revision": 1,
+      "section": "reading",
+      "skill": "detail",
+      "format": "detail",
+      "difficulty": 1,
+      "templateFamily": "expository-detail",
+      "stem": "Why must designers consider wet growing material?",
+      "choices": [
+        "It prevents all evaporation.",
+        "It adds weight that the building must support.",
+        "It removes the need for protective layers.",
+        "It guarantees that roots cannot spread."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Paragraph 2 specifically identifies the weight of wet growing material as a design concern.",
+        "shortcut": "Return to the named paragraph and match the exact detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-02",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-009",
+      "revision": 1,
+      "section": "reading",
+      "skill": "inference",
+      "format": "inference",
+      "difficulty": 2,
+      "templateFamily": "expository-inference",
+      "stem": "Which condition would probably reduce a planted roof's ability to store a new shower?",
+      "choices": [
+        "The plants were chosen for local wind conditions.",
+        "The previous week was dry.",
+        "The roof has a protective root barrier.",
+        "The growing material is already saturated."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Paragraph 3 says a soaked roof has less available storage for another storm.",
+        "shortcut": "Choose what the evidence supports without adding an unstated assumption."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-02",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-010",
+      "revision": 1,
+      "section": "reading",
+      "skill": "vocabulary_context",
+      "format": "vocabulary_context",
+      "difficulty": 2,
+      "templateFamily": "expository-vocabulary_context",
+      "stem": "In paragraph 3, runoff refers to what?",
+      "choices": [
+        "Water flowing away from a surface",
+        "Material carried onto a roof for planting",
+        "Moisture taken up only by plant roots",
+        "Air moving across the roof"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The passage contrasts water stored on the roof with water leaving through drains.",
+        "shortcut": "Substitute each meaning into the original sentence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-02",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-011",
+      "revision": 1,
+      "section": "reading",
+      "skill": "structure",
+      "format": "structure",
+      "difficulty": 2,
+      "templateFamily": "expository-structure",
+      "stem": "Why does the author mention a single gentle shower?",
+      "choices": [
+        "To identify the only storm worth measuring",
+        "To illustrate a test that would be too limited",
+        "To prove every planted roof performs identically",
+        "To show that measurements are unnecessary"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The example supports the need to measure several storms under different conditions.",
+        "shortcut": "Ask what the paragraph or example contributes to the passage."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-02",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-012",
+      "revision": 1,
+      "section": "reading",
+      "skill": "inference",
+      "format": "inference",
+      "difficulty": 3,
+      "templateFamily": "expository-inference",
+      "stem": "Which statement would the author most likely support?",
+      "choices": [
+        "A roof's benefits should be evaluated under varied conditions.",
+        "One successful storm test establishes performance in all weather.",
+        "Protective layers matter only on unplanted roofs.",
+        "Planted roofs can store an unlimited amount of water."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The author repeatedly qualifies performance and calls for varied testing.",
+        "shortcut": "Choose what the evidence supports without adding an unstated assumption."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-02",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-013",
+      "revision": 1,
+      "section": "reading",
+      "skill": "main_idea",
+      "format": "main_idea",
+      "difficulty": 2,
+      "templateFamily": "fiction-main_idea",
+      "stem": "What does Jun learn during the walk?",
+      "choices": [
+        "Maps cannot provide useful information.",
+        "The shortest route is not always the easiest.",
+        "The older person should always choose the route.",
+        "Long paths always take less time."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Jun's experience makes him consider steepness as well as distance.",
+        "shortcut": "Choose the statement that covers the whole passage, not just one detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-03",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-014",
+      "revision": 1,
+      "section": "reading",
+      "skill": "detail",
+      "format": "detail",
+      "difficulty": 1,
+      "templateFamily": "fiction-detail",
+      "stem": "Which feature does Jun notice only after the climb becomes difficult?",
+      "choices": [
+        "The lookout's opening hours",
+        "A missing bridge",
+        "Closely spaced elevation lines",
+        "A third route in green"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Paragraph 2 names the elevation lines he studies after stopping.",
+        "shortcut": "Return to the named paragraph and match the exact detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-03",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-015",
+      "revision": 1,
+      "section": "reading",
+      "skill": "inference",
+      "format": "inference",
+      "difficulty": 2,
+      "templateFamily": "fiction-inference",
+      "stem": "Why does the grandfather let Jun lead?",
+      "choices": [
+        "He refuses to walk the blue route.",
+        "He has never seen the map before.",
+        "He allows Jun to learn from making a choice.",
+        "He cannot read any maps."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "He offers the choice and later asks Jun to choose again, supporting learning through experience.",
+        "shortcut": "Choose what the evidence supports without adding an unstated assumption."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-03",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-016",
+      "revision": 1,
+      "section": "reading",
+      "skill": "vocabulary_context",
+      "format": "vocabulary_context",
+      "difficulty": 1,
+      "templateFamily": "fiction-vocabulary_context",
+      "stem": "In paragraph 2, steadily most nearly means what?",
+      "choices": [
+        "Without any direction",
+        "At a consistent pace",
+        "With frequent sudden stops",
+        "As quickly as possible"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The walkers continue along the gentler slope without Jun's described struggle.",
+        "shortcut": "Substitute each meaning into the original sentence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-03",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-017",
+      "revision": 1,
+      "section": "reading",
+      "skill": "literary",
+      "format": "literary",
+      "difficulty": 3,
+      "templateFamily": "fiction-literary",
+      "stem": "What does Jun mean by saying that paper does not get tired?",
+      "choices": [
+        "The blue route is absent from the map.",
+        "The map has become too old to use.",
+        "A drawn distance does not show the effort he experienced.",
+        "He wishes the map were made of cloth."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "His comment contrasts the simple line on paper with physical fatigue.",
+        "shortcut": "Connect the literary device or character judgment to specific words and actions."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-03",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-018",
+      "revision": 1,
+      "section": "reading",
+      "skill": "structure",
+      "format": "structure",
+      "difficulty": 2,
+      "templateFamily": "fiction-structure",
+      "stem": "How does Jun's attention to the map change?",
+      "choices": [
+        "He first follows blue, then changes to red.",
+        "He first trusts the map, then throws it away.",
+        "He first considers distance, then also considers terrain.",
+        "He first reads elevation, then ignores it."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The opening focuses on the shorter line; paragraph 2 adds elevation as a factor.",
+        "shortcut": "Ask what the paragraph or example contributes to the passage."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-03",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-019",
+      "revision": 1,
+      "section": "reading",
+      "skill": "main_idea",
+      "format": "main_idea",
+      "difficulty": 2,
+      "templateFamily": "expository-main_idea",
+      "stem": "Which statement best summarizes the passage?",
+      "choices": [
+        "Careful counting requires consistent methods and cautious conclusions.",
+        "A large insect count always identifies the best garden flower.",
+        "Students should avoid studies with uncertain observations.",
+        "Weather matters less than the number of students counting."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The revised procedure and qualified conclusion emphasize reliable methods.",
+        "shortcut": "Choose the statement that covers the whole passage, not just one detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-04",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-020",
+      "revision": 1,
+      "section": "reading",
+      "skill": "detail",
+      "format": "detail",
+      "difficulty": 1,
+      "templateFamily": "expository-detail",
+      "stem": "What must an insect do to count as a visit?",
+      "choices": [
+        "Remain for twenty minutes",
+        "Fly above the garden",
+        "Appear in a photograph",
+        "Land on a flower"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Paragraph 2 supplies this operational definition.",
+        "shortcut": "Return to the named paragraph and match the exact detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-04",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-021",
+      "revision": 1,
+      "section": "reading",
+      "skill": "inference",
+      "format": "inference",
+      "difficulty": 2,
+      "templateFamily": "expository-inference",
+      "stem": "Why were observation periods made equal?",
+      "choices": [
+        "The students wanted to stop recording weather.",
+        "Every insect visit lasts the same time.",
+        "Cold mornings always have more insects.",
+        "Different counting durations could distort the comparison."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "A longer counting period could accumulate more visits even with the same visit rate.",
+        "shortcut": "Choose what the evidence supports without adding an unstated assumption."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-04",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-022",
+      "revision": 1,
+      "section": "reading",
+      "skill": "vocabulary_context",
+      "format": "vocabulary_context",
+      "difficulty": 1,
+      "templateFamily": "expository-vocabulary_context",
+      "stem": "In paragraph 1, revised most nearly means what?",
+      "choices": [
+        "changed",
+        "abandoned forever",
+        "memorized",
+        "announced publicly"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The students modify the plan in response to the advisor's concern.",
+        "shortcut": "Substitute each meaning into the original sentence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-04",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-023",
+      "revision": 1,
+      "section": "reading",
+      "skill": "structure",
+      "format": "structure",
+      "difficulty": 2,
+      "templateFamily": "expository-structure",
+      "stem": "What role does the final paragraph play?",
+      "choices": [
+        "It gives instructions for identifying every insect species.",
+        "It proves that all earlier observations were false.",
+        "It explains a limitation and proposes a follow-up study.",
+        "It replaces the study with an unrelated project."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The sunlight difference limits the conclusion and motivates the next comparison.",
+        "shortcut": "Ask what the paragraph or example contributes to the passage."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-04",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-024",
+      "revision": 1,
+      "section": "reading",
+      "skill": "inference",
+      "format": "inference",
+      "difficulty": 3,
+      "templateFamily": "expository-inference",
+      "stem": "Which new comparison would best address the club's remaining question?",
+      "choices": [
+        "A sunny patch in summer and a shaded patch in winter",
+        "One patch observed twice as long as all others",
+        "Only insects that students can name exactly",
+        "Different flower types observed for equal periods in similar sunlight"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Similar light and observation periods better isolate the flower-type comparison.",
+        "shortcut": "Choose what the evidence supports without adding an unstated assumption."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-04",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-025",
+      "revision": 1,
+      "section": "reading",
+      "skill": "main_idea",
+      "format": "main_idea",
+      "difficulty": 2,
+      "templateFamily": "fiction-main_idea",
+      "stem": "What is the central idea of this story?",
+      "choices": [
+        "Music practice prevents successful teamwork.",
+        "A group should finish building before asking questions.",
+        "Late arrivals should make every design decision.",
+        "Testing an overlooked concern can improve a group's work."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Esme's concern and demonstration lead to a better design and process.",
+        "shortcut": "Choose the statement that covers the whole passage, not just one detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-05",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-026",
+      "revision": 1,
+      "section": "reading",
+      "skill": "detail",
+      "format": "detail",
+      "difficulty": 1,
+      "templateFamily": "fiction-detail",
+      "stem": "Why does the base fail Esme's test?",
+      "choices": [
+        "A corner hits a ruler while turning.",
+        "The arm is too short to reach the table.",
+        "The base cannot move forward at all.",
+        "A motor stops working."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Paragraph 2 describes the corner striking a ruler during the turn.",
+        "shortcut": "Return to the named paragraph and match the exact detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-05",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-027",
+      "revision": 1,
+      "section": "reading",
+      "skill": "inference",
+      "format": "inference",
+      "difficulty": 2,
+      "templateFamily": "fiction-inference",
+      "stem": "What does Cal's use of the eraser show?",
+      "choices": [
+        "He is willing to revise the design.",
+        "He wants to erase Esme's name.",
+        "He has decided to cancel robotics.",
+        "He believes the test proved nothing."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "He changes from reaching for parts to revising the drawing after the failed test.",
+        "shortcut": "Choose what the evidence supports without adding an unstated assumption."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-05",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-028",
+      "revision": 1,
+      "section": "reading",
+      "skill": "vocabulary_context",
+      "format": "vocabulary_context",
+      "difficulty": 1,
+      "templateFamily": "fiction-vocabulary_context",
+      "stem": "In paragraph 1, adjust most nearly means what?",
+      "choices": [
+        "protect",
+        "celebrate",
+        "modify",
+        "describe"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Cal proposes changing the design later.",
+        "shortcut": "Substitute each meaning into the original sentence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-05",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1
+      ]
+    },
+    {
+      "id": "rea-a1-029",
+      "revision": 1,
+      "section": "reading",
+      "skill": "literary",
+      "format": "literary",
+      "difficulty": 2,
+      "templateFamily": "fiction-literary",
+      "stem": "Which description best fits Esme?",
+      "choices": [
+        "She is eager to embarrass everyone without offering help.",
+        "She is hesitant but willing to support her concern with evidence.",
+        "She is uninterested in how the robot works.",
+        "She is certain that every other design must fail."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "She almost stays silent, then demonstrates a specific problem constructively.",
+        "shortcut": "Connect the literary device or character judgment to specific words and actions."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-05",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-030",
+      "revision": 1,
+      "section": "reading",
+      "skill": "structure",
+      "format": "structure",
+      "difficulty": 3,
+      "templateFamily": "fiction-structure",
+      "stem": "Why does the author repeat the detail that Esme arrives late?",
+      "choices": [
+        "To show that the meetings never begin on time",
+        "To highlight the change in how the group responds to her",
+        "To explain why the robot uses rulers",
+        "To prove that orchestra and robotics are identical"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The same circumstance produces a different response after the group values her questions.",
+        "shortcut": "Ask what the paragraph or example contributes to the passage."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-05",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-031",
+      "revision": 1,
+      "section": "reading",
+      "skill": "main_idea",
+      "format": "main_idea",
+      "difficulty": 2,
+      "templateFamily": "argument-main_idea",
+      "stem": "What does the author recommend?",
+      "choices": [
+        "Saving selected drafts with notes about important revisions",
+        "Saving every keystroke without explanation",
+        "Grading only the first attempt at an essay",
+        "Avoiding revision once an idea is written"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The second paragraph gives the specific recommendation supported throughout.",
+        "shortcut": "Choose the statement that covers the whole passage, not just one detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-06",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-032",
+      "revision": 1,
+      "section": "reading",
+      "skill": "detail",
+      "format": "detail",
+      "difficulty": 1,
+      "templateFamily": "argument-detail",
+      "stem": "Which version does the author explicitly suggest keeping?",
+      "choices": [
+        "Only a teacher's model essay",
+        "Only a list of spelling errors",
+        "Every unfinished sentence",
+        "A version after major revision"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Paragraph 2 names a version after major revision among the suggested selections.",
+        "shortcut": "Return to the named paragraph and match the exact detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-06",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-033",
+      "revision": 1,
+      "section": "reading",
+      "skill": "inference",
+      "format": "inference",
+      "difficulty": 2,
+      "templateFamily": "argument-inference",
+      "stem": "Why would notes make the draft collection more useful?",
+      "choices": [
+        "They make the final essay unnecessary.",
+        "They guarantee that no mistakes remain.",
+        "They explain the thinking behind changes.",
+        "They replace the need to read the drafts."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The notes provide reasons for decisions, making the process interpretable.",
+        "shortcut": "Choose what the evidence supports without adding an unstated assumption."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-06",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-034",
+      "revision": 1,
+      "section": "reading",
+      "skill": "vocabulary_context",
+      "format": "vocabulary_context",
+      "difficulty": 1,
+      "templateFamily": "argument-vocabulary_context",
+      "stem": "In paragraph 3, conceal most nearly means what?",
+      "choices": [
+        "correct",
+        "hide",
+        "encourage",
+        "repeat"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The finished essay may hide strategies that earlier versions reveal.",
+        "shortcut": "Substitute each meaning into the original sentence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-06",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-035",
+      "revision": 1,
+      "section": "reading",
+      "skill": "structure",
+      "format": "structure",
+      "difficulty": 2,
+      "templateFamily": "argument-structure",
+      "stem": "Why does the author include students' concern about exposing mistakes?",
+      "choices": [
+        "To argue that mistakes matter more than ideas",
+        "To conclude that drafts should be destroyed",
+        "To acknowledge an objection and respond to it",
+        "To introduce an unrelated problem about handwriting"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The concern is followed by an explanation of the value of imperfect drafts.",
+        "shortcut": "Ask what the paragraph or example contributes to the passage."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-06",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-036",
+      "revision": 1,
+      "section": "reading",
+      "skill": "inference",
+      "format": "inference",
+      "difficulty": 2,
+      "templateFamily": "argument-inference",
+      "stem": "Which grading practice best matches the author's view?",
+      "choices": [
+        "Ignoring the final essay entirely",
+        "Considering both the final essay and documented improvement",
+        "Penalizing every crossed-out sentence",
+        "Giving the highest grade to the thickest folder"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The last sentence explicitly values improvement as well as the final result.",
+        "shortcut": "Choose what the evidence supports without adding an unstated assumption."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-06",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-037",
+      "revision": 1,
+      "section": "reading",
+      "skill": "main_idea",
+      "format": "main_idea",
+      "difficulty": 2,
+      "templateFamily": "fiction-main_idea",
+      "stem": "Which theme is best supported by the story?",
+      "choices": [
+        "A familiar thing can offer comfort during change.",
+        "Every move permanently ends all friendships.",
+        "Old clocks are more useful than books.",
+        "A neighborhood must remain exactly the same."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The familiar chime comforts Arun after the workshop closes.",
+        "shortcut": "Choose the statement that covers the whole passage, not just one detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-07",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-038",
+      "revision": 1,
+      "section": "reading",
+      "skill": "detail",
+      "format": "detail",
+      "difficulty": 1,
+      "templateFamily": "fiction-detail",
+      "stem": "Where does the clock go?",
+      "choices": [
+        "To the school office",
+        "Into Arun's bedroom",
+        "To the new library",
+        "Into Mrs. Bell's van for sale"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Mrs. Bell states that the clock belongs to the new library.",
+        "shortcut": "Return to the named paragraph and match the exact detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-07",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-039",
+      "revision": 1,
+      "section": "reading",
+      "skill": "inference",
+      "format": "inference",
+      "difficulty": 3,
+      "templateFamily": "fiction-inference",
+      "stem": "What does Arun holding the book less tightly suggest?",
+      "choices": [
+        "He has forgotten Mrs. Bell.",
+        "He has decided not to return the book.",
+        "He is angry with the librarian.",
+        "He feels more at ease."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The relaxation follows the reassuring familiar sound.",
+        "shortcut": "Choose what the evidence supports without adding an unstated assumption."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-07",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-040",
+      "revision": 1,
+      "section": "reading",
+      "skill": "vocabulary_context",
+      "format": "vocabulary_context",
+      "difficulty": 2,
+      "templateFamily": "fiction-vocabulary_context",
+      "stem": "In paragraph 1, a chorus of ticks suggests what?",
+      "choices": [
+        "Many clock sounds occurring together",
+        "A single clock that never works",
+        "People singing about clocks",
+        "Silence inside the workshop"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The workshop contains many clocks, whose ticks are compared to a chorus.",
+        "shortcut": "Substitute each meaning into the original sentence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-07",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1
+      ]
+    },
+    {
+      "id": "rea-a1-041",
+      "revision": 1,
+      "section": "reading",
+      "skill": "literary",
+      "format": "literary",
+      "difficulty": 2,
+      "templateFamily": "fiction-literary",
+      "stem": "Why is sound important in the story?",
+      "choices": [
+        "The chime connects Arun's old routine with a new place.",
+        "It proves that the alley is always noisy.",
+        "It tells the reader exactly how old the clock is.",
+        "It prevents Arun from speaking to Mrs. Bell."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The repeated sound provides continuity between the workshop and library.",
+        "shortcut": "Connect the literary device or character judgment to specific words and actions."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-07",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-042",
+      "revision": 1,
+      "section": "reading",
+      "skill": "structure",
+      "format": "structure",
+      "difficulty": 2,
+      "templateFamily": "fiction-structure",
+      "stem": "What contrast organizes the ending?",
+      "choices": [
+        "The dark workshop and the familiar sound in the library",
+        "The clock's price and the cost of the book",
+        "The van's size and the workshop's height",
+        "Friday's weather and Monday's weather"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The dark alley marks loss, while the library chime supplies a comforting continuation.",
+        "shortcut": "Ask what the paragraph or example contributes to the passage."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-07",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-043",
+      "revision": 1,
+      "section": "reading",
+      "skill": "main_idea",
+      "format": "main_idea",
+      "difficulty": 2,
+      "templateFamily": "expository-main_idea",
+      "stem": "What is the main point of the passage?",
+      "choices": [
+        "A detailed caption should avoid mentioning uncertainty.",
+        "Photographs never provide useful historical information.",
+        "Every handwritten label is accurate.",
+        "Historical photographs should be interpreted with evidence and stated uncertainty."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "All paragraphs distinguish visible evidence from unsupported assumptions.",
+        "shortcut": "Choose the statement that covers the whole passage, not just one detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-08",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-044",
+      "revision": 1,
+      "section": "reading",
+      "skill": "detail",
+      "format": "detail",
+      "difficulty": 1,
+      "templateFamily": "expository-detail",
+      "stem": "Why should a date on the back be checked?",
+      "choices": [
+        "Photographs cannot be dated at all.",
+        "Someone may have added it much later.",
+        "Shop signs never appear in photographs.",
+        "Dates always describe the photographer's birthday."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Paragraph 2 warns that labels can be added later.",
+        "shortcut": "Return to the named paragraph and match the exact detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-08",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-045",
+      "revision": 1,
+      "section": "reading",
+      "skill": "inference",
+      "format": "inference",
+      "difficulty": 2,
+      "templateFamily": "expository-inference",
+      "stem": "Which observation would most directly help verify a suspected parade?",
+      "choices": [
+        "The researcher's preference for parades",
+        "A guess based only on the size of the crowd",
+        "A newspaper account describing the same visible banner",
+        "A modern picture of a different town"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Matching a visible detail to another source offers corroboration.",
+        "shortcut": "Choose what the evidence supports without adding an unstated assumption."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-08",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-046",
+      "revision": 1,
+      "section": "reading",
+      "skill": "vocabulary_context",
+      "format": "vocabulary_context",
+      "difficulty": 1,
+      "templateFamily": "expository-vocabulary_context",
+      "stem": "In paragraph 3, account most nearly means what?",
+      "choices": [
+        "description",
+        "bank deposit",
+        "calculation",
+        "permission"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The passage discusses a trustworthy historical description.",
+        "shortcut": "Substitute each meaning into the original sentence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-08",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-047",
+      "revision": 1,
+      "section": "reading",
+      "skill": "structure",
+      "format": "structure",
+      "difficulty": 2,
+      "templateFamily": "expository-structure",
+      "stem": "What is the purpose of the sample caption?",
+      "choices": [
+        "To show that research is a waste of time",
+        "To prove that every town held a spring fair",
+        "To supply the only permitted wording for captions",
+        "To demonstrate how to separate certainty from probability"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Probably explicitly signals the claim's level of certainty.",
+        "shortcut": "Ask what the paragraph or example contributes to the passage."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-08",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-048",
+      "revision": 1,
+      "section": "reading",
+      "skill": "inference",
+      "format": "inference",
+      "difficulty": 2,
+      "templateFamily": "expository-inference",
+      "stem": "Which statement would the author most likely reject?",
+      "choices": [
+        "Visible details can guide further questions.",
+        "A crowded square by itself proves that a parade occurred.",
+        "Newspapers may help explain an image.",
+        "Some conclusions remain uncertain after research."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Paragraph 1 lists several possible causes for a crowd and warns against guessing.",
+        "shortcut": "Choose what the evidence supports without adding an unstated assumption."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-08",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1
+      ]
+    },
+    {
+      "id": "rea-a1-049",
+      "revision": 1,
+      "section": "reading",
+      "skill": "main_idea",
+      "format": "main_idea",
+      "difficulty": 2,
+      "templateFamily": "fiction-main_idea",
+      "stem": "What does Leah's experience teach her?",
+      "choices": [
+        "Strength alone determines canoeing ability.",
+        "Watching a skill is different from learning to perform it.",
+        "Lessons are useful only after a long journey.",
+        "The lake is too dangerous for any practice."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Her confidence from watching gives way to seeking instruction after trying the skill.",
+        "shortcut": "Choose the statement that covers the whole passage, not just one detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-09",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-050",
+      "revision": 1,
+      "section": "reading",
+      "skill": "detail",
+      "format": "detail",
+      "difficulty": 1,
+      "templateFamily": "fiction-detail",
+      "stem": "What first happens when Leah paddles hard on one side?",
+      "choices": [
+        "The paddle breaks.",
+        "The canoe stops at the island.",
+        "The canoe turns away from the marker.",
+        "The marker sinks."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Paragraph 2 directly describes the canoe's initial turn.",
+        "shortcut": "Return to the named paragraph and match the exact detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-09",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-051",
+      "revision": 1,
+      "section": "reading",
+      "skill": "inference",
+      "format": "inference",
+      "difficulty": 2,
+      "templateFamily": "fiction-inference",
+      "stem": "Why does Leah ask to practice returning to shore?",
+      "choices": [
+        "She wants to avoid ever using a canoe again.",
+        "She recognizes that she needs more control before going farther.",
+        "She has already reached the island.",
+        "She believes smaller strokes cannot help."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Her practice and observation of wind prompt a more cautious goal.",
+        "shortcut": "Choose what the evidence supports without adding an unstated assumption."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-09",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-052",
+      "revision": 1,
+      "section": "reading",
+      "skill": "vocabulary_context",
+      "format": "vocabulary_context",
+      "difficulty": 1,
+      "templateFamily": "fiction-vocabulary_context",
+      "stem": "In paragraph 1, rhythm most nearly means what?",
+      "choices": [
+        "regular pattern",
+        "sudden accident",
+        "great distance",
+        "loud argument"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The cousins' repeated paddle movements form a regular pattern.",
+        "shortcut": "Substitute each meaning into the original sentence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-09",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1
+      ]
+    },
+    {
+      "id": "rea-a1-053",
+      "revision": 1,
+      "section": "reading",
+      "skill": "literary",
+      "format": "literary",
+      "difficulty": 2,
+      "templateFamily": "fiction-literary",
+      "stem": "How does Leah change?",
+      "choices": [
+        "She stops observing the canoe's movement.",
+        "She becomes more certain that lessons are unnecessary.",
+        "She loses interest in the lake entirely.",
+        "She becomes more willing to learn from instruction."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Her final waiting for instructions contrasts with her initial wish to skip the lesson.",
+        "shortcut": "Connect the literary device or character judgment to specific words and actions."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-09",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-054",
+      "revision": 1,
+      "section": "reading",
+      "skill": "structure",
+      "format": "structure",
+      "difficulty": 3,
+      "templateFamily": "fiction-structure",
+      "stem": "Why does the author mention ripples farther out?",
+      "choices": [
+        "To reveal that the uncle caused all the waves",
+        "To indicate that the island has moved",
+        "To explain the color of the canoe",
+        "To show a condition Leah now notices when judging her readiness"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The wind beyond the sheltered practice area helps explain her revised decision.",
+        "shortcut": "Ask what the paragraph or example contributes to the passage."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-09",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-055",
+      "revision": 1,
+      "section": "reading",
+      "skill": "main_idea",
+      "format": "main_idea",
+      "difficulty": 2,
+      "templateFamily": "expository-main_idea",
+      "stem": "What is the passage mainly about?",
+      "choices": [
+        "Designing a comparison that supports a limited, fair conclusion",
+        "Proving that paper always protects eggs better than fabric",
+        "Showing that dropping eggs cannot teach anything",
+        "Choosing the cheapest possible container"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The passage identifies confounding differences and improves the comparison.",
+        "shortcut": "Choose the statement that covers the whole passage, not just one detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-10",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-056",
+      "revision": 1,
+      "section": "reading",
+      "skill": "detail",
+      "format": "detail",
+      "difficulty": 1,
+      "templateFamily": "expository-detail",
+      "stem": "Which difference made the original trials hard to compare?",
+      "choices": [
+        "The containers were dropped from different heights.",
+        "Both teams used identical containers.",
+        "Each team tested many eggs.",
+        "Both eggs survived."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Paragraph 2 identifies the lower and higher shelves.",
+        "shortcut": "Return to the named paragraph and match the exact detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-10",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-057",
+      "revision": 1,
+      "section": "reading",
+      "skill": "inference",
+      "format": "inference",
+      "difficulty": 3,
+      "templateFamily": "expository-inference",
+      "stem": "Why are several trials better than one trial per material?",
+      "choices": [
+        "They reduce reliance on a single result that may not be typical.",
+        "They guarantee that no eggs will crack.",
+        "They remove the need to use equal heights.",
+        "They prove the best material for all objects."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Repeated trials provide more evidence than a single observation, without making universal guarantees.",
+        "shortcut": "Choose what the evidence supports without adding an unstated assumption."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-10",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-058",
+      "revision": 1,
+      "section": "reading",
+      "skill": "vocabulary_context",
+      "format": "vocabulary_context",
+      "difficulty": 2,
+      "templateFamily": "expository-vocabulary_context",
+      "stem": "In paragraph 2, isolate most nearly means what?",
+      "choices": [
+        "distinguish separately",
+        "hide permanently",
+        "make larger",
+        "carry outside"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The test should separate the material's effect from other differences.",
+        "shortcut": "Substitute each meaning into the original sentence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-10",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-059",
+      "revision": 1,
+      "section": "reading",
+      "skill": "structure",
+      "format": "structure",
+      "difficulty": 2,
+      "templateFamily": "expository-structure",
+      "stem": "What does the final sentence do?",
+      "choices": [
+        "It cancels the plan for the new test.",
+        "It limits the reach of the study's conclusion.",
+        "It explains how to fold the paper supports.",
+        "It repeats the original unsupported declaration."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The sentence says the test cannot establish the best package for every object.",
+        "shortcut": "Ask what the paragraph or example contributes to the passage."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-10",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-060",
+      "revision": 1,
+      "section": "reading",
+      "skill": "inference",
+      "format": "inference",
+      "difficulty": 3,
+      "templateFamily": "expository-inference",
+      "stem": "Which claim could the revised study best support?",
+      "choices": [
+        "A single successful drop proves a design cannot fail.",
+        "Paper is best for every fragile item.",
+        "Container size never affects protection.",
+        "One tested design protected eggs more often at the chosen height."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The proposed controls and repeated trials support a comparison within those conditions.",
+        "shortcut": "Choose what the evidence supports without adding an unstated assumption."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-10",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-061",
+      "revision": 1,
+      "section": "reading",
+      "skill": "main_idea",
+      "format": "main_idea",
+      "difficulty": 2,
+      "templateFamily": "fiction-main_idea",
+      "stem": "Which idea does the story emphasize?",
+      "choices": [
+        "Plants grow only while people are away.",
+        "Seeds should be dug up whenever growth is not visible.",
+        "Daily changes are always large and obvious.",
+        "Patient observation can reveal gradual progress."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Tomas waits and uses marks to recognize growth over time.",
+        "shortcut": "Choose the statement that covers the whole passage, not just one detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-11",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-062",
+      "revision": 1,
+      "section": "reading",
+      "skill": "detail",
+      "format": "detail",
+      "difficulty": 1,
+      "templateFamily": "fiction-detail",
+      "stem": "When does the first visible shoot appear?",
+      "choices": [
+        "After Tomas digs up a seed",
+        "On the seventh morning",
+        "On the eleventh morning",
+        "After his sister plants new seeds"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Paragraph 2 explicitly gives the eleventh morning.",
+        "shortcut": "Return to the named paragraph and match the exact detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-11",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-063",
+      "revision": 1,
+      "section": "reading",
+      "skill": "inference",
+      "format": "inference",
+      "difficulty": 2,
+      "templateFamily": "fiction-inference",
+      "stem": "Why does Tomas compare the newest mark with the first?",
+      "choices": [
+        "He has lost all the other marks.",
+        "The first mark predicts the plant's final height exactly.",
+        "A longer interval makes small changes easier to notice.",
+        "He wants to stop observing the plant."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The passage says some daily differences are invisible, while cumulative growth can be seen.",
+        "shortcut": "Choose what the evidence supports without adding an unstated assumption."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-11",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-064",
+      "revision": 1,
+      "section": "reading",
+      "skill": "vocabulary_context",
+      "format": "vocabulary_context",
+      "difficulty": 1,
+      "templateFamily": "fiction-vocabulary_context",
+      "stem": "In paragraph 2, pale most nearly means what?",
+      "choices": [
+        "fully grown",
+        "very loud",
+        "light in color",
+        "completely dry"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Pale describes the young shoot's color.",
+        "shortcut": "Substitute each meaning into the original sentence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-11",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-065",
+      "revision": 1,
+      "section": "reading",
+      "skill": "literary",
+      "format": "literary",
+      "difficulty": 2,
+      "templateFamily": "fiction-literary",
+      "stem": "What does the small staircase of marks represent?",
+      "choices": [
+        "A set of steps leading to the apartment",
+        "The plant's gradual increase in height",
+        "The number of seeds that failed",
+        "The days Tomas forgot to water"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The marks record successive heights and resemble rising steps.",
+        "shortcut": "Connect the literary device or character judgment to specific words and actions."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-11",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-066",
+      "revision": 1,
+      "section": "reading",
+      "skill": "structure",
+      "format": "structure",
+      "difficulty": 3,
+      "templateFamily": "fiction-structure",
+      "stem": "How does the sister's final comment contrast with Tomas's experience?",
+      "choices": [
+        "She has kept a more detailed growth chart.",
+        "She sees a large change at once, while he has watched small changes accumulate.",
+        "She knows the seeds never sprouted.",
+        "She sees no change, while he sees fully grown trees."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Her absence makes the growth seem fast; he knows the daily progression.",
+        "shortcut": "Ask what the paragraph or example contributes to the passage."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-11",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-067",
+      "revision": 1,
+      "section": "reading",
+      "skill": "main_idea",
+      "format": "main_idea",
+      "difficulty": 2,
+      "templateFamily": "argument-main_idea",
+      "stem": "What is the author's main claim?",
+      "choices": [
+        "Every resident has a suitable workspace at home.",
+        "All meetings and classes should be canceled.",
+        "A study room requires expensive equipment.",
+        "The center should test a quiet study room as a useful service."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The passage argues for a limited trial of a distinct service.",
+        "shortcut": "Choose the statement that covers the whole passage, not just one detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-12",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-068",
+      "revision": 1,
+      "section": "reading",
+      "skill": "detail",
+      "format": "detail",
+      "difficulty": 1,
+      "templateFamily": "argument-detail",
+      "stem": "How long is the proposed trial?",
+      "choices": [
+        "Six months",
+        "Six days",
+        "Six weeks",
+        "One school year"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Paragraph 3 specifies six weeks.",
+        "shortcut": "Return to the named paragraph and match the exact detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-12",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-069",
+      "revision": 1,
+      "section": "reading",
+      "skill": "inference",
+      "format": "inference",
+      "difficulty": 2,
+      "templateFamily": "argument-inference",
+      "stem": "Why are both a student and an adult mentioned?",
+      "choices": [
+        "To suggest adults should exclude students from the room.",
+        "To show that different residents may need quiet workspace.",
+        "To show that only certificate students need desks.",
+        "To prove every household has younger siblings."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The two examples illustrate needs across age groups.",
+        "shortcut": "Choose what the evidence supports without adding an unstated assumption."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-12",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-070",
+      "revision": 1,
+      "section": "reading",
+      "skill": "vocabulary_context",
+      "format": "vocabulary_context",
+      "difficulty": 2,
+      "templateFamily": "argument-vocabulary_context",
+      "stem": "In paragraph 2, elaborate most nearly means what?",
+      "choices": [
+        "open to the public",
+        "silent at all times",
+        "complicated or richly equipped",
+        "located upstairs"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The following simple requirements contrast with a complicated setup.",
+        "shortcut": "Substitute each meaning into the original sentence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-12",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-071",
+      "revision": 1,
+      "section": "reading",
+      "skill": "structure",
+      "format": "structure",
+      "difficulty": 2,
+      "templateFamily": "argument-structure",
+      "stem": "Why does the author propose collecting usage records and comments?",
+      "choices": [
+        "To evaluate and adjust the idea using evidence.",
+        "To ensure the room can never change.",
+        "To replace every class with a survey.",
+        "To identify which residents should be excluded."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The next sentence describes changing the schedule or setup if necessary.",
+        "shortcut": "Ask what the paragraph or example contributes to the passage."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-12",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-072",
+      "revision": 1,
+      "section": "reading",
+      "skill": "inference",
+      "format": "inference",
+      "difficulty": 2,
+      "templateFamily": "argument-inference",
+      "stem": "Which response best reflects the author's position if initial use is low?",
+      "choices": [
+        "Turn every meeting room into a study room immediately.",
+        "Declare all quiet spaces useless everywhere.",
+        "Ignore the records and make no changes.",
+        "Investigate changes to the schedule or setup before judging the idea."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The author explicitly allows adjustment based on the trial.",
+        "shortcut": "Choose what the evidence supports without adding an unstated assumption."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-12",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-073",
+      "revision": 1,
+      "section": "reading",
+      "skill": "main_idea",
+      "format": "main_idea",
+      "difficulty": 2,
+      "templateFamily": "fiction-main_idea",
+      "stem": "What does Inez learn?",
+      "choices": [
+        "Neighbors never read signs carefully.",
+        "A picture is always more important than information.",
+        "A poster's design should serve its purpose.",
+        "Every poster should contain no artwork."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "She prioritizes information after questions reveal omissions.",
+        "shortcut": "Choose the statement that covers the whole passage, not just one detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-13",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-074",
+      "revision": 1,
+      "section": "reading",
+      "skill": "detail",
+      "format": "detail",
+      "difficulty": 1,
+      "templateFamily": "fiction-detail",
+      "stem": "What information does Mr. Cho first ask for?",
+      "choices": [
+        "The artist's age",
+        "The river's name",
+        "The bakery's address",
+        "The arrival time"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "His Monday question concerns when volunteers should arrive.",
+        "shortcut": "Return to the named paragraph and match the exact detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-13",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1
+      ]
+    },
+    {
+      "id": "rea-a1-075",
+      "revision": 1,
+      "section": "reading",
+      "skill": "inference",
+      "format": "inference",
+      "difficulty": 2,
+      "templateFamily": "fiction-inference",
+      "stem": "Why does Inez make the river drawing smaller?",
+      "choices": [
+        "To make the lettering harder to see.",
+        "To hide the cleanup's location.",
+        "To remove all references to the river.",
+        "To make room for essential instructions."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The revised layout gives priority to when, where and supplies.",
+        "shortcut": "Choose what the evidence supports without adding an unstated assumption."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-13",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-076",
+      "revision": 1,
+      "section": "reading",
+      "skill": "vocabulary_context",
+      "format": "vocabulary_context",
+      "difficulty": 2,
+      "templateFamily": "fiction-vocabulary_context",
+      "stem": "In paragraph 2, crowded most nearly means what?",
+      "choices": [
+        "unpopular with readers",
+        "surrounded by shoppers",
+        "filled with too many elements",
+        "damaged by weather"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The poster lacks space because the large drawing dominates it.",
+        "shortcut": "Substitute each meaning into the original sentence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-13",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-077",
+      "revision": 1,
+      "section": "reading",
+      "skill": "literary",
+      "format": "literary",
+      "difficulty": 3,
+      "templateFamily": "fiction-literary",
+      "stem": "How does Inez's pride change by the end?",
+      "choices": [
+        "She wants the sign-up sheet removed.",
+        "She decides she dislikes all painting.",
+        "She insists the first version had no flaws.",
+        "She values the poster's usefulness as well as its appearance."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "She still prefers the first as a picture but keeps the more useful version.",
+        "shortcut": "Connect the literary device or character judgment to specific words and actions."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-13",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-078",
+      "revision": 1,
+      "section": "reading",
+      "skill": "structure",
+      "format": "structure",
+      "difficulty": 2,
+      "templateFamily": "fiction-structure",
+      "stem": "What purpose do the neighbors' questions serve?",
+      "choices": [
+        "They show that the river is unsafe to visit.",
+        "They prove that the cleanup has been canceled.",
+        "They explain how the bakery was built.",
+        "They reveal missing information in the original design."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The questions expose the missing time and meeting location.",
+        "shortcut": "Ask what the paragraph or example contributes to the passage."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-13",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-079",
+      "revision": 1,
+      "section": "reading",
+      "skill": "inference",
+      "format": "inference",
+      "difficulty": 2,
+      "templateFamily": "fiction-inference",
+      "stem": "Which observation most directly shows that the second poster communicates clearly?",
+      "choices": [
+        "Inez spent Saturday painting.",
+        "The bakery window is large.",
+        "The child can tell his mother exactly where to go.",
+        "The first drawing uses bright colors."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The child's accurate explanation demonstrates understanding of instructions.",
+        "shortcut": "Choose what the evidence supports without adding an unstated assumption."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-13",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-080",
+      "revision": 1,
+      "section": "reading",
+      "skill": "main_idea",
+      "format": "main_idea",
+      "difficulty": 2,
+      "templateFamily": "expository-main_idea",
+      "stem": "Which statement best captures the passage's point?",
+      "choices": [
+        "Visitors use shortcuts only when paths are clearly marked.",
+        "Small stones always prevent people from crossing an area.",
+        "Signs are the only effective protection for plants.",
+        "Conservation design can improve when it accounts for people's behavior."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The team's observation of use leads to practical changes.",
+        "shortcut": "Choose the statement that covers the whole passage, not just one detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-14",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-081",
+      "revision": 1,
+      "section": "reading",
+      "skill": "detail",
+      "format": "detail",
+      "difficulty": 1,
+      "templateFamily": "expository-detail",
+      "stem": "Why did visitors cross the planted corner?",
+      "choices": [
+        "It provided a more direct route to a bench.",
+        "They had been told to water the plants.",
+        "The bench had been removed.",
+        "The sign instructed them to cross."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Paragraph 2 identifies the shortcut as more direct.",
+        "shortcut": "Return to the named paragraph and match the exact detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-14",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-082",
+      "revision": 1,
+      "section": "reading",
+      "skill": "inference",
+      "format": "inference",
+      "difficulty": 2,
+      "templateFamily": "expository-inference",
+      "stem": "Why did adding more stones have little effect?",
+      "choices": [
+        "Every visitor failed to see the bench.",
+        "The stones caused the seedlings to die immediately.",
+        "It did not address the reason people were taking the shortcut.",
+        "The marked path had already been moved."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The behavior continued because the route problem remained.",
+        "shortcut": "Choose what the evidence supports without adding an unstated assumption."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-14",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-083",
+      "revision": 1,
+      "section": "reading",
+      "skill": "vocabulary_context",
+      "format": "vocabulary_context",
+      "difficulty": 2,
+      "templateFamily": "expository-vocabulary_context",
+      "stem": "In paragraph 1, established most nearly means what?",
+      "choices": [
+        "firmly developed",
+        "officially announced",
+        "carefully counted",
+        "recently purchased"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The roots need time to develop and take hold.",
+        "shortcut": "Substitute each meaning into the original sentence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-14",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1
+      ]
+    },
+    {
+      "id": "rea-a1-084",
+      "revision": 1,
+      "section": "reading",
+      "skill": "structure",
+      "format": "structure",
+      "difficulty": 3,
+      "templateFamily": "expository-structure",
+      "stem": "Why does the author mention that both the path and sign changed together?",
+      "choices": [
+        "To argue that the path should be removed.",
+        "To prove that neither change could have helped.",
+        "To show that the volunteers collected no observations.",
+        "To explain a limit on the conclusion about which change helped."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The combined change prevents isolating each factor's effect.",
+        "shortcut": "Ask what the paragraph or example contributes to the passage."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-14",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-085",
+      "revision": 1,
+      "section": "reading",
+      "skill": "inference",
+      "format": "inference",
+      "difficulty": 2,
+      "templateFamily": "expository-inference",
+      "stem": "Which conclusion is supported by the observations?",
+      "choices": [
+        "The stones were harmful to all roots.",
+        "The sign alone caused every improvement.",
+        "No visitor ever crossed the area again.",
+        "Fewer footprints appeared after the two changes."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Only the combined before-and-after observation is reported.",
+        "shortcut": "Choose what the evidence supports without adding an unstated assumption."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-14",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-086",
+      "revision": 1,
+      "section": "reading",
+      "skill": "detail",
+      "format": "detail",
+      "difficulty": 1,
+      "templateFamily": "expository-detail",
+      "stem": "How did the volunteer learn about the shortcut?",
+      "choices": [
+        "By measuring only the bench's height",
+        "By interviewing every park visitor",
+        "By closing the park for a month",
+        "By watching the route on several busy afternoons"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Paragraph 2 describes direct observation during busy afternoons.",
+        "shortcut": "Return to the named paragraph and match the exact detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-14",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-087",
+      "revision": 1,
+      "section": "reading",
+      "skill": "main_idea",
+      "format": "main_idea",
+      "difficulty": 2,
+      "templateFamily": "fiction-main_idea",
+      "stem": "What does the story suggest about performing a scene?",
+      "choices": [
+        "Louder speech always resolves timing problems.",
+        "Listening and reacting can matter as much as speaking the words.",
+        "Actors should ignore one another once lines are memorized.",
+        "Pauses are useful only when someone forgets a line."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The scene improves when actors attend to events and reactions.",
+        "shortcut": "Choose the statement that covers the whole passage, not just one detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-15",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-088",
+      "revision": 1,
+      "section": "reading",
+      "skill": "detail",
+      "format": "detail",
+      "difficulty": 1,
+      "templateFamily": "fiction-detail",
+      "stem": "What must Ada do before speaking in the new attempt?",
+      "choices": [
+        "Leave the stage",
+        "Read the entire letter aloud",
+        "Look at the letter",
+        "Hand Theo a new envelope"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The director's instruction explicitly requires her to look first.",
+        "shortcut": "Return to the named paragraph and match the exact detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-15",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-089",
+      "revision": 1,
+      "section": "reading",
+      "skill": "inference",
+      "format": "inference",
+      "difficulty": 2,
+      "templateFamily": "fiction-inference",
+      "stem": "Why does Ada's reply sound different after the pause?",
+      "choices": [
+        "She has replaced every word of her line.",
+        "She responds to details she has actually noticed.",
+        "She is trying to shout over Theo.",
+        "She has decided the letter is unimportant."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The torn envelope and worried face give her line a reason and emotional context.",
+        "shortcut": "Choose what the evidence supports without adding an unstated assumption."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-15",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-090",
+      "revision": 1,
+      "section": "reading",
+      "skill": "vocabulary_context",
+      "format": "vocabulary_context",
+      "difficulty": 2,
+      "templateFamily": "fiction-vocabulary_context",
+      "stem": "In paragraph 1, untangle most nearly means what?",
+      "choices": [
+        "speak louder",
+        "make longer",
+        "sort out",
+        "write down"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The metaphor refers to resolving the confused timing of the lines.",
+        "shortcut": "Substitute each meaning into the original sentence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-15",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1
+      ]
+    },
+    {
+      "id": "rea-a1-091",
+      "revision": 1,
+      "section": "reading",
+      "skill": "literary",
+      "format": "literary",
+      "difficulty": 3,
+      "templateFamily": "fiction-literary",
+      "stem": "What does the phrase the silence felt enormous convey?",
+      "choices": [
+        "The pause seems unusually noticeable to the actors.",
+        "The room physically grows larger.",
+        "The actors remain silent for several hours.",
+        "The audience has left the building."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Enormous figuratively emphasizes the actors' experience of the pause.",
+        "shortcut": "Connect the literary device or character judgment to specific words and actions."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-15",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-092",
+      "revision": 1,
+      "section": "reading",
+      "skill": "structure",
+      "format": "structure",
+      "difficulty": 2,
+      "templateFamily": "fiction-structure",
+      "stem": "What is the effect of contrasting words with the space between them at the end?",
+      "choices": [
+        "It emphasizes Ada's new awareness of timing.",
+        "It explains that Ada can no longer remember her lines.",
+        "It proves the play contains no dialogue.",
+        "It shifts the story to a different rehearsal."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The closing contrast summarizes the lesson about meaningful pauses.",
+        "shortcut": "Ask what the paragraph or example contributes to the passage."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-15",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-093",
+      "revision": 1,
+      "section": "reading",
+      "skill": "inference",
+      "format": "inference",
+      "difficulty": 2,
+      "templateFamily": "fiction-inference",
+      "stem": "Why does Ada mark a dash before her line?",
+      "choices": [
+        "To indicate that the line should be shouted.",
+        "To remind herself to pause and react before speaking.",
+        "To cross out the entire scene.",
+        "To record the price of the envelope."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The mark follows the successful pause and her recognition of what to practice.",
+        "shortcut": "Choose what the evidence supports without adding an unstated assumption."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-15",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-094",
+      "revision": 1,
+      "section": "reading",
+      "skill": "main_idea",
+      "format": "main_idea",
+      "difficulty": 2,
+      "templateFamily": "expository-main_idea",
+      "stem": "What is the central idea of the passage?",
+      "choices": [
+        "The most successful shelf is always the fullest one.",
+        "A successful exchange needs usable items that meet actual needs.",
+        "Every donated object should be accepted without inspection.",
+        "Requests make it impossible to organize donations."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Clear standards and attention to requests improve usefulness.",
+        "shortcut": "Choose the statement that covers the whole passage, not just one detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-16",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-095",
+      "revision": 1,
+      "section": "reading",
+      "skill": "detail",
+      "format": "detail",
+      "difficulty": 1,
+      "templateFamily": "expository-detail",
+      "stem": "How should people offer large objects under the revised guide?",
+      "choices": [
+        "Break them into smaller pieces.",
+        "Place them in front of the shelf.",
+        "Leave a photograph and contact information.",
+        "Put them beside the notebook without a note."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Paragraph 2 gives this specific instruction.",
+        "shortcut": "Return to the named paragraph and match the exact detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-16",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-096",
+      "revision": 1,
+      "section": "reading",
+      "skill": "inference",
+      "format": "inference",
+      "difficulty": 2,
+      "templateFamily": "expository-inference",
+      "stem": "Why is the measuring-cup request significant?",
+      "choices": [
+        "It proves that only kitchen items are useful.",
+        "It shows the notebook helping connect a need with an item.",
+        "It shows that decorations are unsafe.",
+        "It means visitors must pay for requests."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "An actual request is fulfilled, illustrating the notebook's purpose.",
+        "shortcut": "Choose what the evidence supports without adding an unstated assumption."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-16",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-097",
+      "revision": 1,
+      "section": "reading",
+      "skill": "vocabulary_context",
+      "format": "vocabulary_context",
+      "difficulty": 1,
+      "templateFamily": "expository-vocabulary_context",
+      "stem": "In paragraph 3, discard most nearly means what?",
+      "choices": [
+        "display proudly",
+        "repair carefully",
+        "borrow briefly",
+        "get rid of"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The volunteers contrast dumping possessions with exchanging useful goods.",
+        "shortcut": "Substitute each meaning into the original sentence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-16",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-098",
+      "revision": 1,
+      "section": "reading",
+      "skill": "structure",
+      "format": "structure",
+      "difficulty": 2,
+      "templateFamily": "expository-structure",
+      "stem": "What is the purpose of listing the damaged items in paragraph 1?",
+      "choices": [
+        "To provide instructions for repairing each item.",
+        "To explain why clearer acceptance standards were needed.",
+        "To show that all donations were worthless.",
+        "To suggest that broken goods are especially desirable."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The examples establish the usability problem addressed in paragraph 2.",
+        "shortcut": "Ask what the paragraph or example contributes to the passage."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-16",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-099",
+      "revision": 1,
+      "section": "reading",
+      "skill": "inference",
+      "format": "inference",
+      "difficulty": 3,
+      "templateFamily": "expository-inference",
+      "stem": "Which measure would best reflect the volunteers' definition of success?",
+      "choices": [
+        "The number of damaged items stored permanently",
+        "The total weight of objects left at the shelf",
+        "How often usable items reach people who need them",
+        "The amount of floor space covered by donations"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The final paragraph defines success in terms of matching items with users.",
+        "shortcut": "Choose what the evidence supports without adding an unstated assumption."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-16",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-100",
+      "revision": 1,
+      "section": "reading",
+      "skill": "detail",
+      "format": "detail",
+      "difficulty": 1,
+      "templateFamily": "expository-detail",
+      "stem": "What did the volunteers begin reviewing weekly?",
+      "choices": [
+        "A list of visitors' school grades",
+        "The shop's financial ledger",
+        "The request notebook",
+        "The original shelf's purchase receipt"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Paragraph 3 says they reviewed the notebook each week.",
+        "shortcut": "Return to the named paragraph and match the exact detail."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a1-16",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    }
+  ]
+}

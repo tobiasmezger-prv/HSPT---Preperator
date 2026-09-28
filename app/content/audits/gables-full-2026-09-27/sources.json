@@ -1,0 +1,71 @@
+{
+  "landingPage": "https://gablestutoring.com/practice-tests/",
+  "documents": [
+    {
+      "id": "test1",
+      "webLabel": "Test 1",
+      "url": "https://gablestutoring.com/wp-content/uploads/2020/08/HSPT-Test-3.pdf",
+      "sha256": "5ebde5fcbd47fa1af71ddd86c497b776acf22349547befaaf1aefa2bc2608644",
+      "pages": 34,
+      "accessDate": "2026-09-27",
+      "method": "all pages text-read; mathematical symbols and figures visually inspected",
+      "printedIdentity": "Dummies practice test 1"
+    },
+    {
+      "id": "answers1",
+      "webLabel": "Test 1 answers",
+      "url": "https://gablestutoring.com/wp-content/uploads/2020/08/HSPT-TEST-3-Answers.pdf",
+      "sha256": "c1703de73e1a2b96c2fa8597f8ebee0a05d16265745183820ac7634455977233",
+      "pages": 20,
+      "accessDate": "2026-09-27",
+      "method": "all pages text-read; mathematical symbols and figures visually inspected",
+      "printedIdentity": "Dummies practice test 1"
+    },
+    {
+      "id": "test2",
+      "webLabel": "Test 2",
+      "url": "https://gablestutoring.com/wp-content/uploads/2020/08/HSPT-TEST-4-1.pdf",
+      "sha256": "ea0b82a239c6f4a2d1c3361f50228c926d0b3cf2e310eade118c17b36fb07c75",
+      "pages": 31,
+      "accessDate": "2026-09-27",
+      "method": "all pages visually inspected; OCR used as reading aid",
+      "printedIdentity": "Peterson practice test 5"
+    },
+    {
+      "id": "answers2",
+      "webLabel": "Test 2 answers",
+      "url": "https://gablestutoring.com/wp-content/uploads/2020/08/HSPT-TEST-4-Answers.pdf",
+      "sha256": "78d9117887ab8d02bf2d76d607ff49049a047e68c7da6204d2cc93ddff1e5027",
+      "pages": 18,
+      "accessDate": "2026-09-27",
+      "method": "all pages visually inspected; OCR used as reading aid",
+      "printedIdentity": "Peterson practice test 5"
+    },
+    {
+      "id": "test3",
+      "webLabel": "Test 3",
+      "url": "https://gablestutoring.com/wp-content/uploads/2020/08/HSPT-TEST-5.pdf",
+      "sha256": "addf2b79d25563c467366adc63029d3cf37af6771c066de5921475fdc6a6eda3",
+      "pages": 33,
+      "accessDate": "2026-09-27",
+      "method": "all pages text-read; mathematical symbols and figures visually inspected",
+      "printedIdentity": "Dummies practice test 2"
+    },
+    {
+      "id": "answers3",
+      "webLabel": "Test 3 answers",
+      "url": "https://gablestutoring.com/wp-content/uploads/2020/08/HSPT-TEST-5-Answers.pdf",
+      "sha256": "264019864a927b31ebc92135a4cea7e90a84871ad1f3f3e831fc422e2c3bfeec",
+      "pages": 20,
+      "accessDate": "2026-09-27",
+      "method": "all pages text-read; mathematical symbols and figures visually inspected",
+      "printedIdentity": "Dummies practice test 2"
+    }
+  ],
+  "secondaryChecks": [
+    "https://www.ahdictionary.com/word/search.html?q=affect",
+    "https://www.merriam-webster.com/dictionary/exploit",
+    "https://www.merriam-webster.com/dictionary/deciduous",
+    "https://www.nps.gov/teachers/classrooms/carrying-capacity.htm"
+  ]
+}

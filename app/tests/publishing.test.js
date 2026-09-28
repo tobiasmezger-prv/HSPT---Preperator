@@ -9,6 +9,7 @@ it('owner workflow builds immutable accepted releases, validates targets, activa
  try{
   for(const path of ['scripts','src/domain','content/staging','content/review'])mkdirSync(join(root,path),{recursive:true});
   cpSync(join(app,'scripts/content-release.mjs'),join(root,'scripts/content-release.mjs'));
+  cpSync(join(app,'scripts/accepted-additional.mjs'),join(root,'scripts/accepted-additional.mjs')); 
   cpSync(join(app,'src/domain/contentSchema.mjs'),join(root,'src/domain/contentSchema.mjs'));
   cpSync(join(app,'content/staging/gables-v2'),join(root,'content/staging/gables-v2'),{recursive:true});cpSync(join(app,'content/review/gables-v2'),join(root,'content/review/gables-v2'),{recursive:true});
   const run=(...args)=>spawnSync(process.execPath,[join(root,'scripts/content-release.mjs'),...args],{encoding:'utf8'});

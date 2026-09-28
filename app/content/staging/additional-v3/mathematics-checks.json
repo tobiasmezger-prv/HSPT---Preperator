@@ -1,0 +1,1327 @@
+{
+  "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+  "numericChecks": [
+    {
+      "id": "mat-a1-001",
+      "result": "693",
+      "choiceValues": [
+        "693",
+        "793",
+        "703",
+        "683"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "693",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-002",
+      "result": "424",
+      "choiceValues": [
+        "476",
+        "434",
+        "424",
+        "524"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "424",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-003",
+      "result": "864",
+      "choiceValues": [
+        "964",
+        "824",
+        "864",
+        "144"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "864",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-004",
+      "result": "42",
+      "choiceValues": [
+        "41",
+        "42",
+        "52",
+        "48"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "42",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-005",
+      "result": "1",
+      "choiceValues": [
+        "17",
+        "-1",
+        "9",
+        "1"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "1",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-006",
+      "result": "27",
+      "choiceValues": [
+        "27",
+        "-27",
+        "57",
+        "-57"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "27",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-007",
+      "result": "11/8",
+      "choiceValues": [
+        "2/3",
+        "1/8",
+        "11/8",
+        "13/8"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "11/8",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-008",
+      "result": "11/18",
+      "choiceValues": [
+        "2",
+        "11/18",
+        "13/18",
+        "5/18"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "11/18",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-009",
+      "result": "3/10",
+      "choiceValues": [
+        "5/6",
+        "3/10",
+        "3/5",
+        "23/37"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "3/10",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-010",
+      "result": "3/2",
+      "choiceValues": [
+        "1/2",
+        "32/147",
+        "3/2",
+        "2/3"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "3/2",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-011",
+      "result": "2179/500",
+      "choiceValues": [
+        "2179/500",
+        "4283/1000",
+        "983/100",
+        "3813/1000"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "4.358",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-012",
+      "result": "141/25",
+      "choiceValues": [
+        "159/25",
+        "141/25",
+        "166/25",
+        "287/50"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "5.64",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-013",
+      "result": "9/50",
+      "choiceValues": [
+        "43/50",
+        "9/500",
+        "9/5",
+        "9/50"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": ".18",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-014",
+      "result": "42/5",
+      "choiceValues": [
+        "21/25",
+        "672/125",
+        "42/5",
+        "84"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "8.4",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-015",
+      "result": "17",
+      "choiceValues": [
+        "24",
+        "20",
+        "32",
+        "17"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "17",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-016",
+      "result": "24",
+      "choiceValues": [
+        "20",
+        "36",
+        "24",
+        "14"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "24",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-021",
+      "result": "3/5",
+      "choiceValues": [
+        "3/2",
+        "3/5",
+        "2/5",
+        "1/2"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "3/5",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-022",
+      "result": "9",
+      "choiceValues": [
+        "12",
+        "6",
+        "9",
+        "8"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "9",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-023",
+      "result": "21",
+      "choiceValues": [
+        "24",
+        "30",
+        "20",
+        "21"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "21",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-024",
+      "result": "84",
+      "choiceValues": [
+        "84",
+        "42/5",
+        "72",
+        "96"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "84",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-025",
+      "result": "30",
+      "choiceValues": [
+        "30",
+        "3",
+        "33",
+        "24"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "30",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-026",
+      "result": "48",
+      "choiceValues": [
+        "50",
+        "48",
+        "16",
+        "39"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "48",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-027",
+      "result": "243/5",
+      "choiceValues": [
+        "53",
+        "207/5",
+        "243/5",
+        "229/5"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "48.6",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-028",
+      "result": "25/2",
+      "choiceValues": [
+        "25/2",
+        "25",
+        "20",
+        "10"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "25/2",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-029",
+      "result": "12",
+      "choiceValues": [
+        "12",
+        "20",
+        "8",
+        "24"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "12",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-030",
+      "result": "28",
+      "choiceValues": [
+        "16",
+        "32",
+        "28",
+        "25"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "28",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-031",
+      "result": "27",
+      "choiceValues": [
+        "27",
+        "24",
+        "30",
+        "21/2"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "27",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-032",
+      "result": "70",
+      "choiceValues": [
+        "63",
+        "126",
+        "70",
+        "75"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "70",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-033",
+      "result": "70",
+      "choiceValues": [
+        "84",
+        "70",
+        "126/5",
+        "60"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "70",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-034",
+      "result": "36",
+      "choiceValues": [
+        "35",
+        "40",
+        "34",
+        "36"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "36",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-035",
+      "result": "70",
+      "choiceValues": [
+        "75",
+        "70",
+        "80",
+        "56"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "70",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-036",
+      "result": "6",
+      "choiceValues": [
+        "15/2",
+        "5",
+        "6",
+        "10"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "6",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-037",
+      "result": "231",
+      "choiceValues": [
+        "224",
+        "189",
+        "264",
+        "231"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "231",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-038",
+      "result": "45",
+      "choiceValues": [
+        "30",
+        "45",
+        "60",
+        "75"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "45",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-039",
+      "result": "60",
+      "choiceValues": [
+        "64",
+        "243/5",
+        "297/5",
+        "60"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "60",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-040",
+      "result": "20",
+      "choiceValues": [
+        "288/25",
+        "200",
+        "20",
+        "2"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "20",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-044",
+      "result": "1350",
+      "choiceValues": [
+        "2650",
+        "1450",
+        "650",
+        "1350"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "1350",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-045",
+      "result": "35",
+      "choiceValues": [
+        "45",
+        "55",
+        "25",
+        "35"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "35",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-046",
+      "result": "255",
+      "choiceValues": [
+        "255",
+        "415",
+        "195",
+        "240"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "255",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-047",
+      "result": "67",
+      "choiceValues": [
+        "57",
+        "67",
+        "72",
+        "60"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "67",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-048",
+      "result": "14",
+      "choiceValues": [
+        "39",
+        "14",
+        "21",
+        "126"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "14",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-049",
+      "result": "40",
+      "choiceValues": [
+        "48",
+        "24",
+        "32",
+        "40"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "40",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-050",
+      "result": "14",
+      "choiceValues": [
+        "12",
+        "16",
+        "14",
+        "7"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "14",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-051",
+      "result": "40",
+      "choiceValues": [
+        "24",
+        "4",
+        "60",
+        "40"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "40",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-052",
+      "result": "1",
+      "choiceValues": [
+        "-21",
+        "1",
+        "-1",
+        "9"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "1",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-053",
+      "result": "6",
+      "choiceValues": [
+        "4",
+        "8",
+        "6",
+        "5"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "6",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-054",
+      "result": "72",
+      "choiceValues": [
+        "72",
+        "75",
+        "90",
+        "60"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "72",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-055",
+      "result": "9/100",
+      "choiceValues": [
+        "9/100",
+        "9/10",
+        "9",
+        "90"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": ".09",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-056",
+      "result": "62",
+      "choiceValues": [
+        "42",
+        "52",
+        "92",
+        "62"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a"
+    },
+    {
+      "id": "mat-a1-057",
+      "result": "138",
+      "choiceValues": [
+        "138",
+        "198",
+        "30",
+        "168"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a"
+    },
+    {
+      "id": "mat-a1-058",
+      "result": "63",
+      "choiceValues": [
+        "63",
+        "56",
+        "126",
+        "81"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a"
+    },
+    {
+      "id": "mat-a1-059",
+      "result": "28",
+      "choiceValues": [
+        "14",
+        "60",
+        "28",
+        "7"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a"
+    },
+    {
+      "id": "mat-a1-060",
+      "result": "144",
+      "choiceValues": [
+        "144",
+        "168",
+        "72",
+        "288"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a"
+    },
+    {
+      "id": "mat-a1-061",
+      "result": "54",
+      "choiceValues": [
+        "27",
+        "54",
+        "18",
+        "36"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a"
+    },
+    {
+      "id": "mat-a1-062",
+      "result": "118",
+      "choiceValues": [
+        "59",
+        "62",
+        "242",
+        "118"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a"
+    },
+    {
+      "id": "mat-a1-063",
+      "result": "113",
+      "choiceValues": [
+        "113",
+        "23",
+        "67",
+        "134"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a"
+    },
+    {
+      "id": "mat-a1-064",
+      "result": "157/5",
+      "choiceValues": [
+        "157/5",
+        "257/5",
+        "314/5",
+        "314"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a"
+    },
+    {
+      "id": "mat-a1-065",
+      "result": "28",
+      "choiceValues": [
+        "45",
+        "28",
+        "7",
+        "22"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a"
+    },
+    {
+      "id": "mat-a1-066",
+      "result": "8",
+      "choiceValues": [
+        "7",
+        "32",
+        "8",
+        "9"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a"
+    },
+    {
+      "id": "mat-a1-067",
+      "result": "5/8",
+      "choiceValues": [
+        "5/8",
+        "3/8",
+        "5/9",
+        "4/5"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a"
+    },
+    {
+      "id": "mat-a1-068",
+      "result": "1256/25",
+      "choiceValues": [
+        "628/25",
+        "314/25",
+        "1256/25",
+        "5024/25"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a"
+    },
+    {
+      "id": "mat-a1-069",
+      "result": "30",
+      "choiceValues": [
+        "23/2",
+        "15/8",
+        "30",
+        "300"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a"
+    },
+    {
+      "id": "mat-a1-070",
+      "result": "1/2",
+      "choiceValues": [
+        "1/3",
+        "1/4",
+        "3/4",
+        "1/2"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a"
+    },
+    {
+      "id": "mat-a1-071",
+      "result": "54",
+      "choiceValues": [
+        "54",
+        "67",
+        "108",
+        "41"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a"
+    },
+    {
+      "id": "mat-a1-072",
+      "result": "96",
+      "choiceValues": [
+        "96",
+        "48",
+        "24",
+        "12"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "96",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-073",
+      "result": "15",
+      "choiceValues": [
+        "42/5",
+        "12",
+        "24",
+        "15"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "15",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-074",
+      "result": "8",
+      "choiceValues": [
+        "10",
+        "8",
+        "2",
+        "6"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "8",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-075",
+      "result": "5",
+      "choiceValues": [
+        "13",
+        "5",
+        "20",
+        "45"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "5",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-076",
+      "result": "25",
+      "choiceValues": [
+        "35",
+        "25",
+        "24",
+        "59"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "25",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-077",
+      "result": "9",
+      "choiceValues": [
+        "60",
+        "48",
+        "324",
+        "9"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "9",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-078",
+      "result": "9",
+      "choiceValues": [
+        "17/3",
+        "27",
+        "9",
+        "7"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "9",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-079",
+      "result": "7",
+      "choiceValues": [
+        "34",
+        "7",
+        "8",
+        "11"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "7",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-080",
+      "result": "7",
+      "choiceValues": [
+        "5",
+        "7",
+        "21",
+        "35/3"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "7",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-086",
+      "result": "12",
+      "choiceValues": [
+        "13",
+        "14",
+        "11",
+        "12"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "12",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-087",
+      "result": "40",
+      "choiceValues": [
+        "70",
+        "40",
+        "8",
+        "14"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "40",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-088",
+      "result": "5",
+      "choiceValues": [
+        "5",
+        "-11",
+        "13",
+        "1"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "5",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-089",
+      "result": "6",
+      "choiceValues": [
+        "9",
+        "12",
+        "27/2",
+        "6"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "6",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-090",
+      "result": "5",
+      "choiceValues": [
+        "4",
+        "11",
+        "5",
+        "6"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "5",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-091",
+      "result": "11",
+      "choiceValues": [
+        "12",
+        "11",
+        "10",
+        "44"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "11",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-092",
+      "result": "8",
+      "choiceValues": [
+        "9",
+        "8",
+        "11",
+        "7"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "8",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-093",
+      "result": "21/2",
+      "choiceValues": [
+        "21/2",
+        "11",
+        "13",
+        "8"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "10.5",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-094",
+      "result": "16",
+      "choiceValues": [
+        "14",
+        "16",
+        "22",
+        "30"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "16",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-095",
+      "result": "10",
+      "choiceValues": [
+        "9",
+        "12",
+        "8",
+        "10"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "10",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-096",
+      "result": "3/10",
+      "choiceValues": [
+        "1/3",
+        "3/7",
+        "7/10",
+        "3/10"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "3/10",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-097",
+      "result": "1/3",
+      "choiceValues": [
+        "1/6",
+        "2/3",
+        "1/2",
+        "1/3"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "1/3",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-098",
+      "result": "1/4",
+      "choiceValues": [
+        "3/4",
+        "1/4",
+        "1/2",
+        "1"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "1/4",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-099",
+      "result": "86",
+      "choiceValues": [
+        "86",
+        "90",
+        "84",
+        "82"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "86",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    },
+    {
+      "id": "mat-a1-100",
+      "result": "1/15",
+      "choiceValues": [
+        "1/15",
+        "1/9",
+        "1/3",
+        "2/15"
+      ],
+      "status": "exact_expression_check_passed",
+      "limitation": "Stem-to-expression translation and explanation need editorial review.",
+      "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+      "independentStemSolution": "1/15",
+      "stemReviewEvidence": "Reconciled unchanged semantic content with full prior independent stem review."
+    }
+  ],
+  "independentNewFigureResults": {
+    "56": "62",
+    "57": "138",
+    "58": "63",
+    "59": "28",
+    "60": "144",
+    "61": "54",
+    "62": "118",
+    "63": "113",
+    "64": "157/5",
+    "65": "28",
+    "66": "8",
+    "67": "5/8",
+    "68": "1256/25",
+    "69": "30",
+    "70": "1/2",
+    "71": "54"
+  },
+  "conceptProofNotes": {
+    "17": "If n is odd, n + 1 is even.",
+    "18": "12",
+    "19": "3/7 and 12/28",
+    "20": "The result is one tenth of the original.",
+    "41": "Milliliters",
+    "42": "It becomes four times as large.",
+    "43": "0.07 × 1,000 = 70",
+    "81": "6x + 15",
+    "82": "a − 5 < b − 5",
+    "83": "3d + 5c",
+    "84": "Range",
+    "85": "1/2"
+  },
+  "method": "88 numeric choices checked exactly; sixteen new figure answers recomputed from givens by a second implementation; twelve conceptual answers use mathematical reasoning and counterexamples. Earlier stem checks reused only for unchanged semantics.",
+  "humanReview": "pending"
+}

@@ -1,0 +1,3206 @@
+{
+  "from": "additional-v2",
+  "to": "additional-v3",
+  "items": [
+    {
+      "id": "ver-a1-001",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "synonyms",
+      "newFormat": "synonyms"
+    },
+    {
+      "id": "ver-a1-002",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "synonyms",
+      "newFormat": "synonyms"
+    },
+    {
+      "id": "ver-a1-003",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "synonyms",
+      "newFormat": "synonyms"
+    },
+    {
+      "id": "ver-a1-004",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "synonyms",
+      "newFormat": "synonyms"
+    },
+    {
+      "id": "ver-a1-005",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "synonyms",
+      "newFormat": "synonyms"
+    },
+    {
+      "id": "ver-a1-006",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "synonyms",
+      "newFormat": "synonyms"
+    },
+    {
+      "id": "ver-a1-007",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "synonyms",
+      "newFormat": "synonyms"
+    },
+    {
+      "id": "ver-a1-008",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "synonyms",
+      "newFormat": "synonyms"
+    },
+    {
+      "id": "ver-a1-009",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "synonyms",
+      "newFormat": "synonyms"
+    },
+    {
+      "id": "ver-a1-010",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "synonyms",
+      "newFormat": "synonyms"
+    },
+    {
+      "id": "ver-a1-011",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "synonyms",
+      "newFormat": "synonyms"
+    },
+    {
+      "id": "ver-a1-012",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "synonyms",
+      "newFormat": "synonyms"
+    },
+    {
+      "id": "ver-a1-013",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "synonyms",
+      "newFormat": "synonyms"
+    },
+    {
+      "id": "ver-a1-014",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "synonyms",
+      "newFormat": "synonyms"
+    },
+    {
+      "id": "ver-a1-015",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "synonyms",
+      "newFormat": "synonyms"
+    },
+    {
+      "id": "ver-a1-016",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "synonyms",
+      "newFormat": "synonyms"
+    },
+    {
+      "id": "ver-a1-017",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "synonyms",
+      "newFormat": "synonyms"
+    },
+    {
+      "id": "ver-a1-018",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "synonyms",
+      "newFormat": "synonyms"
+    },
+    {
+      "id": "ver-a1-019",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "synonyms",
+      "newFormat": "synonyms"
+    },
+    {
+      "id": "ver-a1-020",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "synonyms",
+      "newFormat": "synonyms"
+    },
+    {
+      "id": "ver-a1-021",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "synonyms",
+      "newFormat": "synonyms"
+    },
+    {
+      "id": "ver-a1-022",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "synonyms",
+      "newFormat": "synonyms"
+    },
+    {
+      "id": "ver-a1-023",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "synonyms",
+      "newFormat": "synonyms"
+    },
+    {
+      "id": "ver-a1-024",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "synonyms",
+      "newFormat": "synonyms"
+    },
+    {
+      "id": "ver-a1-025",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "synonyms",
+      "newFormat": "synonyms"
+    },
+    {
+      "id": "ver-a1-026",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "antonyms",
+      "newFormat": "antonyms"
+    },
+    {
+      "id": "ver-a1-027",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "antonyms",
+      "newFormat": "antonyms"
+    },
+    {
+      "id": "ver-a1-028",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "antonyms",
+      "newFormat": "antonyms"
+    },
+    {
+      "id": "ver-a1-029",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "antonyms",
+      "newFormat": "antonyms"
+    },
+    {
+      "id": "ver-a1-030",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "antonyms",
+      "newFormat": "antonyms"
+    },
+    {
+      "id": "ver-a1-031",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "antonyms",
+      "newFormat": "antonyms"
+    },
+    {
+      "id": "ver-a1-032",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "antonyms",
+      "newFormat": "antonyms"
+    },
+    {
+      "id": "ver-a1-033",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "antonyms",
+      "newFormat": "antonyms"
+    },
+    {
+      "id": "ver-a1-034",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "antonyms",
+      "newFormat": "antonyms"
+    },
+    {
+      "id": "ver-a1-035",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "antonyms",
+      "newFormat": "antonyms"
+    },
+    {
+      "id": "ver-a1-036",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "antonyms",
+      "newFormat": "antonyms"
+    },
+    {
+      "id": "ver-a1-037",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "antonyms",
+      "newFormat": "antonyms"
+    },
+    {
+      "id": "ver-a1-038",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "antonyms",
+      "newFormat": "antonyms"
+    },
+    {
+      "id": "ver-a1-039",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "antonyms",
+      "newFormat": "antonyms"
+    },
+    {
+      "id": "ver-a1-040",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "antonyms",
+      "newFormat": "antonyms"
+    },
+    {
+      "id": "ver-a1-041",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "antonyms",
+      "newFormat": "antonyms"
+    },
+    {
+      "id": "ver-a1-042",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "antonyms",
+      "newFormat": "antonyms"
+    },
+    {
+      "id": "ver-a1-043",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "antonyms",
+      "newFormat": "antonyms"
+    },
+    {
+      "id": "ver-a1-044",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "antonyms",
+      "newFormat": "antonyms"
+    },
+    {
+      "id": "ver-a1-045",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "antonyms",
+      "newFormat": "antonyms"
+    },
+    {
+      "id": "ver-a1-046",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "antonyms",
+      "newFormat": "antonyms"
+    },
+    {
+      "id": "ver-a1-047",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "antonyms",
+      "newFormat": "antonyms"
+    },
+    {
+      "id": "ver-a1-048",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "antonyms",
+      "newFormat": "antonyms"
+    },
+    {
+      "id": "ver-a1-049",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "antonyms",
+      "newFormat": "antonyms"
+    },
+    {
+      "id": "ver-a1-050",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "antonyms",
+      "newFormat": "antonyms"
+    },
+    {
+      "id": "ver-a1-051",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "analogies",
+      "newFormat": "analogies"
+    },
+    {
+      "id": "ver-a1-052",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "analogies",
+      "newFormat": "analogies"
+    },
+    {
+      "id": "ver-a1-053",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "analogies",
+      "newFormat": "analogies"
+    },
+    {
+      "id": "ver-a1-054",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "analogies",
+      "newFormat": "analogies"
+    },
+    {
+      "id": "ver-a1-055",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "analogies",
+      "newFormat": "analogies"
+    },
+    {
+      "id": "ver-a1-056",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "analogies",
+      "newFormat": "analogies"
+    },
+    {
+      "id": "ver-a1-057",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "analogies",
+      "newFormat": "analogies"
+    },
+    {
+      "id": "ver-a1-058",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "analogies",
+      "newFormat": "analogies"
+    },
+    {
+      "id": "ver-a1-059",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "analogies",
+      "newFormat": "analogies"
+    },
+    {
+      "id": "ver-a1-060",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "analogies",
+      "newFormat": "analogies"
+    },
+    {
+      "id": "ver-a1-061",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "analogies",
+      "newFormat": "analogies"
+    },
+    {
+      "id": "ver-a1-062",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "analogies",
+      "newFormat": "analogies"
+    },
+    {
+      "id": "ver-a1-063",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "analogies",
+      "newFormat": "analogies"
+    },
+    {
+      "id": "ver-a1-064",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "analogies",
+      "newFormat": "analogies"
+    },
+    {
+      "id": "ver-a1-065",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "analogies",
+      "newFormat": "analogies"
+    },
+    {
+      "id": "ver-a1-066",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "analogies",
+      "newFormat": "analogies"
+    },
+    {
+      "id": "ver-a1-067",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "analogies",
+      "newFormat": "analogies"
+    },
+    {
+      "id": "ver-a1-068",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "analogies",
+      "newFormat": "analogies"
+    },
+    {
+      "id": "ver-a1-069",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "analogies",
+      "newFormat": "analogies"
+    },
+    {
+      "id": "ver-a1-070",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "analogies",
+      "newFormat": "analogies"
+    },
+    {
+      "id": "ver-a1-071",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "classifications",
+      "newFormat": "classification"
+    },
+    {
+      "id": "ver-a1-072",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "classifications",
+      "newFormat": "classification"
+    },
+    {
+      "id": "ver-a1-073",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "classifications",
+      "newFormat": "classification"
+    },
+    {
+      "id": "ver-a1-074",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "classifications",
+      "newFormat": "classification"
+    },
+    {
+      "id": "ver-a1-075",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "classifications",
+      "newFormat": "classification"
+    },
+    {
+      "id": "ver-a1-076",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "classifications",
+      "newFormat": "classification"
+    },
+    {
+      "id": "ver-a1-077",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "classifications",
+      "newFormat": "classification"
+    },
+    {
+      "id": "ver-a1-078",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "classifications",
+      "newFormat": "classification"
+    },
+    {
+      "id": "ver-a1-079",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "classifications",
+      "newFormat": "classification"
+    },
+    {
+      "id": "ver-a1-080",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "classifications",
+      "newFormat": "classification"
+    },
+    {
+      "id": "ver-a1-081",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "classifications",
+      "newFormat": "classification"
+    },
+    {
+      "id": "ver-a1-082",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "classifications",
+      "newFormat": "classification"
+    },
+    {
+      "id": "ver-a1-083",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "classifications",
+      "newFormat": "classification"
+    },
+    {
+      "id": "ver-a1-084",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "classifications",
+      "newFormat": "classification"
+    },
+    {
+      "id": "ver-a1-085",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "classifications",
+      "newFormat": "classification"
+    },
+    {
+      "id": "ver-a1-086",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "logical_reasoning",
+      "newFormat": "logical_reasoning"
+    },
+    {
+      "id": "ver-a1-087",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "logical_reasoning",
+      "newFormat": "logical_reasoning"
+    },
+    {
+      "id": "ver-a1-088",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "logical_reasoning",
+      "newFormat": "logical_reasoning"
+    },
+    {
+      "id": "ver-a1-089",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "logical_reasoning",
+      "newFormat": "logical_reasoning"
+    },
+    {
+      "id": "ver-a1-090",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "logical_reasoning",
+      "newFormat": "logical_reasoning"
+    },
+    {
+      "id": "ver-a1-091",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "logical_reasoning",
+      "newFormat": "logical_reasoning"
+    },
+    {
+      "id": "ver-a1-092",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": false,
+      "oldFormat": "logical_reasoning",
+      "newFormat": "logical_reasoning"
+    },
+    {
+      "id": "ver-a1-093",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "logical_reasoning",
+      "newFormat": "logical_reasoning"
+    },
+    {
+      "id": "ver-a1-094",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "logical_reasoning",
+      "newFormat": "logical_reasoning"
+    },
+    {
+      "id": "ver-a1-095",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "logical_reasoning",
+      "newFormat": "logical_reasoning"
+    },
+    {
+      "id": "ver-a1-096",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "logical_reasoning",
+      "newFormat": "logical_reasoning"
+    },
+    {
+      "id": "ver-a1-097",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "logical_reasoning",
+      "newFormat": "logical_reasoning"
+    },
+    {
+      "id": "ver-a1-098",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "logical_reasoning",
+      "newFormat": "logical_reasoning"
+    },
+    {
+      "id": "ver-a1-099",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "logical_reasoning",
+      "newFormat": "logical_reasoning"
+    },
+    {
+      "id": "ver-a1-100",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "logical_reasoning",
+      "newFormat": "logical_reasoning"
+    },
+    {
+      "id": "rea-a1-001",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "main_idea",
+      "newFormat": "passage_main_idea"
+    },
+    {
+      "id": "rea-a1-002",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "detail",
+      "newFormat": "passage_detail"
+    },
+    {
+      "id": "rea-a1-003",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "inference",
+      "newFormat": "passage_inference"
+    },
+    {
+      "id": "rea-a1-004",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "vocabulary_context",
+      "newFormat": "passage_vocabulary_context"
+    },
+    {
+      "id": "rea-a1-005",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "literary",
+      "newFormat": "passage_structure"
+    },
+    {
+      "id": "rea-a1-006",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "structure",
+      "newFormat": "passage_literary_interpretation"
+    },
+    {
+      "id": "rea-a1-007",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "main_idea",
+      "newFormat": "passage_author_purpose"
+    },
+    {
+      "id": "rea-a1-008",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "detail",
+      "newFormat": "passage_tone"
+    },
+    {
+      "id": "rea-a1-009",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "inference",
+      "newFormat": "passage_main_idea"
+    },
+    {
+      "id": "rea-a1-010",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "vocabulary_context",
+      "newFormat": "passage_detail"
+    },
+    {
+      "id": "rea-a1-011",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "structure",
+      "newFormat": "passage_inference"
+    },
+    {
+      "id": "rea-a1-012",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "inference",
+      "newFormat": "passage_vocabulary_context"
+    },
+    {
+      "id": "rea-a1-013",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "main_idea",
+      "newFormat": "passage_structure"
+    },
+    {
+      "id": "rea-a1-014",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "detail",
+      "newFormat": "passage_author_purpose"
+    },
+    {
+      "id": "rea-a1-015",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "inference",
+      "newFormat": "passage_evidence"
+    },
+    {
+      "id": "rea-a1-016",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "vocabulary_context",
+      "newFormat": "passage_inference"
+    },
+    {
+      "id": "rea-a1-017",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "literary",
+      "newFormat": "passage_main_idea"
+    },
+    {
+      "id": "rea-a1-018",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "structure",
+      "newFormat": "passage_detail"
+    },
+    {
+      "id": "rea-a1-019",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "main_idea",
+      "newFormat": "passage_inference"
+    },
+    {
+      "id": "rea-a1-020",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "detail",
+      "newFormat": "passage_vocabulary_context"
+    },
+    {
+      "id": "rea-a1-021",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "inference",
+      "newFormat": "passage_structure"
+    },
+    {
+      "id": "rea-a1-022",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "vocabulary_context",
+      "newFormat": "passage_evidence"
+    },
+    {
+      "id": "rea-a1-023",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "structure",
+      "newFormat": "passage_author_purpose"
+    },
+    {
+      "id": "rea-a1-024",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "inference",
+      "newFormat": "passage_inference"
+    },
+    {
+      "id": "rea-a1-025",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "main_idea",
+      "newFormat": "passage_main_idea"
+    },
+    {
+      "id": "rea-a1-026",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "detail",
+      "newFormat": "passage_detail"
+    },
+    {
+      "id": "rea-a1-027",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "inference",
+      "newFormat": "passage_inference"
+    },
+    {
+      "id": "rea-a1-028",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "vocabulary_context",
+      "newFormat": "passage_vocabulary_context"
+    },
+    {
+      "id": "rea-a1-029",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "literary",
+      "newFormat": "passage_structure"
+    },
+    {
+      "id": "rea-a1-030",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "structure",
+      "newFormat": "passage_literary_interpretation"
+    },
+    {
+      "id": "rea-a1-031",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "main_idea",
+      "newFormat": "passage_evidence"
+    },
+    {
+      "id": "rea-a1-032",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "detail",
+      "newFormat": "passage_tone"
+    },
+    {
+      "id": "rea-a1-033",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "inference",
+      "newFormat": "passage_main_idea"
+    },
+    {
+      "id": "rea-a1-034",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "vocabulary_context",
+      "newFormat": "passage_detail"
+    },
+    {
+      "id": "rea-a1-035",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "structure",
+      "newFormat": "passage_inference"
+    },
+    {
+      "id": "rea-a1-036",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "inference",
+      "newFormat": "passage_vocabulary_context"
+    },
+    {
+      "id": "rea-a1-037",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "main_idea",
+      "newFormat": "passage_structure"
+    },
+    {
+      "id": "rea-a1-038",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "detail",
+      "newFormat": "passage_author_purpose"
+    },
+    {
+      "id": "rea-a1-039",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "inference",
+      "newFormat": "passage_evidence"
+    },
+    {
+      "id": "rea-a1-040",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "vocabulary_context",
+      "newFormat": "passage_inference"
+    },
+    {
+      "id": "rea-a1-041",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "literary",
+      "newFormat": "passage_main_idea"
+    },
+    {
+      "id": "rea-a1-042",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "structure",
+      "newFormat": "passage_detail"
+    },
+    {
+      "id": "rea-a1-043",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "main_idea",
+      "newFormat": "passage_inference"
+    },
+    {
+      "id": "rea-a1-044",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "detail",
+      "newFormat": "passage_vocabulary_context"
+    },
+    {
+      "id": "rea-a1-045",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "inference",
+      "newFormat": "passage_structure"
+    },
+    {
+      "id": "rea-a1-046",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "vocabulary_context",
+      "newFormat": "passage_author_purpose"
+    },
+    {
+      "id": "rea-a1-047",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "structure",
+      "newFormat": "passage_evidence"
+    },
+    {
+      "id": "rea-a1-048",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "inference",
+      "newFormat": "passage_tone"
+    },
+    {
+      "id": "rea-a1-049",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "main_idea",
+      "newFormat": "passage_main_idea"
+    },
+    {
+      "id": "rea-a1-050",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "detail",
+      "newFormat": "passage_detail"
+    },
+    {
+      "id": "rea-a1-051",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "inference",
+      "newFormat": "passage_inference"
+    },
+    {
+      "id": "rea-a1-052",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "vocabulary_context",
+      "newFormat": "passage_vocabulary_context"
+    },
+    {
+      "id": "rea-a1-053",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "literary",
+      "newFormat": "passage_structure"
+    },
+    {
+      "id": "rea-a1-054",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "structure",
+      "newFormat": "passage_literary_interpretation"
+    },
+    {
+      "id": "rea-a1-055",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "main_idea",
+      "newFormat": "passage_evidence"
+    },
+    {
+      "id": "rea-a1-056",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "detail",
+      "newFormat": "passage_tone"
+    },
+    {
+      "id": "rea-a1-057",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "inference",
+      "newFormat": "passage_main_idea"
+    },
+    {
+      "id": "rea-a1-058",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "vocabulary_context",
+      "newFormat": "passage_detail"
+    },
+    {
+      "id": "rea-a1-059",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "structure",
+      "newFormat": "passage_inference"
+    },
+    {
+      "id": "rea-a1-060",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "inference",
+      "newFormat": "passage_vocabulary_context"
+    },
+    {
+      "id": "rea-a1-061",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "main_idea",
+      "newFormat": "passage_structure"
+    },
+    {
+      "id": "rea-a1-062",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "detail",
+      "newFormat": "passage_author_purpose"
+    },
+    {
+      "id": "rea-a1-063",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "inference",
+      "newFormat": "passage_evidence"
+    },
+    {
+      "id": "rea-a1-064",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "vocabulary_context",
+      "newFormat": "passage_inference"
+    },
+    {
+      "id": "rea-a1-065",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "literary",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-066",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "structure",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-067",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "main_idea",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-068",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "detail",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-069",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "inference",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-070",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "vocabulary_context",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-071",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "structure",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-072",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "inference",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-073",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "main_idea",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-074",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "detail",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-075",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "inference",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-076",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "vocabulary_context",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-077",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "literary",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-078",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "structure",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-079",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "inference",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-080",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "main_idea",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-081",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "detail",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-082",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "inference",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-083",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "vocabulary_context",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-084",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "structure",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-085",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "inference",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-086",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "detail",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-087",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "main_idea",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-088",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "detail",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-089",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "inference",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-090",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "vocabulary_context",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-091",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "literary",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-092",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "structure",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-093",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "inference",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-094",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "main_idea",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-095",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "detail",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-096",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "inference",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-097",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "vocabulary_context",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-098",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "structure",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-099",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "inference",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "rea-a1-100",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "detail",
+      "newFormat": "standalone_vocabulary"
+    },
+    {
+      "id": "mat-a1-001",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "number_computation",
+      "newFormat": "number_computation"
+    },
+    {
+      "id": "mat-a1-002",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "number_computation",
+      "newFormat": "number_computation"
+    },
+    {
+      "id": "mat-a1-003",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "number_computation",
+      "newFormat": "number_computation"
+    },
+    {
+      "id": "mat-a1-004",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "number_computation",
+      "newFormat": "number_computation"
+    },
+    {
+      "id": "mat-a1-005",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "number_computation",
+      "newFormat": "number_computation"
+    },
+    {
+      "id": "mat-a1-006",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "number_computation",
+      "newFormat": "number_computation"
+    },
+    {
+      "id": "mat-a1-007",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "number_computation",
+      "newFormat": "number_computation"
+    },
+    {
+      "id": "mat-a1-008",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "number_computation",
+      "newFormat": "number_computation"
+    },
+    {
+      "id": "mat-a1-009",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "number_computation",
+      "newFormat": "number_computation"
+    },
+    {
+      "id": "mat-a1-010",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "number_computation",
+      "newFormat": "number_computation"
+    },
+    {
+      "id": "mat-a1-011",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "number_computation",
+      "newFormat": "number_computation"
+    },
+    {
+      "id": "mat-a1-012",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "number_computation",
+      "newFormat": "number_computation"
+    },
+    {
+      "id": "mat-a1-013",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "number_computation",
+      "newFormat": "number_computation"
+    },
+    {
+      "id": "mat-a1-014",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "number_computation",
+      "newFormat": "number_computation"
+    },
+    {
+      "id": "mat-a1-015",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "number_computation",
+      "newFormat": "number_computation"
+    },
+    {
+      "id": "mat-a1-016",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "number_computation",
+      "newFormat": "number_computation"
+    },
+    {
+      "id": "mat-a1-017",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "number_computation",
+      "newFormat": "conceptual"
+    },
+    {
+      "id": "mat-a1-018",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "number_computation",
+      "newFormat": "conceptual"
+    },
+    {
+      "id": "mat-a1-019",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "number_computation",
+      "newFormat": "conceptual"
+    },
+    {
+      "id": "mat-a1-020",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "number_computation",
+      "newFormat": "conceptual"
+    },
+    {
+      "id": "mat-a1-021",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "ratios_percent",
+      "newFormat": "ratios_percent"
+    },
+    {
+      "id": "mat-a1-022",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "ratios_percent",
+      "newFormat": "ratios_percent"
+    },
+    {
+      "id": "mat-a1-023",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": false,
+      "oldFormat": "ratios_percent",
+      "newFormat": "ratios_percent"
+    },
+    {
+      "id": "mat-a1-024",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "ratios_percent",
+      "newFormat": "ratios_percent"
+    },
+    {
+      "id": "mat-a1-025",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "ratios_percent",
+      "newFormat": "ratios_percent"
+    },
+    {
+      "id": "mat-a1-026",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "ratios_percent",
+      "newFormat": "ratios_percent"
+    },
+    {
+      "id": "mat-a1-027",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "ratios_percent",
+      "newFormat": "ratios_percent"
+    },
+    {
+      "id": "mat-a1-028",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": false,
+      "oldFormat": "ratios_percent",
+      "newFormat": "ratios_percent"
+    },
+    {
+      "id": "mat-a1-029",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "ratios_percent",
+      "newFormat": "ratios_percent"
+    },
+    {
+      "id": "mat-a1-030",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "ratios_percent",
+      "newFormat": "ratios_percent"
+    },
+    {
+      "id": "mat-a1-031",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "ratios_percent",
+      "newFormat": "ratios_percent"
+    },
+    {
+      "id": "mat-a1-032",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "ratios_percent",
+      "newFormat": "ratios_percent"
+    },
+    {
+      "id": "mat-a1-033",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "ratios_percent",
+      "newFormat": "ratios_percent"
+    },
+    {
+      "id": "mat-a1-034",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "ratios_percent",
+      "newFormat": "ratios_percent"
+    },
+    {
+      "id": "mat-a1-035",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "ratios_percent",
+      "newFormat": "ratios_percent"
+    },
+    {
+      "id": "mat-a1-036",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "ratios_percent",
+      "newFormat": "ratios_percent"
+    },
+    {
+      "id": "mat-a1-037",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "ratios_percent",
+      "newFormat": "ratios_percent"
+    },
+    {
+      "id": "mat-a1-038",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "ratios_percent",
+      "newFormat": "ratios_percent"
+    },
+    {
+      "id": "mat-a1-039",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "ratios_percent",
+      "newFormat": "ratios_percent"
+    },
+    {
+      "id": "mat-a1-040",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "ratios_percent",
+      "newFormat": "ratios_percent"
+    },
+    {
+      "id": "mat-a1-041",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "measurement",
+      "newFormat": "conceptual"
+    },
+    {
+      "id": "mat-a1-042",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "measurement",
+      "newFormat": "conceptual"
+    },
+    {
+      "id": "mat-a1-043",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "measurement",
+      "newFormat": "conceptual"
+    },
+    {
+      "id": "mat-a1-044",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "measurement",
+      "newFormat": "measurement"
+    },
+    {
+      "id": "mat-a1-045",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": false,
+      "oldFormat": "measurement",
+      "newFormat": "measurement"
+    },
+    {
+      "id": "mat-a1-046",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "measurement",
+      "newFormat": "measurement"
+    },
+    {
+      "id": "mat-a1-047",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "measurement",
+      "newFormat": "measurement"
+    },
+    {
+      "id": "mat-a1-048",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "measurement",
+      "newFormat": "measurement"
+    },
+    {
+      "id": "mat-a1-049",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "measurement",
+      "newFormat": "measurement"
+    },
+    {
+      "id": "mat-a1-050",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "measurement",
+      "newFormat": "measurement"
+    },
+    {
+      "id": "mat-a1-051",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "measurement",
+      "newFormat": "measurement"
+    },
+    {
+      "id": "mat-a1-052",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "measurement",
+      "newFormat": "measurement"
+    },
+    {
+      "id": "mat-a1-053",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "measurement",
+      "newFormat": "measurement"
+    },
+    {
+      "id": "mat-a1-054",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "measurement",
+      "newFormat": "measurement"
+    },
+    {
+      "id": "mat-a1-055",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "measurement",
+      "newFormat": "measurement"
+    },
+    {
+      "id": "mat-a1-056",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "geometry",
+      "newFormat": "figure_numeric"
+    },
+    {
+      "id": "mat-a1-057",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "geometry",
+      "newFormat": "figure_numeric"
+    },
+    {
+      "id": "mat-a1-058",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "geometry",
+      "newFormat": "figure_numeric"
+    },
+    {
+      "id": "mat-a1-059",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "geometry",
+      "newFormat": "figure_numeric"
+    },
+    {
+      "id": "mat-a1-060",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "geometry",
+      "newFormat": "figure_numeric"
+    },
+    {
+      "id": "mat-a1-061",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "geometry",
+      "newFormat": "figure_numeric"
+    },
+    {
+      "id": "mat-a1-062",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "geometry",
+      "newFormat": "figure_numeric"
+    },
+    {
+      "id": "mat-a1-063",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "geometry",
+      "newFormat": "figure_numeric"
+    },
+    {
+      "id": "mat-a1-064",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "geometry",
+      "newFormat": "figure_numeric"
+    },
+    {
+      "id": "mat-a1-065",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "geometry",
+      "newFormat": "figure_numeric"
+    },
+    {
+      "id": "mat-a1-066",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "geometry",
+      "newFormat": "figure_numeric"
+    },
+    {
+      "id": "mat-a1-067",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "geometry",
+      "newFormat": "figure_numeric"
+    },
+    {
+      "id": "mat-a1-068",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "geometry",
+      "newFormat": "figure_numeric"
+    },
+    {
+      "id": "mat-a1-069",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "geometry",
+      "newFormat": "figure_numeric"
+    },
+    {
+      "id": "mat-a1-070",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "geometry",
+      "newFormat": "figure_numeric"
+    },
+    {
+      "id": "mat-a1-071",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "geometry",
+      "newFormat": "figure_numeric"
+    },
+    {
+      "id": "mat-a1-072",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "geometry",
+      "newFormat": "geometry"
+    },
+    {
+      "id": "mat-a1-073",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "geometry",
+      "newFormat": "geometry"
+    },
+    {
+      "id": "mat-a1-074",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "geometry",
+      "newFormat": "geometry"
+    },
+    {
+      "id": "mat-a1-075",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "geometry",
+      "newFormat": "geometry"
+    },
+    {
+      "id": "mat-a1-076",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "algebra",
+      "newFormat": "algebra"
+    },
+    {
+      "id": "mat-a1-077",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "algebra",
+      "newFormat": "algebra"
+    },
+    {
+      "id": "mat-a1-078",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "algebra",
+      "newFormat": "algebra"
+    },
+    {
+      "id": "mat-a1-079",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "algebra",
+      "newFormat": "algebra"
+    },
+    {
+      "id": "mat-a1-080",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "algebra",
+      "newFormat": "algebra"
+    },
+    {
+      "id": "mat-a1-081",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "algebra",
+      "newFormat": "conceptual"
+    },
+    {
+      "id": "mat-a1-082",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "algebra",
+      "newFormat": "conceptual"
+    },
+    {
+      "id": "mat-a1-083",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "algebra",
+      "newFormat": "conceptual"
+    },
+    {
+      "id": "mat-a1-084",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "algebra",
+      "newFormat": "conceptual"
+    },
+    {
+      "id": "mat-a1-085",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "algebra",
+      "newFormat": "conceptual"
+    },
+    {
+      "id": "mat-a1-086",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": false,
+      "oldFormat": "algebra",
+      "newFormat": "algebra"
+    },
+    {
+      "id": "mat-a1-087",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "algebra",
+      "newFormat": "algebra"
+    },
+    {
+      "id": "mat-a1-088",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": false,
+      "oldFormat": "algebra",
+      "newFormat": "algebra"
+    },
+    {
+      "id": "mat-a1-089",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "algebra",
+      "newFormat": "algebra"
+    },
+    {
+      "id": "mat-a1-090",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "algebra",
+      "newFormat": "algebra"
+    },
+    {
+      "id": "mat-a1-091",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "statistics_probability",
+      "newFormat": "statistics_probability"
+    },
+    {
+      "id": "mat-a1-092",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "statistics_probability",
+      "newFormat": "statistics_probability"
+    },
+    {
+      "id": "mat-a1-093",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "statistics_probability",
+      "newFormat": "statistics_probability"
+    },
+    {
+      "id": "mat-a1-094",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "statistics_probability",
+      "newFormat": "statistics_probability"
+    },
+    {
+      "id": "mat-a1-095",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "statistics_probability",
+      "newFormat": "statistics_probability"
+    },
+    {
+      "id": "mat-a1-096",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": false,
+      "oldFormat": "statistics_probability",
+      "newFormat": "statistics_probability"
+    },
+    {
+      "id": "mat-a1-097",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "statistics_probability",
+      "newFormat": "statistics_probability"
+    },
+    {
+      "id": "mat-a1-098",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "statistics_probability",
+      "newFormat": "statistics_probability"
+    },
+    {
+      "id": "mat-a1-099",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": false,
+      "oldFormat": "statistics_probability",
+      "newFormat": "statistics_probability"
+    },
+    {
+      "id": "mat-a1-100",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": false,
+      "oldFormat": "statistics_probability",
+      "newFormat": "statistics_probability"
+    },
+    {
+      "id": "lan-a1-001",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "grammar",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-002",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "grammar",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-003",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "grammar",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-004",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "grammar",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-005",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "grammar",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-006",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "grammar",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-007",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "grammar",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-008",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "grammar",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-009",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "grammar",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-010",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "grammar",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-011",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "grammar",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-012",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "grammar",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-013",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "grammar",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-014",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "grammar",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-015",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "grammar",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-016",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "grammar",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-017",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "grammar",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-018",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "grammar",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-019",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "grammar",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-020",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "grammar",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-021",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "usage",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-022",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "usage",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-023",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "usage",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-024",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "usage",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-025",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "usage",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-026",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "usage",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-027",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "usage",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-028",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "usage",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-029",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "usage",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-030",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "usage",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-031",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "usage",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-032",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "usage",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-033",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "usage",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-034",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "usage",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-035",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "usage",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-036",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "usage",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-037",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "usage",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-038",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "usage",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-039",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "usage",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-040",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "usage",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-041",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "punctuation",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-042",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "punctuation",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-043",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "punctuation",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-044",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "punctuation",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-045",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "punctuation",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-046",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "punctuation",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-047",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "punctuation",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-048",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "punctuation",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-049",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "punctuation",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-050",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "punctuation",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-051",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "punctuation",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-052",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "punctuation",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-053",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "punctuation",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-054",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "punctuation",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-055",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "punctuation",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-056",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "capitalization",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-057",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "capitalization",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-058",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "capitalization",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-059",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "capitalization",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-060",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "capitalization",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-061",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "capitalization",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-062",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "capitalization",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-063",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "capitalization",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-064",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "capitalization",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-065",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "capitalization",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-066",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "spelling",
+      "newFormat": "error_detection"
+    },
+    {
+      "id": "lan-a1-067",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "spelling",
+      "newFormat": "spelling"
+    },
+    {
+      "id": "lan-a1-068",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "spelling",
+      "newFormat": "spelling"
+    },
+    {
+      "id": "lan-a1-069",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "spelling",
+      "newFormat": "spelling"
+    },
+    {
+      "id": "lan-a1-070",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "spelling",
+      "newFormat": "spelling"
+    },
+    {
+      "id": "lan-a1-071",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "spelling",
+      "newFormat": "spelling"
+    },
+    {
+      "id": "lan-a1-072",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "spelling",
+      "newFormat": "spelling"
+    },
+    {
+      "id": "lan-a1-073",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "spelling",
+      "newFormat": "spelling"
+    },
+    {
+      "id": "lan-a1-074",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "spelling",
+      "newFormat": "spelling"
+    },
+    {
+      "id": "lan-a1-075",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "spelling",
+      "newFormat": "spelling"
+    },
+    {
+      "id": "lan-a1-076",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "spelling",
+      "newFormat": "spelling"
+    },
+    {
+      "id": "lan-a1-077",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "spelling",
+      "newFormat": "spelling"
+    },
+    {
+      "id": "lan-a1-078",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "spelling",
+      "newFormat": "spelling"
+    },
+    {
+      "id": "lan-a1-079",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "spelling",
+      "newFormat": "spelling"
+    },
+    {
+      "id": "lan-a1-080",
+      "priorRevision": 2,
+      "revision": 3,
+      "semanticChange": true,
+      "oldFormat": "spelling",
+      "newFormat": "spelling"
+    },
+    {
+      "id": "lan-a1-081",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "composition",
+      "newFormat": "spelling"
+    },
+    {
+      "id": "lan-a1-082",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "composition",
+      "newFormat": "spelling"
+    },
+    {
+      "id": "lan-a1-083",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "composition",
+      "newFormat": "spelling"
+    },
+    {
+      "id": "lan-a1-084",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "composition",
+      "newFormat": "paragraph_order"
+    },
+    {
+      "id": "lan-a1-085",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "composition",
+      "newFormat": "paragraph_order"
+    },
+    {
+      "id": "lan-a1-086",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "composition",
+      "newFormat": "paragraph_insertion"
+    },
+    {
+      "id": "lan-a1-087",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "composition",
+      "newFormat": "paragraph_insertion"
+    },
+    {
+      "id": "lan-a1-088",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "composition",
+      "newFormat": "irrelevant_sentence"
+    },
+    {
+      "id": "lan-a1-089",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "composition",
+      "newFormat": "irrelevant_sentence"
+    },
+    {
+      "id": "lan-a1-090",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "composition",
+      "newFormat": "topic_sentence"
+    },
+    {
+      "id": "lan-a1-091",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "composition",
+      "newFormat": "concluding_sentence"
+    },
+    {
+      "id": "lan-a1-092",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "composition",
+      "newFormat": "transition"
+    },
+    {
+      "id": "lan-a1-093",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "composition",
+      "newFormat": "transition"
+    },
+    {
+      "id": "lan-a1-094",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "composition",
+      "newFormat": "sentence_combining"
+    },
+    {
+      "id": "lan-a1-095",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "composition",
+      "newFormat": "sentence_combining"
+    },
+    {
+      "id": "lan-a1-096",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "composition",
+      "newFormat": "pronoun_clarity"
+    },
+    {
+      "id": "lan-a1-097",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "composition",
+      "newFormat": "concision"
+    },
+    {
+      "id": "lan-a1-098",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "composition",
+      "newFormat": "supporting_detail"
+    },
+    {
+      "id": "lan-a1-099",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "composition",
+      "newFormat": "paragraph_revision"
+    },
+    {
+      "id": "lan-a1-100",
+      "priorRevision": 1,
+      "revision": 2,
+      "semanticChange": true,
+      "oldFormat": "composition",
+      "newFormat": "paragraph_order"
+    }
+  ]
+}

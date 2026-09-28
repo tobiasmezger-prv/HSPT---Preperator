@@ -1,0 +1,2812 @@
+{
+  "manifestSha256": "c00d66440754d905d4e63a33eb3bc2404260e96776ff870db5e341ad0fad9835",
+  "status": "triage_only_semantic_review_pending",
+  "sourcesScanned": [
+    "test1",
+    "test3"
+  ],
+  "missingTextSource": "test2 (scanned PDF; visual full comparison still required)",
+  "flags": [],
+  "items": [
+    {
+      "id": "ver-a1-001",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-002",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-003",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-004",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-005",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-006",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-007",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-008",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-009",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-010",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-011",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-012",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-013",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-014",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-015",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-016",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-017",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-018",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-019",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-020",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-021",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-022",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-023",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-024",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-025",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-026",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-027",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-028",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-029",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-030",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-031",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-032",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-033",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-034",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-035",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-036",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-037",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-038",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-039",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-040",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-041",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-042",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-043",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-044",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-045",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-046",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-047",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-048",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-049",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-050",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-051",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-052",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-053",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-054",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-055",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-056",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-057",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-058",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-059",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-060",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-061",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-062",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-063",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-064",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-065",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-066",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-067",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-068",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-069",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-070",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-071",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-072",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-073",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-074",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-075",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-076",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-077",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-078",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-079",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-080",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-081",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-082",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-083",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-084",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-085",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-086",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-087",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-088",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-089",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-090",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-091",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-092",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-093",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-094",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-095",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-096",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-097",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-098",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-099",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "ver-a1-100",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-001",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-002",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-003",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-004",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-005",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-006",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-007",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-008",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-009",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-010",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-011",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-012",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-013",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-014",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-015",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-016",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-017",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-018",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-019",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-020",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-021",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-022",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-023",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-024",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-025",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-026",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-027",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-028",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-029",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-030",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-031",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-032",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-033",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-034",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-035",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-036",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-037",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-038",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-039",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-040",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-041",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-042",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-043",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-044",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-045",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-046",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-047",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-048",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-049",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-050",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-051",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-052",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-053",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-054",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-055",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-056",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-057",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-058",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-059",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-060",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-061",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-062",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-063",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-064",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-065",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-066",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-067",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-068",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-069",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-070",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-071",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-072",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-073",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-074",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-075",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-076",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-077",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-078",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-079",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-080",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-081",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-082",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-083",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-084",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-085",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-086",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-087",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-088",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-089",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-090",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-091",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-092",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-093",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-094",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-095",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-096",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-097",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-098",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-099",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "rea-a1-100",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-001",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-002",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-003",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-004",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-005",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-006",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-007",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-008",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-009",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-010",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-011",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-012",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-013",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-014",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-015",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-016",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-017",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-018",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-019",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-020",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-021",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-022",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-023",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-024",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-025",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-026",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-027",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-028",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-029",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-030",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-031",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-032",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-033",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-034",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-035",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-036",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-037",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-038",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-039",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-040",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-041",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-042",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-043",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-044",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-045",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-046",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-047",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-048",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-049",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-050",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-051",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-052",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-053",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-054",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-055",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-056",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-057",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-058",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-059",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-060",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-061",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-062",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-063",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-064",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-065",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-066",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-067",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-068",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-069",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-070",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-071",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-072",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-073",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-074",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-075",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-076",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-077",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-078",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-079",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-080",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-081",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-082",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-083",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-084",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-085",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-086",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-087",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-088",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-089",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-090",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-091",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-092",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-093",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-094",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-095",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-096",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-097",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-098",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-099",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "mat-a1-100",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-001",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-002",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-003",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-004",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-005",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-006",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-007",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-008",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-009",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-010",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-011",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-012",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-013",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-014",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-015",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-016",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-017",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-018",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-019",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-020",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-021",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-022",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-023",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-024",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-025",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-026",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-027",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-028",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-029",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-030",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-031",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-032",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-033",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-034",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-035",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-036",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-037",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-038",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-039",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-040",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-041",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-042",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-043",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-044",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-045",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-046",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-047",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-048",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-049",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-050",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-051",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-052",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-053",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-054",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-055",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-056",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-057",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-058",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-059",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-060",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-061",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-062",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-063",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-064",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-065",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-066",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-067",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-068",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-069",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-070",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-071",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-072",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-073",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-074",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-075",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-076",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-077",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-078",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-079",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-080",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-081",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-082",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-083",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-084",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-085",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-086",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-087",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-088",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-089",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-090",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-091",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-092",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-093",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-094",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-095",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-096",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-097",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-098",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-099",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    },
+    {
+      "id": "lan-a1-100",
+      "automatedFlags": [],
+      "semanticReview": "pending",
+      "scannedTest2Comparison": "pending",
+      "resolution": "not_cleared_for_release"
+    }
+  ]
+}

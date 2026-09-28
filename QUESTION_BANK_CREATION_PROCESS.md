@@ -1,64 +1,75 @@
 # HSPT question-bank creation, calibration, and import process
 
 **Project:** HSPT Practice  
-**Version:** 2.0 — Gables calibration added  
-**Purpose:** Create original, dependable quantitative practice in batches of 100, with a normal human-review workload of 20 questions per batch.
+**Version:** 3.0 — Full-set calibration from the project Gables Markdown source  
+**Purpose:** Create original, dependable practice for all five HSPT sections in batches of 100, using full-set source calibration and independent answer review of every authored question. The normal human-review checkpoint remains 20 questions per batch.
 
 This is the reusable project instruction. It supersedes the earlier requirement to human-review all 100 questions. Keep source documents under `sources/` read-only. Do not publish new content or label it approved merely because it passes arithmetic tests.
 
 ## 1. Non-negotiable principles
 
-- Use Gables Tutoring’s linked HSPT practice tests **and their matching answer explanations** as the preferred calibration reference for this family. The student has already completed these tests.
+- Use the project source [HSPT_ALL_SIX_PDFS.md](sources/HSPT_ALL_SIX_PDFS.md), containing all three complete Gables tests and matching answer guides, as the primary calibration reference. Calibrate against **all 894 source questions across all five sections and all six documents (156 pages)**, not a selected sample. The student has already completed these tests.
 - Calibrate the reasoning task, presentation, difficulty range, distractor design, and explanation quality. Do not copy stems, answer choices, figures, explanations, or create recognizable reskins by changing only numbers or names.
-- Original questions may test the same mathematical concept. Novelty means a fresh problem, not inventing an unfamiliar question format.
+- Original questions may test the same mathematical, verbal, reading or language concept. Novelty means a fresh problem, not inventing an unfamiliar question format.
 - Check every item automatically where a reliable validator exists, then human-review a fixed sample of 20 per 100. Automated checks do not establish natural-language clarity or real-exam difficulty.
 - Treat publisher guidance as authoritative for section scope. Treat third-party practice tests as valuable examples, not current official exam forms or infallible answer keys.
 
 ## 2. Calibration source register
 
-Start at [Gables Tutoring’s practice-test page](https://gablestutoring.com/practice-tests/). **The webpage labels, PDF filenames, and printed book test numbers differ. Use the pairings below rather than guessing from a filename.**
+Use [the combined Gables Markdown file under project sources](sources/HSPT_ALL_SIX_PDFS.md), **not the website as the normal starting point**. Treat this file as read-only reference material. Its embedded original page images are part of the calibration source, alongside the searchable transcriptions.
 
-| Webpage label | Question PDF | Matching answer PDF | Quantitative question location |
-|---|---|---|---|
-| Test 1 | [HSPT-Test-3.pdf](https://gablestutoring.com/wp-content/uploads/2020/08/HSPT-Test-3.pdf) | [HSPT-TEST-3-Answers.pdf](https://gablestutoring.com/wp-content/uploads/2020/08/HSPT-TEST-3-Answers.pdf) | Q61–112; PDF pp. 6–11, printed pp. 188–193 |
-| Test 2 | [HSPT-TEST-4-1.pdf](https://gablestutoring.com/wp-content/uploads/2020/08/HSPT-TEST-4-1.pdf) | [HSPT-TEST-4-Answers.pdf](https://gablestutoring.com/wp-content/uploads/2020/08/HSPT-TEST-4-Answers.pdf) | Q61–112; PDF pp. 6–11, printed pp. 448–453 |
-| Test 3 | [HSPT-TEST-5.pdf](https://gablestutoring.com/wp-content/uploads/2020/08/HSPT-TEST-5.pdf) | [HSPT-TEST-5-Answers.pdf](https://gablestutoring.com/wp-content/uploads/2020/08/HSPT-TEST-5-Answers.pdf) | Q61–112; PDF pp. 6–11, printed pp. 246–251 |
+**Local sync note (2026-09-27):** the user added the file to project sources, but it was not yet visible in this local mirror when this instruction was updated. Until it syncs, the identical generated artifact is available at [output/markdown/HSPT_ALL_SIX_PDFS.md](output/markdown/HSPT_ALL_SIX_PDFS.md). Prefer the `sources/` copy once available. If its synced filename differs, locate it by title and the six-document contents below and record the actual path. Do not silently substitute a website sample or claim to have read an unavailable source.
 
-Page numbers above are one-based. The first and third PDFs identify *Catholic High School Entrance Exams For Dummies*; the middle scanned test identifies Peterson’s. Gables is the hosting/curation source, not necessarily the original author.
+### Document identities and full coverage
 
-For scope, also consult [STS’s HSPT interpretive manual](https://www.ststesting.com/hp_int_sts.pdf), printed page 1. Use other reputable examples to resolve uncertainty, not to overrule a mathematical inconsistency.
+The source retains the Gables Test 1/2/3 labels, original filenames, document headings and one-based PDF page markers. These labels differ from the printed book test numbers.
 
-Record source URLs, webpage labels, actual document titles, question/page locators, access date, and any exclusions. If a PDF is scanned or uses diagrams, visually inspect the page. OCR or extracted text can lose symbols, superscripts, fractions, shading, or subscripts. Never reconstruct a question from broken extraction and then call it validated.
+| Source label | Question document | Matching answer document | Pages, questions + answers |
+|---|---|---|---:|
+| Test 1 | HSPT-Test-3.pdf | HSPT-TEST-3-Answers.pdf | 34 + 20 |
+| Test 2 | HSPT-TEST-4-1.pdf | HSPT-TEST-4-Answers.pdf | 31 + 18 |
+| Test 3 | HSPT-TEST-5.pdf | HSPT-TEST-5-Answers.pdf | 33 + 20 |
 
-## 3. What the Gables comparison changes
+The first and third pairs identify *Catholic High School Entrance Exams For Dummies*, printed Tests 1 and 2; the middle pair identifies Peterson’s Practice Test 5. Gables hosted the references, but is not necessarily their author. Website URLs may be retained as historical provenance, not substituted for the project source.
 
-The quantitative sections and paired guides were inspected for calibration, including visual inspection of the scanned test and selected diagrams. This was not an exhaustive independent certification of all reference answer keys.
+| Section | Question numbers in each test | Items across all three tests |
+|---|---|---:|
+| Verbal Skills | 1–60 | 180 |
+| Quantitative Skills | 61–112 | 156 |
+| Reading | 113–174 | 186 |
+| Mathematics | 175–238 | 192 |
+| Language | 239–298 | 180 |
+| **Total** | **298 per test** | **894** |
 
-For our next revision:
+Record the actual Markdown path, content hash, document identity, PDF page heading and question number for each reference. Bind the coverage ledger and calibration findings to that source revision. Inspect every question, all choices, each passage/figure and its matching explanation. Include all answer-guide pages, not only summary key tables. Coverage may be reused from a documented full review only when its source hash matches; reconcile and re-review changed or previously unresolved material. Never relabel partial or sampled coverage as full calibration.
 
-- Preserve short prompts and a range from straightforward to multi-step reasoning. Do not make every question complicated just to imitate test difficulty.
-- Expand labeled-quantity comparisons with relational answer choices. Four separate values with “which is largest?” do not cover the whole format.
-- Include original figure-based comparisons, shaded fractions, and graph interpretation; text-only area calculations are insufficient substitutes.
-- Add selected missing-term, multi-term-output, and mixed-representation sequences. Do not supply the rule when discovering it is the tested skill.
-- Include concise verbal manipulation where the student must translate the relationship and finish every requested operation.
-- Explanations should justify the answer and identify a likely mistake. Tips should teach a valid shortcut, not merely repeat the calculation.
+For official section scope, retain STS publisher guidance as the authority; the [STS interpretive manual](https://www.ststesting.com/hp_int_sts.pdf) is a supplemental scope reference, not a substitute for the complete project Gables corpus. The three practice forms do not establish the current official blueprint or measured difficulty.
 
-These are editorial design conclusions, not measured official blueprint percentages or psychometric difficulty estimates.
+### Embedded images, OCR and source defects
 
-### Reference exceptions and existing-bank overlap
+The Markdown includes page images in expandable HTML blocks with embedded image data. Use them to inspect diagrams, fractions, superscripts, shading and other notation that transcription may lose. If a reader cannot display them, decode the embedded images into temporary working files and inspect those. Do not treat a text search or an unread image as visual review.
 
-The source guides are useful but still need verification. In webpage Test 3, Q87, the printed sequence supports an alternating halving/addition rule, while the matching explanation applies subtraction and selects a different option. Treat this as an apparent source inconsistency, not a template to reproduce. Its Q89 also relies on representation to distinguish equal numerical values; our questions must explicitly request the representation if it matters. See the [question PDF, p. 9](https://gablestutoring.com/wp-content/uploads/2020/08/HSPT-TEST-5.pdf#page=9) and [answer guide, p. 6](https://gablestutoring.com/wp-content/uploads/2020/08/HSPT-TEST-5-Answers.pdf#page=6).
+Some words and variables are absent even in the original second test. The Markdown preserves published errors and flags known problems; it is not a corrected key. Record missing, ambiguous or contradictory material as an exception. Never invent missing text or use a suspect published answer as the sole oracle. Separate complete inspection from successful verification: every source position must be accounted for, but an unreadable position cannot be marked verified.
 
-Two existing local items need replacement before a fresh bank is released to this student:
+## 3. Full-set calibration and known findings
 
-| Local ID | Reference overlap | Required action |
-|---|---|---|
-| `dev-03` | Webpage Test 1, Q68: same starting doubling sequence, though the requested output length differs | Replace with an independently designed item, not an extended/truncated version. |
-| `quant-038` | Webpage Test 3, Q75: same starting fractional progression with an extra term | Replace; extending a familiar sequence is not sufficiently fresh for this student. |
+The [full audit](app/content/audits/gables-full-2026-09-27/REPORT.md) covers all three tests and answer guides, all five sections, 894 source positions and 500 local questions. Consult its [source coverage](app/content/audits/gables-full-2026-09-27/source-coverage.json), [exceptions](app/content/audits/gables-full-2026-09-27/source-exceptions.json) and [local item audit](app/content/audits/gables-full-2026-09-27/local-item-audit.json). This historical audit was tied to the original PDF hashes; record the matching Markdown hash and reconcile its document/page contents before reusing that evidence for a new batch. It is not human acceptance or infallible certification.
 
-These are identified overlap risks, not a claim that the prior drafts were copied. The mathematical concepts remain usable. The audit does not prove that these are the only possible similarities. Complete the novelty check below for every revised batch.
+For each new batch, use the complete corpus to establish the format, reasoning, distractor and explanation requirements, then compare every authored item with all relevant source items and the other local banks. Do not calibrate a section from a few representative pages or the 20-question human sample. Maintain a complete corpus ledger across all five sections even when authoring only one section.
 
-**Current state:** this process update does not change the app’s 100 questions or mark them approved. The prior automated checks remain mathematical checks, not evidence that these newly identified issues are resolved.
+| Section | Full-set calibration requirements |
+|---|---|
+| Verbal | Cover synonym/antonym distinctions, analogy direction, classifications and logical entailment. Check word sense and all plausible alternatives; avoid source-exposed targets and recognizable logic reskins. |
+| Quantitative | Cover series, manipulation, numerical relationships and visual/geometric comparison. Include missing terms, multi-term outputs and mixed representations where supported. Check every supplied term and every relational option. |
+| Reading | Each reference form has 40 comprehension and 22 standalone vocabulary items. Include a suitable mix of passage genres, lengths, inference, purpose, evidence and vocabulary. All-passage questions with uniformly short texts do not cover the observed format. Preserve complete passage groups in test assembly. |
+| Mathematics | Include computation, concepts, application and original figure-based tasks. Text-only geometry is insufficient to cover the reference presentation. Independently solve every problem, checking units, assumptions and all choices. |
+| Language | Each reference form has 40 sentence-error items, 10 spelling and 10 composition items. Include genuine no-error options and paragraph editing. Check standard written usage without reproducing overly rigid or incorrect source-guide rules. |
+
+These source counts inform editorial design; they are not mandated percentages for every 100-item skill bank. Document any deliberate departure and label its permitted use accurately. Difficulty labels remain provisional until supported by student performance.
+
+Known findings include wrong or conflicting source keys, multiple valid choices, missing printed content and overgeneralized explanations. For example, Test 3 Q87 has a sequence/key disagreement, Q89 has equal numerical options, and Test 2 Q162 has a vocabulary-key disagreement. Use the exception ledger for their locators and reasoning rather than copying those defects into new content.
+
+The local audit also identified repeated items across sections, familiar vocabulary targets, an incorrect explanation position after choice shuffling, and a contradictory reading passage. Corrections are recorded in [additional-v2 changes](app/content/staging/additional-v2/changes.json). Reading-format coverage, Mathematics figures, Language error-detection coverage and distractor quality still need improvement before the new banks can be called representative full-test practice. This process update does not itself approve content or alter the live bank.
 
 ## 4. Plan the batch before writing
 
@@ -93,21 +104,23 @@ Each item needs: stable ID, section, skill, format subtype, provisional difficul
 
 ## 6. Run the already-seen and originality check
 
-For **every** item, compare against the current app bank and all three Gables quantitative sections:
+For **every** authored item in every section, compare against all existing local banks and the **complete three-test corpus in the project Gables Markdown source**, including passages, choices, figures and guides. Use the full relevant section and cross-section material, not a reference sample:
 
 - Exact and normalized text overlap, disregarding superficial formatting.
 - Same sequence prefix, slightly extended/truncated sequence, same relationship structure with the same values, or reordered choices.
 - Recognizable problem skeleton plus only a number/name swap.
 - Reused figure geometry, arrangement, labels, or shading pattern.
 - Copied explanation or distinctive wording.
+- Reused vocabulary/spelling targets, passage scenarios, analogy pairs, logic structures, grammatical traps or composition tasks already encountered by this student.
+- Duplicates or recognizable reskins across local sections, even when each bank independently contains 100 unique IDs.
 
 Automated similarity flags are triage, not an originality verdict. Generic wording and common mathematical operations alone are not copying. A substantive match to a question this student already encountered requires replacement or explicit quarantine; do not simply dismiss it because the correct letter changed.
 
 Keep an overlap log: local ID, reference locator, match reason, resolution, and reviewer/checker. Any unresolved overlap blocks release for this student, even when the item is mathematically correct.
 
-**Implementation limit:** the current import tool does not automatically crawl Gables, compare diagrams, or detect semantic reskins. Until those capabilities exist, document this as an agent-assisted content check. Do not describe an unperformed similarity check as passed.
+**Implementation limit:** the current import tool does not automatically read and verify the full project Markdown corpus, compare diagrams, or detect semantic reskins. Until those capabilities exist, document this as an agent-assisted content check. Do not describe an unperformed similarity check as passed.
 
-## 7. Validate all 100 before sampling
+## 7. Independently validate all 100 before human sampling
 
 Require complete metadata, four valid choices, stable unique IDs, no duplicate items, and a matching explanation and key. Evaluate every choice rather than checking only the declared correct answer.
 
@@ -117,9 +130,18 @@ Check family repetition, answer-position balance, skill coverage, and ten-questi
 
 Keep separate records for structural checks, mathematical checks, calibration, novelty, visual checks, and human review. Bind results to the content revision. A change to the stem, choices, key, explanation, or diagram requires renewed relevant checks; old receipts must not certify edited content.
 
-Do not use a reference answer guide as the sole oracle. Recompute the result, compare it with the guide, and log disagreement instead of propagating it.
+Independently check **every answer and explanation in every section**, not only numerical items. Use domain knowledge and reasoning as well as the source comparison:
+
+- Verbal: establish the intended word sense, relationship or logical entailment, and reject every distractor on a defensible basis.
+- Reading: read the entire passage; identify the supporting evidence and distinguish supported inference from outside knowledge. Review passage accuracy and consistency separately from passage-based answer correctness.
+- Quantitative and Mathematics: solve from the stem before consulting the authored key; cross-check with reliable numerical or logical validators and inspect all diagrams.
+- Language: identify the governing grammar, usage, punctuation, spelling or composition convention; check whether another option is valid under standard written English.
+
+Check tips and explanations for false general rules and stale references to shuffled choice positions. Do not use a reference answer guide as the sole oracle. Independently derive the result, compare it with the guide, and log disagreement instead of propagating it. Where no reliable executable validator exists, record an actual item-level semantic review rather than an automatic pass. Renew checks for every question depending on an edited reading passage.
 
 ## 8. Human review: 20 per 100
+
+**This is a human acceptance sample only. It does not reduce the full 894-question source-calibration requirement or the independent review of all 100 authored questions.**
 
 After full-bank checks, generate a fixed sample of exactly 20 for each 100-item batch. Use reproducible skill-stratified selection, difficulty coverage, risk-based picks, and diversity of pattern families. Cover each new answer/visual format. Include geometry when it is present. Do not choose only polished or easy items.
 
@@ -150,9 +172,10 @@ The existing CLI acceptance label is `sample_reviewed_for_skill_practice`; it do
 ## 10. Required deliverables for every batch
 
 - Versioned original bank with keys, explanations, tips, and any visual assets.
-- Source register and compact format/difficulty calibration report.
+- Source register identifying the project Gables Markdown path/hash, all six document identities, and page/question locators.
+- Full-corpus coverage ledger for all 894 positions and matching guides, with inspected/verified/exception status kept distinct; a section-by-section format/difficulty calibration report and justified deviations.
 - Item-level audit and source-overlap log, including resolution of all flags.
-- Mathematical and structural check receipts tied to the revision.
+- Independent answer and explanation review for all 100 items in every section, plus mathematical/logical and structural receipts where applicable, tied to the revision and passage dependencies.
 - Visual/rendering results, when relevant.
 - Reproducible 20-item sample, questions-first packet, and human decisions.
 - Final acceptance record stating permitted use and unresolved limitations.
@@ -184,7 +207,7 @@ For a new batch, supply its own bank, independent tests/receipt, audit, and outp
 
 ## Reusable instruction for a future session
 
-> Follow this document to create or import the next 100 original HSPT Quantitative practice questions. Use Gables Tutoring’s linked tests and matching explanations for calibration only; the student has already seen them. Do not copy, lightly reword, or merely change numbers in those questions. Preserve the approved app UX. Plan the format and difficulty mix, author and independently validate all items, check overlap against Gables and the existing bank, inspect new visual formats, and produce a reproducible 20-question human-review sample. Report what was actually checked and keep the batch pending until its required checks and human decisions pass. Do not deploy or claim official-test equivalence.
+> Follow this document to create or import the next 100 original questions for the requested HSPT section. Use `sources/HSPT_ALL_SIX_PDFS.md` as the primary calibration reference, locating its actual synced filename if necessary. Calibrate against all three complete tests and all three matching answer guides: 156 pages, 894 questions across all five sections, including embedded figures and full passages. Do not substitute a source sample or website excerpts. The student has already seen these questions, so do not copy, lightly reword, or merely change names or numbers. Preserve the approved app UX. Plan the section-specific mix, independently check every authored answer, explanation and tip, compare every item against the full corpus and all local banks, inspect visual formats, and record source exceptions honestly. Only after full-bank checks, produce a reproducible 20-question human acceptance sample per 100. This human sample is separate from full-set calibration. Bind evidence to source/content revisions, keep unresolved content pending, and do not deploy or claim official-test equivalence.
 
 ## First 100: staged Gables revision and updated sample
 
@@ -214,3 +237,7 @@ App rendering of the new diagram specifications, ten-question selection across t
 ### Integration update
 
 Tobias explicitly approved the gables-v2 sample and authorized integration. The live app now imports this immutable revision; batch status is sample-reviewed (not individual approval of all 100). Diagrams render in practice and results, retired focuses are hidden, and older saved snapshots remain supported. Automated integration checks and production build passed; see `app/content/staging/gables-v2/integration.json`. Manual browser/iPad verification remains pending. No deployment was performed.
+
+### Additional-bank integration update — September 27, 2026
+
+Tobias approved the additional-v3 review packets and authorized integration in the project conversation. The active `all-sections-v0002` release combines the unchanged 100 Quantitative questions with 100 each for Verbal, Reading, Mathematics and Language. The approval is preserved at `app/content/review/additional-v3/decisions.json`, separately from historical pending draft templates. Only the fixed 20 per section are individually approved. The import preserves reviewed question content, embeds original figures and numbered passage paragraphs, and retains authored revision provenance. Acceptance permits skill practice and shortened previews; full-length exam presets, empirical difficulty/timing and actual iPad Safari checks remain outstanding. See `app/PHASE_III_PREVIEW.md` and `app/CONTENT_PUBLISHING.md` for current integration and release details.

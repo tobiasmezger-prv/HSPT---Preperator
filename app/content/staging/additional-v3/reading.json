@@ -1,0 +1,3217 @@
+{
+  "schemaVersion": "hspt-draft-1",
+  "batchId": "reading-additional-v3",
+  "section": "reading",
+  "version": 3,
+  "status": "draft_not_for_publication",
+  "questions": [
+    {
+      "id": "rea-a1-001",
+      "revision": 3,
+      "section": "reading",
+      "skill": "main_idea",
+      "format": "passage_main_idea",
+      "difficulty": 2,
+      "templateFamily": "literary fiction-main_idea",
+      "stem": "Which idea best unifies the story?",
+      "choices": [
+        "Small familiar sounds can give a place its identity.",
+        "Technical practice matters more than choosing a subject.",
+        "An exhibition succeeds when it includes famous places.",
+        "A clear announcement is essential to a busy station."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The first recording lacks identity; the ordinary sounds let a visitor recognize this particular station.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-01",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-002",
+      "revision": 3,
+      "section": "reading",
+      "skill": "detail",
+      "format": "passage_detail",
+      "difficulty": 1,
+      "templateFamily": "literary fiction-detail",
+      "stem": "When does Nessa make her second recording?",
+      "choices": [
+        "Before the first train arrives.",
+        "While the exhibition is opening.",
+        "During the loudest announcement.",
+        "After the last train leaves."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Paragraph 2 places her return before the first train.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-01",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-003",
+      "revision": 3,
+      "section": "reading",
+      "skill": "inference",
+      "format": "passage_inference",
+      "difficulty": 2,
+      "templateFamily": "literary fiction-inference",
+      "stem": "Why does Nessa keep the shutter's clatter?",
+      "choices": [
+        "It supports Mr. Vale's opinion of the sound.",
+        "It hides a problem with the recorder's speaker.",
+        "It makes the coming train seem unusually quiet.",
+        "It captures a familiar feature of this station."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The visitor recognizes the station from the shutter; Nessa values what Mr. Vale dismisses.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-01",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-004",
+      "revision": 3,
+      "section": "reading",
+      "skill": "vocabulary_context",
+      "format": "passage_vocabulary_context",
+      "difficulty": 2,
+      "templateFamily": "literary fiction-vocabulary_context",
+      "stem": "In paragraph 1, “vanished” suggests that the station's identity had been what?",
+      "choices": [
+        "Hidden by the visitor.",
+        "Lost from the recording.",
+        "Changed by the exhibition.",
+        "Removed from the town."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The physical station remains; its distinctive character is absent in the first recording.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-01",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1
+      ]
+    },
+    {
+      "id": "rea-a1-005",
+      "revision": 3,
+      "section": "reading",
+      "skill": "structure",
+      "format": "passage_structure",
+      "difficulty": 2,
+      "templateFamily": "literary fiction-structure",
+      "stem": "What is the main role of the first paragraph?",
+      "choices": [
+        "It explains why Mr. Vale objects to being recorded.",
+        "It establishes a problem that the later visit resolves.",
+        "It lists the sounds preserved in the final recording.",
+        "It summarizes what visitors say about the exhibition."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Nessa's dissatisfaction motivates the second visit and the choice of smaller sounds.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-01",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-006",
+      "revision": 3,
+      "section": "reading",
+      "skill": "literary_interpretation",
+      "format": "passage_literary_interpretation",
+      "difficulty": 2,
+      "templateFamily": "literary fiction-literary_interpretation",
+      "stem": "What does the visitor's recognition show?",
+      "choices": [
+        "The exhibition has recreated the entire station.",
+        "The sounds carry a personal memory of the place.",
+        "The visitor helped Nessa plan her second recording.",
+        "The visitor mistakes the shutter for a train."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "His remembered ticket purchase shows that the shutter evokes a particular experience.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-01",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-007",
+      "revision": 2,
+      "section": "reading",
+      "skill": "author_purpose",
+      "format": "passage_author_purpose",
+      "difficulty": 3,
+      "templateFamily": "literary fiction-author_purpose",
+      "stem": "Why does the author mention that Nessa no longer wishes she had arrived later?",
+      "choices": [
+        "To show that she now values the sounds before the train.",
+        "To suggest that the early train has been canceled.",
+        "To reveal that she disliked speaking with Mr. Vale.",
+        "To explain why the exhibition closes in the morning."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Her final attitude reverses the initial focus on the obvious train sound.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-01",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-008",
+      "revision": 2,
+      "section": "reading",
+      "skill": "tone",
+      "format": "passage_tone",
+      "difficulty": 2,
+      "templateFamily": "literary fiction-tone",
+      "stem": "Which description best fits the ending?",
+      "choices": [
+        "Sharply resentful.",
+        "Playfully mocking.",
+        "Nervously apologetic.",
+        "Quietly satisfied."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Her small adjustment of the label and changed wish convey understated satisfaction.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-01",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-009",
+      "revision": 2,
+      "section": "reading",
+      "skill": "main_idea",
+      "format": "passage_main_idea",
+      "difficulty": 2,
+      "templateFamily": "technical explanation-main_idea",
+      "stem": "What is the passage mainly explaining?",
+      "choices": [
+        "Why straight-sided containers prevent changes in water flow.",
+        "Why every minute on a timer must occupy an equal distance.",
+        "Why collecting water is less reliable than using a clock.",
+        "Why a water timer must be marked and tested under controlled conditions."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The passage connects changing flow, observed marks and consistent starting conditions.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-02",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "rea-a1-010",
+      "revision": 2,
+      "section": "reading",
+      "skill": "detail",
+      "format": "passage_detail",
+      "difficulty": 2,
+      "templateFamily": "technical explanation-detail",
+      "stem": "Why does the passage specify that the container has straight sides?",
+      "choices": [
+        "The container then releases all its water in exactly five minutes.",
+        "Equal changes in level then represent equal changes in volume.",
+        "Its sides make water flow at the same speed throughout the test.",
+        "The opening must otherwise be placed above the starting mark."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Paragraph 2 explicitly uses the uniform width to rule out container shape as the cause of unequal spacing.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-02",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-011",
+      "revision": 2,
+      "section": "reading",
+      "skill": "inference",
+      "format": "passage_inference",
+      "difficulty": 2,
+      "templateFamily": "technical explanation-inference",
+      "stem": "Which change would require students to mark their original timer again?",
+      "choices": [
+        "Watching the timer from the opposite side.",
+        "Making its outlet opening larger.",
+        "Using a different tray that catches all the water.",
+        "Writing the existing minute labels more clearly."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Paragraph 3 says enlarging the opening requires new marks because it changes the device.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-02",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-012",
+      "revision": 2,
+      "section": "reading",
+      "skill": "vocabulary_context",
+      "format": "passage_vocabulary_context",
+      "difficulty": 1,
+      "templateFamily": "technical explanation-vocabulary_context",
+      "stem": "“Elapsed” in paragraph 3 most nearly means what?",
+      "choices": [
+        "Predicted.",
+        "Remaining.",
+        "Passed.",
+        "Repeated."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Elapsed time is the amount of time that has passed.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-02",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-013",
+      "revision": 2,
+      "section": "reading",
+      "skill": "structure",
+      "format": "passage_structure",
+      "difficulty": 2,
+      "templateFamily": "technical explanation-structure",
+      "stem": "How does paragraph 4 develop the discussion?",
+      "choices": [
+        "It shows that the class has abandoned the timer experiment.",
+        "It replaces the explanation of flow with a historical account.",
+        "It considers a proposed solution and a new challenge it creates.",
+        "It proves that the original observations were recorded incorrectly."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The constant-level design addresses one difficulty but needs controlled refilling.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-02",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        4
+      ]
+    },
+    {
+      "id": "rea-a1-014",
+      "revision": 2,
+      "section": "reading",
+      "skill": "author_purpose",
+      "format": "passage_author_purpose",
+      "difficulty": 2,
+      "templateFamily": "technical explanation-author_purpose",
+      "stem": "Why describe the first and fifth minutes?",
+      "choices": [
+        "To compare the accuracy of two separate containers.",
+        "To show when students should stop collecting water.",
+        "To provide evidence that the rate of flow changes.",
+        "To establish that five minutes is the longest possible test."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The unequal falls in level support the explanation of slowing flow.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-02",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-015",
+      "revision": 2,
+      "section": "reading",
+      "skill": "evidence",
+      "format": "passage_evidence",
+      "difficulty": 2,
+      "templateFamily": "technical explanation-evidence",
+      "stem": "Which observation most directly supports the claim that equal-distance marks would be inaccurate?",
+      "choices": [
+        "The water leaving the opening is collected in a tray.",
+        "The students begin with a straight-sided container.",
+        "The level falls farther in the first minute than in the fifth.",
+        "A student suggests changing how the container is filled."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Unequal level changes during equal time intervals refute equal spacing.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-02",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-016",
+      "revision": 2,
+      "section": "reading",
+      "skill": "inference",
+      "format": "passage_inference",
+      "difficulty": 3,
+      "templateFamily": "technical explanation-inference",
+      "stem": "What attitude does the teacher take toward the proposed design?",
+      "choices": [
+        "A tested design should never be changed.",
+        "Promising ideas still need practical testing.",
+        "Keeping the level constant is impossible in practice.",
+        "A more complicated device is necessarily more accurate."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The teacher asks for a build and test before calling the proposal an improvement.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-02",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        4
+      ]
+    },
+    {
+      "id": "rea-a1-017",
+      "revision": 2,
+      "section": "reading",
+      "skill": "main_idea",
+      "format": "passage_main_idea",
+      "difficulty": 2,
+      "templateFamily": "document comparison-main_idea",
+      "stem": "What is the main effect of Tuesday's correction?",
+      "choices": [
+        "It changes the work date while preserving access and class arrangements.",
+        "It moves the classes to another building for the entire week.",
+        "It closes both public entrances until workers finish the steps.",
+        "It removes all restrictions on deliveries during the repairs."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The correction shifts the work to Friday and keeps the alternative entrance, delivery plan and class times.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-03",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-018",
+      "revision": 2,
+      "section": "reading",
+      "skill": "detail",
+      "format": "passage_detail",
+      "difficulty": 1,
+      "templateFamily": "document comparison-detail",
+      "stem": "Which entrance should a class visitor use on Friday?",
+      "choices": [
+        "The loading door.",
+        "The west entrance.",
+        "Either public entrance.",
+        "The east entrance."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Both notices designate the east entrance during the work; Tuesday places that work on Friday.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-03",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-019",
+      "revision": 2,
+      "section": "reading",
+      "skill": "inference",
+      "format": "passage_inference",
+      "difficulty": 2,
+      "templateFamily": "document comparison-inference",
+      "stem": "Why is the calendar note “classes canceled” unsupported?",
+      "choices": [
+        "The first notice mentions no classes at all.",
+        "The receptionist says the workers have already finished.",
+        "The second notice says the building closes on Thursday.",
+        "Both notices say class times are unchanged."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Neither notice cancels classes; each explicitly preserves their times.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-03",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-020",
+      "revision": 2,
+      "section": "reading",
+      "skill": "vocabulary_context",
+      "format": "passage_vocabulary_context",
+      "difficulty": 1,
+      "templateFamily": "document comparison-vocabulary_context",
+      "stem": "“Postponed” in paragraph 2 means what?",
+      "choices": [
+        "Moved to a later time.",
+        "Divided into stages.",
+        "Canceled permanently.",
+        "Finished ahead of time."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The work moves from Wednesday to Friday, a later date.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-03",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-021",
+      "revision": 2,
+      "section": "reading",
+      "skill": "structure",
+      "format": "passage_structure",
+      "difficulty": 2,
+      "templateFamily": "document comparison-structure",
+      "stem": "How do the first two paragraphs relate?",
+      "choices": [
+        "The second gives reasons for rejecting every instruction in the first.",
+        "The first is a personal opinion that the second supports with research.",
+        "The first describes an event that the second says never occurred.",
+        "The second updates selected details in the first."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The work date is updated while several arrangements are retained.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-03",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-022",
+      "revision": 2,
+      "section": "reading",
+      "skill": "evidence",
+      "format": "passage_evidence",
+      "difficulty": 3,
+      "templateFamily": "document comparison-evidence",
+      "stem": "Which detail confirms that the delivery instruction is still relevant?",
+      "choices": [
+        "Tuesday says the west entrance remains open on Thursday.",
+        "Monday says deliveries should arrive before nine in the morning.",
+        "Tuesday says Monday's delivery arrangement applies on Friday.",
+        "Monday directs class visitors to the entrance by the bicycle rack."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Only the explicit carryover on Tuesday establishes its continued relevance on the new date.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-03",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-023",
+      "revision": 2,
+      "section": "reading",
+      "skill": "author_purpose",
+      "format": "passage_author_purpose",
+      "difficulty": 2,
+      "templateFamily": "document comparison-author_purpose",
+      "stem": "What does the calendar incident illustrate?",
+      "choices": [
+        "Visitors should choose entrances without consulting posted notices.",
+        "A reader must distinguish what a notice says from an assumption.",
+        "A handwritten calendar is always less reliable than a printed one.",
+        "Receptionists are responsible for deciding whether classes will meet."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The cancellation claim is absent from both documents and must be checked against them.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-03",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-024",
+      "revision": 2,
+      "section": "reading",
+      "skill": "inference",
+      "format": "passage_inference",
+      "difficulty": 2,
+      "templateFamily": "document comparison-inference",
+      "stem": "Which plan follows the corrected instructions for a Friday delivery?",
+      "choices": [
+        "Arrive before 9 a.m. and use the west entrance.",
+        "Arrive after 9 a.m. and use the west entrance.",
+        "Arrive at any time and use the east entrance.",
+        "Arrive before 9 a.m. and use the loading door."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Tuesday carries Monday's delivery time and loading-door instructions over to Friday.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-03",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-025",
+      "revision": 2,
+      "section": "reading",
+      "skill": "main_idea",
+      "format": "passage_main_idea",
+      "difficulty": 3,
+      "templateFamily": "literary fiction-main_idea",
+      "stem": "Which theme develops through the narrator's experience?",
+      "choices": [
+        "Choosing a quieter instrument prevents embarrassment at rehearsals.",
+        "A memorable solo can compensate for an inaccurate ensemble performance.",
+        "Musical contribution includes attentive listening as well as audible playing.",
+        "Performers learn best when they practice their own parts without others."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The narrator moves from equating usefulness with notice to valuing Oren's listening and preparation.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-04",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "rea-a1-026",
+      "revision": 2,
+      "section": "reading",
+      "skill": "detail",
+      "format": "passage_detail",
+      "difficulty": 1,
+      "templateFamily": "literary fiction-detail",
+      "stem": "What initially causes difficulty at the final rehearsal?",
+      "choices": [
+        "Changing the instrument assigned to Oren.",
+        "A missing page in the narrator's music.",
+        "A broken hinge interrupting the director.",
+        "Starting the piece at an unfamiliar midpoint."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Paragraph 2 says the midpoint start makes the narrator lose track of rests.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-04",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-027",
+      "revision": 2,
+      "section": "reading",
+      "skill": "inference",
+      "format": "passage_inference",
+      "difficulty": 2,
+      "templateFamily": "literary fiction-inference",
+      "stem": "Why has Oren marked passages in which he does not play?",
+      "choices": [
+        "They show the director that his part has too many rests.",
+        "They help him locate his place by listening to other parts.",
+        "He intends to play those passages on the trumpet later.",
+        "He wants to correct the clarinet players during the concert."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "He combines counting with audible landmarks, as his explanation states.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-04",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-028",
+      "revision": 2,
+      "section": "reading",
+      "skill": "vocabulary_context",
+      "format": "passage_vocabulary_context",
+      "difficulty": 2,
+      "templateFamily": "literary fiction-vocabulary_context",
+      "stem": "“Solitary” in paragraph 2 emphasizes that the note is what?",
+      "choices": [
+        "Alone.",
+        "Sustained.",
+        "Unwritten.",
+        "Soft."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The narrator enters early without the other trumpets; brightness rules out an emphasis on softness.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-04",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-029",
+      "revision": 2,
+      "section": "reading",
+      "skill": "structure",
+      "format": "passage_structure",
+      "difficulty": 3,
+      "templateFamily": "literary fiction-structure",
+      "stem": "What change connects the opening and closing paragraphs?",
+      "choices": [
+        "The brother learns to prefer the bass drum to the trumpet.",
+        "The narrator replaces a desire to play melody with a desire to leave the band.",
+        "The narrator shifts from questioning Oren's role to seeking his help.",
+        "Oren changes from avoiding rehearsal to directing it."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The opening dismissive question contrasts with the final invitation to study together.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-04",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": "rea-a1-030",
+      "revision": 2,
+      "section": "reading",
+      "skill": "literary_interpretation",
+      "format": "passage_literary_interpretation",
+      "difficulty": 3,
+      "templateFamily": "literary fiction-literary_interpretation",
+      "stem": "What does the unfinished “Did you hear—” suggest?",
+      "choices": [
+        "The narrator cannot remember which melody the trumpets played.",
+        "The brother has asked the narrator to identify a wrong note.",
+        "The narrator struggles to explain a contribution the audience may overlook.",
+        "The narrator wants Oren to apologize for a missed entrance."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The narrator now values Oren's contribution but cannot readily communicate it amid praise of the obvious melody.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-04",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "rea-a1-031",
+      "revision": 2,
+      "section": "reading",
+      "skill": "evidence",
+      "format": "passage_evidence",
+      "difficulty": 2,
+      "templateFamily": "literary fiction-evidence",
+      "stem": "Which action most clearly demonstrates the narrator's lasting change?",
+      "choices": [
+        "Thanking the brother for praising the melody.",
+        "Asking Oren to examine the next set of parts together.",
+        "Watching the director during the final rehearsal.",
+        "Stopping immediately after the early entrance."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Seeking Oren's perspective for new music goes beyond simply correcting one mistake.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-04",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        5
+      ]
+    },
+    {
+      "id": "rea-a1-032",
+      "revision": 2,
+      "section": "reading",
+      "skill": "tone",
+      "format": "passage_tone",
+      "difficulty": 3,
+      "templateFamily": "literary fiction-tone",
+      "stem": "How is the narrator's earlier attitude presented?",
+      "choices": [
+        "With amused contempt for the audience.",
+        "With bitter blame toward the director.",
+        "With reflective self-criticism.",
+        "With unqualified pride in solo ability."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The retrospective opening and account of overconfidence acknowledge the narrator's own mistaken view.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-04",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "id": "rea-a1-033",
+      "revision": 2,
+      "section": "reading",
+      "skill": "main_idea",
+      "format": "passage_main_idea",
+      "difficulty": 2,
+      "templateFamily": "expository-main_idea",
+      "stem": "What is the central lesson of the passage?",
+      "choices": [
+        "An exhibit should replace uncertain explanations with a single story.",
+        "A complete archive must record every event in more than one place.",
+        "Separate receipts are always more accurate than a bound ledger.",
+        "Missing entries must be interpreted in light of how records were kept."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The receipts contradict the initial inference, while the desk move offers only a tentative explanation.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-05",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "rea-a1-034",
+      "revision": 2,
+      "section": "reading",
+      "skill": "detail",
+      "format": "passage_detail",
+      "difficulty": 1,
+      "templateFamily": "expository-detail",
+      "stem": "What evidence contradicts “nobody returned anything”?",
+      "choices": [
+        "Receipts showing returns during the blank week.",
+        "The ledger's usual use of three kinds of entries.",
+        "The student's decision to write a longer label.",
+        "A note describing repairs to the club's floor."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The receipts directly establish some returns; the floor note alone does not.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-05",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-035",
+      "revision": 2,
+      "section": "reading",
+      "skill": "inference",
+      "format": "passage_inference",
+      "difficulty": 2,
+      "templateFamily": "expository-inference",
+      "stem": "Why does the student use “may” in the label?",
+      "choices": [
+        "The ledger records that the desk never moved.",
+        "The exhibit must avoid mentioning definite dates.",
+        "The receipts fail to show whether any tools came back.",
+        "The desk move is a plausible explanation that is not confirmed."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The note confirms a move, not its effect on ledger use.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-05",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-036",
+      "revision": 2,
+      "section": "reading",
+      "skill": "vocabulary_context",
+      "format": "passage_vocabulary_context",
+      "difficulty": 1,
+      "templateFamily": "expository-vocabulary_context",
+      "stem": "“Gap” in paragraph 3 refers to what?",
+      "choices": [
+        "The missing return entries.",
+        "The space left on the exhibit wall.",
+        "The distance between the rooms.",
+        "The interval between two floor repairs."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The label is discussing the absent week's entries.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-05",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-037",
+      "revision": 2,
+      "section": "reading",
+      "skill": "structure",
+      "format": "passage_structure",
+      "difficulty": 2,
+      "templateFamily": "expository-structure",
+      "stem": "What purpose does the final paragraph serve?",
+      "choices": [
+        "It lists the steps needed to repair the damaged floor.",
+        "It argues that a shorter label would have been more useful.",
+        "It introduces proof that the student's proposed explanation is correct.",
+        "It prevents the case from being taken as a reason to reject records altogether."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "It explicitly qualifies the lesson: sources remain useful and can test one another.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-05",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        4
+      ]
+    },
+    {
+      "id": "rea-a1-038",
+      "revision": 2,
+      "section": "reading",
+      "skill": "author_purpose",
+      "format": "passage_author_purpose",
+      "difficulty": 2,
+      "templateFamily": "expository-author_purpose",
+      "stem": "Why quote both the old description and the new label?",
+      "choices": [
+        "To compare two eyewitness accounts of a single return.",
+        "To prove that students write more vividly than professional archivists.",
+        "To show that visitors prefer longer descriptions of familiar tools.",
+        "To contrast an unsupported conclusion with a carefully limited account."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The quoted texts expose different degrees of certainty based on evidence.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-05",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-039",
+      "revision": 2,
+      "section": "reading",
+      "skill": "evidence",
+      "format": "passage_evidence",
+      "difficulty": 2,
+      "templateFamily": "expository-evidence",
+      "stem": "Which statement best supports the claim that neither source is sufficient by itself?",
+      "choices": [
+        "The ledger has unique information, and the receipts are incomplete.",
+        "Most ledger entries include a borrower's name and a date.",
+        "The student prepares a label for a neighborhood exhibit.",
+        "The desk moves while the club's floor is being repaired."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The final paragraph describes both complementary value and limitations.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-05",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        4
+      ]
+    },
+    {
+      "id": "rea-a1-040",
+      "revision": 2,
+      "section": "reading",
+      "skill": "inference",
+      "format": "passage_inference",
+      "difficulty": 3,
+      "templateFamily": "expository-inference",
+      "stem": "Which discovery would most strengthen the student's tentative explanation?",
+      "choices": [
+        "A dated instruction to leave the ledger unused during the desk move.",
+        "A list of tools purchased several years before the blank week.",
+        "A photograph of the repaired floor taken after the club closed.",
+        "A receipt confirming a return already documented in the box."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "An instruction linking nonuse of the ledger to the move would support the proposed cause.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-05",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-041",
+      "revision": 2,
+      "section": "reading",
+      "skill": "main_idea",
+      "format": "passage_main_idea",
+      "difficulty": 2,
+      "templateFamily": "argument-main_idea",
+      "stem": "Which statement best expresses the author's position?",
+      "choices": [
+        "Reject additional equipment because the menu controls all waiting time.",
+        "Use the number of empty seats to decide whether lunch is efficient.",
+        "Identify and test the source of delay before buying a second counter.",
+        "Buy another counter as soon as students report a long line."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The author favors measurement and a trial to target the actual cause.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-06",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "rea-a1-042",
+      "revision": 2,
+      "section": "reading",
+      "skill": "detail",
+      "format": "passage_detail",
+      "difficulty": 1,
+      "templateFamily": "argument-detail",
+      "stem": "What three times would observers record?",
+      "choices": [
+        "Arriving at school, starting lunch, and leaving school.",
+        "Opening the kitchen, preparing food, and washing dishes.",
+        "Joining the line, receiving food, and finding a seat.",
+        "Ordering equipment, delivering it, and installing it."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Paragraph 2 explicitly names the three stages.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-06",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-043",
+      "revision": 2,
+      "section": "reading",
+      "skill": "inference",
+      "format": "passage_inference",
+      "difficulty": 2,
+      "templateFamily": "argument-inference",
+      "stem": "Why might a second counter fail to reduce waiting?",
+      "choices": [
+        "An additional counter would prevent observers from measuring time.",
+        "Both lines could still depend on one slow cashier.",
+        "Students would always choose the original counter.",
+        "More serving space would necessarily reduce the number of seats."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The shared payment bottleneck could remain unchanged.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-06",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-044",
+      "revision": 2,
+      "section": "reading",
+      "skill": "vocabulary_context",
+      "format": "passage_vocabulary_context",
+      "difficulty": 2,
+      "templateFamily": "argument-vocabulary_context",
+      "stem": "“Commitment” in paragraph 3 most nearly means what?",
+      "choices": [
+        "A spoken complaint.",
+        "A daily assignment.",
+        "A lasting investment.",
+        "A measured delay."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The temporary table avoids committing permanently to equipment and arrangements.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-06",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-045",
+      "revision": 2,
+      "section": "reading",
+      "skill": "structure",
+      "format": "passage_structure",
+      "difficulty": 3,
+      "templateFamily": "argument-structure",
+      "stem": "What does the final paragraph do?",
+      "choices": [
+        "It introduces a new claim that the lunch schedule should be shortened.",
+        "It withdraws the proposed trial in favor of an immediate purchase.",
+        "It summarizes results already obtained from the experiment.",
+        "It answers a possible objection that testing would only delay useful action."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The author explicitly rejects indefinite postponement and explains the purpose of testing.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-06",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        4
+      ]
+    },
+    {
+      "id": "rea-a1-046",
+      "revision": 2,
+      "section": "reading",
+      "skill": "author_purpose",
+      "format": "passage_author_purpose",
+      "difficulty": 2,
+      "templateFamily": "argument-author_purpose",
+      "stem": "Why contrast pizza day with a day offering separate choices?",
+      "choices": [
+        "To show how menu differences could distort a comparison.",
+        "To argue that students should be allowed only one menu.",
+        "To prove that equipment purchases cannot change waiting times.",
+        "To show that pizza requires more staff than other meals."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Different meal-selection demands could confound a test of the second table.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-06",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-047",
+      "revision": 2,
+      "section": "reading",
+      "skill": "evidence",
+      "format": "passage_evidence",
+      "difficulty": 2,
+      "templateFamily": "argument-evidence",
+      "stem": "Which detail most directly challenges the opponents' use of empty seats?",
+      "choices": [
+        "The school should record changes that cannot be avoided during the trial.",
+        "A seat serves someone with food; a counter serves someone still waiting for it.",
+        "Observers should measure both busy and quiet days during the week.",
+        "A temporary table could be used before equipment is purchased."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The distinction explains why vacant seats do not resolve a serving-line delay.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-06",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1
+      ]
+    },
+    {
+      "id": "rea-a1-048",
+      "revision": 2,
+      "section": "reading",
+      "skill": "tone",
+      "format": "passage_tone",
+      "difficulty": 2,
+      "templateFamily": "argument-tone",
+      "stem": "Which pair best describes the author's tone?",
+      "choices": [
+        "Sarcastic and dismissive.",
+        "Practical and persuasive.",
+        "Nostalgic and regretful.",
+        "Celebratory and certain."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The author advocates concrete testing while acknowledging several possible outcomes.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-06",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "rea-a1-049",
+      "revision": 2,
+      "section": "reading",
+      "skill": "main_idea",
+      "format": "passage_main_idea",
+      "difficulty": 2,
+      "templateFamily": "literary fiction-main_idea",
+      "stem": "What does Eli come to understand about a useful map?",
+      "choices": [
+        "It becomes less reliable whenever someone writes in its margin.",
+        "It should preserve an old survey even when the ground has changed.",
+        "It is finished once the shoreline and road names are correct.",
+        "It must communicate changing conditions as well as a tidy arrangement."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Dates, detours, cautions and the visitor's correction improve practical usefulness.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-07",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "rea-a1-050",
+      "revision": 2,
+      "section": "reading",
+      "skill": "detail",
+      "format": "passage_detail",
+      "difficulty": 2,
+      "templateFamily": "literary fiction-detail",
+      "stem": "Why does Eli describe the detour as temporary?",
+      "choices": [
+        "The survey labels all routes on the island as temporary.",
+        "He does not know whether the fallen tree will soon be cleared.",
+        "Visitors are permitted to use the detour only on Sunday.",
+        "His aunt asks him to remove every permanent path from the map."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Paragraph 2 explains his uncertainty about how long the obstruction will remain.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-07",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-051",
+      "revision": 2,
+      "section": "reading",
+      "skill": "inference",
+      "format": "passage_inference",
+      "difficulty": 2,
+      "templateFamily": "literary fiction-inference",
+      "stem": "Why does Eli move the border rather than shrink the note?",
+      "choices": [
+        "He has discovered that small writing is prohibited on public maps.",
+        "Readable information has become more important than the original layout.",
+        "He plans to leave the map mostly empty for visitors to complete.",
+        "He wants the island to appear larger than the old survey shows."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The choice sacrifices elegance to keep the practical note readable.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-07",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-052",
+      "revision": 2,
+      "section": "reading",
+      "skill": "vocabulary_context",
+      "format": "passage_vocabulary_context",
+      "difficulty": 2,
+      "templateFamily": "literary fiction-vocabulary_context",
+      "stem": "The phrase “a trail of ants” describes what quality of the smaller words?",
+      "choices": [
+        "Their unreliable meaning.",
+        "Their tiny appearance.",
+        "Their irregular spelling.",
+        "Their rapid disappearance."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The simile refers to the visual effect of shrinking lettering too far.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-07",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-053",
+      "revision": 2,
+      "section": "reading",
+      "skill": "structure",
+      "format": "passage_structure",
+      "difficulty": 3,
+      "templateFamily": "literary fiction-structure",
+      "stem": "How does the visitor's correction extend the earlier detour episode?",
+      "choices": [
+        "It proves the first correction should never have been included.",
+        "It shows that useful revisions continue after the map is handed out.",
+        "It explains why Eli's aunt prefers the old survey.",
+        "It resolves the uncertainty about when the tree will be removed."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The loose handrail gives new information for the next copy, continuing the revision process.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-07",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": "rea-a1-054",
+      "revision": 2,
+      "section": "reading",
+      "skill": "literary_interpretation",
+      "format": "passage_literary_interpretation",
+      "difficulty": 3,
+      "templateFamily": "literary fiction-literary_interpretation",
+      "stem": "What is suggested by Eli's decision not to offer an uncreased copy?",
+      "choices": [
+        "He wants to hide the wording in the map's margin.",
+        "He believes the visitor has deliberately damaged his work.",
+        "He has run out of paper for making another map.",
+        "He accepts signs of use instead of insisting on a pristine object."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The moment reflects his shift away from valuing appearance above function.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-07",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "rea-a1-055",
+      "revision": 2,
+      "section": "reading",
+      "skill": "evidence",
+      "format": "passage_evidence",
+      "difficulty": 1,
+      "templateFamily": "literary fiction-evidence",
+      "stem": "Which action best shows that Eli welcomes further revision?",
+      "choices": [
+        "He copies the shoreline from the old survey.",
+        "He rules a border around a fresh sheet.",
+        "He thanks the visitor and reaches for the next sheet.",
+        "He points to the route near the orchard."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The final action responds constructively to new information.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-07",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        4
+      ]
+    },
+    {
+      "id": "rea-a1-056",
+      "revision": 2,
+      "section": "reading",
+      "skill": "tone",
+      "format": "passage_tone",
+      "difficulty": 2,
+      "templateFamily": "literary fiction-tone",
+      "stem": "How does the ending present Eli's work?",
+      "choices": [
+        "As useful work that remains open to improvement.",
+        "As a contest he has won against his aunt.",
+        "As a private achievement visitors fail to appreciate.",
+        "As an unsuccessful task he is relieved to abandon."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "He continues making the next version after receiving helpful feedback.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-07",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        4
+      ]
+    },
+    {
+      "id": "rea-a1-057",
+      "revision": 2,
+      "section": "reading",
+      "skill": "main_idea",
+      "format": "passage_main_idea",
+      "difficulty": 2,
+      "templateFamily": "quantitative exposition-main_idea",
+      "stem": "What is the main point of the passage?",
+      "choices": [
+        "A measure is useful when it matches the question being asked.",
+        "A relay result cannot be compared with any other result.",
+        "A team's rank reliably shows whether its performance has improved.",
+        "A finishing time is always more informative than every other measure."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The passage distinguishes what order and time can each establish.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-08",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-058",
+      "revision": 2,
+      "section": "reading",
+      "skill": "detail",
+      "format": "passage_detail",
+      "difficulty": 1,
+      "templateFamily": "quantitative exposition-detail",
+      "stem": "What does the first notice establish about Cedar?",
+      "choices": [
+        "Its finishing position among the five teams.",
+        "Its exact distance behind the winning team.",
+        "Its improvement since the previous year.",
+        "Its finishing time on the relay course."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Third place reports order, not time, gap or change across years.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-08",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1
+      ]
+    },
+    {
+      "id": "rea-a1-059",
+      "revision": 2,
+      "section": "reading",
+      "skill": "inference",
+      "format": "passage_inference",
+      "difficulty": 2,
+      "templateFamily": "quantitative exposition-inference",
+      "stem": "Which conclusion is justified from third place alone?",
+      "choices": [
+        "Cedar finished within one second of second place.",
+        "Cedar ran more slowly than it did last year.",
+        "Two teams finished ahead of Cedar.",
+        "The winning team broke a course record."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Third place among five entails two ahead; no times or past results are given.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-08",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1
+      ]
+    },
+    {
+      "id": "rea-a1-060",
+      "revision": 2,
+      "section": "reading",
+      "skill": "vocabulary_context",
+      "format": "passage_vocabulary_context",
+      "difficulty": 2,
+      "templateFamily": "quantitative exposition-vocabulary_context",
+      "stem": "“Context” in paragraph 2 refers most nearly to what?",
+      "choices": [
+        "The order in which coaches read the report.",
+        "The spectators' preferred account of the race.",
+        "The surrounding conditions relevant to a result.",
+        "The decorative design surrounding a race notice."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The example identifies course length as a condition needed for fair interpretation.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-08",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-061",
+      "revision": 2,
+      "section": "reading",
+      "skill": "structure",
+      "format": "passage_structure",
+      "difficulty": 2,
+      "templateFamily": "quantitative exposition-structure",
+      "stem": "What is the function of the longer-course example?",
+      "choices": [
+        "It proves that all teams improve on longer courses.",
+        "It explains why rank must be printed before time.",
+        "It introduces a new way of assigning finishing positions.",
+        "It limits what a comparison of raw times can establish."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Changed course length can explain a slower time, so raw times alone do not settle performance change.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-08",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2
+      ]
+    },
+    {
+      "id": "rea-a1-062",
+      "revision": 2,
+      "section": "reading",
+      "skill": "author_purpose",
+      "format": "passage_author_purpose",
+      "difficulty": 1,
+      "templateFamily": "quantitative exposition-author_purpose",
+      "stem": "Why include two questions a coach might ask?",
+      "choices": [
+        "To show which team the author wants to win.",
+        "To recommend that coaches avoid calculating time gaps.",
+        "To illustrate different information needs.",
+        "To demonstrate that the notices contradict each other."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Each question calls for a different measure.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-08",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-063",
+      "revision": 2,
+      "section": "reading",
+      "skill": "evidence",
+      "format": "passage_evidence",
+      "difficulty": 2,
+      "templateFamily": "quantitative exposition-evidence",
+      "stem": "Which statement supports the claim that third place does not reveal the time gap?",
+      "choices": [
+        "The second notice lists every team's finishing time.",
+        "There are five teams entered in the relay.",
+        "A longer course may be used the following year.",
+        "Cedar might be a fraction of a second or several minutes behind."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Two very different possible gaps are compatible with the same rank.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-08",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        1
+      ]
+    },
+    {
+      "id": "rea-a1-064",
+      "revision": 2,
+      "section": "reading",
+      "skill": "inference",
+      "format": "passage_inference",
+      "difficulty": 3,
+      "templateFamily": "quantitative exposition-inference",
+      "stem": "Which comparison would best address improvement in a team's speed?",
+      "choices": [
+        "Its finishing order without any record of elapsed time.",
+        "Its ranks in races with different opponents and course lengths.",
+        "Its times over the same distance under comparable conditions.",
+        "Its third-place finish compared with another team's third place."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The passage calls for comparable conditions; equal distances and recorded times support a speed comparison.",
+        "shortcut": "Find evidence in the passage; reject answers that add a claim the text does not support."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "passageId": "passage-a3-08",
+      "passageRevision": 1,
+      "evidenceParagraphs": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "rea-a1-065",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 2,
+      "templateFamily": "reading-vocabulary-reticent",
+      "stem": "Which word or phrase is closest in meaning to RETICENT?",
+      "choices": [
+        "reserved",
+        "restless",
+        "resentful",
+        "resolute"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Reticent describes reluctance to speak freely; reserved is closest.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "reticent"
+    },
+    {
+      "id": "rea-a1-066",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 2,
+      "templateFamily": "reading-vocabulary-judicious",
+      "stem": "Which word or phrase is closest in meaning to JUDICIOUS?",
+      "choices": [
+        "generous",
+        "hasty",
+        "sensible",
+        "judgmental"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Judicious means showing sound judgment, not merely making judgments about others.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "judicious"
+    },
+    {
+      "id": "rea-a1-067",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 3,
+      "templateFamily": "reading-vocabulary-austere",
+      "stem": "Which word or phrase is closest in meaning to AUSTERE?",
+      "choices": [
+        "plain",
+        "delicate",
+        "gloomy",
+        "outdated"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Austere can describe a severely plain style with little decoration.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "austere"
+    },
+    {
+      "id": "rea-a1-068",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 2,
+      "templateFamily": "reading-vocabulary-elusive",
+      "stem": "Which word or phrase is closest in meaning to ELUSIVE?",
+      "choices": [
+        "imaginary",
+        "obvious",
+        "evasive",
+        "fragile"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Elusive means hard to catch or pin down; evasive is closest among these choices.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "elusive"
+    },
+    {
+      "id": "rea-a1-069",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 2,
+      "templateFamily": "reading-vocabulary-cumbersome",
+      "stem": "Which word or phrase is closest in meaning to CUMBERSOME?",
+      "choices": [
+        "costly",
+        "unwieldy",
+        "massive",
+        "intricate"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Cumbersome means awkward to handle; weight or complexity alone does not define it.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "cumbersome"
+    },
+    {
+      "id": "rea-a1-070",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 2,
+      "templateFamily": "reading-vocabulary-fervent",
+      "stem": "Which word or phrase is closest in meaning to FERVENT?",
+      "choices": [
+        "stubborn",
+        "impatient",
+        "passionate",
+        "anxious"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Fervent means intensely earnest or passionate.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "fervent"
+    },
+    {
+      "id": "rea-a1-071",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 2,
+      "templateFamily": "reading-vocabulary-prudent",
+      "stem": "Which word or phrase is closest in meaning to PRUDENT?",
+      "choices": [
+        "sensible",
+        "shrewdly dishonest",
+        "indecisive",
+        "timid"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Prudent means showing sound, careful judgment; it does not require fear or dishonesty.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "prudent"
+    },
+    {
+      "id": "rea-a1-072",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 3,
+      "templateFamily": "reading-vocabulary-venerable",
+      "stem": "Which word or phrase is closest in meaning to VENERABLE?",
+      "choices": [
+        "respected",
+        "fashionable",
+        "vulnerable",
+        "energetic"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Venerable means deserving respect, often because of age or character.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "venerable"
+    },
+    {
+      "id": "rea-a1-073",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 2,
+      "templateFamily": "reading-vocabulary-succinct",
+      "stem": "Which word or phrase is closest in meaning to SUCCINCT?",
+      "choices": [
+        "incomplete",
+        "brief",
+        "abrupt",
+        "indirect"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Succinct means expressed briefly and clearly; abrupt can describe manner without clarity.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "succinct"
+    },
+    {
+      "id": "rea-a1-074",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 3,
+      "templateFamily": "reading-vocabulary-tenable",
+      "stem": "Which word or phrase is closest in meaning to TENABLE?",
+      "choices": [
+        "temporary",
+        "flexible",
+        "compulsory",
+        "defensible"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "A tenable position can be maintained or defended against challenge.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "tenable"
+    },
+    {
+      "id": "rea-a1-075",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 3,
+      "templateFamily": "reading-vocabulary-dissonant",
+      "stem": "Which word or phrase is closest in meaning to DISSONANT?",
+      "choices": [
+        "distant",
+        "discordant",
+        "faint",
+        "rhythmic"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Dissonant describes sounds that clash rather than harmonize.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "dissonant"
+    },
+    {
+      "id": "rea-a1-076",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 2,
+      "templateFamily": "reading-vocabulary-unassuming",
+      "stem": "Which word or phrase is closest in meaning to UNASSUMING?",
+      "choices": [
+        "modest",
+        "inexperienced",
+        "unprepared",
+        "uncertain"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Unassuming means not drawing attention to one's importance, rather than lacking confidence or preparation.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "unassuming"
+    },
+    {
+      "id": "rea-a1-077",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 2,
+      "templateFamily": "reading-vocabulary-susceptible",
+      "stem": "Which word or phrase is closest in meaning to SUSCEPTIBLE?",
+      "choices": [
+        "suspicious",
+        "unaware",
+        "resistant",
+        "vulnerable"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Susceptible means liable to be affected; vulnerable is closest.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "susceptible"
+    },
+    {
+      "id": "rea-a1-078",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 2,
+      "templateFamily": "reading-vocabulary-transient",
+      "stem": "Which word or phrase is closest in meaning to TRANSIENT?",
+      "choices": [
+        "transparent",
+        "temporary",
+        "unusual",
+        "recurrent"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Transient means lasting only a short time.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "transient"
+    },
+    {
+      "id": "rea-a1-079",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 3,
+      "templateFamily": "reading-vocabulary-parsimonious",
+      "stem": "Which word or phrase is closest in meaning to PARSIMONIOUS?",
+      "choices": [
+        "impoverished",
+        "stingy",
+        "thrifty but generous",
+        "careless"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Parsimonious suggests excessive unwillingness to spend; it does not simply mean poor.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "parsimonious"
+    },
+    {
+      "id": "rea-a1-080",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 3,
+      "templateFamily": "reading-vocabulary-equivocal",
+      "stem": "Which word or phrase is closest in meaning to EQUIVOCAL?",
+      "choices": [
+        "balanced",
+        "irrelevant",
+        "ambiguous",
+        "unmistakable"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Equivocal language permits more than one interpretation; balance or irrelevance is different.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "equivocal"
+    },
+    {
+      "id": "rea-a1-081",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 2,
+      "templateFamily": "reading-vocabulary-unerring",
+      "stem": "Which word or phrase is closest in meaning to UNERRING?",
+      "choices": [
+        "unyielding",
+        "accurate",
+        "unfamiliar",
+        "unhurried"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Unerring means not making mistakes, so accurate is closest.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "unerring"
+    },
+    {
+      "id": "rea-a1-082",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 3,
+      "templateFamily": "reading-vocabulary-prosaic",
+      "stem": "Which word or phrase is closest in meaning to PROSAIC?",
+      "choices": [
+        "formal",
+        "lengthy",
+        "ordinary",
+        "poetic"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Prosaic means commonplace or unremarkable, not merely written in prose.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "prosaic"
+    },
+    {
+      "id": "rea-a1-083",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 3,
+      "templateFamily": "reading-vocabulary-fortuitous",
+      "stem": "Which word or phrase is closest in meaning to FORTUITOUS?",
+      "choices": [
+        "profitable",
+        "carefully planned",
+        "inevitable",
+        "accidental"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Fortuitous means happening by chance; a chance event need not be profitable.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "fortuitous"
+    },
+    {
+      "id": "rea-a1-084",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 2,
+      "templateFamily": "reading-vocabulary-precarious",
+      "stem": "Which word or phrase is closest in meaning to PRECARIOUS?",
+      "choices": [
+        "valuable",
+        "precise",
+        "remote",
+        "insecure"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Precarious describes something unstable or insecure.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "precarious"
+    },
+    {
+      "id": "rea-a1-085",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 2,
+      "templateFamily": "reading-vocabulary-placid",
+      "stem": "Which word or phrase is closest in meaning to PLACID?",
+      "choices": [
+        "rigid",
+        "dull",
+        "secretive",
+        "calm"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Placid means calm or undisturbed, not necessarily uninteresting.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "placid"
+    },
+    {
+      "id": "rea-a1-086",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 3,
+      "templateFamily": "reading-vocabulary-assiduous",
+      "stem": "Which word or phrase is closest in meaning to ASSIDUOUS?",
+      "choices": [
+        "obedient",
+        "gifted",
+        "ambitious",
+        "diligent"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Assiduous means showing persistent care and effort, whether or not one is talented or ambitious.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "assiduous"
+    },
+    {
+      "id": "rea-a1-087",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 3,
+      "templateFamily": "reading-vocabulary-sagacious",
+      "stem": "Which word or phrase is closest in meaning to SAGACIOUS?",
+      "choices": [
+        "wise",
+        "talkative",
+        "fortunate",
+        "elderly"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Sagacious means possessing keen judgment; age alone does not establish it.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "sagacious"
+    },
+    {
+      "id": "rea-a1-088",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 3,
+      "templateFamily": "reading-vocabulary-tacit",
+      "stem": "Which word or phrase is closest in meaning to TACIT?",
+      "choices": [
+        "unspoken",
+        "unclear",
+        "incomplete",
+        "secret"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Tacit means understood without being directly stated; it need not be secret or unclear.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "tacit"
+    },
+    {
+      "id": "rea-a1-089",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 2,
+      "templateFamily": "reading-vocabulary-innocuous",
+      "stem": "Which word or phrase is closest in meaning to INNOCUOUS?",
+      "choices": [
+        "unnoticed",
+        "harmless",
+        "unusual",
+        "ineffective"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Innocuous means not harmful; something can be noticeable and still innocuous.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "innocuous"
+    },
+    {
+      "id": "rea-a1-090",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 3,
+      "templateFamily": "reading-vocabulary-magnanimous",
+      "stem": "Which word or phrase is closest in meaning to MAGNANIMOUS?",
+      "choices": [
+        "generous",
+        "powerful",
+        "extravagant",
+        "famous"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Magnanimous means generous in spirit, especially toward an opponent.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "magnanimous"
+    },
+    {
+      "id": "rea-a1-091",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 2,
+      "templateFamily": "reading-vocabulary-indelible",
+      "stem": "Which word or phrase is closest in meaning to INDELIBLE?",
+      "choices": [
+        "permanent",
+        "invisible",
+        "colorful",
+        "illegible"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "An indelible mark cannot readily be removed; permanent is closest.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "indelible"
+    },
+    {
+      "id": "rea-a1-092",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 3,
+      "templateFamily": "reading-vocabulary-fallacious",
+      "stem": "Which word or phrase is closest in meaning to FALLACIOUS?",
+      "choices": [
+        "unpopular",
+        "unfinished",
+        "unsound",
+        "unfamiliar"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Fallacious reasoning is based on error, not merely disagreement or unfamiliarity.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "fallacious"
+    },
+    {
+      "id": "rea-a1-093",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 3,
+      "templateFamily": "reading-vocabulary-impervious",
+      "stem": "Which word or phrase is closest in meaning to IMPERVIOUS?",
+      "choices": [
+        "inflexible",
+        "invisible",
+        "impenetrable",
+        "indestructible"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Impervious means not allowing passage or being unaffected; impenetrable is the closest offered meaning.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "impervious"
+    },
+    {
+      "id": "rea-a1-094",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 3,
+      "templateFamily": "reading-vocabulary-perfunctory",
+      "stem": "Which word or phrase is closest in meaning to PERFUNCTORY?",
+      "choices": [
+        "thorough",
+        "prompt",
+        "compulsory",
+        "mechanical"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Perfunctory work is done routinely with little care or interest; speed or obligation alone does not define it.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "perfunctory"
+    },
+    {
+      "id": "rea-a1-095",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 3,
+      "templateFamily": "reading-vocabulary-vindicate",
+      "stem": "Which word or phrase is closest in meaning to VINDICATE?",
+      "choices": [
+        "avenge",
+        "forgive",
+        "justify",
+        "praise"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "To vindicate is to clear from blame or show to be justified; forgiveness can leave blame intact.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "vindicate"
+    },
+    {
+      "id": "rea-a1-096",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 2,
+      "templateFamily": "reading-vocabulary-emulate",
+      "stem": "Which word or phrase is closest in meaning to EMULATE?",
+      "choices": [
+        "criticize",
+        "imitate",
+        "admire",
+        "surpass"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "To emulate is to imitate with an aim of matching another; success in surpassing is not required.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "emulate"
+    },
+    {
+      "id": "rea-a1-097",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 3,
+      "templateFamily": "reading-vocabulary-stipulate",
+      "stem": "Which word or phrase is closest in meaning to STIPULATE?",
+      "choices": [
+        "specify",
+        "suggest",
+        "negotiate",
+        "infer"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "To stipulate is to specify a requirement or condition.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "stipulate"
+    },
+    {
+      "id": "rea-a1-098",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 3,
+      "templateFamily": "reading-vocabulary-corroborate",
+      "stem": "Which word or phrase is closest in meaning to CORROBORATE?",
+      "choices": [
+        "repeat",
+        "confirm",
+        "question",
+        "explain"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "To corroborate is to support or confirm with evidence, not merely repeat a claim.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "corroborate"
+    },
+    {
+      "id": "rea-a1-099",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 3,
+      "templateFamily": "reading-vocabulary-exonerate",
+      "stem": "Which word or phrase is closest in meaning to EXONERATE?",
+      "choices": [
+        "reward",
+        "excuse casually",
+        "forget",
+        "absolve"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "To exonerate is to clear of blame or responsibility; absolve is closest.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "exonerate"
+    },
+    {
+      "id": "rea-a1-100",
+      "revision": 2,
+      "section": "reading",
+      "skill": "standalone_vocabulary",
+      "format": "standalone_vocabulary",
+      "difficulty": 2,
+      "templateFamily": "reading-vocabulary-expedite",
+      "stem": "Which word or phrase is closest in meaning to EXPEDITE?",
+      "choices": [
+        "hasten",
+        "organize",
+        "complete",
+        "postpone"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "To expedite is to speed up a process; completion is not implied.",
+        "shortcut": "Choose the closest meaning, not merely a related idea or a similar-looking word."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#reading",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "expedite"
+    }
+  ]
+}

@@ -1,0 +1,417 @@
+[
+  {
+    "id": "S001",
+    "test": 1,
+    "questions": [
+      89
+    ],
+    "kind": "multiple_valid_options",
+    "finding": "B and C express the same equality in reverse order; both quantities are 256.",
+    "confidence": "confirmed"
+  },
+  {
+    "id": "S002",
+    "test": 1,
+    "questions": [
+      211
+    ],
+    "kind": "multiple_valid_options",
+    "finding": "The premise gives x > 4. Both C (x squared > 16) and D (x squared > 5) follow.",
+    "confidence": "confirmed"
+  },
+  {
+    "id": "S003",
+    "test": 1,
+    "questions": [
+      240
+    ],
+    "kind": "multiple_errors",
+    "finding": "Both A (subject pronoun) and B (incorrect past participle after have) contain errors.",
+    "confidence": "confirmed"
+  },
+  {
+    "id": "S004",
+    "test": 1,
+    "questions": [
+      278
+    ],
+    "kind": "multiple_errors",
+    "finding": "The extra word in the time phrase creates an additional error beyond the keyed capitalization error.",
+    "confidence": "confirmed"
+  },
+  {
+    "id": "S005",
+    "test": 1,
+    "questions": [
+      287
+    ],
+    "kind": "explanation_error",
+    "finding": "The explanation incorrectly says equipment has no t; the word has a final t, but no extra t after p.",
+    "confidence": "confirmed"
+  },
+  {
+    "id": "S006",
+    "test": 1,
+    "questions": [
+      197
+    ],
+    "kind": "explanation_error",
+    "finding": "Associativity changes grouping, not the order of addends.",
+    "confidence": "confirmed"
+  },
+  {
+    "id": "S007",
+    "test": 1,
+    "questions": [
+      104
+    ],
+    "kind": "overgeneralized_rule",
+    "finding": "The square-versus-double shortcut is not valid for every number other than 2; the actual positive value in this item does satisfy it.",
+    "confidence": "confirmed"
+  },
+  {
+    "id": "S008",
+    "test": 1,
+    "questions": [
+      1,
+      29,
+      58
+    ],
+    "kind": "weak_semantic_match",
+    "finding": "The keyed associations are loose: pepper/salt is not a strict antonym pair; the selected meanings for irrevocable and upstart are imperfect. Avoid these as lexical authorities.",
+    "confidence": "editorial_caution"
+  },
+  {
+    "id": "S009",
+    "test": 1,
+    "questions": [
+      258,
+      271,
+      276
+    ],
+    "kind": "usage_caution",
+    "finding": "The explanations make overly rigid claims about following dependent clauses or pronoun case after than. Context and accepted modern usage matter.",
+    "confidence": "editorial_caution"
+  },
+  {
+    "id": "S010",
+    "test": 1,
+    "questions": [
+      88,
+      97
+    ],
+    "kind": "representation_convention",
+    "finding": "The intended answer depends on a Roman/Arabic or subscript/superscript pattern. Preserve representation when inspecting; equal numerical values alone cannot resolve it.",
+    "confidence": "editorial_caution"
+  },
+  {
+    "id": "S011",
+    "test": 2,
+    "questions": [
+      7,
+      9,
+      14,
+      27,
+      32,
+      34,
+      42,
+      45,
+      46,
+      50,
+      54,
+      56,
+      57,
+      59
+    ],
+    "kind": "missing_printed_text",
+    "finding": "The exclusion word is absent from the hosted question image. The intended odd-one-out task is inferable from the guide, but the printed stem is incomplete.",
+    "confidence": "confirmed"
+  },
+  {
+    "id": "S012",
+    "test": 2,
+    "questions": [
+      35,
+      37,
+      39,
+      40,
+      43,
+      44,
+      48,
+      51,
+      53
+    ],
+    "kind": "missing_printed_text",
+    "finding": "The word specifying the opposite-meaning task is absent from the hosted question image.",
+    "confidence": "confirmed"
+  },
+  {
+    "id": "S013",
+    "test": 2,
+    "questions": [
+      98
+    ],
+    "kind": "uncheckable_printed_item",
+    "finding": "Quantity labels/variables are absent. Do not certify the answer from an inferred reconstruction.",
+    "confidence": "confirmed"
+  },
+  {
+    "id": "S014",
+    "test": 2,
+    "questions": [
+      175,
+      194,
+      296
+    ],
+    "kind": "missing_printed_text",
+    "finding": "A missing exclusion word changes the meaning of the printed task.",
+    "confidence": "confirmed"
+  },
+  {
+    "id": "S015",
+    "test": 2,
+    "questions": [
+      186,
+      197,
+      204,
+      207,
+      212,
+      214,
+      217,
+      218,
+      223,
+      225,
+      229,
+      231,
+      233,
+      235,
+      237
+    ],
+    "kind": "missing_printed_text",
+    "finding": "Italic mathematical variables or terms disappear in the hosted PDF. Some numerical work remains recoverable, but the complete printed task is not certified.",
+    "confidence": "confirmed"
+  },
+  {
+    "id": "S016",
+    "test": 2,
+    "questions": [
+      242
+    ],
+    "kind": "missing_printed_text",
+    "finding": "The title whose typography is being tested is missing from option A.",
+    "confidence": "confirmed"
+  },
+  {
+    "id": "S017",
+    "test": 2,
+    "questions": [
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152
+    ],
+    "kind": "missing_passage_text",
+    "finding": "Italic text is missing in the witchcraft passage/questions, including the word referenced by Q148. Mark the affected passage group as limited rather than silently restoring it.",
+    "confidence": "confirmed"
+  },
+  {
+    "id": "S018",
+    "test": 2,
+    "questions": [
+      113
+    ],
+    "kind": "ambiguous_scope",
+    "finding": "The keyed outer core answer depends on comparing it with an individual mantle layer; the question can also be read as referring to the whole mantle.",
+    "confidence": "editorial_caution"
+  },
+  {
+    "id": "S019",
+    "test": 2,
+    "questions": [
+      135
+    ],
+    "kind": "key_disagreement",
+    "finding": "C is better supported by the passage: glaciers erode the terrain and move material. The keyed D introduces a claim about ice being full of fertile soil.",
+    "confidence": "strong_editorial_disagreement"
+  },
+  {
+    "id": "S020",
+    "test": 2,
+    "questions": [
+      162
+    ],
+    "kind": "key_disagreement",
+    "finding": "The noun exploit most nearly means a deed, option B. A journey (keyed D) is not its general meaning.",
+    "confidence": "confirmed"
+  },
+  {
+    "id": "S021",
+    "test": 2,
+    "questions": [
+      53
+    ],
+    "kind": "ambiguous_options",
+    "finding": "Keep and maintain can both oppose abandon, in addition to the missing task word.",
+    "confidence": "editorial_caution"
+  },
+  {
+    "id": "S022",
+    "test": 2,
+    "questions": [
+      55
+    ],
+    "kind": "unstated_condition",
+    "finding": "Two diagonal movements do not guarantee due north unless their east/west components cancel; the northward component alone is certain.",
+    "confidence": "editorial_caution"
+  },
+  {
+    "id": "S023",
+    "test": 2,
+    "questions": [
+      228
+    ],
+    "kind": "printed_number_disagreement",
+    "finding": "The printed multiplicand uses a decimal point, while the guide calculates with a whole number three orders of magnitude larger. Use neither as an unchecked oracle.",
+    "confidence": "visual_print_caution"
+  },
+  {
+    "id": "S024",
+    "test": 2,
+    "questions": [
+      226
+    ],
+    "kind": "explanation_typo",
+    "finding": "The guide displays .013 in the multiplication setup but uses .093 in the working and intended result.",
+    "confidence": "confirmed"
+  },
+  {
+    "id": "S025",
+    "test": 2,
+    "questions": [
+      209
+    ],
+    "kind": "unstated_condition",
+    "finding": "The interest calculation requires the rate and interest to refer to the same period; the duration is not specified.",
+    "confidence": "editorial_caution"
+  },
+  {
+    "id": "S026",
+    "test": 2,
+    "questions": [
+      243,
+      252,
+      269
+    ],
+    "kind": "usage_caution",
+    "finding": "Permission with can, viewpoint-dependent bring/take, and singular they cannot be rejected categorically under current standard usage.",
+    "confidence": "editorial_caution"
+  },
+  {
+    "id": "S027",
+    "test": 3,
+    "questions": [
+      87
+    ],
+    "kind": "wrong_key",
+    "finding": "The successive operations are divide by 2, add 4, divide by 2; the next term is 37 (B). The guide instead subtracts 4 and keys D.",
+    "confidence": "confirmed"
+  },
+  {
+    "id": "S028",
+    "test": 3,
+    "questions": [
+      89
+    ],
+    "kind": "equivalent_options",
+    "finding": "C and D are equal numerical values. A representation convention is being used without explicitly requesting that representation.",
+    "confidence": "confirmed"
+  },
+  {
+    "id": "S029",
+    "test": 3,
+    "questions": [
+      217
+    ],
+    "kind": "multiple_valid_options",
+    "finding": "The premise gives x > 3. Both B (x cubed > 27) and C (x cubed > 9) follow.",
+    "confidence": "confirmed"
+  },
+  {
+    "id": "S030",
+    "test": 3,
+    "questions": [
+      235
+    ],
+    "kind": "notation_error",
+    "finding": "The stated equation gives P = 5, hence P% = .05. The question asks for P% while keying 5; the guide repeats this notation error.",
+    "confidence": "confirmed"
+  },
+  {
+    "id": "S031",
+    "test": 3,
+    "questions": [
+      139
+    ],
+    "kind": "source_fact_error",
+    "finding": "Carrying capacity concerns a sustainable population limit, not a combined density-and-diversity definition. A passage-based answer can match this text without being scientifically accurate.",
+    "confidence": "confirmed"
+  },
+  {
+    "id": "S032",
+    "test": 3,
+    "questions": [
+      141
+    ],
+    "kind": "source_fact_error",
+    "finding": "Deciduous refers to seasonal shedding, not merely having leaves. The guide uses an inadequate definition.",
+    "confidence": "confirmed"
+  },
+  {
+    "id": "S033",
+    "test": 3,
+    "questions": [
+      145
+    ],
+    "kind": "ambiguous_scope",
+    "finding": "The passage moves between population density and total capacity; this makes the comparison of biomes unreliable.",
+    "confidence": "editorial_caution"
+  },
+  {
+    "id": "S034",
+    "test": 3,
+    "questions": [
+      103,
+      177,
+      198
+    ],
+    "kind": "overgeneralized_rule",
+    "finding": "The square/double, decimal-shift, and distributivity explanations overstate their domains. Squaring is not always larger than doubling; zero-count shifting applies to powers of ten; division can distribute across a sum in its numerator.",
+    "confidence": "confirmed"
+  },
+  {
+    "id": "S035",
+    "test": 3,
+    "questions": [
+      215
+    ],
+    "kind": "unstated_condition",
+    "finding": "The interest amount has no stated duration. The keyed principal assumes the stated rate applies to that entire period.",
+    "confidence": "editorial_caution"
+  },
+  {
+    "id": "S036",
+    "test": 3,
+    "questions": [
+      242
+    ],
+    "kind": "explanation_error",
+    "finding": "Affect can be a noun in psychology. Effect is correct in this sentence, but the guide gives an overbroad part-of-speech rule.",
+    "confidence": "confirmed"
+  }
+]

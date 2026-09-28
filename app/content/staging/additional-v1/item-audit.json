@@ -1,0 +1,4005 @@
+{
+  "manifestSha256": "c00d66440754d905d4e63a33eb3bc2404260e96776ff870db5e341ad0fad9835",
+  "items": [
+    {
+      "id": "ver-a1-001",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-002",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-003",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-004",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-005",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-006",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-007",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-008",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-009",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-010",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-011",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-012",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-013",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-014",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-015",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-016",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-017",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-018",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-019",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-020",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-021",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-022",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-023",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-024",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-025",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-026",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-027",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-028",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-029",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-030",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-031",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-032",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-033",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-034",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-035",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-036",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-037",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-038",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-039",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-040",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-041",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-042",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-043",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-044",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-045",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-046",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-047",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-048",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-049",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-050",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-051",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-052",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-053",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-054",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-055",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-056",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-057",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-058",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-059",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-060",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-061",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-062",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-063",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-064",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-065",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-066",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-067",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-068",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-069",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-070",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-071",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-072",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-073",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-074",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-075",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-076",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-077",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-078",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-079",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-080",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-081",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-082",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-083",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-084",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-085",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-086",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-087",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-088",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-089",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-090",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-091",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-092",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-093",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-094",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-095",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-096",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-097",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-098",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-099",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "ver-a1-100",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-001",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-002",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-003",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-004",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-005",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-006",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-007",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-008",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-009",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-010",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-011",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-012",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-013",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-014",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-015",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-016",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-017",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-018",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-019",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-020",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-021",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-022",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-023",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-024",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-025",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-026",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-027",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-028",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-029",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-030",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-031",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-032",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-033",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-034",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-035",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-036",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-037",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-038",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-039",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-040",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-041",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-042",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-043",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-044",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-045",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-046",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-047",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-048",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-049",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-050",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-051",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-052",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-053",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-054",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-055",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-056",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-057",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-058",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-059",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-060",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-061",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-062",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-063",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-064",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-065",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-066",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-067",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-068",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-069",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-070",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-071",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-072",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-073",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-074",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-075",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-076",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-077",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-078",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-079",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-080",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-081",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-082",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-083",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-084",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-085",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-086",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-087",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-088",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-089",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-090",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-091",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-092",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-093",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-094",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-095",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-096",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-097",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-098",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-099",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "rea-a1-100",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "mat-a1-001",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-002",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-003",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-004",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-005",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-006",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-007",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-008",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-009",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-010",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-011",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-012",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-013",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-014",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-015",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-016",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-017",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-018",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-019",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-020",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-021",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-022",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-023",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-024",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-025",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-026",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-027",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-028",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-029",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-030",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-031",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-032",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-033",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-034",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-035",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-036",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-037",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-038",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-039",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-040",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-041",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-042",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-043",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-044",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-045",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-046",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-047",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-048",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-049",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-050",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-051",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-052",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-053",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-054",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-055",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-056",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-057",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-058",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-059",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-060",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-061",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-062",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-063",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-064",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-065",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-066",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-067",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-068",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-069",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-070",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-071",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-072",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-073",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-074",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-075",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-076",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-077",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-078",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-079",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-080",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-081",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-082",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-083",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-084",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-085",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-086",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-087",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-088",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-089",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-090",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-091",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-092",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-093",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-094",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-095",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-096",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-097",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-098",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-099",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "mat-a1-100",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "exact_expression_check_passed"
+    },
+    {
+      "id": "lan-a1-001",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-002",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-003",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-004",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-005",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-006",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-007",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-008",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-009",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-010",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-011",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-012",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-013",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-014",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-015",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-016",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-017",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-018",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-019",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-020",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-021",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-022",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-023",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-024",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-025",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-026",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-027",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-028",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-029",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-030",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-031",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-032",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-033",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-034",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-035",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-036",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-037",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-038",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-039",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-040",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-041",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-042",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-043",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-044",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-045",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-046",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-047",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-048",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-049",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-050",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-051",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-052",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-053",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-054",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-055",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-056",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-057",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-058",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-059",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-060",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-061",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-062",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-063",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-064",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-065",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-066",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-067",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-068",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-069",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-070",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-071",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-072",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-073",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-074",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-075",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-076",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-077",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-078",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-079",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-080",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-081",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-082",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-083",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-084",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-085",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-086",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-087",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-088",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-089",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-090",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-091",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-092",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-093",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-094",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-095",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-096",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-097",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-098",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-099",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    },
+    {
+      "id": "lan-a1-100",
+      "structural": "passed",
+      "answerGuidePresence": "passed",
+      "editorial": "pending",
+      "semanticOriginality": "pending",
+      "humanReview": "pending",
+      "rendering": "pending",
+      "numericCheck": "not_applicable"
+    }
+  ]
+}

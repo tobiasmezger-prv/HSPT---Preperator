@@ -1,0 +1,108 @@
+{
+  "audit": "../../audits/gables-full-2026-09-27/local-item-audit.json",
+  "replacementTargetChecks": [
+    {
+      "id": "ver-a1-001",
+      "newTarget": "covet",
+      "exactTargetSearch": "no_hit_in_three_question_texts",
+      "limits": "Supplement to semantic review; scanned text can omit words."
+    },
+    {
+      "id": "ver-a1-020",
+      "newTarget": "inert",
+      "exactTargetSearch": "no_hit_in_three_question_texts",
+      "limits": "Supplement to semantic review; scanned text can omit words."
+    },
+    {
+      "id": "ver-a1-022",
+      "newTarget": "reprieve",
+      "exactTargetSearch": "no_hit_in_three_question_texts",
+      "limits": "Supplement to semantic review; scanned text can omit words."
+    },
+    {
+      "id": "ver-a1-021",
+      "newTarget": "tentative",
+      "exactTargetSearch": "no_hit_in_three_question_texts",
+      "limits": "Supplement to semantic review; scanned text can omit words."
+    },
+    {
+      "id": "ver-a1-043",
+      "newTarget": "dormant",
+      "exactTargetSearch": "no_hit_in_three_question_texts",
+      "limits": "Supplement to semantic review; scanned text can omit words."
+    },
+    {
+      "id": "ver-a1-026",
+      "newTarget": "authentic",
+      "exactTargetSearch": "no_hit_in_three_question_texts",
+      "limits": "Supplement to semantic review; scanned text can omit words."
+    },
+    {
+      "id": "ver-a1-028",
+      "newTarget": "durable",
+      "exactTargetSearch": "no_hit_in_three_question_texts",
+      "limits": "Supplement to semantic review; scanned text can omit words."
+    },
+    {
+      "id": "ver-a1-032",
+      "newTarget": "benevolent",
+      "exactTargetSearch": "no_hit_in_three_question_texts",
+      "limits": "Supplement to semantic review; scanned text can omit words."
+    },
+    {
+      "id": "ver-a1-036",
+      "newTarget": "ascend",
+      "exactTargetSearch": "no_hit_in_three_question_texts",
+      "limits": "Supplement to semantic review; scanned text can omit words."
+    },
+    {
+      "id": "ver-a1-046",
+      "newTarget": "docile",
+      "exactTargetSearch": "no_hit_in_three_question_texts",
+      "limits": "Supplement to semantic review; scanned text can omit words."
+    },
+    {
+      "id": "lan-a1-066",
+      "newTarget": "rhythm",
+      "exactTargetSearch": "no_hit_in_three_question_texts",
+      "limits": "Supplement to semantic review; scanned text can omit words."
+    },
+    {
+      "id": "lan-a1-067",
+      "newTarget": "cylinder",
+      "exactTargetSearch": "no_hit_in_three_question_texts",
+      "limits": "Supplement to semantic review; scanned text can omit words."
+    },
+    {
+      "id": "lan-a1-069",
+      "newTarget": "miniature",
+      "exactTargetSearch": "no_hit_in_three_question_texts",
+      "limits": "Supplement to semantic review; scanned text can omit words."
+    },
+    {
+      "id": "lan-a1-071",
+      "newTarget": "mischievous",
+      "exactTargetSearch": "no_hit_in_three_question_texts",
+      "limits": "Supplement to semantic review; scanned text can omit words."
+    },
+    {
+      "id": "lan-a1-073",
+      "newTarget": "broccoli",
+      "exactTargetSearch": "no_hit_in_three_question_texts",
+      "limits": "Supplement to semantic review; scanned text can omit words."
+    },
+    {
+      "id": "lan-a1-077",
+      "newTarget": "lantern",
+      "exactTargetSearch": "no_hit_in_three_question_texts",
+      "limits": "Supplement to semantic review; scanned text can omit words."
+    },
+    {
+      "id": "lan-a1-080",
+      "newTarget": "obstacle",
+      "exactTargetSearch": "no_hit_in_three_question_texts",
+      "limits": "Supplement to semantic review; scanned text can omit words."
+    }
+  ],
+  "status": "all_item_semantic_review_completed_no_universal_originality_guarantee"
+}

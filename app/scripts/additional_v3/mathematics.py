@@ -1,0 +1,66 @@
+from common import setq,OUT
+import html
+ASSETS=OUT/'assets';ASSETS.mkdir(exist_ok=True)
+def svg(n,body,alt):
+ name=f'mat-a1-{n:03}.svg'
+ full=f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280" role="img" aria-label="{html.escape(alt,quote=True)}"><rect width="480" height="280" fill="white"/><g stroke="#183747" stroke-width="2.5" fill="none">{body}</g></svg>'
+ (ASSETS/name).write_text(full)
+ return {'file':'assets/'+name,'alt':alt,'kind':'original_svg','notToScale':True}
+def t(x,y,s):return f'<text x="{x}" y="{y}" font-size="20" font-family="Arial" fill="#183747" stroke="none" text-anchor="middle">{html.escape(str(s))}</text>'
+def line(x,y,a,b):return f'<path d="M{x},{y} L{a},{b}"/>'
+def rect(x,y,w,h,fill='none'):return f'<rect x="{x}" y="{y}" width="{w}" height="{h}" fill="{fill}"/>'
+def fig(n,skill,stem,key,wrong,why,expr,body,alt,diff=2):
+ return setq('mathematics',n,skill,'figure_numeric',stem,str(key),list(map(str,wrong)),why,'Use the marked dimensions and relationships, not the apparent size of the drawing.',diff,'figure-'+str(n),oracleExpression=expr,diagram=svg(n,body,alt))
+fig(56,'geometry','A rectangular courtyard contains two adjoining rectangular beds as shown. They share the entire vertical edge. What is the perimeter of the outside boundary, in meters?',62,[92,52,42],'The total width is 12 + 9 = 21 m and the height is 10 m. The shared edge is internal, so the perimeter is 2(21 + 10) = 62 m.','2*(12+9+10)',rect(70,65,185,140)+rect(255,65,140,140)+t(163,50,'12 m')+t(325,50,'9 m')+t(38,145,'10 m'),'Two rectangles share a full vertical edge. Their widths are 12 m and 9 m; both heights are 10 m.')
+fig(57,'geometry','The shaded part is a rectangular board with a rectangular opening removed. What is its area in square centimeters?',138,[168,30,198],'The outer area is 14 × 12 = 168 cm². The opening is 5 × 6 = 30 cm². Subtract to get 138 cm².','14*12-5*6',rect(80,50,300,180,'#c5e8e6')+rect(200,105,100,75,'white')+t(230,35,'14 cm')+t(425,150,'12 cm')+t(250,95,'5 cm')+t(340,150,'6 cm'),'Shaded outer rectangle 14 cm by 12 cm with an unshaded rectangular opening 5 cm by 6 cm.',2)
+fig(58,'geometry','In triangle ABC, BD is perpendicular to AC. AC is 18 cm and BD is 7 cm. What is the triangle’s area in square centimeters?',63,[126,81,56],'Use the entire base AC, not just DC or the sloping side. Area = 18 × 7 ÷ 2 = 63 cm².','18*7/2','<path d="M65 220 L185 50 L395 220 Z"/>'+line(185,50,185,220)+'<path d="M185 203 L202 203 L202 220"/>'+t(55,241,'A')+t(185,35,'B')+t(410,241,'C')+t(185,242,'D')+t(229,259,'AC = 18 cm')+t(235,138,'7 cm'),'Triangle ABC with base AC of 18 cm. Perpendicular BD from vertex B to AC is 7 cm.',2)
+body=''
+for r in range(3):
+ for c in range(5):body+=rect(100+c*45,55+r*45,45,45,'#c5e8e6' if (r,c) in [(0,0),(0,1),(1,0),(1,1),(1,2),(2,2),(2,3)] else 'white')
+fig(59,'geometry','Each small square has side length 2 cm. What is the total area of the shaded squares in square centimeters?',28,[14,7,60],'Seven small squares are shaded. Each has area 2² = 4 cm², so the total is 7 × 4 = 28 cm².','7*2**2',body+t(240,220,'Each square: 2 cm × 2 cm'),'A 3-row, 5-column square grid. Shaded cells: row 1 columns 1,2; row 2 columns 1,2,3; row 3 columns 3,4.',2)
+body='<path d="M110 95 L310 95 L370 55 L170 55 Z M110 95 L110 225 L310 225 L370 185 L370 55 M310 95 L310 225"/>'+t(210,248,'9 cm')+t(365,218,'4 cm')+t(65,169,'8 cm')+line(110,165,310,165)+line(310,165,370,125)+t(210,151,'Half height')
+fig(60,'geometry','A rectangular tank has interior dimensions 9 cm by 4 cm by 8 cm. It is filled to half its height. How many cubic centimeters of water does it contain?',144,[288,72,168],'Half the height is 4 cm. Water volume is 9 × 4 × 4 = 144 cm³. Half height gives half volume in this rectangular tank.','9*4*8/2',body,'Rectangular tank with interior base 9 cm by 4 cm and height 8 cm; water reaches half its height.',2)
+body=''
+for x,y in [(190,25),(140,75),(190,75),(240,75),(190,125),(190,175)]:body+=rect(x,y,50,50,'#eaf4f7')
+fig(61,'geometry','The diagram is a net of a cube. Every square has side length 3 cm. What is the surface area of the folded cube in square centimeters?',54,[27,18,36],'The net contains six square faces. Each has area 9 cm², so the total surface area is 6 × 9 = 54 cm².','6*3**2',body+t(370,120,'Side = 3 cm'),'Six equal squares in a cube net: four in a vertical strip, with one to each side of the second square. Every square has side 3 cm.',2)
+body=line(70,200,400,60)+line(75,65,395,205)+t(235,85,'x°')+t(235,202,'118°')
+fig(62,'geometry','Two straight lines intersect. The marked angles are vertically opposite. What is x, in degrees?',118,[62,59,242],'Vertically opposite angles are equal; x is 118°. The supplementary 62° belongs to an adjacent angle.','118',body,'Two intersecting straight lines. The top angle is x degrees and its vertically opposite bottom angle is 118 degrees.',1)
+body=line(50,80,425,80)+line(50,195,425,195)+line(145,35,295,240)+t(135,65,'67°')+t(305,180,'x°')+t(355,130,'Lines are parallel')
+fig(63,'geometry','The horizontal lines are parallel. The 67° angle is above the upper line and left of the transversal; x is above the lower line and right of the transversal. What is x?',113,[67,23,134],'The angle above the upper line on the right is 180 − 67 = 113°. The matching angle above the lower line on the right is equal to it.','180-67',body,'Two parallel horizontal lines crossed by a sloping transversal. The upper exterior left angle is 67 degrees. The angle above the lower line on the right is x.',3)
+body='<path d="M100 210 A140 140 0 0 1 380 210 Z"/>'+line(240,210,380,210)+t(304,199,'10 cm')+t(240,235,'O')+t(238,45,'Curved edge only')
+fig(64,'geometry','The figure is a semicircle with center O and radius 10 cm. Using π = 3.14, what is the length of the curved edge only, in centimeters?',31.4,[62.8,51.4,314],'The curved edge is half a circle’s circumference: (2 × 3.14 × 10) ÷ 2 = 31.4 cm. Do not add the straight diameter.','3.14*10',body,'A semicircle. O is the midpoint of its diameter; a radius from O to one end measures 10 cm. Only the curved edge is requested.',2)
+body=line(55,220,420,220)+line(95,245,95,25)+rect(150,65,210,120)+t(140,207,'(2, 1)')+t(367,207,'(9, 1)')+t(360,50,'(9, 5)')+t(145,50,'(2, 5)')+t(430,226,'x')+t(95,20,'y')
+fig(65,'geometry','A rectangle’s vertices are labeled on the coordinate plane. What is its area in square units?',28,[7,22,45],'The horizontal span is 9 − 2 = 7 and vertical span is 5 − 1 = 4. Multiply to get 28 square units.','(9-2)*(5-1)',body,'Rectangle vertices are (2,1), (9,1), (9,5), and (2,5).',2)
+body=line(65,220,415,220)
+for i,(lab,val) in enumerate([('Mon',6),('Tue',9),('Wed',5),('Thu',12)]):
+ x=90+i*80;body+=rect(x,220-val*12,42,val*12,'#c5e8e6')+t(x+21,210-val*12,val)+t(x+21,245,lab)
+fig(66,'statistics_probability','The bar graph shows the number of repaired bicycles on four days. What is the mean number repaired per day?',8,[9,7,32],'Add the four values: 6 + 9 + 5 + 12 = 32. Divide by four days to get 8 bicycles per day.','(6+9+5+12)/4',body,'Four bars labeled Monday 6, Tuesday 9, Wednesday 5, Thursday 12 repaired bicycles.',2)
+body=line(60,140,420,140)
+for i in range(9):body+=line(60+i*45,130,60+i*45,150)
+body+=t(60,180,'0')+t(420,180,'1')+t(285,110,'P')+'<circle cx="285" cy="140" r="5" fill="#183747"/>'
+fig(67,'number_concepts','The interval from 0 to 1 is divided into eight equal parts. Point P is at the fifth division after 0. What number does P represent?', '5/8',['3/8','5/9','4/5'],'Each interval is 1/8. Moving five such intervals from zero reaches 5/8.','5/8',body,'Number line from 0 to 1 divided into 8 equal intervals; P marks the fifth division after 0.',1)
+body='<circle cx="235" cy="140" r="95"/><path d="M235 140 L235 45 A95 95 0 0 1 330 140 Z" fill="#c5e8e6"/>'+line(140,140,330,140)+line(235,45,235,235)+t(235,260,'Four equal sectors; one shaded')
+fig(68,'geometry','The circle is divided into four equal sectors, one shaded. Its radius is 8 cm. Using π = 3.14, what is the shaded area in square centimeters?',50.24,[25.12,200.96,12.56],'A quarter of the circle’s area is (3.14 × 8²) ÷ 4 = 50.24 cm².','3.14*8**2/4',body,'Circle of radius 8 cm divided into four equal sectors; exactly one sector is shaded.',2)
+body=rect(110,65,230,145)+t(225,48,'Plan length: 7.5 cm')+t(225,237,'Scale: 1 cm represents 4 m')
+fig(69,'measurement','A rectangular hall is drawn on a plan. Its drawn length is 7.5 cm, and the scale is 1 cm to 4 m. What is the actual length in meters?',30,[1.875,11.5,300],'Each drawn centimeter represents 4 m; 7.5 × 4 = 30 m.','7.5*4',body,'Rectangle on a plan with drawn length 7.5 cm. Scale is 1 cm represents 4 m.',1)
+body='<circle cx="235" cy="140" r="98"/>'+line(137,140,333,140)+line(235,42,235,238)+t(191,102,'A')+t(275,102,'B')+t(191,192,'B')+t(275,192,'C')+line(235,140,280,100)
+fig(70,'statistics_probability','A fair spinner has the four equal sectors shown. What is the probability it lands on a sector labeled B?', '1/2',['1/4','1/3','3/4'],'Two of the four equally likely sectors have B, so the probability is 2/4 = 1/2.','2/4',body,'Circular spinner divided into four equal sectors labeled A, B, B, C; each sector is equally likely.',1)
+body='<path d="M90 60 L380 60 L380 125 L245 125 L245 220 L90 220 Z" fill="#eaf4f7"/>'+t(232,45,'16 m')+t(46,145,'11 m')+t(315,150,'7 m')+t(274,193,'6 m')
+fig(71,'geometry','The outline is formed by removing a 7 m by 6 m rectangle from the lower-right corner of a 16 m by 11 m rectangle. What is the perimeter of the remaining shape in meters?',54,[41,67,108],'The remaining horizontal lengths are 16, 7, and 16 − 7 = 9. The vertical lengths are 11, 6, and 11 − 6 = 5. Their total is 54 m, the same as the outer rectangle’s perimeter.','16+7+(16-7)+11+6+(11-6)',body,'L-shaped outline cut from a 16 m wide, 11 m high rectangle. The removed lower-right corner is 7 m wide and 6 m high.',3)
+concepts='''
+17|number_concepts|Which statement is true for every integer n?|If n is odd, n + 1 is even.|If n is even, n/2 is odd.|If n is positive, n − 1 is positive.|If n is negative, n² is negative.|An odd integer has form 2k + 1, so adding 1 gives 2(k + 1), which is even. Counterexamples for the others are n = 4, 1, and −1.|2
+18|number_concepts|A positive whole number is divisible by both 4 and 6. Which number must also divide it?|12|24|8|18|Such a number is a multiple of lcm(4,6) = 12. The number 12 itself is not divisible by 24, 8, or 18.|2
+19|number_concepts|Which pair of different fractions must have the same value?|3/7 and 12/28|3/7 and 6/21|4/9 and 8/12|5/8 and 15/16|Multiplying both numerator and denominator of 3/7 by 4 gives 12/28. The other pairs multiply them by different factors.|1
+20|number_concepts|If a positive decimal is multiplied by 0.1, which description is always correct?|The result is one tenth of the original.|The result is one less than the original.|The result is ten times the original.|The result has the same value as the original.|Multiplication by 0.1 is multiplication by 1/10, regardless of the number of written decimal places.|1
+41|measurement|Which unit is most appropriate for the volume of water in a drinking glass?|Milliliters|Square centimeters|Kilometers|Kilograms|Milliliters measure liquid volume on this scale. Square centimeters measure area, kilometers length, and kilograms mass.|1
+42|measurement|A square's side length is doubled. How does its area change?|It becomes four times as large.|It becomes twice as large.|It increases by two square units.|It remains unchanged.|Area is side²; (2s)² = 4s². The increase depends on s, so it is not a fixed two units.|2
+43|measurement|Which equation correctly converts 0.07 kilometer to meters?|0.07 × 1,000 = 70|0.07 ÷ 1,000 = 0.00007|0.07 × 100 = 7|0.07 ÷ 100 = 0.0007|There are 1,000 meters in a kilometer, so multiply the number of kilometers by 1,000.|1
+81|algebra|Which expression equals 5(2x + 3) − 4x for every x?|6x + 15|6x + 3|10x + 11|14x + 15|Distribute to get 10x + 15, then subtract 4x to obtain 6x + 15.|2
+82|algebra|If a < b, which inequality must be true?|a − 5 < b − 5|−a < −b|a² < b²|a + 5 < b|Subtracting the same number preserves order. Negation reverses it; squaring can change it; adding only to a need not preserve it.|3
+83|algebra|A theater charges d dollars for each adult ticket and c dollars for each child ticket. Which expression gives the total for 3 adult and 5 child tickets?|3d + 5c|8dc|3c + 5d|8(d + c)|Each price is multiplied by its own ticket count and the two costs are added.|2
+84|statistics_probability|Adding the same nonzero number to every value in a data set leaves which measure unchanged?|Range|Mean|Median|Maximum|The maximum and minimum shift by the same amount, leaving their difference unchanged; the other measures shift.|3
+85|statistics_probability|A fair coin lands heads five times in independent tosses. What is the probability of heads on the next toss?|1/2|1/6|1/32|5/6|Independence leaves the next toss at 1/2; earlier outcomes do not create a debt for tails or a trend for heads.|2
+'''
+for row in concepts.strip().splitlines():
+ n,skill,stem,key,a,b,c,why,diff=row.split('|')
+ setq('mathematics',int(n),skill,'conceptual',stem,key,[a,b,c],why,'Check whether the claim is always true; a single counterexample defeats an always claim.',int(diff),'concept-'+n)

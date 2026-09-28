@@ -6,3 +6,12 @@ dist/
 .env.*
 !.env.example
 hspt-progress-*.json
+
+# Local reference corpus and delivery artifacts (not repository source)
+sources/
+output/
+tmp/
+.pnpm-store/
+__pycache__/
+*.pyc
+/HSPT_*.zip

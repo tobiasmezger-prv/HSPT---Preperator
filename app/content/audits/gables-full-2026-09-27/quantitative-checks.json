@@ -1,0 +1,1040 @@
+{
+  "bankSha256": "214c7e43dcdf94aff1c38e9cca14b7637bac60583712cfd542a68d82812afb8c",
+  "items": [
+    {
+      "id": "gb2-001",
+      "status": "pass",
+      "expected": "27",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-002",
+      "status": "pass",
+      "expected": "27",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-003",
+      "status": "pass",
+      "expected": "(Fraction(231, 1), Fraction(230, 1))",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-004",
+      "status": "pass",
+      "expected": "10",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-005",
+      "status": "pass",
+      "expected": "25",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-006",
+      "status": "pass",
+      "expected": "14/5",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-007",
+      "status": "pass",
+      "expected": "34",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-008",
+      "status": "pass",
+      "expected": "15",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-009",
+      "status": "pass",
+      "expected": "27",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-010",
+      "status": "pass",
+      "expected": "11",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-011",
+      "status": "pass",
+      "expected": "9/4",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-012",
+      "status": "pass",
+      "expected": "32",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-013",
+      "status": "pass",
+      "expected": "40",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-014",
+      "status": "pass",
+      "expected": "20",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-015",
+      "status": "pass",
+      "expected": "25",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-016",
+      "status": "pass",
+      "expected": "21",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-017",
+      "status": "pass",
+      "expected": "35",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-018",
+      "status": "pass",
+      "expected": "38",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-019",
+      "status": "pass",
+      "expected": "9",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-020",
+      "status": "pass",
+      "expected": "22",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-021",
+      "status": "pass",
+      "expected": "162",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-022",
+      "status": "pass",
+      "expected": "5",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-023",
+      "status": "pass",
+      "expected": "47",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-024",
+      "status": "pass",
+      "expected": "284",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-025",
+      "status": "pass",
+      "expected": "3/8",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-026",
+      "status": "pass",
+      "expected": "72",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-027",
+      "status": "pass",
+      "expected": "720",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-028",
+      "status": "pass",
+      "expected": "700",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-029",
+      "status": "pass",
+      "expected": "112",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-030",
+      "status": "pass",
+      "expected": "(Fraction(12, 1), Fraction(11, 1))",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-031",
+      "status": "pass",
+      "expected": "81/2",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-032",
+      "status": "pass",
+      "expected": "G16",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-033",
+      "status": "pass",
+      "expected": "217",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-034",
+      "status": "pass",
+      "expected": "16",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "all supplied terms"
+      ]
+    },
+    {
+      "id": "gb2-035",
+      "status": "pass",
+      "expected": "21",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-036",
+      "status": "pass",
+      "expected": "13",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-037",
+      "status": "pass",
+      "expected": "35",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-038",
+      "status": "pass",
+      "expected": "12",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-039",
+      "status": "pass",
+      "expected": "60",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-040",
+      "status": "pass",
+      "expected": "32",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-041",
+      "status": "pass",
+      "expected": "21",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-042",
+      "status": "pass",
+      "expected": "17",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-043",
+      "status": "pass",
+      "expected": "31",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-044",
+      "status": "pass",
+      "expected": "114",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-045",
+      "status": "pass",
+      "expected": "24",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-046",
+      "status": "pass",
+      "expected": "24",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-047",
+      "status": "pass",
+      "expected": "25",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-048",
+      "status": "pass",
+      "expected": "1",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-049",
+      "status": "pass",
+      "expected": "13",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-050",
+      "status": "pass",
+      "expected": "27",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-051",
+      "status": "pass",
+      "expected": "1/4",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-052",
+      "status": "pass",
+      "expected": "3/8",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-053",
+      "status": "pass",
+      "expected": "12",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-054",
+      "status": "pass",
+      "expected": "32",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-055",
+      "status": "pass",
+      "expected": "48",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-056",
+      "status": "pass",
+      "expected": "20",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-057",
+      "status": "pass",
+      "expected": "8",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-058",
+      "status": "pass",
+      "expected": "27",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-059",
+      "status": "pass",
+      "expected": "50",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-060",
+      "status": "pass",
+      "expected": "32",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-061",
+      "status": "pass",
+      "expected": "1/3",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-062",
+      "status": "pass",
+      "expected": "5",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-063",
+      "status": "pass",
+      "expected": "28",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-064",
+      "status": "pass",
+      "expected": "43",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-065",
+      "status": "pass",
+      "expected": "27",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-066",
+      "status": "pass",
+      "expected": "7",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-067",
+      "status": "pass",
+      "expected": "True",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-068",
+      "status": "pass",
+      "expected": "True",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-069",
+      "status": "pass",
+      "expected": "True",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-070",
+      "status": "pass",
+      "expected": "True",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-071",
+      "status": "pass",
+      "expected": "True",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-072",
+      "status": "pass",
+      "expected": "True",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-073",
+      "status": "pass",
+      "expected": "True",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-074",
+      "status": "pass",
+      "expected": "True",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-075",
+      "status": "pass",
+      "expected": "True",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-076",
+      "status": "pass",
+      "expected": "True",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-077",
+      "status": "pass",
+      "expected": "True",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-078",
+      "status": "pass",
+      "expected": "True",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-079",
+      "status": "pass",
+      "expected": "True",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-080",
+      "status": "pass",
+      "expected": "True",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-081",
+      "status": "pass",
+      "expected": "True",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-082",
+      "status": "pass",
+      "expected": "True",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-083",
+      "status": "pass",
+      "expected": "True",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-084",
+      "status": "pass",
+      "expected": "True",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates"
+      ]
+    },
+    {
+      "id": "gb2-085",
+      "status": "pass",
+      "expected": "True",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates",
+        "diagram data"
+      ]
+    },
+    {
+      "id": "gb2-086",
+      "status": "pass",
+      "expected": "4",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates",
+        "diagram data"
+      ]
+    },
+    {
+      "id": "gb2-087",
+      "status": "pass",
+      "expected": "1/3",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates",
+        "diagram data"
+      ]
+    },
+    {
+      "id": "gb2-088",
+      "status": "pass",
+      "expected": "1/4",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates",
+        "diagram data"
+      ]
+    },
+    {
+      "id": "gb2-089",
+      "status": "pass",
+      "expected": "True",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates",
+        "diagram data"
+      ]
+    },
+    {
+      "id": "gb2-090",
+      "status": "pass",
+      "expected": "6",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates",
+        "diagram data"
+      ]
+    },
+    {
+      "id": "gb2-091",
+      "status": "pass",
+      "expected": "2",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates",
+        "diagram data"
+      ]
+    },
+    {
+      "id": "gb2-092",
+      "status": "pass",
+      "expected": "True",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates",
+        "diagram data"
+      ]
+    },
+    {
+      "id": "gb2-093",
+      "status": "pass",
+      "expected": "True",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates",
+        "diagram data"
+      ]
+    },
+    {
+      "id": "gb2-094",
+      "status": "pass",
+      "expected": "4",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates",
+        "diagram data"
+      ]
+    },
+    {
+      "id": "gb2-095",
+      "status": "pass",
+      "expected": "1/2",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates",
+        "diagram data"
+      ]
+    },
+    {
+      "id": "gb2-096",
+      "status": "pass",
+      "expected": "6",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates",
+        "diagram data"
+      ]
+    },
+    {
+      "id": "gb2-097",
+      "status": "pass",
+      "expected": "112",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates",
+        "diagram data"
+      ]
+    },
+    {
+      "id": "gb2-098",
+      "status": "pass",
+      "expected": "56",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates",
+        "diagram data"
+      ]
+    },
+    {
+      "id": "gb2-099",
+      "status": "pass",
+      "expected": "73",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates",
+        "diagram data"
+      ]
+    },
+    {
+      "id": "gb2-100",
+      "status": "pass",
+      "expected": "60",
+      "checks": [
+        "all choices",
+        "exact answer",
+        "independent expression/predicates",
+        "diagram data"
+      ]
+    }
+  ],
+  "visualIds": [
+    "gb2-085",
+    "gb2-086",
+    "gb2-087",
+    "gb2-088",
+    "gb2-089",
+    "gb2-090",
+    "gb2-091",
+    "gb2-092",
+    "gb2-093",
+    "gb2-094",
+    "gb2-095",
+    "gb2-096",
+    "gb2-097",
+    "gb2-098",
+    "gb2-099",
+    "gb2-100"
+  ],
+  "visualMethod": "Both saved contact sheets inspected; labeled dimensions, cell counts, bars and angle markings matched the stems and independent results."
+}

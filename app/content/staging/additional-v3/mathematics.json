@@ -1,0 +1,2921 @@
+{
+  "schemaVersion": "hspt-draft-1",
+  "batchId": "mathematics-additional-v3",
+  "section": "mathematics",
+  "version": 3,
+  "status": "draft_not_for_publication",
+  "questions": [
+    {
+      "id": "mat-a1-001",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "number_computation",
+      "format": "number_computation",
+      "difficulty": 1,
+      "templateFamily": "whole addition",
+      "stem": "What is 407 + 286?",
+      "choices": [
+        "693",
+        "793",
+        "703",
+        "683"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Add ones, tens and hundreds, carrying where needed: 407 + 286 = 693.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "407+286"
+    },
+    {
+      "id": "mat-a1-002",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "number_computation",
+      "format": "number_computation",
+      "difficulty": 1,
+      "templateFamily": "regrouping subtraction",
+      "stem": "What is 902 − 478?",
+      "choices": [
+        "476",
+        "434",
+        "424",
+        "524"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Regroup across the zero: 902 − 478 = 424. Adding 478 back gives 902.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "902-478"
+    },
+    {
+      "id": "mat-a1-003",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "number_computation",
+      "format": "number_computation",
+      "difficulty": 1,
+      "templateFamily": "distributive multiplication",
+      "stem": "What is 36 × 24?",
+      "choices": [
+        "964",
+        "824",
+        "864",
+        "144"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "36 × (20 + 4) = 720 + 144 = 864.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "36*24"
+    },
+    {
+      "id": "mat-a1-004",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "number_computation",
+      "format": "number_computation",
+      "difficulty": 2,
+      "templateFamily": "whole division",
+      "stem": "What is 1,176 ÷ 28?",
+      "choices": [
+        "41",
+        "42",
+        "52",
+        "48"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "28 × 40 = 1,120; the remaining 56 is two more groups.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "1176/28"
+    },
+    {
+      "id": "mat-a1-005",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "number_computation",
+      "format": "number_computation",
+      "difficulty": 1,
+      "templateFamily": "signed addition",
+      "stem": "What is −14 + 23 − 8?",
+      "choices": [
+        "17",
+        "−1",
+        "9",
+        "1"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "−14 + 23 = 9, and 9 − 8 = 1.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "-14+23-8"
+    },
+    {
+      "id": "mat-a1-006",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "number_computation",
+      "format": "number_computation",
+      "difficulty": 2,
+      "templateFamily": "signed multiplication",
+      "stem": "What is (−7)(−6) − 15?",
+      "choices": [
+        "27",
+        "−27",
+        "57",
+        "−57"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Two negative factors give 42; subtracting 15 gives 27.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "(-7)*(-6)-15"
+    },
+    {
+      "id": "mat-a1-007",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "number_computation",
+      "format": "number_computation",
+      "difficulty": 1,
+      "templateFamily": "fraction addition",
+      "stem": "What is 3/4 + 5/8, in simplest form?",
+      "choices": [
+        "8/12",
+        "1/8",
+        "11/8",
+        "13/8"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Use eighths: 6/8 + 5/8 = 11/8. Do not add denominators.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "3/4+5/8"
+    },
+    {
+      "id": "mat-a1-008",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "number_computation",
+      "format": "number_computation",
+      "difficulty": 2,
+      "templateFamily": "fraction subtraction",
+      "stem": "What is 7/9 − 1/6, in simplest form?",
+      "choices": [
+        "6/3",
+        "11/18",
+        "13/18",
+        "5/18"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The common denominator is 18: 14/18 − 3/18 = 11/18.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "7/9-1/6"
+    },
+    {
+      "id": "mat-a1-009",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "number_computation",
+      "format": "number_computation",
+      "difficulty": 2,
+      "templateFamily": "fraction multiplication",
+      "stem": "What is 5/12 × 18/25, in simplest form?",
+      "choices": [
+        "5/6",
+        "3/10",
+        "3/5",
+        "23/37"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Cancel 5 with 25 and 18 with 12; the product reduces to 3/10.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "5/12*18/25"
+    },
+    {
+      "id": "mat-a1-010",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "number_computation",
+      "format": "number_computation",
+      "difficulty": 2,
+      "templateFamily": "fraction division",
+      "stem": "What is 4/7 ÷ 8/21, in simplest form?",
+      "choices": [
+        "1/2",
+        "32/147",
+        "3/2",
+        "2/3"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Multiply 4/7 by the reciprocal 21/8; cancel to get 3/2.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "(4/7)/(8/21)"
+    },
+    {
+      "id": "mat-a1-011",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "number_computation",
+      "format": "number_computation",
+      "difficulty": 1,
+      "templateFamily": "decimal addition",
+      "stem": "What is 3.75 + 0.608?",
+      "choices": [
+        "4.358",
+        "4.283",
+        "9.83",
+        "3.813"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Align decimal points: 3.750 + 0.608 = 4.358.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "3.75+0.608"
+    },
+    {
+      "id": "mat-a1-012",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "number_computation",
+      "format": "number_computation",
+      "difficulty": 1,
+      "templateFamily": "decimal subtraction",
+      "stem": "What is 8.4 − 2.76?",
+      "choices": [
+        "6.36",
+        "5.64",
+        "6.64",
+        "5.74"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Write 8.40 and subtract 2.76 to get 5.64.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "8.4-2.76"
+    },
+    {
+      "id": "mat-a1-013",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "number_computation",
+      "format": "number_computation",
+      "difficulty": 1,
+      "templateFamily": "decimal multiplication",
+      "stem": "What is 0.36 × 0.5?",
+      "choices": [
+        "0.86",
+        "0.018",
+        "1.8",
+        "0.18"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Multiplying by one-half halves 0.36, giving 0.18.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "0.36*0.5"
+    },
+    {
+      "id": "mat-a1-014",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "number_computation",
+      "format": "number_computation",
+      "difficulty": 2,
+      "templateFamily": "decimal division",
+      "stem": "What is 6.72 ÷ 0.8?",
+      "choices": [
+        "0.84",
+        "5.376",
+        "8.4",
+        "84"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Multiply both dividend and divisor by 10: 67.2 ÷ 8 = 8.4.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "6.72/0.8"
+    },
+    {
+      "id": "mat-a1-015",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "number_computation",
+      "format": "number_computation",
+      "difficulty": 1,
+      "templateFamily": "order of operations",
+      "stem": "What is 5 + 3 × (12 − 8)?",
+      "choices": [
+        "24",
+        "20",
+        "32",
+        "17"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Parentheses give 4, multiplication gives 12, then add 5.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "5+3*(12-8)"
+    },
+    {
+      "id": "mat-a1-016",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "number_computation",
+      "format": "number_computation",
+      "difficulty": 1,
+      "templateFamily": "exponents",
+      "stem": "What is 2 cubed + 4 squared?",
+      "choices": [
+        "20",
+        "36",
+        "24",
+        "14"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "2 cubed is 8 and 4 squared is 16; their sum is 24.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "2**3+4**2"
+    },
+    {
+      "id": "mat-a1-017",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "number_concepts",
+      "format": "conceptual",
+      "difficulty": 2,
+      "templateFamily": "concept-17",
+      "stem": "Which statement is true for every integer n?",
+      "choices": [
+        "If n is positive, n − 1 is positive.",
+        "If n is even, n/2 is odd.",
+        "If n is negative, n² is negative.",
+        "If n is odd, n + 1 is even."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "An odd integer has form 2k + 1, so adding 1 gives 2(k + 1), which is even. Counterexamples for the others are n = 4, 1, and −1.",
+        "shortcut": "Check whether the claim is always true; a single counterexample defeats an always claim."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "mat-a1-018",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "number_concepts",
+      "format": "conceptual",
+      "difficulty": 2,
+      "templateFamily": "concept-18",
+      "stem": "A positive whole number is divisible by both 4 and 6. Which number must also divide it?",
+      "choices": [
+        "24",
+        "18",
+        "12",
+        "8"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Such a number is a multiple of lcm(4,6) = 12. The number 12 itself is not divisible by 24, 8, or 18.",
+        "shortcut": "Check whether the claim is always true; a single counterexample defeats an always claim."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "mat-a1-019",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "number_concepts",
+      "format": "conceptual",
+      "difficulty": 1,
+      "templateFamily": "concept-19",
+      "stem": "Which pair of different fractions must have the same value?",
+      "choices": [
+        "4/9 and 8/12",
+        "3/7 and 12/28",
+        "5/8 and 15/16",
+        "3/7 and 6/21"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Multiplying both numerator and denominator of 3/7 by 4 gives 12/28. The other pairs multiply them by different factors.",
+        "shortcut": "Check whether the claim is always true; a single counterexample defeats an always claim."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "mat-a1-020",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "number_concepts",
+      "format": "conceptual",
+      "difficulty": 1,
+      "templateFamily": "concept-20",
+      "stem": "If a positive decimal is multiplied by 0.1, which description is always correct?",
+      "choices": [
+        "The result is ten times the original.",
+        "The result has the same value as the original.",
+        "The result is one tenth of the original.",
+        "The result is one less than the original."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Multiplication by 0.1 is multiplication by 1/10, regardless of the number of written decimal places.",
+        "shortcut": "Check whether the claim is always true; a single counterexample defeats an always claim."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "mat-a1-021",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "ratios_percent",
+      "format": "ratios_percent",
+      "difficulty": 1,
+      "templateFamily": "part whole ratio",
+      "stem": "A box has 18 blue tiles and 12 white tiles. What fraction of all the tiles are blue, in simplest form?",
+      "choices": [
+        "3/2",
+        "3/5",
+        "2/5",
+        "1/2"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "There are 30 tiles; 18/30 reduces to 3/5. The denominator is the total.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "18/(18+12)"
+    },
+    {
+      "id": "mat-a1-022",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "ratios_percent",
+      "format": "ratios_percent",
+      "difficulty": 1,
+      "templateFamily": "direct proportion",
+      "stem": "A recipe uses 3 cups of oats for 8 bars. How many cups are needed for 24 bars?",
+      "choices": [
+        "12",
+        "6",
+        "9",
+        "8"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "24 is three times 8, so multiply 3 cups by 3.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "3*24/8"
+    },
+    {
+      "id": "mat-a1-023",
+      "revision": 3,
+      "section": "mathematics",
+      "skill": "ratios_percent",
+      "format": "ratios_percent",
+      "difficulty": 2,
+      "templateFamily": "pack-and-single-unit-pricing",
+      "stem": "A pack of 6 notebooks costs $15, while a single notebook costs $3. What is the least cost in dollars to buy exactly 8 notebooks?",
+      "choices": [
+        "24",
+        "30",
+        "20",
+        "21"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "One pack and two singles cost 15 + 2 × 3 = 21 dollars. Eight singles cost 24 dollars; two packs would buy more than eight notebooks.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "15+2*3"
+    },
+    {
+      "id": "mat-a1-024",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "ratios_percent",
+      "format": "ratios_percent",
+      "difficulty": 1,
+      "templateFamily": "percent of quantity",
+      "stem": "What is 35% of 240?",
+      "choices": [
+        "84",
+        "8.4",
+        "72",
+        "96"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "30% is 72 and 5% is 12; add to obtain 84.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "35/100*240"
+    },
+    {
+      "id": "mat-a1-025",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "ratios_percent",
+      "format": "ratios_percent",
+      "difficulty": 2,
+      "templateFamily": "find percentage",
+      "stem": "Twenty-seven is what percent of 90?",
+      "choices": [
+        "30",
+        "3",
+        "33",
+        "24"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "27/90 = 0.3 = 30%. Divide part by whole.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "27/90*100"
+    },
+    {
+      "id": "mat-a1-026",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "ratios_percent",
+      "format": "ratios_percent",
+      "difficulty": 2,
+      "templateFamily": "discount",
+      "stem": "A $64 backpack is discounted 25%. What is its sale price in dollars?",
+      "choices": [
+        "50",
+        "48",
+        "16",
+        "39"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The discount is 16; subtract from 64, or find 75% of 64.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "64*(1-25/100)"
+    },
+    {
+      "id": "mat-a1-027",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "ratios_percent",
+      "format": "ratios_percent",
+      "difficulty": 2,
+      "templateFamily": "sales tax",
+      "stem": "An item costs $45 before 8% sales tax. What is the total in dollars?",
+      "choices": [
+        "53",
+        "41.4",
+        "48.6",
+        "45.8"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Tax is 45 × 0.08 = 3.60; add it to 45.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "45*(1+8/100)"
+    },
+    {
+      "id": "mat-a1-028",
+      "revision": 3,
+      "section": "mathematics",
+      "skill": "ratios_percent",
+      "format": "ratios_percent",
+      "difficulty": 2,
+      "templateFamily": "growth-followed-by-loss",
+      "stem": "A club grew from 24 members to 30 members, then lost 3 members. What is the overall percentage increase from the original membership?",
+      "choices": [
+        "12.5",
+        "25",
+        "20",
+        "10"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The final membership is 27, a gain of 3 from the original 24. The percentage increase is 3/24 × 100 = 12.5.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "(30-3-24)/24*100"
+    },
+    {
+      "id": "mat-a1-029",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "ratios_percent",
+      "format": "ratios_percent",
+      "difficulty": 1,
+      "templateFamily": "fraction of set",
+      "stem": "A club has 32 members. Three-eighths volunteer on Saturday. How many members is that?",
+      "choices": [
+        "12",
+        "20",
+        "8",
+        "24"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "One-eighth of 32 is 4; three-eighths is 12.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "32*3/8"
+    },
+    {
+      "id": "mat-a1-030",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "ratios_percent",
+      "format": "ratios_percent",
+      "difficulty": 2,
+      "templateFamily": "ratio total",
+      "stem": "Red and yellow beads are in the ratio 4:7. There are 44 beads altogether. How many are yellow?",
+      "choices": [
+        "16",
+        "32",
+        "28",
+        "25"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "There are 11 ratio parts, each worth 4 beads; yellow has 7 parts.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "44/(4+7)*7"
+    },
+    {
+      "id": "mat-a1-031",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "ratios_percent",
+      "format": "ratios_percent",
+      "difficulty": 1,
+      "templateFamily": "map scale",
+      "stem": "A map scale is 1 cm for every 6 km. Two points are 4.5 cm apart on the map. What is their distance in km?",
+      "choices": [
+        "27",
+        "24",
+        "30",
+        "10.5"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Multiply 4.5 by 6 to get 27 km.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "4.5*6"
+    },
+    {
+      "id": "mat-a1-032",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "ratios_percent",
+      "format": "ratios_percent",
+      "difficulty": 2,
+      "templateFamily": "constant rate",
+      "stem": "A cyclist covers 42 km in 3 hours at a constant speed. How far in km will the cyclist travel in 5 hours?",
+      "choices": [
+        "63",
+        "126",
+        "70",
+        "75"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The speed is 14 km per hour; multiply by 5.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "42/3*5"
+    },
+    {
+      "id": "mat-a1-033",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "ratios_percent",
+      "format": "ratios_percent",
+      "difficulty": 2,
+      "templateFamily": "find whole",
+      "stem": "A tank is 60% full and contains 42 liters. What is its capacity in liters?",
+      "choices": [
+        "84",
+        "70",
+        "25.2",
+        "60"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "If 0.6 of capacity is 42, divide 42 by 0.6.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "42/(60/100)"
+    },
+    {
+      "id": "mat-a1-034",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "ratios_percent",
+      "format": "ratios_percent",
+      "difficulty": 3,
+      "templateFamily": "successive discounts",
+      "stem": "A $50 price is reduced 10%, then the reduced price is reduced another 20%. What is the final price in dollars?",
+      "choices": [
+        "35",
+        "40",
+        "34",
+        "36"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "After the first reduction it is 45; 80% of 45 is 36. Discounts apply to different bases.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "50*(1-10/100)*(1-20/100)"
+    },
+    {
+      "id": "mat-a1-035",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "ratios_percent",
+      "format": "ratios_percent",
+      "difficulty": 1,
+      "templateFamily": "survey proportion",
+      "stem": "In a poll, 56 of 80 students prefer an earlier lunch. What percent is this?",
+      "choices": [
+        "75",
+        "70",
+        "80",
+        "56"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "56/80 = 7/10 = 70%.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "56/80*100"
+    },
+    {
+      "id": "mat-a1-036",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "ratios_percent",
+      "format": "ratios_percent",
+      "difficulty": 2,
+      "templateFamily": "mixture ratio",
+      "stem": "A mixture uses 2 parts concentrate to 5 parts water. With 15 cups of water, how many cups of concentrate are needed?",
+      "choices": [
+        "7.5",
+        "5",
+        "6",
+        "10"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "15 cups is three groups of 5; use three groups of 2.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "15/5*2"
+    },
+    {
+      "id": "mat-a1-037",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "ratios_percent",
+      "format": "ratios_percent",
+      "difficulty": 2,
+      "templateFamily": "fuel unit rate",
+      "stem": "A car uses 4 gallons of fuel to travel 132 miles. At that rate, how many miles can it travel on 7 gallons?",
+      "choices": [
+        "224",
+        "189",
+        "264",
+        "231"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The car travels 33 miles per gallon; 33 × 7 = 231.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "132/4*7"
+    },
+    {
+      "id": "mat-a1-038",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "ratios_percent",
+      "format": "ratios_percent",
+      "difficulty": 3,
+      "templateFamily": "successive fractions",
+      "stem": "Of 150 tickets, 40% were sold in the morning. Half the remaining tickets sold in the afternoon. How many remain?",
+      "choices": [
+        "30",
+        "45",
+        "60",
+        "75"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Morning sales leave 90 tickets; half of 90 remain after the afternoon.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "150*(1-40/100)/2"
+    },
+    {
+      "id": "mat-a1-039",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "ratios_percent",
+      "format": "ratios_percent",
+      "difficulty": 3,
+      "templateFamily": "reverse discount",
+      "stem": "A jacket's sale price is $54 after a 10% discount. What was the original price in dollars?",
+      "choices": [
+        "64",
+        "48.6",
+        "59.4",
+        "60"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "54 is 90% of the original; 54/0.9 = 60.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "54/(1-10/100)"
+    },
+    {
+      "id": "mat-a1-040",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "ratios_percent",
+      "format": "ratios_percent",
+      "difficulty": 3,
+      "templateFamily": "scale with conversion",
+      "stem": "A model car is 1/24 the length of the real car. The real car is 4.8 meters long. How long is the model in centimeters?",
+      "choices": [
+        "11.52",
+        "200",
+        "20",
+        "2"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "4.8 meters is 480 cm; 480/24 = 20 cm.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "4.8*100/24"
+    },
+    {
+      "id": "mat-a1-041",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "measurement",
+      "format": "conceptual",
+      "difficulty": 1,
+      "templateFamily": "concept-41",
+      "stem": "Which unit is most appropriate for the volume of water in a drinking glass?",
+      "choices": [
+        "Square centimeters",
+        "Kilograms",
+        "Milliliters",
+        "Kilometers"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Milliliters measure liquid volume on this scale. Square centimeters measure area, kilometers length, and kilograms mass.",
+        "shortcut": "Check whether the claim is always true; a single counterexample defeats an always claim."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "mat-a1-042",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "measurement",
+      "format": "conceptual",
+      "difficulty": 2,
+      "templateFamily": "concept-42",
+      "stem": "A square's side length is doubled. How does its area change?",
+      "choices": [
+        "It increases by two square units.",
+        "It becomes twice as large.",
+        "It remains unchanged.",
+        "It becomes four times as large."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Area is side²; (2s)² = 4s². The increase depends on s, so it is not a fixed two units.",
+        "shortcut": "Check whether the claim is always true; a single counterexample defeats an always claim."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "mat-a1-043",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "measurement",
+      "format": "conceptual",
+      "difficulty": 1,
+      "templateFamily": "concept-43",
+      "stem": "Which equation correctly converts 0.07 kilometer to meters?",
+      "choices": [
+        "0.07 ÷ 100 = 0.0007",
+        "0.07 × 100 = 7",
+        "0.07 × 1,000 = 70",
+        "0.07 ÷ 1,000 = 0.00007"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "There are 1,000 meters in a kilometer, so multiply the number of kilometers by 1,000.",
+        "shortcut": "Check whether the claim is always true; a single counterexample defeats an always claim."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "mat-a1-044",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "measurement",
+      "format": "measurement",
+      "difficulty": 2,
+      "templateFamily": "metric capacity subtraction",
+      "stem": "A jug contains 2 liters. After 650 milliliters are poured out, how many milliliters remain?",
+      "choices": [
+        "2650",
+        "1450",
+        "650",
+        "1350"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Two liters is 2,000 mL; subtract 650.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "2*1000-650"
+    },
+    {
+      "id": "mat-a1-045",
+      "revision": 3,
+      "section": "mathematics",
+      "skill": "measurement",
+      "format": "measurement",
+      "difficulty": 2,
+      "templateFamily": "elapsed time",
+      "stem": "A play begins at 6:45 p.m. and lasts 1 hour 50 minutes. How many minutes after 8:00 p.m. does it end?",
+      "choices": [
+        "45",
+        "55",
+        "25",
+        "35"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Adding one hour reaches 7:45; adding 50 minutes reaches 8:35.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "(6*60+45+60+50)-8*60"
+    },
+    {
+      "id": "mat-a1-046",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "measurement",
+      "format": "measurement",
+      "difficulty": 1,
+      "templateFamily": "time conversion",
+      "stem": "How many seconds are in 4 minutes 15 seconds?",
+      "choices": [
+        "255",
+        "415",
+        "195",
+        "240"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Four minutes is 240 seconds; add 15.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "4*60+15"
+    },
+    {
+      "id": "mat-a1-047",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "measurement",
+      "format": "measurement",
+      "difficulty": 1,
+      "templateFamily": "customary length",
+      "stem": "Using 12 inches = 1 foot, how many inches are in 5 feet 7 inches?",
+      "choices": [
+        "57",
+        "67",
+        "72",
+        "60"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Five feet is 60 inches; add 7.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "5*12+7"
+    },
+    {
+      "id": "mat-a1-048",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "measurement",
+      "format": "measurement",
+      "difficulty": 1,
+      "templateFamily": "customary distance",
+      "stem": "Using 3 feet = 1 yard, how many yards are in 42 feet?",
+      "choices": [
+        "39",
+        "14",
+        "21",
+        "126"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Divide feet by 3.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "42/3"
+    },
+    {
+      "id": "mat-a1-049",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "measurement",
+      "format": "measurement",
+      "difficulty": 2,
+      "templateFamily": "customary mass",
+      "stem": "Using 16 ounces = 1 pound, how many ounces are in 2.5 pounds?",
+      "choices": [
+        "48",
+        "24",
+        "32",
+        "40"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Two pounds is 32 ounces and half a pound is 8 ounces.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "2.5*16"
+    },
+    {
+      "id": "mat-a1-050",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "measurement",
+      "format": "measurement",
+      "difficulty": 1,
+      "templateFamily": "customary capacity",
+      "stem": "Using 4 cups = 1 quart, how many cups are in 3.5 quarts?",
+      "choices": [
+        "12",
+        "16",
+        "14",
+        "7"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "3.5 × 4 = 14 cups.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "3.5*4"
+    },
+    {
+      "id": "mat-a1-051",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "measurement",
+      "format": "measurement",
+      "difficulty": 2,
+      "templateFamily": "conversion division",
+      "stem": "A ribbon is 2.4 m long. Six equal pieces are cut with no waste. What is each piece's length in centimeters?",
+      "choices": [
+        "24",
+        "4",
+        "60",
+        "40"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "2.4 m is 240 cm; divide by 6.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "2.4*100/6"
+    },
+    {
+      "id": "mat-a1-052",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "measurement",
+      "format": "measurement",
+      "difficulty": 2,
+      "templateFamily": "temperature change",
+      "stem": "A thermometer reads −6 degrees. The temperature rises 11 degrees and then falls 4 degrees. What is the final reading?",
+      "choices": [
+        "−21",
+        "1",
+        "−1",
+        "9"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "−6 + 11 − 4 = 1.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "-6+11-4"
+    },
+    {
+      "id": "mat-a1-053",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "measurement",
+      "format": "measurement",
+      "difficulty": 2,
+      "templateFamily": "capacity quotient",
+      "stem": "A 1.5-liter bottle is used to fill cups holding 250 mL each. How many full cups can it fill?",
+      "choices": [
+        "4",
+        "8",
+        "6",
+        "5"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "1,500 mL divided by 250 mL per cup gives 6 cups.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "1.5*1000/250"
+    },
+    {
+      "id": "mat-a1-054",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "measurement",
+      "format": "measurement",
+      "difficulty": 3,
+      "templateFamily": "rate time conversion",
+      "stem": "A train travels 180 kilometers in 2 hours 30 minutes. What is its average speed in km per hour?",
+      "choices": [
+        "72",
+        "75",
+        "90",
+        "60"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "2 hours 30 minutes is 2.5 hours, so divide 180 by 2.5.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "180/(2+30/60)"
+    },
+    {
+      "id": "mat-a1-055",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "measurement",
+      "format": "measurement",
+      "difficulty": 3,
+      "templateFamily": "squared unit conversion",
+      "stem": "A square has side length 30 cm. What is its area in square meters?",
+      "choices": [
+        "0.09",
+        "0.9",
+        "9",
+        "90"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The side is 0.3 m; its area is 0.3 squared = 0.09 square meters.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "(30/100)**2"
+    },
+    {
+      "id": "mat-a1-056",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "geometry",
+      "format": "figure_numeric",
+      "difficulty": 2,
+      "templateFamily": "figure-56",
+      "stem": "A rectangular courtyard contains two adjoining rectangular beds as shown. They share the entire vertical edge. What is the perimeter of the outside boundary, in meters?",
+      "choices": [
+        "42",
+        "52",
+        "92",
+        "62"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The total width is 12 + 9 = 21 m and the height is 10 m. The shared edge is internal, so the perimeter is 2(21 + 10) = 62 m.",
+        "shortcut": "Use the marked dimensions and relationships, not the apparent size of the drawing."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "2*(12+9+10)",
+      "diagram": {
+        "file": "assets/mat-a1-056.svg",
+        "alt": "Two rectangles share a full vertical edge. Their widths are 12 m and 9 m; both heights are 10 m.",
+        "kind": "original_svg",
+        "notToScale": true
+      }
+    },
+    {
+      "id": "mat-a1-057",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "geometry",
+      "format": "figure_numeric",
+      "difficulty": 2,
+      "templateFamily": "figure-57",
+      "stem": "The shaded part is a rectangular board with a rectangular opening removed. What is its area in square centimeters?",
+      "choices": [
+        "138",
+        "198",
+        "30",
+        "168"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The outer area is 14 × 12 = 168 cm². The opening is 5 × 6 = 30 cm². Subtract to get 138 cm².",
+        "shortcut": "Use the marked dimensions and relationships, not the apparent size of the drawing."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "14*12-5*6",
+      "diagram": {
+        "file": "assets/mat-a1-057.svg",
+        "alt": "Shaded outer rectangle 14 cm by 12 cm with an unshaded rectangular opening 5 cm by 6 cm.",
+        "kind": "original_svg",
+        "notToScale": true
+      }
+    },
+    {
+      "id": "mat-a1-058",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "geometry",
+      "format": "figure_numeric",
+      "difficulty": 2,
+      "templateFamily": "figure-58",
+      "stem": "In triangle ABC, BD is perpendicular to AC. AC is 18 cm and BD is 7 cm. What is the triangle’s area in square centimeters?",
+      "choices": [
+        "63",
+        "56",
+        "126",
+        "81"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Use the entire base AC, not just DC or the sloping side. Area = 18 × 7 ÷ 2 = 63 cm².",
+        "shortcut": "Use the marked dimensions and relationships, not the apparent size of the drawing."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "18*7/2",
+      "diagram": {
+        "file": "assets/mat-a1-058.svg",
+        "alt": "Triangle ABC with base AC of 18 cm. Perpendicular BD from vertex B to AC is 7 cm.",
+        "kind": "original_svg",
+        "notToScale": true
+      }
+    },
+    {
+      "id": "mat-a1-059",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "geometry",
+      "format": "figure_numeric",
+      "difficulty": 2,
+      "templateFamily": "figure-59",
+      "stem": "Each small square has side length 2 cm. What is the total area of the shaded squares in square centimeters?",
+      "choices": [
+        "14",
+        "60",
+        "28",
+        "7"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Seven small squares are shaded. Each has area 2² = 4 cm², so the total is 7 × 4 = 28 cm².",
+        "shortcut": "Use the marked dimensions and relationships, not the apparent size of the drawing."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "7*2**2",
+      "diagram": {
+        "file": "assets/mat-a1-059.svg",
+        "alt": "A 3-row, 5-column square grid. Shaded cells: row 1 columns 1,2; row 2 columns 1,2,3; row 3 columns 3,4.",
+        "kind": "original_svg",
+        "notToScale": true
+      }
+    },
+    {
+      "id": "mat-a1-060",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "geometry",
+      "format": "figure_numeric",
+      "difficulty": 2,
+      "templateFamily": "figure-60",
+      "stem": "A rectangular tank has interior dimensions 9 cm by 4 cm by 8 cm. It is filled to half its height. How many cubic centimeters of water does it contain?",
+      "choices": [
+        "144",
+        "168",
+        "72",
+        "288"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Half the height is 4 cm. Water volume is 9 × 4 × 4 = 144 cm³. Half height gives half volume in this rectangular tank.",
+        "shortcut": "Use the marked dimensions and relationships, not the apparent size of the drawing."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "9*4*8/2",
+      "diagram": {
+        "file": "assets/mat-a1-060.svg",
+        "alt": "Rectangular tank with interior base 9 cm by 4 cm and height 8 cm; water reaches half its height.",
+        "kind": "original_svg",
+        "notToScale": true
+      }
+    },
+    {
+      "id": "mat-a1-061",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "geometry",
+      "format": "figure_numeric",
+      "difficulty": 2,
+      "templateFamily": "figure-61",
+      "stem": "The diagram is a net of a cube. Every square has side length 3 cm. What is the surface area of the folded cube in square centimeters?",
+      "choices": [
+        "27",
+        "54",
+        "18",
+        "36"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The net contains six square faces. Each has area 9 cm², so the total surface area is 6 × 9 = 54 cm².",
+        "shortcut": "Use the marked dimensions and relationships, not the apparent size of the drawing."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "6*3**2",
+      "diagram": {
+        "file": "assets/mat-a1-061.svg",
+        "alt": "Six equal squares in a cube net: four in a vertical strip, with one to each side of the second square. Every square has side 3 cm.",
+        "kind": "original_svg",
+        "notToScale": true
+      }
+    },
+    {
+      "id": "mat-a1-062",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "geometry",
+      "format": "figure_numeric",
+      "difficulty": 1,
+      "templateFamily": "figure-62",
+      "stem": "Two straight lines intersect. The marked angles are vertically opposite. What is x, in degrees?",
+      "choices": [
+        "59",
+        "62",
+        "242",
+        "118"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Vertically opposite angles are equal; x is 118°. The supplementary 62° belongs to an adjacent angle.",
+        "shortcut": "Use the marked dimensions and relationships, not the apparent size of the drawing."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "118",
+      "diagram": {
+        "file": "assets/mat-a1-062.svg",
+        "alt": "Two intersecting straight lines. The top angle is x degrees and its vertically opposite bottom angle is 118 degrees.",
+        "kind": "original_svg",
+        "notToScale": true
+      }
+    },
+    {
+      "id": "mat-a1-063",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "geometry",
+      "format": "figure_numeric",
+      "difficulty": 3,
+      "templateFamily": "figure-63",
+      "stem": "The horizontal lines are parallel. The 67° angle is above the upper line and left of the transversal; x is above the lower line and right of the transversal. What is x?",
+      "choices": [
+        "113",
+        "23",
+        "67",
+        "134"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The angle above the upper line on the right is 180 − 67 = 113°. The matching angle above the lower line on the right is equal to it.",
+        "shortcut": "Use the marked dimensions and relationships, not the apparent size of the drawing."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "180-67",
+      "diagram": {
+        "file": "assets/mat-a1-063.svg",
+        "alt": "Two parallel horizontal lines crossed by a sloping transversal. The upper exterior left angle is 67 degrees. The angle above the lower line on the right is x.",
+        "kind": "original_svg",
+        "notToScale": true
+      }
+    },
+    {
+      "id": "mat-a1-064",
+      "revision": 3,
+      "section": "mathematics",
+      "skill": "geometry",
+      "format": "figure_numeric",
+      "difficulty": 2,
+      "templateFamily": "figure-64",
+      "stem": "The figure is a semicircle with center O and radius 10 cm. Using π = 3.14, what is the length of the curved edge only, in centimeters?",
+      "choices": [
+        "31.4",
+        "51.4",
+        "62.8",
+        "314"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The curved edge is half a circle’s circumference: (2 × 3.14 × 10) ÷ 2 = 31.4 cm. Do not add the straight diameter.",
+        "shortcut": "Use the marked dimensions and relationships, not the apparent size of the drawing."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "3.14*10",
+      "diagram": {
+        "file": "assets/mat-a1-064.svg",
+        "alt": "A semicircle. O is the midpoint of its diameter; a radius from O to one end measures 10 cm. Only the curved edge is requested.",
+        "kind": "original_svg",
+        "notToScale": true
+      }
+    },
+    {
+      "id": "mat-a1-065",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "geometry",
+      "format": "figure_numeric",
+      "difficulty": 2,
+      "templateFamily": "figure-65",
+      "stem": "A rectangle’s vertices are labeled on the coordinate plane. What is its area in square units?",
+      "choices": [
+        "45",
+        "28",
+        "7",
+        "22"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The horizontal span is 9 − 2 = 7 and vertical span is 5 − 1 = 4. Multiply to get 28 square units.",
+        "shortcut": "Use the marked dimensions and relationships, not the apparent size of the drawing."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "(9-2)*(5-1)",
+      "diagram": {
+        "file": "assets/mat-a1-065.svg",
+        "alt": "Rectangle vertices are (2,1), (9,1), (9,5), and (2,5).",
+        "kind": "original_svg",
+        "notToScale": true
+      }
+    },
+    {
+      "id": "mat-a1-066",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "statistics_probability",
+      "format": "figure_numeric",
+      "difficulty": 2,
+      "templateFamily": "figure-66",
+      "stem": "The bar graph shows the number of repaired bicycles on four days. What is the mean number repaired per day?",
+      "choices": [
+        "7",
+        "32",
+        "8",
+        "9"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Add the four values: 6 + 9 + 5 + 12 = 32. Divide by four days to get 8 bicycles per day.",
+        "shortcut": "Use the marked dimensions and relationships, not the apparent size of the drawing."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "(6+9+5+12)/4",
+      "diagram": {
+        "file": "assets/mat-a1-066.svg",
+        "alt": "Four bars labeled Monday 6, Tuesday 9, Wednesday 5, Thursday 12 repaired bicycles.",
+        "kind": "original_svg",
+        "notToScale": true
+      }
+    },
+    {
+      "id": "mat-a1-067",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "number_concepts",
+      "format": "figure_numeric",
+      "difficulty": 1,
+      "templateFamily": "figure-67",
+      "stem": "The interval from 0 to 1 is divided into eight equal parts. Point P is at the fifth division after 0. What number does P represent?",
+      "choices": [
+        "5/8",
+        "3/8",
+        "5/9",
+        "4/5"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Each interval is 1/8. Moving five such intervals from zero reaches 5/8.",
+        "shortcut": "Use the marked dimensions and relationships, not the apparent size of the drawing."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "5/8",
+      "diagram": {
+        "file": "assets/mat-a1-067.svg",
+        "alt": "Number line from 0 to 1 divided into 8 equal intervals; P marks the fifth division after 0.",
+        "kind": "original_svg",
+        "notToScale": true
+      }
+    },
+    {
+      "id": "mat-a1-068",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "geometry",
+      "format": "figure_numeric",
+      "difficulty": 2,
+      "templateFamily": "figure-68",
+      "stem": "The circle is divided into four equal sectors, one shaded. Its radius is 8 cm. Using π = 3.14, what is the shaded area in square centimeters?",
+      "choices": [
+        "25.12",
+        "12.56",
+        "50.24",
+        "200.96"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "A quarter of the circle’s area is (3.14 × 8²) ÷ 4 = 50.24 cm².",
+        "shortcut": "Use the marked dimensions and relationships, not the apparent size of the drawing."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "3.14*8**2/4",
+      "diagram": {
+        "file": "assets/mat-a1-068.svg",
+        "alt": "Circle of radius 8 cm divided into four equal sectors; exactly one sector is shaded.",
+        "kind": "original_svg",
+        "notToScale": true
+      }
+    },
+    {
+      "id": "mat-a1-069",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "measurement",
+      "format": "figure_numeric",
+      "difficulty": 1,
+      "templateFamily": "figure-69",
+      "stem": "A rectangular hall is drawn on a plan. Its drawn length is 7.5 cm, and the scale is 1 cm to 4 m. What is the actual length in meters?",
+      "choices": [
+        "11.5",
+        "1.875",
+        "30",
+        "300"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Each drawn centimeter represents 4 m; 7.5 × 4 = 30 m.",
+        "shortcut": "Use the marked dimensions and relationships, not the apparent size of the drawing."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "7.5*4",
+      "diagram": {
+        "file": "assets/mat-a1-069.svg",
+        "alt": "Rectangle on a plan with drawn length 7.5 cm. Scale is 1 cm represents 4 m.",
+        "kind": "original_svg",
+        "notToScale": true
+      }
+    },
+    {
+      "id": "mat-a1-070",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "statistics_probability",
+      "format": "figure_numeric",
+      "difficulty": 1,
+      "templateFamily": "figure-70",
+      "stem": "A fair spinner has the four equal sectors shown. What is the probability it lands on a sector labeled B?",
+      "choices": [
+        "1/3",
+        "1/4",
+        "3/4",
+        "1/2"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Two of the four equally likely sectors have B, so the probability is 2/4 = 1/2.",
+        "shortcut": "Use the marked dimensions and relationships, not the apparent size of the drawing."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "2/4",
+      "diagram": {
+        "file": "assets/mat-a1-070.svg",
+        "alt": "Circular spinner divided into four equal sectors labeled A, B, B, C; each sector is equally likely.",
+        "kind": "original_svg",
+        "notToScale": true
+      }
+    },
+    {
+      "id": "mat-a1-071",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "geometry",
+      "format": "figure_numeric",
+      "difficulty": 3,
+      "templateFamily": "figure-71",
+      "stem": "The outline is formed by removing a 7 m by 6 m rectangle from the lower-right corner of a 16 m by 11 m rectangle. What is the perimeter of the remaining shape in meters?",
+      "choices": [
+        "54",
+        "67",
+        "108",
+        "41"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The remaining horizontal lengths are 16, 7, and 16 − 7 = 9. The vertical lengths are 11, 6, and 11 − 6 = 5. Their total is 54 m, the same as the outer rectangle’s perimeter.",
+        "shortcut": "Use the marked dimensions and relationships, not the apparent size of the drawing."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "16+7+(16-7)+11+6+(11-6)",
+      "diagram": {
+        "file": "assets/mat-a1-071.svg",
+        "alt": "L-shaped outline cut from a 16 m wide, 11 m high rectangle. The removed lower-right corner is 7 m wide and 6 m high.",
+        "kind": "original_svg",
+        "notToScale": true
+      }
+    },
+    {
+      "id": "mat-a1-072",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "geometry",
+      "format": "geometry",
+      "difficulty": 3,
+      "templateFamily": "area tiling",
+      "stem": "A floor is 6 m by 4 m. Square tiles have side length 0.5 m and cover it without gaps. How many tiles are needed?",
+      "choices": [
+        "96",
+        "48",
+        "24",
+        "12"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Each tile covers 0.25 square meters; 24/0.25 = 96.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "6*4/(0.5**2)"
+    },
+    {
+      "id": "mat-a1-073",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "geometry",
+      "format": "geometry",
+      "difficulty": 3,
+      "templateFamily": "similar figures",
+      "stem": "Two similar triangles have corresponding sides 4 cm and 10 cm. A second side of the smaller triangle is 6 cm. What is the matching side of the larger triangle in cm?",
+      "choices": [
+        "8.4",
+        "12",
+        "24",
+        "15"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The scale factor is 10/4 = 2.5; multiply 6 by 2.5.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "6*10/4"
+    },
+    {
+      "id": "mat-a1-074",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "geometry",
+      "format": "geometry",
+      "difficulty": 2,
+      "templateFamily": "coordinate distance",
+      "stem": "A point moves from (−3, 2) to (5, 2). What distance does it travel along the horizontal line?",
+      "choices": [
+        "10",
+        "8",
+        "2",
+        "6"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The y-coordinate stays fixed; the horizontal distance is 5 − (−3) = 8.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "5-(-3)"
+    },
+    {
+      "id": "mat-a1-075",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "geometry",
+      "format": "geometry",
+      "difficulty": 2,
+      "templateFamily": "missing prism dimension",
+      "stem": "A rectangular box has volume 180 cubic centimeters, length 9 cm and width 4 cm. What is its height in cm?",
+      "choices": [
+        "13",
+        "5",
+        "20",
+        "45"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Divide volume by the base area: 180/(9 × 4) = 5.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "180/(9*4)"
+    },
+    {
+      "id": "mat-a1-076",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "algebra",
+      "format": "algebra",
+      "difficulty": 1,
+      "templateFamily": "one step addition equation",
+      "stem": "Solve x + 17 = 42.",
+      "choices": [
+        "35",
+        "25",
+        "24",
+        "59"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Subtract 17 from both sides.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "42-17"
+    },
+    {
+      "id": "mat-a1-077",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "algebra",
+      "format": "algebra",
+      "difficulty": 1,
+      "templateFamily": "one step multiplication equation",
+      "stem": "Solve 6x = 54.",
+      "choices": [
+        "60",
+        "48",
+        "324",
+        "9"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Divide both sides by 6.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "54/6"
+    },
+    {
+      "id": "mat-a1-078",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "algebra",
+      "format": "algebra",
+      "difficulty": 2,
+      "templateFamily": "two step equation",
+      "stem": "Solve 3x − 5 = 22.",
+      "choices": [
+        "17/3",
+        "27",
+        "9",
+        "7"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Add 5 to obtain 3x = 27, then divide by 3.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "(22+5)/3"
+    },
+    {
+      "id": "mat-a1-079",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "algebra",
+      "format": "algebra",
+      "difficulty": 2,
+      "templateFamily": "parenthesized equation",
+      "stem": "Solve 4(x + 2) = 36.",
+      "choices": [
+        "34",
+        "7",
+        "8",
+        "11"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Divide by 4 to get x + 2 = 9, then subtract 2.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "36/4-2"
+    },
+    {
+      "id": "mat-a1-080",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "algebra",
+      "format": "algebra",
+      "difficulty": 3,
+      "templateFamily": "both sides equation",
+      "stem": "Solve 5x + 7 = 2x + 28.",
+      "choices": [
+        "5",
+        "7",
+        "21",
+        "35/3"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Subtract 2x and 7 to get 3x = 21, so x = 7.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "(28-7)/(5-2)"
+    },
+    {
+      "id": "mat-a1-081",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "algebra",
+      "format": "conceptual",
+      "difficulty": 2,
+      "templateFamily": "concept-81",
+      "stem": "Which expression equals 5(2x + 3) − 4x for every x?",
+      "choices": [
+        "10x + 11",
+        "6x + 3",
+        "14x + 15",
+        "6x + 15"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Distribute to get 10x + 15, then subtract 4x to obtain 6x + 15.",
+        "shortcut": "Check whether the claim is always true; a single counterexample defeats an always claim."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "mat-a1-082",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "algebra",
+      "format": "conceptual",
+      "difficulty": 3,
+      "templateFamily": "concept-82",
+      "stem": "If a < b, which inequality must be true?",
+      "choices": [
+        "−a < −b",
+        "a² < b²",
+        "a + 5 < b",
+        "a − 5 < b − 5"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Subtracting the same number preserves order. Negation reverses it; squaring can change it; adding only to a need not preserve it.",
+        "shortcut": "Check whether the claim is always true; a single counterexample defeats an always claim."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "mat-a1-083",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "algebra",
+      "format": "conceptual",
+      "difficulty": 2,
+      "templateFamily": "concept-83",
+      "stem": "A theater charges d dollars for each adult ticket and c dollars for each child ticket. Which expression gives the total for 3 adult and 5 child tickets?",
+      "choices": [
+        "3d + 5c",
+        "8dc",
+        "3c + 5d",
+        "8(d + c)"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Each price is multiplied by its own ticket count and the two costs are added.",
+        "shortcut": "Check whether the claim is always true; a single counterexample defeats an always claim."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "mat-a1-084",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "statistics_probability",
+      "format": "conceptual",
+      "difficulty": 3,
+      "templateFamily": "concept-84",
+      "stem": "Adding the same nonzero number to every value in a data set leaves which measure unchanged?",
+      "choices": [
+        "Mean",
+        "Median",
+        "Range",
+        "Maximum"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The maximum and minimum shift by the same amount, leaving their difference unchanged; the other measures shift.",
+        "shortcut": "Check whether the claim is always true; a single counterexample defeats an always claim."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "mat-a1-085",
+      "revision": 3,
+      "section": "mathematics",
+      "skill": "statistics_probability",
+      "format": "conceptual",
+      "difficulty": 2,
+      "templateFamily": "concept-85",
+      "stem": "A fair coin lands heads five times in independent tosses. What is the probability of heads on the next toss?",
+      "choices": [
+        "1/2",
+        "5/6",
+        "1/32",
+        "1/6"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Independence leaves the next toss at 1/2; earlier outcomes do not create a debt for tails or a trend for heads.",
+        "shortcut": "Check whether the claim is always true; a single counterexample defeats an always claim."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "mat-a1-086",
+      "revision": 3,
+      "section": "mathematics",
+      "skill": "algebra",
+      "format": "algebra",
+      "difficulty": 3,
+      "templateFamily": "consecutive-factor-pair",
+      "stem": "Two consecutive positive integers have a product of 156. What is the smaller integer?",
+      "choices": [
+        "13",
+        "14",
+        "11",
+        "12"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The neighboring factors 12 and 13 have product 156, so the smaller integer is 12. The other proposed smaller values give different products.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "12"
+    },
+    {
+      "id": "mat-a1-087",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "algebra",
+      "format": "algebra",
+      "difficulty": 2,
+      "templateFamily": "fractional equation",
+      "stem": "Solve x/5 + 3 = 11.",
+      "choices": [
+        "70",
+        "40",
+        "8",
+        "14"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Subtract 3 to get x/5 = 8, then multiply by 5.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "(11-3)*5"
+    },
+    {
+      "id": "mat-a1-088",
+      "revision": 3,
+      "section": "mathematics",
+      "skill": "algebra",
+      "format": "algebra",
+      "difficulty": 2,
+      "templateFamily": "quadratic substitution",
+      "stem": "If y = 2 × x² − 3, what is y when x = −2?",
+      "choices": [
+        "5",
+        "−11",
+        "13",
+        "1"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Square −2 first to get 4; 2 × 4 − 3 = 5.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "2*(-2)**2-3"
+    },
+    {
+      "id": "mat-a1-089",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "algebra",
+      "format": "algebra",
+      "difficulty": 3,
+      "templateFamily": "geometry equation",
+      "stem": "A rectangle's length is 3 cm more than its width. Its perimeter is 30 cm. What is its width in cm?",
+      "choices": [
+        "9",
+        "12",
+        "13.5",
+        "6"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "2w + 2(w + 3) = 30, so 4w = 24 and w = 6.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "(30-2*3)/4"
+    },
+    {
+      "id": "mat-a1-090",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "algebra",
+      "format": "algebra",
+      "difficulty": 3,
+      "templateFamily": "strict inequality",
+      "stem": "What is the greatest integer x satisfying 2x + 1 < 12?",
+      "choices": [
+        "4",
+        "11",
+        "5",
+        "6"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Subtract 1 and divide by 2: x < 5.5, so the greatest integer is 5.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "greatest_int_lt(2,1,12)"
+    },
+    {
+      "id": "mat-a1-091",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "statistics_probability",
+      "format": "statistics_probability",
+      "difficulty": 1,
+      "templateFamily": "arithmetic mean",
+      "stem": "What is the mean of 7, 9, 12 and 16?",
+      "choices": [
+        "12",
+        "11",
+        "10",
+        "44"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Their sum is 44; divide by four values.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "(7+9+12+16)/4"
+    },
+    {
+      "id": "mat-a1-092",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "statistics_probability",
+      "format": "statistics_probability",
+      "difficulty": 1,
+      "templateFamily": "odd median",
+      "stem": "What is the median of 4, 11, 7, 15 and 8?",
+      "choices": [
+        "9",
+        "8",
+        "11",
+        "7"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Order the values 4, 7, 8, 11, 15; the middle is 8.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "median(4,11,7,15,8)"
+    },
+    {
+      "id": "mat-a1-093",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "statistics_probability",
+      "format": "statistics_probability",
+      "difficulty": 2,
+      "templateFamily": "even median",
+      "stem": "What is the median of 3, 6, 8, 13, 14 and 20?",
+      "choices": [
+        "10.5",
+        "11",
+        "13",
+        "8"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The middle pair is 8 and 13; average them to get 10.5.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "median(3,6,8,13,14,20)"
+    },
+    {
+      "id": "mat-a1-094",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "statistics_probability",
+      "format": "statistics_probability",
+      "difficulty": 1,
+      "templateFamily": "range",
+      "stem": "What is the range of 18, 25, 14, 30 and 22?",
+      "choices": [
+        "14",
+        "16",
+        "22",
+        "30"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Range is maximum minus minimum: 30 − 14.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "30-14"
+    },
+    {
+      "id": "mat-a1-095",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "statistics_probability",
+      "format": "statistics_probability",
+      "difficulty": 1,
+      "templateFamily": "mode",
+      "stem": "Scores are 6, 8, 8, 9, 10, 10, 10 and 12. What is the mode?",
+      "choices": [
+        "9",
+        "12",
+        "8",
+        "10"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "10 appears three times, more often than any other score.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "mode(6,8,8,9,10,10,10,12)"
+    },
+    {
+      "id": "mat-a1-096",
+      "revision": 3,
+      "section": "mathematics",
+      "skill": "statistics_probability",
+      "format": "statistics_probability",
+      "difficulty": 1,
+      "templateFamily": "simple probability",
+      "stem": "A bag holds 5 red, 3 blue and 2 green counters. One counter is chosen at random. What is the probability it is blue, in simplest form? Each counter remaining in the bag is equally likely to be chosen on each draw.",
+      "choices": [
+        "1/3",
+        "3/7",
+        "7/10",
+        "3/10"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "There are 3 blue counters among 10 equally likely counters.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "3/(5+3+2)"
+    },
+    {
+      "id": "mat-a1-097",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "statistics_probability",
+      "format": "statistics_probability",
+      "difficulty": 1,
+      "templateFamily": "event counting",
+      "stem": "A fair six-sided die is rolled. What is the probability of an outcome greater than 4, in simplest form?",
+      "choices": [
+        "1/6",
+        "2/3",
+        "1/2",
+        "1/3"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The favorable outcomes are 5 and 6: 2 out of 6, or 1/3.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "2/6"
+    },
+    {
+      "id": "mat-a1-098",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "statistics_probability",
+      "format": "statistics_probability",
+      "difficulty": 2,
+      "templateFamily": "independent events",
+      "stem": "Two fair coins are tossed independently. What is the probability both show heads?",
+      "choices": [
+        "3/4",
+        "1/4",
+        "1/2",
+        "1"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The four equally likely outcomes are HH, HT, TH and TT; only HH qualifies.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "1/2*1/2"
+    },
+    {
+      "id": "mat-a1-099",
+      "revision": 2,
+      "section": "mathematics",
+      "skill": "statistics_probability",
+      "format": "statistics_probability",
+      "difficulty": 3,
+      "templateFamily": "missing mean value",
+      "stem": "Four tests have mean score 82. The first three scores are 76, 85 and 81. What is the fourth score?",
+      "choices": [
+        "86",
+        "90",
+        "84",
+        "82"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The required total is 4 × 82 = 328; subtract the known total 242.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "4*82-76-85-81"
+    },
+    {
+      "id": "mat-a1-100",
+      "revision": 3,
+      "section": "mathematics",
+      "skill": "statistics_probability",
+      "format": "statistics_probability",
+      "difficulty": 3,
+      "templateFamily": "dependent events",
+      "stem": "A bag has 4 black and 2 white counters. Two are drawn without replacement. What is the probability both are white, in simplest form? Each counter remaining in the bag is equally likely to be chosen on each draw.",
+      "choices": [
+        "1/15",
+        "1/9",
+        "1/3",
+        "2/15"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The first white probability is 2/6; after one white is removed it is 1/5. Multiply to get 1/15.",
+        "shortcut": "Estimate the size of the result, then check the required operation and units."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "source-calibration.json#mathematics",
+      "reviewStatus": "pending_human_review",
+      "oracleExpression": "2/6*1/5"
+    }
+  ]
+}

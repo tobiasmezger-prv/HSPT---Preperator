@@ -1,0 +1,183 @@
+{
+  "manifestSha256": "d18d9ce23254906fdd55e94200b02c7109b91455b65b8e9687b1598c7acb6626",
+  "figures": [
+    {
+      "id": "mat-a1-056",
+      "status": "agent_browser_visual_check_passed",
+      "checks": [
+        "labels legible",
+        "geometry consistent with marked givens",
+        "no solution revealed",
+        "accessible description supplied"
+      ]
+    },
+    {
+      "id": "mat-a1-057",
+      "status": "agent_browser_visual_check_passed",
+      "checks": [
+        "labels legible",
+        "geometry consistent with marked givens",
+        "no solution revealed",
+        "accessible description supplied"
+      ]
+    },
+    {
+      "id": "mat-a1-058",
+      "status": "agent_browser_visual_check_passed",
+      "checks": [
+        "labels legible",
+        "geometry consistent with marked givens",
+        "no solution revealed",
+        "accessible description supplied"
+      ]
+    },
+    {
+      "id": "mat-a1-059",
+      "status": "agent_browser_visual_check_passed",
+      "checks": [
+        "labels legible",
+        "geometry consistent with marked givens",
+        "no solution revealed",
+        "accessible description supplied"
+      ]
+    },
+    {
+      "id": "mat-a1-060",
+      "status": "agent_browser_visual_check_passed",
+      "checks": [
+        "labels legible",
+        "geometry consistent with marked givens",
+        "no solution revealed",
+        "accessible description supplied"
+      ]
+    },
+    {
+      "id": "mat-a1-061",
+      "status": "agent_browser_visual_check_passed",
+      "checks": [
+        "labels legible",
+        "geometry consistent with marked givens",
+        "no solution revealed",
+        "accessible description supplied"
+      ]
+    },
+    {
+      "id": "mat-a1-062",
+      "status": "agent_browser_visual_check_passed",
+      "checks": [
+        "labels legible",
+        "geometry consistent with marked givens",
+        "no solution revealed",
+        "accessible description supplied"
+      ]
+    },
+    {
+      "id": "mat-a1-063",
+      "status": "agent_browser_visual_check_passed",
+      "checks": [
+        "labels legible",
+        "geometry consistent with marked givens",
+        "no solution revealed",
+        "accessible description supplied"
+      ]
+    },
+    {
+      "id": "mat-a1-064",
+      "status": "agent_browser_visual_check_passed",
+      "checks": [
+        "labels legible",
+        "geometry consistent with marked givens",
+        "no solution revealed",
+        "accessible description supplied"
+      ]
+    },
+    {
+      "id": "mat-a1-065",
+      "status": "agent_browser_visual_check_passed",
+      "checks": [
+        "labels legible",
+        "geometry consistent with marked givens",
+        "no solution revealed",
+        "accessible description supplied"
+      ]
+    },
+    {
+      "id": "mat-a1-066",
+      "status": "agent_browser_visual_check_passed",
+      "checks": [
+        "labels legible",
+        "geometry consistent with marked givens",
+        "no solution revealed",
+        "accessible description supplied"
+      ]
+    },
+    {
+      "id": "mat-a1-067",
+      "status": "agent_browser_visual_check_passed",
+      "checks": [
+        "labels legible",
+        "geometry consistent with marked givens",
+        "no solution revealed",
+        "accessible description supplied"
+      ]
+    },
+    {
+      "id": "mat-a1-068",
+      "status": "agent_browser_visual_check_passed",
+      "checks": [
+        "labels legible",
+        "geometry consistent with marked givens",
+        "no solution revealed",
+        "accessible description supplied"
+      ]
+    },
+    {
+      "id": "mat-a1-069",
+      "status": "agent_browser_visual_check_passed",
+      "checks": [
+        "labels legible",
+        "geometry consistent with marked givens",
+        "no solution revealed",
+        "accessible description supplied"
+      ]
+    },
+    {
+      "id": "mat-a1-070",
+      "status": "agent_browser_visual_check_passed",
+      "checks": [
+        "labels legible",
+        "geometry consistent with marked givens",
+        "no solution revealed",
+        "accessible description supplied"
+      ]
+    },
+    {
+      "id": "mat-a1-071",
+      "status": "agent_browser_visual_check_passed",
+      "checks": [
+        "labels legible",
+        "geometry consistent with marked givens",
+        "no solution revealed",
+        "accessible description supplied"
+      ]
+    }
+  ],
+  "fixes": [
+    "Moved cube-net side label clear of the net.",
+    "Shortened tank water-level label to avoid edge collision.",
+    "Aligned transversal slope with the marked angles before final inspection."
+  ],
+  "responsiveChecks": [
+    {
+      "width": 390,
+      "scrollWidth": 390
+    },
+    {
+      "width": 820,
+      "scrollWidth": 820
+    }
+  ],
+  "method": "Browser figure galleries and final packet. Same-origin iframe widths used because viewport override did not take effect.",
+  "actualDeviceCheck": "pending",
+  "humanReview": "pending"
+}

@@ -1,0 +1,2709 @@
+{
+  "schemaVersion": "hspt-draft-1",
+  "batchId": "language-additional-v2",
+  "section": "language",
+  "version": 2,
+  "status": "draft_not_for_publication",
+  "questions": [
+    {
+      "id": "lan-a1-001",
+      "revision": 1,
+      "section": "language",
+      "skill": "grammar",
+      "format": "grammar",
+      "difficulty": 1,
+      "templateFamily": "each agreement",
+      "stem": "Choose the word that completes the sentence in standard written English: Each of the baskets ___ a label.",
+      "choices": [
+        "were",
+        "have",
+        "are",
+        "has"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Each is singular, so its verb is has; baskets is inside an of phrase.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-002",
+      "revision": 1,
+      "section": "language",
+      "skill": "grammar",
+      "format": "grammar",
+      "difficulty": 1,
+      "templateFamily": "intervening phrase",
+      "stem": "Choose the correct verb: The list of supplies ___ on the desk.",
+      "choices": [
+        "are",
+        "is",
+        "were",
+        "have been"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The subject is the singular list, not the plural supplies.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-003",
+      "revision": 1,
+      "section": "language",
+      "skill": "grammar",
+      "format": "grammar",
+      "difficulty": 2,
+      "templateFamily": "nor proximity",
+      "stem": "Choose the correct verb: Neither the coach nor the players ___ ready.",
+      "choices": [
+        "was",
+        "is",
+        "are",
+        "has been"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "With neither/nor, the verb agrees with the nearer subject, players.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-004",
+      "revision": 1,
+      "section": "language",
+      "skill": "grammar",
+      "format": "grammar",
+      "difficulty": 2,
+      "templateFamily": "nor reversed proximity",
+      "stem": "Choose the correct verb: Neither the players nor the coach ___ ready.",
+      "choices": [
+        "were",
+        "are",
+        "is",
+        "have been"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The nearer subject is the singular coach, so use is.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-005",
+      "revision": 1,
+      "section": "language",
+      "skill": "grammar",
+      "format": "grammar",
+      "difficulty": 1,
+      "templateFamily": "compound subject pronoun",
+      "stem": "Choose the correct pronoun: Maya and ___ carried the boxes.",
+      "choices": [
+        "mine",
+        "me",
+        "my",
+        "I"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The pronoun is part of the subject, so use I.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-006",
+      "revision": 1,
+      "section": "language",
+      "skill": "grammar",
+      "format": "grammar",
+      "difficulty": 1,
+      "templateFamily": "compound object pronoun",
+      "stem": "Choose the correct pronoun: The principal thanked Jordan and ___.",
+      "choices": [
+        "me",
+        "I",
+        "my",
+        "myself"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The pronoun is an object of thanked, so use me.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-007",
+      "revision": 1,
+      "section": "language",
+      "skill": "grammar",
+      "format": "grammar",
+      "difficulty": 1,
+      "templateFamily": "preposition object",
+      "stem": "Choose the correct pronoun: The decision is between you and ___.",
+      "choices": [
+        "me",
+        "I",
+        "my",
+        "myself"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Between takes object pronouns, including me.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-008",
+      "revision": 1,
+      "section": "language",
+      "skill": "grammar",
+      "format": "grammar",
+      "difficulty": 2,
+      "templateFamily": "irregular participle",
+      "stem": "Choose the correct verb form: By the time we arrived, the show had ___.",
+      "choices": [
+        "beginning",
+        "began",
+        "begin",
+        "begun"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Had requires the past participle begun.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-009",
+      "revision": 1,
+      "section": "language",
+      "skill": "grammar",
+      "format": "grammar",
+      "difficulty": 1,
+      "templateFamily": "simple past",
+      "stem": "Choose the correct verb form: Yesterday, the child ___ across the field.",
+      "choices": [
+        "run",
+        "ran",
+        "running",
+        "runs"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Yesterday calls for past tense, ran.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-010",
+      "revision": 1,
+      "section": "language",
+      "skill": "grammar",
+      "format": "grammar",
+      "difficulty": 2,
+      "templateFamily": "future passive",
+      "stem": "Choose the correct verb form: The announcement will ___ after lunch.",
+      "choices": [
+        "made",
+        "be made",
+        "making",
+        "been made"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Future passive uses will be plus a past participle.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-011",
+      "revision": 1,
+      "section": "language",
+      "skill": "grammar",
+      "format": "grammar",
+      "difficulty": 3,
+      "templateFamily": "hypothetical condition",
+      "stem": "Choose the correct completion: If I ___ the captain, I would ask everyone to speak.",
+      "choices": [
+        "were",
+        "was being",
+        "am",
+        "be"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "A hypothetical condition uses were in this formal construction.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-012",
+      "revision": 1,
+      "section": "language",
+      "skill": "grammar",
+      "format": "grammar",
+      "difficulty": 1,
+      "templateFamily": "comparison of two",
+      "stem": "Choose the correct word: Of the two paths, this one is ___.",
+      "choices": [
+        "shortest",
+        "shorter",
+        "most short",
+        "more shorter"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Use the comparative for two things; do not double it with more.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-013",
+      "revision": 1,
+      "section": "language",
+      "skill": "grammar",
+      "format": "grammar",
+      "difficulty": 1,
+      "templateFamily": "superlative",
+      "stem": "Choose the correct word: Of all five sketches, hers is the ___.",
+      "choices": [
+        "clearest",
+        "clearer",
+        "more clear",
+        "most clearest"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The superlative compares all five; avoid a double superlative.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-014",
+      "revision": 1,
+      "section": "language",
+      "skill": "grammar",
+      "format": "grammar",
+      "difficulty": 1,
+      "templateFamily": "adverb modifying verb",
+      "stem": "Choose the correct word: The musician played the difficult passage ___.",
+      "choices": [
+        "smoothly",
+        "smooth",
+        "smoothness",
+        "smoother than"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "An adverb modifies played; smoothly is the appropriate form.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-015",
+      "revision": 1,
+      "section": "language",
+      "skill": "grammar",
+      "format": "grammar",
+      "difficulty": 2,
+      "templateFamily": "linking verb adjective",
+      "stem": "Choose the correct word: The soup tastes ___.",
+      "choices": [
+        "deliciousness",
+        "deliciously",
+        "delicious",
+        "more deliciously"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Tastes is a linking verb here; an adjective describes the soup.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-016",
+      "revision": 1,
+      "section": "language",
+      "skill": "grammar",
+      "format": "grammar",
+      "difficulty": 3,
+      "templateFamily": "dangling modifier",
+      "stem": "Choose the sentence without a dangling modifier.",
+      "choices": [
+        "Walking into the studio, I noticed the new mural.",
+        "Walking into the studio, the mural surprised me.",
+        "Walking into the studio, the lights were bright.",
+        "Walking into the studio, a desk blocked my view."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The subject I is the person walking. The other subjects cannot logically perform that action.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-017",
+      "revision": 1,
+      "section": "language",
+      "skill": "grammar",
+      "format": "grammar",
+      "difficulty": 2,
+      "templateFamily": "parallel gerunds",
+      "stem": "Choose the sentence with parallel structure.",
+      "choices": [
+        "We enjoy hiking, swimming, and to cycle.",
+        "We enjoy hiking, to swim, and cycling.",
+        "We enjoy to hike, swimming, and cycling.",
+        "We enjoy hiking, swimming, and cycling."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "All three objects use matching -ing forms.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-018",
+      "revision": 2,
+      "section": "language",
+      "skill": "grammar",
+      "format": "grammar",
+      "difficulty": 2,
+      "templateFamily": "sentence fragment",
+      "stem": "Choose the complete sentence.",
+      "choices": [
+        "Although it was raining.",
+        "Although it was raining, the match continued.",
+        "Because of the sudden rain.",
+        "Running across the wet field."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The sentence about the match continuing contains the independent clause “the match continued.” The other choices lack an independent clause.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-019",
+      "revision": 1,
+      "section": "language",
+      "skill": "grammar",
+      "format": "grammar",
+      "difficulty": 2,
+      "templateFamily": "plural form noun",
+      "stem": "Choose the correct verb: The scissors ___ in the drawer.",
+      "choices": [
+        "was",
+        "is",
+        "are",
+        "has been"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Scissors is grammatically plural in this sentence.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-020",
+      "revision": 1,
+      "section": "language",
+      "skill": "grammar",
+      "format": "grammar",
+      "difficulty": 2,
+      "templateFamily": "relative subject",
+      "stem": "Choose the correct completion: The student ___ won the contest thanked her teacher.",
+      "choices": [
+        "whose",
+        "whom",
+        "who",
+        "which's"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Who is the subject of won and refers to a person.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-021",
+      "revision": 1,
+      "section": "language",
+      "skill": "usage",
+      "format": "usage",
+      "difficulty": 1,
+      "templateFamily": "count quantity",
+      "stem": "Choose the correct word: There were ___ mistakes in the second draft.",
+      "choices": [
+        "much",
+        "less",
+        "little",
+        "fewer"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Mistakes are countable, so use fewer.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-022",
+      "revision": 1,
+      "section": "language",
+      "skill": "usage",
+      "format": "usage",
+      "difficulty": 1,
+      "templateFamily": "mass quantity",
+      "stem": "Choose the correct word: We have ___ time than we expected.",
+      "choices": [
+        "fewer",
+        "less",
+        "many",
+        "few"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Time is an uncountable quantity here, so use less.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-023",
+      "revision": 1,
+      "section": "language",
+      "skill": "usage",
+      "format": "usage",
+      "difficulty": 2,
+      "templateFamily": "lay object",
+      "stem": "Choose the correct word: Please ___ the folder on my desk.",
+      "choices": [
+        "lain",
+        "lie",
+        "lay",
+        "laying"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Lay means put something down and takes folder as its object.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-024",
+      "revision": 1,
+      "section": "language",
+      "skill": "usage",
+      "format": "usage",
+      "difficulty": 2,
+      "templateFamily": "lie intransitive",
+      "stem": "Choose the correct word: I need to ___ down for a few minutes.",
+      "choices": [
+        "lain",
+        "lay",
+        "laid",
+        "lie"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Lie means recline and does not take an object; need to takes the base form.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-025",
+      "revision": 1,
+      "section": "language",
+      "skill": "usage",
+      "format": "usage",
+      "difficulty": 1,
+      "templateFamily": "rise intransitive",
+      "stem": "Choose the correct word: The sun will ___ at dawn.",
+      "choices": [
+        "rose",
+        "raise",
+        "rise",
+        "risen"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Rise is intransitive; raise requires an object.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-026",
+      "revision": 1,
+      "section": "language",
+      "skill": "usage",
+      "format": "usage",
+      "difficulty": 1,
+      "templateFamily": "raise transitive",
+      "stem": "Choose the correct word: Please ___ your hand before speaking.",
+      "choices": [
+        "rose",
+        "rise",
+        "raise",
+        "risen"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Raise takes the object your hand.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-027",
+      "revision": 2,
+      "section": "language",
+      "skill": "usage",
+      "format": "usage",
+      "difficulty": 2,
+      "templateFamily": "affect effect",
+      "stem": "Choose the word meaning influence: The new schedule may ___ attendance.",
+      "choices": [
+        "effects",
+        "effect",
+        "affect",
+        "affection"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Affect is the verb meaning influence; may requires the base form.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-028",
+      "revision": 1,
+      "section": "language",
+      "skill": "usage",
+      "format": "usage",
+      "difficulty": 2,
+      "templateFamily": "effect noun",
+      "stem": "Choose the correct word: The change had an immediate ___ on attendance.",
+      "choices": [
+        "effect",
+        "affect",
+        "affecting",
+        "effective"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Effect is the noun meaning result, fitting after an immediate.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-029",
+      "revision": 1,
+      "section": "language",
+      "skill": "usage",
+      "format": "usage",
+      "difficulty": 1,
+      "templateFamily": "except accept",
+      "stem": "Choose the correct word: Everyone ___ Elena arrived before noon.",
+      "choices": [
+        "except",
+        "accept",
+        "expect",
+        "access"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Except means excluding. Accept means receive or agree to.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-030",
+      "revision": 1,
+      "section": "language",
+      "skill": "usage",
+      "format": "usage",
+      "difficulty": 1,
+      "templateFamily": "advice noun",
+      "stem": "Choose the correct word: The coach offered useful ___.",
+      "choices": [
+        "advice",
+        "advise",
+        "advises",
+        "advising"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Advice is the noun; advise is a verb.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-031",
+      "revision": 1,
+      "section": "language",
+      "skill": "usage",
+      "format": "usage",
+      "difficulty": 1,
+      "templateFamily": "advise verb",
+      "stem": "Choose the correct word: The counselor will ___ us about course choices.",
+      "choices": [
+        "advisory",
+        "advice",
+        "advise",
+        "advisement"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Will takes a base-form verb, advise.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-032",
+      "revision": 1,
+      "section": "language",
+      "skill": "usage",
+      "format": "usage",
+      "difficulty": 1,
+      "templateFamily": "than then",
+      "stem": "Choose the correct word: I would rather read ___ watch television.",
+      "choices": [
+        "then",
+        "than",
+        "when",
+        "that"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Rather ... than makes a comparison; then concerns time.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-033",
+      "revision": 1,
+      "section": "language",
+      "skill": "usage",
+      "format": "usage",
+      "difficulty": 1,
+      "templateFamily": "then sequence",
+      "stem": "Choose the correct word: Finish your outline; ___ write the essay.",
+      "choices": [
+        "that",
+        "than",
+        "then",
+        "them"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Then indicates the next step in time.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-034",
+      "revision": 1,
+      "section": "language",
+      "skill": "usage",
+      "format": "usage",
+      "difficulty": 1,
+      "templateFamily": "their possession",
+      "stem": "Choose the correct word: The hikers left ___ boots outside.",
+      "choices": [
+        "theirs'",
+        "there",
+        "they're",
+        "their"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Their shows that the boots belong to the hikers.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-035",
+      "revision": 1,
+      "section": "language",
+      "skill": "usage",
+      "format": "usage",
+      "difficulty": 1,
+      "templateFamily": "they are contraction",
+      "stem": "Choose the correct word: ___ planning a neighborhood cleanup.",
+      "choices": [
+        "Theirs",
+        "Their",
+        "There",
+        "They're"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "They're expands to they are, which supplies the subject and verb.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-036",
+      "revision": 1,
+      "section": "language",
+      "skill": "usage",
+      "format": "usage",
+      "difficulty": 1,
+      "templateFamily": "its possession",
+      "stem": "Choose the correct word: The puppy chased ___ tail.",
+      "choices": [
+        "its'",
+        "it's",
+        "its",
+        "it is"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Its is possessive; it's means it is or it has.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-037",
+      "revision": 1,
+      "section": "language",
+      "skill": "usage",
+      "format": "usage",
+      "difficulty": 1,
+      "templateFamily": "it is contraction",
+      "stem": "Choose the correct word: ___ likely to snow tonight.",
+      "choices": [
+        "It",
+        "Its",
+        "Its'",
+        "It's"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "It's expands to it is, producing a complete sentence.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-038",
+      "revision": 1,
+      "section": "language",
+      "skill": "usage",
+      "format": "usage",
+      "difficulty": 1,
+      "templateFamily": "lose loose",
+      "stem": "Choose the correct word: I do not want to ___ the receipt.",
+      "choices": [
+        "losing",
+        "loose",
+        "loss",
+        "lose"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Lose is the verb meaning misplace; loose means not tight.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-039",
+      "revision": 1,
+      "section": "language",
+      "skill": "usage",
+      "format": "usage",
+      "difficulty": 1,
+      "templateFamily": "between two",
+      "stem": "Choose the correct word: The museum is ___ the library and the theater.",
+      "choices": [
+        "among",
+        "between",
+        "during",
+        "through"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Between identifies a position relative to two named places.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-040",
+      "revision": 1,
+      "section": "language",
+      "skill": "usage",
+      "format": "usage",
+      "difficulty": 3,
+      "templateFamily": "pronoun clarity",
+      "stem": "Which revision removes the unclear pronoun? Original: When Lena met Priya, she was holding a violin. The writer means Priya held it.",
+      "choices": [
+        "She held a violin when Lena met Priya.",
+        "When Lena met Priya, she held it.",
+        "When Lena met Priya, Priya was holding a violin.",
+        "Lena met her while she held the violin."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Repeating Priya makes the intended person explicit; the other versions leave ambiguous pronouns.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-041",
+      "revision": 1,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "punctuation",
+      "difficulty": 1,
+      "templateFamily": "introductory clause",
+      "stem": "Choose the correctly punctuated sentence.",
+      "choices": [
+        "After, the final bell rang the students left.",
+        "After the final bell rang the students, left.",
+        "After the final bell rang, the students left.",
+        "After the final bell, rang the students left."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "A comma separates an introductory dependent clause from the main clause.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-042",
+      "revision": 1,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "punctuation",
+      "difficulty": 1,
+      "templateFamily": "series commas",
+      "stem": "Choose the correctly punctuated sentence.",
+      "choices": [
+        "I brought, a notebook a ruler and a pencil.",
+        "I brought a notebook, a ruler, and a pencil.",
+        "I brought a notebook a ruler, and, a pencil.",
+        "I brought a notebook; a ruler and a pencil."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Commas separate the three list items; no comma separates brought from its objects.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-043",
+      "revision": 1,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "punctuation",
+      "difficulty": 2,
+      "templateFamily": "compound sentence",
+      "stem": "Choose the correctly punctuated sentence.",
+      "choices": [
+        "The bus was late, but we arrived on time.",
+        "The bus was late but, we arrived on time.",
+        "The bus, was late but we arrived on time.",
+        "The bus was late, but, we arrived on time."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "A comma comes before but when it joins two independent clauses.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-044",
+      "revision": 1,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "punctuation",
+      "difficulty": 2,
+      "templateFamily": "semicolon clauses",
+      "stem": "Choose the correctly punctuated sentence.",
+      "choices": [
+        "The trail was steep, we climbed slowly.",
+        "The trail was steep; we climbed slowly.",
+        "The trail; was steep we climbed slowly.",
+        "The trail was steep we climbed, slowly."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "A semicolon can join related independent clauses without a conjunction.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-045",
+      "revision": 1,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "punctuation",
+      "difficulty": 2,
+      "templateFamily": "colon list",
+      "stem": "Choose the correctly punctuated sentence.",
+      "choices": [
+        "Bring these supplies: paper, glue, and scissors.",
+        "Bring: paper, glue, and scissors.",
+        "Bring these: supplies paper, glue, and scissors.",
+        "Bring these supplies paper: glue, and scissors."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "A colon follows the complete introduction Bring these supplies.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-046",
+      "revision": 2,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "punctuation",
+      "difficulty": 1,
+      "templateFamily": "singular possession",
+      "stem": "One student owns the notebook. Choose the correct singular possessive phrase.",
+      "choices": [
+        "the students notebook",
+        "the students' notebook",
+        "the student's notebook",
+        "the student notebook's"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Singular possession adds apostrophe-s to student.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-047",
+      "revision": 2,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "punctuation",
+      "difficulty": 1,
+      "templateFamily": "regular plural possession",
+      "stem": "Several teachers share the lounge. Choose the correct plural possessive phrase.",
+      "choices": [
+        "the teacher's lounge",
+        "the teachers' lounge",
+        "the teachers lounge's",
+        "the teachers lounge"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The plural teachers already ends in s; add an apostrophe after it.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-048",
+      "revision": 2,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "punctuation",
+      "difficulty": 2,
+      "templateFamily": "irregular plural possession",
+      "stem": "Several children share the toys. Choose the correct plural possessive phrase.",
+      "choices": [
+        "the children toy's",
+        "the childrens' toys",
+        "the childrens toys",
+        "the children's toys"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The irregular plural children takes apostrophe-s.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-049",
+      "revision": 1,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "punctuation",
+      "difficulty": 2,
+      "templateFamily": "direct address",
+      "stem": "Choose the correctly punctuated sentence.",
+      "choices": [
+        "Please, Nora, close the window.",
+        "Please Nora close, the window.",
+        "Please Nora, close, the window.",
+        "Please, Nora close the window."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The name of the person directly addressed is set off with commas.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-050",
+      "revision": 1,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "punctuation",
+      "difficulty": 2,
+      "templateFamily": "dialogue tag",
+      "stem": "Choose the correctly punctuated sentence.",
+      "choices": [
+        "\"We are ready,\" said Theo.",
+        "\"We are ready\" said Theo.",
+        "\"We are ready, said Theo.\"",
+        "\"We are ready\"; said Theo."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "In American English, the comma is inside the closing quotation mark before the dialogue tag.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-051",
+      "revision": 1,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "punctuation",
+      "difficulty": 3,
+      "templateFamily": "quotation question scope",
+      "stem": "Choose the correctly punctuated sentence.",
+      "choices": [
+        "Did you hear Mia say \"I finished\".",
+        "Did you hear Mia say, \"I finished?\"",
+        "Did you hear Mia say, \"I finished\"?",
+        "Did you hear Mia say, \"I finished,\"?"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The entire sentence is a question, but the quotation is a statement, so the question mark goes outside.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-052",
+      "revision": 1,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "punctuation",
+      "difficulty": 1,
+      "templateFamily": "contraction apostrophe",
+      "stem": "Choose the correct contraction for could not.",
+      "choices": [
+        "couldnt'",
+        "could'nt",
+        "couldn't",
+        "couldnt"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The apostrophe marks the omitted o in not.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-053",
+      "revision": 1,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "punctuation",
+      "difficulty": 2,
+      "templateFamily": "comma splice repair",
+      "stem": "Choose the sentence without a comma splice.",
+      "choices": [
+        "The gate was locked, so we used the side entrance.",
+        "The gate was locked, we used the side entrance.",
+        "The gate, was locked we used the side entrance.",
+        "The gate was locked we, used the side entrance."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The conjunction so correctly joins the independent clauses after a comma.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-054",
+      "revision": 1,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "punctuation",
+      "difficulty": 3,
+      "templateFamily": "nonessential appositive",
+      "stem": "The speaker has exactly one brother. Choose the correctly punctuated sentence.",
+      "choices": [
+        "My brother, Eli repairs bicycles.",
+        "My brother Eli, repairs bicycles.",
+        "My brother, Eli, repairs bicycles.",
+        "My, brother Eli repairs bicycles."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "With one brother, Eli is supplementary identifying information set off by paired commas.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-055",
+      "revision": 1,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "punctuation",
+      "difficulty": 1,
+      "templateFamily": "introductory response",
+      "stem": "Choose the correctly punctuated sentence.",
+      "choices": [
+        "Yes, I can help after lunch.",
+        "Yes I, can help after lunch.",
+        "Yes I can, help after lunch.",
+        "Yes I can help, after lunch."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "An introductory yes is followed by a comma; the other commas interrupt the sentence.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-056",
+      "revision": 1,
+      "section": "language",
+      "skill": "capitalization",
+      "format": "capitalization",
+      "difficulty": 1,
+      "templateFamily": "place month",
+      "stem": "Choose the sentence with correct capitalization.",
+      "choices": [
+        "We will visit Oregon in july.",
+        "We will visit oregon in July.",
+        "We will visit Oregon in July.",
+        "we will visit Oregon in July."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Capitalize the sentence opening, the state name, and the month.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-057",
+      "revision": 1,
+      "section": "language",
+      "skill": "capitalization",
+      "format": "capitalization",
+      "difficulty": 2,
+      "templateFamily": "school subjects",
+      "stem": "Choose the sentence with correct capitalization.",
+      "choices": [
+        "My favorite subjects are English and Science.",
+        "My favorite subjects are english and Science.",
+        "My favorite subjects are English and science.",
+        "My favorite subjects are english and science."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "English is a language name; science is a general subject, not a named course here.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-058",
+      "revision": 1,
+      "section": "language",
+      "skill": "capitalization",
+      "format": "capitalization",
+      "difficulty": 2,
+      "templateFamily": "compass direction",
+      "stem": "Choose the sentence with correct capitalization.",
+      "choices": [
+        "We drove South toward Phoenix.",
+        "We drove south toward Phoenix.",
+        "We drove south toward phoenix.",
+        "we drove South toward Phoenix."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "A compass direction is lowercase here; the city is capitalized.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-059",
+      "revision": 1,
+      "section": "language",
+      "skill": "capitalization",
+      "format": "capitalization",
+      "difficulty": 1,
+      "templateFamily": "title and day",
+      "stem": "Choose the sentence with correct capitalization.",
+      "choices": [
+        "On friday, Dr. Patel will speak.",
+        "On Friday, Dr. Patel will speak.",
+        "On Friday, dr. Patel will speak.",
+        "On Friday, Dr. patel will speak."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Capitalize the weekday, the title before a name, and the surname.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-060",
+      "revision": 1,
+      "section": "language",
+      "skill": "capitalization",
+      "format": "capitalization",
+      "difficulty": 2,
+      "templateFamily": "kinship common noun",
+      "stem": "Choose the sentence with correct capitalization.",
+      "choices": [
+        "My Aunt lives near Lake Erie.",
+        "My aunt lives near Lake Erie.",
+        "My aunt lives near lake Erie.",
+        "My aunt lives near Lake erie."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Aunt after my is a common noun; both words in the lake's proper name are capitalized.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-061",
+      "revision": 1,
+      "section": "language",
+      "skill": "capitalization",
+      "format": "capitalization",
+      "difficulty": 1,
+      "templateFamily": "holiday month",
+      "stem": "Choose the sentence with correct capitalization.",
+      "choices": [
+        "We celebrate Thanksgiving in November.",
+        "We celebrate thanksgiving in November.",
+        "We celebrate Thanksgiving in november.",
+        "we celebrate thanksgiving in november."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The holiday and month are proper names.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-062",
+      "revision": 1,
+      "section": "language",
+      "skill": "capitalization",
+      "format": "capitalization",
+      "difficulty": 1,
+      "templateFamily": "proper adjective",
+      "stem": "Choose the sentence with correct capitalization.",
+      "choices": [
+        "The french visitors toured the museum.",
+        "The French visitors toured the museum.",
+        "The French Visitors toured the Museum.",
+        "the French visitors toured the museum."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "French is a proper adjective; visitors and museum are common nouns here.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-063",
+      "revision": 1,
+      "section": "language",
+      "skill": "capitalization",
+      "format": "capitalization",
+      "difficulty": 2,
+      "templateFamily": "quotation opening",
+      "stem": "Choose the sentence with correct capitalization.",
+      "choices": [
+        "\"Please sit down,\" Said the teacher.",
+        "\"please sit down,\" said the teacher.",
+        "\"Please sit down,\" said the teacher.",
+        "\"Please Sit Down,\" said the Teacher."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Capitalize the first word of a complete quotation; the following dialogue tag stays lowercase.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-064",
+      "revision": 1,
+      "section": "language",
+      "skill": "capitalization",
+      "format": "capitalization",
+      "difficulty": 2,
+      "templateFamily": "kinship name",
+      "stem": "Choose the sentence with correct capitalization.",
+      "choices": [
+        "I Asked Mom to read the Letter.",
+        "i asked Mom to read the letter.",
+        "I asked mom to read the letter.",
+        "I asked Mom to read the letter."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "I is always capitalized; Mom is used as a name without my or another determiner.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-065",
+      "revision": 1,
+      "section": "language",
+      "skill": "capitalization",
+      "format": "capitalization",
+      "difficulty": 1,
+      "templateFamily": "weekday common nouns",
+      "stem": "Choose the sentence with correct capitalization.",
+      "choices": [
+        "the club meets on the first Tuesday of every month.",
+        "The Club meets on the first Tuesday of every Month.",
+        "The club meets on the first tuesday of every month.",
+        "The club meets on the first Tuesday of every month."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Tuesday is a proper name; club and month are common nouns.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-066",
+      "revision": 2,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-rhythm",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "rythm",
+        "rhythum",
+        "rhythm",
+        "rhythem"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Rhythm is spelled r-h-y-t-h-m.",
+        "shortcut": "Check the whole word, especially doubled consonants and its ending."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-067",
+      "revision": 2,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-cylinder",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "cylindar",
+        "cillinder",
+        "cylender",
+        "cylinder"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Cylinder has one l and ends in -der.",
+        "shortcut": "Check the whole word, especially doubled consonants and its ending."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-068",
+      "revision": 1,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-definitely",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "definitely",
+        "definately",
+        "definitly",
+        "definetely"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Definitely preserves the spelling definite before -ly.",
+        "shortcut": "Check the whole word, especially doubled consonants and its ending."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-069",
+      "revision": 2,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-miniature",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "miniature",
+        "minature",
+        "miniture",
+        "miniatuer"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Miniature includes the sequence mini-a-ture.",
+        "shortcut": "Check the whole word, especially doubled consonants and its ending."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-070",
+      "revision": 1,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-occasion",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "occassion",
+        "occasion",
+        "ocassion",
+        "ocasion"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Occasion has two c's and one s.",
+        "shortcut": "Check the whole word, especially doubled consonants and its ending."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-071",
+      "revision": 2,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-mischievous",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "mischevious",
+        "mischievious",
+        "mischivous",
+        "mischievous"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Mischievous ends in -vous, with no extra i after v.",
+        "shortcut": "Check the whole word, especially doubled consonants and its ending."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-072",
+      "revision": 1,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-embarrass",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "embarrass",
+        "embarass",
+        "embarras",
+        "embarres"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Embarrass has two r's and two s's.",
+        "shortcut": "Check the whole word, especially doubled consonants and its ending."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-073",
+      "revision": 2,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-broccoli",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "brocolli",
+        "broccolli",
+        "broccoli",
+        "brocoli"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Broccoli has two c letters and one l.",
+        "shortcut": "Check the whole word, especially doubled consonants and its ending."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-074",
+      "revision": 1,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-accommodate",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "acomodate",
+        "acommodate",
+        "accomodate",
+        "accommodate"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Accommodate has two c's and two m's.",
+        "shortcut": "Check the whole word, especially doubled consonants and its ending."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-075",
+      "revision": 1,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-conscience",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "consciense",
+        "concience",
+        "consience",
+        "conscience"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Conscience includes the sequence -science.",
+        "shortcut": "Check the whole word, especially doubled consonants and its ending."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-076",
+      "revision": 1,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-perseverance",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "persiverance",
+        "perserverance",
+        "perseverence",
+        "perseverance"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Perseverance ends in -ance and has no r after the first s.",
+        "shortcut": "Check the whole word, especially doubled consonants and its ending."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-077",
+      "revision": 2,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-lantern",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "lanturn",
+        "lanterrn",
+        "lantarn",
+        "lantern"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Lantern is spelled l-a-n-t-e-r-n.",
+        "shortcut": "Check the whole word, especially doubled consonants and its ending."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-078",
+      "revision": 1,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-noticeable",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "noticeable",
+        "noticable",
+        "noticeble",
+        "notiseable"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Noticeable retains the e before -able.",
+        "shortcut": "Check the whole word, especially doubled consonants and its ending."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-079",
+      "revision": 1,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-beginning",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "begining",
+        "beginning",
+        "beggining",
+        "begginning"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Beginning doubles the final n of begin, not the g.",
+        "shortcut": "Check the whole word, especially doubled consonants and its ending."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-080",
+      "revision": 2,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-obstacle",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "obsticle",
+        "obstacle",
+        "obstacel",
+        "obstacal"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Obstacle ends in -acle.",
+        "shortcut": "Check the whole word, especially doubled consonants and its ending."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-081",
+      "revision": 1,
+      "section": "language",
+      "skill": "composition",
+      "format": "composition",
+      "difficulty": 2,
+      "templateFamily": "topic sentence garden",
+      "stem": "Which sentence best introduces a paragraph about ways the school garden helps students learn?",
+      "choices": [
+        "The school cafeteria opens at noon.",
+        "The school garden serves as an outdoor classroom in several subjects.",
+        "Some students prefer winter to summer.",
+        "The garden gate was painted blue yesterday."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The correct topic sentence introduces learning benefits broadly; the others are unrelated or too narrow.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-082",
+      "revision": 1,
+      "section": "language",
+      "skill": "composition",
+      "format": "composition",
+      "difficulty": 2,
+      "templateFamily": "support access claim",
+      "stem": "Which detail best supports the claim that a library should stay open later?",
+      "choices": [
+        "The library's bricks are red.",
+        "Students with after-school jobs often cannot arrive before the current closing time.",
+        "The library has two front doors.",
+        "The librarian enjoys hiking."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The job schedules explain why later hours would improve access.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-083",
+      "revision": 1,
+      "section": "language",
+      "skill": "composition",
+      "format": "composition",
+      "difficulty": 1,
+      "templateFamily": "irrelevant detail repair",
+      "stem": "Which sentence is least relevant to a paragraph explaining how to repair a bicycle tire?",
+      "choices": [
+        "Finally, apply and press down the patch.",
+        "First, locate the puncture.",
+        "Next, roughen the area around the hole.",
+        "My cousin prefers blue bicycles."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Color preference does not explain the repair process.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-084",
+      "revision": 1,
+      "section": "language",
+      "skill": "composition",
+      "format": "composition",
+      "difficulty": 2,
+      "templateFamily": "concession transition",
+      "stem": "Choose the best transition: The path was muddy. ___, we continued toward the shelter.",
+      "choices": [
+        "Similarly",
+        "For example",
+        "Nevertheless",
+        "In other words"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Nevertheless signals continuing despite an obstacle.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-085",
+      "revision": 1,
+      "section": "language",
+      "skill": "composition",
+      "format": "composition",
+      "difficulty": 1,
+      "templateFamily": "result transition",
+      "stem": "Choose the best transition: The power failed. ___, the elevators stopped working.",
+      "choices": [
+        "As a result",
+        "In contrast",
+        "For instance",
+        "Likewise"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The second event is a consequence of the first.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-086",
+      "revision": 1,
+      "section": "language",
+      "skill": "composition",
+      "format": "composition",
+      "difficulty": 2,
+      "templateFamily": "redundancy cause",
+      "stem": "Choose the most concise revision that preserves the meaning: The reason we left early was because a storm was approaching.",
+      "choices": [
+        "We left early for the reason because a storm approached.",
+        "We left early because a storm was approaching.",
+        "A storm was approaching and this was the reason why we left early.",
+        "The early departure happened due to the fact that a storm was approaching."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The revision removes redundant wording while retaining the cause.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-087",
+      "revision": 1,
+      "section": "language",
+      "skill": "composition",
+      "format": "composition",
+      "difficulty": 1,
+      "templateFamily": "redundancy time",
+      "stem": "Choose the clearest revision: At this point in time, the team is currently practicing.",
+      "choices": [
+        "At this point the current team is practicing currently.",
+        "At this current point in time, the team practices currently.",
+        "The team currently is now practicing at this point.",
+        "The team is practicing now."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Now replaces two repetitive time expressions.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-088",
+      "revision": 1,
+      "section": "language",
+      "skill": "composition",
+      "format": "composition",
+      "difficulty": 2,
+      "templateFamily": "concluding sentence",
+      "stem": "A paragraph describes sorting donated books by age level, labeling the shelves, and posting a borrowing guide. Which conclusion fits best?",
+      "choices": [
+        "These steps made the book corner easier for everyone to use.",
+        "The tallest shelf was made of pine.",
+        "Some novels are very long.",
+        "We should stop lending books altogether."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The conclusion unites the organizational steps around their benefit.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-089",
+      "revision": 1,
+      "section": "language",
+      "skill": "composition",
+      "format": "composition",
+      "difficulty": 1,
+      "templateFamily": "process order",
+      "stem": "Arrange the steps logically: 1. Bake the loaf. 2. Mix the ingredients. 3. Let the baked loaf cool. 4. Pour the batter into a pan.",
+      "choices": [
+        "4, 2, 3, 1",
+        "2, 4, 1, 3",
+        "2, 1, 4, 3",
+        "1, 3, 2, 4"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Mix before pouring, pour before baking, and cool after baking.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-090",
+      "revision": 1,
+      "section": "language",
+      "skill": "composition",
+      "format": "composition",
+      "difficulty": 2,
+      "templateFamily": "precision measurement",
+      "stem": "Which sentence uses the most precise language for a science report?",
+      "choices": [
+        "The sample's mass increased from 12 grams to 15 grams.",
+        "The sample got a bit bigger somehow.",
+        "The thing changed quite a lot.",
+        "It was much different afterward."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Numerical measurements specify the property and amount of change.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-091",
+      "revision": 1,
+      "section": "language",
+      "skill": "composition",
+      "format": "composition",
+      "difficulty": 1,
+      "templateFamily": "formal register",
+      "stem": "Which sentence maintains a formal tone in a letter requesting a new bus stop?",
+      "choices": [
+        "You guys need to fix this mess.",
+        "Hey, put a stop by our place!",
+        "That route is totally ridiculous.",
+        "Please consider adding a stop near the community center."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The polite, specific request suits a formal letter.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-092",
+      "revision": 1,
+      "section": "language",
+      "skill": "composition",
+      "format": "composition",
+      "difficulty": 2,
+      "templateFamily": "combine contrast",
+      "stem": "Combine the sentences without changing their meaning: The bridge is old. It remains safe.",
+      "choices": [
+        "Because the bridge is old, it is unsafe.",
+        "Although the bridge is old, it remains safe.",
+        "The bridge is safe only when it is new.",
+        "The bridge was old because it was safe."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Although expresses the contrast while retaining both facts.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-093",
+      "revision": 1,
+      "section": "language",
+      "skill": "composition",
+      "format": "composition",
+      "difficulty": 2,
+      "templateFamily": "combine cause",
+      "stem": "Combine the sentences to show cause: The team practiced daily. Its passing improved because of this practice.",
+      "choices": [
+        "The team's passing improved because it practiced daily.",
+        "The team practiced daily although practice prevented improvement.",
+        "The team improved before it ever practiced.",
+        "The team's passing improved, but practice was unrelated."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The revision explicitly preserves the causal relationship.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-094",
+      "revision": 1,
+      "section": "language",
+      "skill": "composition",
+      "format": "composition",
+      "difficulty": 1,
+      "templateFamily": "evidence relevance",
+      "stem": "A paragraph argues that shade trees improve a playground. Which evidence most directly supports this claim?",
+      "choices": [
+        "The playground fence was replaced in March.",
+        "The school mascot is a hawk.",
+        "The oldest classroom has four windows.",
+        "On sunny days, children can rest in the cooler shaded areas."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The evidence connects shade to a practical playground benefit.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-095",
+      "revision": 1,
+      "section": "language",
+      "skill": "composition",
+      "format": "composition",
+      "difficulty": 3,
+      "templateFamily": "sentence insertion",
+      "stem": "Where should this sentence go? New sentence: Then she tested the repaired lamp. Paragraph: (1) Nia unplugged the lamp. (2) She replaced the damaged cord. (3) Satisfied that it worked, she returned it to the shelf.",
+      "choices": [
+        "After sentence 3",
+        "Before sentence 1",
+        "Between sentences 1 and 2",
+        "Between sentences 2 and 3"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Testing follows repair and precedes being satisfied that it works.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-096",
+      "revision": 1,
+      "section": "language",
+      "skill": "composition",
+      "format": "composition",
+      "difficulty": 2,
+      "templateFamily": "active voice",
+      "stem": "Which revision uses active voice and preserves the meaning? Original: The mural was painted by the art club.",
+      "choices": [
+        "The art club was painted by the mural.",
+        "The mural had been painted.",
+        "The art club painted the mural.",
+        "The mural will paint the art club."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The art club becomes the subject performing the same past action.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-097",
+      "revision": 1,
+      "section": "language",
+      "skill": "composition",
+      "format": "composition",
+      "difficulty": 2,
+      "templateFamily": "comparison introduction",
+      "stem": "Which sentence best begins a paragraph comparing buses and bicycles for commuting?",
+      "choices": [
+        "The bus driver wears a blue shirt.",
+        "Yesterday I bought a new backpack.",
+        "A bicycle has two wheels.",
+        "Buses and bicycles offer different advantages for getting to school."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The sentence introduces both subjects and the comparison's purpose.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-098",
+      "revision": 1,
+      "section": "language",
+      "skill": "composition",
+      "format": "composition",
+      "difficulty": 1,
+      "templateFamily": "informative title",
+      "stem": "A paragraph explains that a river path is popular because it is level, shaded, and close to homes. Which title fits best?",
+      "choices": [
+        "Why Neighbors Choose the River Path",
+        "How Rivers Are Formed",
+        "The History of Mountain Climbing",
+        "A Guide to Boat Engines"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The title reflects the paragraph's explanation of the path's appeal.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-099",
+      "revision": 1,
+      "section": "language",
+      "skill": "composition",
+      "format": "composition",
+      "difficulty": 2,
+      "templateFamily": "redundancy gift",
+      "stem": "Choose the revision that removes an unintended repeated idea: Every single participant received a free gift at no cost.",
+      "choices": [
+        "Every single participant received a free gift for free.",
+        "Every participant received a gift at no cost.",
+        "Every participant received a free gift at no cost whatsoever.",
+        "All participants each received a free gift without paying any cost."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Every single and free ... at no cost repeat meanings; the revision retains one expression for each.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-100",
+      "revision": 1,
+      "section": "language",
+      "skill": "composition",
+      "format": "composition",
+      "difficulty": 3,
+      "templateFamily": "counterargument",
+      "stem": "A writer says the school should install refill stations. Which sentence best acknowledges a reasonable objection while responding to it?",
+      "choices": [
+        "Anyone who disagrees is foolish.",
+        "Installation costs money, but reusable bottles could reduce discarded plastic over time.",
+        "There are no possible disadvantages.",
+        "The school colors are green and white."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The sentence recognizes cost and answers with a relevant benefit instead of ignoring opposition.",
+        "shortcut": "Read the complete sentence and identify the convention being tested before comparing choices."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    }
+  ]
+}

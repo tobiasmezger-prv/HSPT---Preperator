@@ -1,0 +1,466 @@
+{
+  "schemaVersion": "additional-acceptance-1",
+  "batchId": "additional-v3",
+  "status": "sample_reviewed",
+  "permittedUse": "skill_practice_and_shortened_previews",
+  "reviewer": "Tobias Mezger (project owner)",
+  "date": "2026-09-27",
+  "approvalSource": "Explicit user message in project conversation; not a browser-exported decision file.",
+  "approvalStatement": "I approved and reviewed the questions. Can you merge them into our phase III project version (replacing the dummy questions) and get everything ready for an upload of the next version to Github?",
+  "sampleIds": {
+    "verbal": [
+      "ver-a1-003",
+      "ver-a1-013",
+      "ver-a1-015",
+      "ver-a1-022",
+      "ver-a1-025",
+      "ver-a1-026",
+      "ver-a1-032",
+      "ver-a1-036",
+      "ver-a1-043",
+      "ver-a1-046",
+      "ver-a1-065",
+      "ver-a1-067",
+      "ver-a1-068",
+      "ver-a1-069",
+      "ver-a1-075",
+      "ver-a1-078",
+      "ver-a1-082",
+      "ver-a1-089",
+      "ver-a1-094",
+      "ver-a1-100"
+    ],
+    "reading": [
+      "rea-a1-009",
+      "rea-a1-010",
+      "rea-a1-011",
+      "rea-a1-012",
+      "rea-a1-013",
+      "rea-a1-014",
+      "rea-a1-015",
+      "rea-a1-016",
+      "rea-a1-025",
+      "rea-a1-026",
+      "rea-a1-027",
+      "rea-a1-028",
+      "rea-a1-029",
+      "rea-a1-030",
+      "rea-a1-031",
+      "rea-a1-032",
+      "rea-a1-068",
+      "rea-a1-082",
+      "rea-a1-087",
+      "rea-a1-098"
+    ],
+    "mathematics": [
+      "mat-a1-004",
+      "mat-a1-008",
+      "mat-a1-014",
+      "mat-a1-034",
+      "mat-a1-039",
+      "mat-a1-040",
+      "mat-a1-042",
+      "mat-a1-054",
+      "mat-a1-055",
+      "mat-a1-063",
+      "mat-a1-065",
+      "mat-a1-066",
+      "mat-a1-067",
+      "mat-a1-071",
+      "mat-a1-072",
+      "mat-a1-082",
+      "mat-a1-083",
+      "mat-a1-084",
+      "mat-a1-090",
+      "mat-a1-100"
+    ],
+    "language": [
+      "lan-a1-004",
+      "lan-a1-013",
+      "lan-a1-017",
+      "lan-a1-029",
+      "lan-a1-048",
+      "lan-a1-059",
+      "lan-a1-060",
+      "lan-a1-069",
+      "lan-a1-079",
+      "lan-a1-085",
+      "lan-a1-087",
+      "lan-a1-089",
+      "lan-a1-090",
+      "lan-a1-091",
+      "lan-a1-093",
+      "lan-a1-095",
+      "lan-a1-096",
+      "lan-a1-097",
+      "lan-a1-098",
+      "lan-a1-099"
+    ]
+  },
+  "files": {
+    "manifest.json": "d18d9ce23254906fdd55e94200b02c7109b91455b65b8e9687b1598c7acb6626",
+    "validation.json": "7832216cec6a46caf6aa10297ac0e8f974d6596a6a43b68d6280f1398bd7c30d",
+    "item-audit.json": "0967cf07db5f2a12363e67855d0afc09877ce3a880c4367a0bbed7896b67adac",
+    "visual-review.json": "45e845cdacfa393fcaa85acb6b92e4d823e10b619764f4fd70ddb9fcdf82a9e1",
+    "overlap-log.json": "d323bc7666bf96ee33ac33ac0bd0c1340e0d5ece76607effea40b7c1382e3c96",
+    "mathematics-checks.json": "205f9ae068a650e3cae66b8d446ccab912a5853023d7ad5d4ebdc09bc1276609",
+    "logic-checks.json": "d08fc8ab64bb9cda9427368152f137ab6f46001ce7a978526251772b8a5daff0",
+    "source-calibration.json": "e2c223162821c5ce1c01233193f0709a7f73d8ff0003b617fba535aa978d350f",
+    "source-coverage.json": "ea6fd93a1cf2c8f853812d77112d9370dff4e9d3cf39ab8819c179879989af26",
+    "source-exceptions.json": "17a47cb32e0b053df802141d3b348811cb0995508ead0366af1fc8441a7240c1",
+    "sources.json": "9db20ccf4e9434cd914478e6f4aa111f88bf5a6bf6e7757d3074e7c13ecaf8b2",
+    "author-review-notes.json": "3923ffb71162dceee9f68105e3b3eb7220fe2378ed05a71426d7d246fefa4cad",
+    "verbal.json": "cfac012735d3904a0700c84fb8b007772f0aac9378c8b618a20a4b9a799a11a4",
+    "reading.json": "5e87f20d187839e0cb467c9378a7e0383100affc8424c5553ecdb10a47e22345",
+    "mathematics.json": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+    "language.json": "f8e03f294ac348ba02941e3efabb83c6f7638ec333ed4823341720a66803408e",
+    "reading-passages.json": "9b5d7b019da217cca55ddf10d4f2514af96c8f6d51675f38327f396cff1cdb15",
+    "assets/mat-a1-056.svg": "aac6a8f0947549abfbd58a23962c1fd31c1f7fa709b4c80e5fd2690559d24532",
+    "assets/mat-a1-057.svg": "9abd7e355f87a541ff213e9440140fe8300bf432d44c4dba7781289841dec2e7",
+    "assets/mat-a1-058.svg": "b2108288d52b7ec7d4ecf133c6959f20a5c6e909656a3cbe91e3908cc31e7b50",
+    "assets/mat-a1-059.svg": "385f4fc09df68dd1168b72dc9b2f91b9059f5e638fd4e3da0344b306d5a930ed",
+    "assets/mat-a1-060.svg": "04a6cc51c00a8917d556875fbb7f38e012b6cbabe675ba47c9addb44e16b6e75",
+    "assets/mat-a1-061.svg": "872ae4395d7332717d2d44fb2dbe9639ca4f4b015855ae605a389bda6e761aac",
+    "assets/mat-a1-062.svg": "2e852ef77030722399c9d3f1b0387e998922c02f910dd7d0cdb0440678451ebe",
+    "assets/mat-a1-063.svg": "b86cd5509b35f6002b2e14e8b4f28cf5afe81b9d149671fefcac52cc9a5a1029",
+    "assets/mat-a1-064.svg": "7342af64e29d8bf6a28e9d74ef7a59e61d887ea63f5892377e32e886e83d367f",
+    "assets/mat-a1-065.svg": "4056f68381d0a71959aaa517b98aa591f480ac21a038c1c4fa30182a3d0f698e",
+    "assets/mat-a1-066.svg": "6a7d384e61dc21d1cc138728581ab512d3748fb81cf804b809c5ff23e2bbadae",
+    "assets/mat-a1-067.svg": "310240accdabd962c3a2894a2f22807e9d6067dc221a7f63be2b90b82cdfe12b",
+    "assets/mat-a1-068.svg": "8f8352e89ce07b5bdb99f7833c56f28bcac53ae00596a1771b16a21c857919c8",
+    "assets/mat-a1-069.svg": "4d07f3eeb5cec6e516975533e76b2d7918baa18555c48bb39711f33cbbd9ba48",
+    "assets/mat-a1-070.svg": "7118a72185835dbd0966f4935bd31cf6e012afa9b8e6da11c2845f1871fdadb6",
+    "assets/mat-a1-071.svg": "6b5124ee38e4123e458a94033e5c8ccacd65021fdf7ee70088d19ccaf958ab5e",
+    "review/verbal-sample.json": "f12e0c821ea5fa7b5bfcff0de6187ac2626a5fe19d748d1c35d86ce1b72b741d",
+    "review/reading-sample.json": "a54000dbc71e487f3c4b620c154e4f4aeb435f0aad5c05fa225b591c0f27f111",
+    "review/mathematics-sample.json": "2013a4cc06a98acd44dde2b377ea7de936c97e7426076b9b2ec0204a9a7a5906",
+    "review/language-sample.json": "0ab42e02859a000241d813302c0f0c300ec195736caf58b401f6410a09920cde"
+  },
+  "limitations": [
+    "Only the fixed 20 per section are recorded as individually human-reviewed.",
+    "Difficulty and timing remain provisional; not a full-length official exam simulation.",
+    "Actual iPad Safari verification remains pending."
+  ],
+  "items": [
+    {
+      "id": "ver-a1-003",
+      "decision": "approve"
+    },
+    {
+      "id": "ver-a1-013",
+      "decision": "approve"
+    },
+    {
+      "id": "ver-a1-015",
+      "decision": "approve"
+    },
+    {
+      "id": "ver-a1-022",
+      "decision": "approve"
+    },
+    {
+      "id": "ver-a1-025",
+      "decision": "approve"
+    },
+    {
+      "id": "ver-a1-026",
+      "decision": "approve"
+    },
+    {
+      "id": "ver-a1-032",
+      "decision": "approve"
+    },
+    {
+      "id": "ver-a1-036",
+      "decision": "approve"
+    },
+    {
+      "id": "ver-a1-043",
+      "decision": "approve"
+    },
+    {
+      "id": "ver-a1-046",
+      "decision": "approve"
+    },
+    {
+      "id": "ver-a1-065",
+      "decision": "approve"
+    },
+    {
+      "id": "ver-a1-067",
+      "decision": "approve"
+    },
+    {
+      "id": "ver-a1-068",
+      "decision": "approve"
+    },
+    {
+      "id": "ver-a1-069",
+      "decision": "approve"
+    },
+    {
+      "id": "ver-a1-075",
+      "decision": "approve"
+    },
+    {
+      "id": "ver-a1-078",
+      "decision": "approve"
+    },
+    {
+      "id": "ver-a1-082",
+      "decision": "approve"
+    },
+    {
+      "id": "ver-a1-089",
+      "decision": "approve"
+    },
+    {
+      "id": "ver-a1-094",
+      "decision": "approve"
+    },
+    {
+      "id": "ver-a1-100",
+      "decision": "approve"
+    },
+    {
+      "id": "rea-a1-009",
+      "decision": "approve"
+    },
+    {
+      "id": "rea-a1-010",
+      "decision": "approve"
+    },
+    {
+      "id": "rea-a1-011",
+      "decision": "approve"
+    },
+    {
+      "id": "rea-a1-012",
+      "decision": "approve"
+    },
+    {
+      "id": "rea-a1-013",
+      "decision": "approve"
+    },
+    {
+      "id": "rea-a1-014",
+      "decision": "approve"
+    },
+    {
+      "id": "rea-a1-015",
+      "decision": "approve"
+    },
+    {
+      "id": "rea-a1-016",
+      "decision": "approve"
+    },
+    {
+      "id": "rea-a1-025",
+      "decision": "approve"
+    },
+    {
+      "id": "rea-a1-026",
+      "decision": "approve"
+    },
+    {
+      "id": "rea-a1-027",
+      "decision": "approve"
+    },
+    {
+      "id": "rea-a1-028",
+      "decision": "approve"
+    },
+    {
+      "id": "rea-a1-029",
+      "decision": "approve"
+    },
+    {
+      "id": "rea-a1-030",
+      "decision": "approve"
+    },
+    {
+      "id": "rea-a1-031",
+      "decision": "approve"
+    },
+    {
+      "id": "rea-a1-032",
+      "decision": "approve"
+    },
+    {
+      "id": "rea-a1-068",
+      "decision": "approve"
+    },
+    {
+      "id": "rea-a1-082",
+      "decision": "approve"
+    },
+    {
+      "id": "rea-a1-087",
+      "decision": "approve"
+    },
+    {
+      "id": "rea-a1-098",
+      "decision": "approve"
+    },
+    {
+      "id": "mat-a1-004",
+      "decision": "approve"
+    },
+    {
+      "id": "mat-a1-008",
+      "decision": "approve"
+    },
+    {
+      "id": "mat-a1-014",
+      "decision": "approve"
+    },
+    {
+      "id": "mat-a1-034",
+      "decision": "approve"
+    },
+    {
+      "id": "mat-a1-039",
+      "decision": "approve"
+    },
+    {
+      "id": "mat-a1-040",
+      "decision": "approve"
+    },
+    {
+      "id": "mat-a1-042",
+      "decision": "approve"
+    },
+    {
+      "id": "mat-a1-054",
+      "decision": "approve"
+    },
+    {
+      "id": "mat-a1-055",
+      "decision": "approve"
+    },
+    {
+      "id": "mat-a1-063",
+      "decision": "approve"
+    },
+    {
+      "id": "mat-a1-065",
+      "decision": "approve"
+    },
+    {
+      "id": "mat-a1-066",
+      "decision": "approve"
+    },
+    {
+      "id": "mat-a1-067",
+      "decision": "approve"
+    },
+    {
+      "id": "mat-a1-071",
+      "decision": "approve"
+    },
+    {
+      "id": "mat-a1-072",
+      "decision": "approve"
+    },
+    {
+      "id": "mat-a1-082",
+      "decision": "approve"
+    },
+    {
+      "id": "mat-a1-083",
+      "decision": "approve"
+    },
+    {
+      "id": "mat-a1-084",
+      "decision": "approve"
+    },
+    {
+      "id": "mat-a1-090",
+      "decision": "approve"
+    },
+    {
+      "id": "mat-a1-100",
+      "decision": "approve"
+    },
+    {
+      "id": "lan-a1-004",
+      "decision": "approve"
+    },
+    {
+      "id": "lan-a1-013",
+      "decision": "approve"
+    },
+    {
+      "id": "lan-a1-017",
+      "decision": "approve"
+    },
+    {
+      "id": "lan-a1-029",
+      "decision": "approve"
+    },
+    {
+      "id": "lan-a1-048",
+      "decision": "approve"
+    },
+    {
+      "id": "lan-a1-059",
+      "decision": "approve"
+    },
+    {
+      "id": "lan-a1-060",
+      "decision": "approve"
+    },
+    {
+      "id": "lan-a1-069",
+      "decision": "approve"
+    },
+    {
+      "id": "lan-a1-079",
+      "decision": "approve"
+    },
+    {
+      "id": "lan-a1-085",
+      "decision": "approve"
+    },
+    {
+      "id": "lan-a1-087",
+      "decision": "approve"
+    },
+    {
+      "id": "lan-a1-089",
+      "decision": "approve"
+    },
+    {
+      "id": "lan-a1-090",
+      "decision": "approve"
+    },
+    {
+      "id": "lan-a1-091",
+      "decision": "approve"
+    },
+    {
+      "id": "lan-a1-093",
+      "decision": "approve"
+    },
+    {
+      "id": "lan-a1-095",
+      "decision": "approve"
+    },
+    {
+      "id": "lan-a1-096",
+      "decision": "approve"
+    },
+    {
+      "id": "lan-a1-097",
+      "decision": "approve"
+    },
+    {
+      "id": "lan-a1-098",
+      "decision": "approve"
+    },
+    {
+      "id": "lan-a1-099",
+      "decision": "approve"
+    }
+  ]
+}

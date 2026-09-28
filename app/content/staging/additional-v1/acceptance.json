@@ -1,0 +1,15 @@
+{
+  "manifestSha256": "c00d66440754d905d4e63a33eb3bc2404260e96776ff870db5e341ad0fad9835",
+  "status": "draft",
+  "permittedUse": "editorial_inspection_only",
+  "releaseReady": false,
+  "remainingGates": [
+    "complete_calibration",
+    "item_editorial_review",
+    "semantic_source_originality",
+    "full_rendering_and_iPad",
+    "formal_20_per_bank_human_review",
+    "production_schema_and_integration"
+  ],
+  "approvedHumanItems": 0
+}

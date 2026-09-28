@@ -1,0 +1,165 @@
+{
+  "bankSha256": "932bf3e90872eefc83e19daabbd8eb0727d78424563ed799cc84c2294dfc38ea",
+  "passageSha256": null,
+  "assetHashes": {
+    "mat-a1-056": "aac6a8f0947549abfbd58a23962c1fd31c1f7fa709b4c80e5fd2690559d24532",
+    "mat-a1-057": "9abd7e355f87a541ff213e9440140fe8300bf432d44c4dba7781289841dec2e7",
+    "mat-a1-058": "b2108288d52b7ec7d4ecf133c6959f20a5c6e909656a3cbe91e3908cc31e7b50",
+    "mat-a1-059": "385f4fc09df68dd1168b72dc9b2f91b9059f5e638fd4e3da0344b306d5a930ed",
+    "mat-a1-060": "04a6cc51c00a8917d556875fbb7f38e012b6cbabe675ba47c9addb44e16b6e75",
+    "mat-a1-061": "872ae4395d7332717d2d44fb2dbe9639ca4f4b015855ae605a389bda6e761aac",
+    "mat-a1-062": "2e852ef77030722399c9d3f1b0387e998922c02f910dd7d0cdb0440678451ebe",
+    "mat-a1-063": "b86cd5509b35f6002b2e14e8b4f28cf5afe81b9d149671fefcac52cc9a5a1029",
+    "mat-a1-064": "7342af64e29d8bf6a28e9d74ef7a59e61d887ea63f5892377e32e886e83d367f",
+    "mat-a1-065": "4056f68381d0a71959aaa517b98aa591f480ac21a038c1c4fa30182a3d0f698e",
+    "mat-a1-066": "6a7d384e61dc21d1cc138728581ab512d3748fb81cf804b809c5ff23e2bbadae",
+    "mat-a1-067": "310240accdabd962c3a2894a2f22807e9d6067dc221a7f63be2b90b82cdfe12b",
+    "mat-a1-068": "8f8352e89ce07b5bdb99f7833c56f28bcac53ae00596a1771b16a21c857919c8",
+    "mat-a1-069": "4d07f3eeb5cec6e516975533e76b2d7918baa18555c48bb39711f33cbbd9ba48",
+    "mat-a1-070": "7118a72185835dbd0966f4935bd31cf6e012afa9b8e6da11c2845f1871fdadb6",
+    "mat-a1-071": "6b5124ee38e4123e458a94033e5c8ccacd65021fdf7ee70088d19ccaf958ab5e"
+  },
+  "policy": "full-corpus-v3-risk-format-complete-reading-groups-1",
+  "decisions": [
+    {
+      "id": "mat-a1-006",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "mat-a1-009",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "mat-a1-014",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "mat-a1-034",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "mat-a1-038",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "mat-a1-039",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "mat-a1-042",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "mat-a1-054",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "mat-a1-055",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "mat-a1-060",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "mat-a1-063",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "mat-a1-064",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "mat-a1-066",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "mat-a1-067",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "mat-a1-071",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "mat-a1-072",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "mat-a1-082",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "mat-a1-084",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "mat-a1-089",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "mat-a1-099",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "appVersion": "0.3.0",
+  "releaseId": "all-sections-v0002",
+  "bankChecksum": "c01aeb15966390d4f73cc96b794de690089eb8a1b6ebc5b1c2e3a02414bbbec2",
+  "questionCount": 500,
+  "perSection": {
+    "verbal": 100,
+    "quantitative": 100,
+    "reading": 100,
+    "mathematics": 100,
+    "language": 100
+  },
+  "approvalRecord": "content/review/additional-v3/decisions.json",
+  "approvalRecordSha256": "333464064dd49bdb9059b2c2505fdd0d83392d802f8cf2da9d8f9369787f8496",
+  "reviewedContentChangedDuringImport": false,
+  "firstPublishedRevision": 1,
+  "draftRevisionPreservedIn": "provenance.authoringRevision",
+  "automatedTests": {
+    "passed": 54,
+    "failed": 0
+  },
+  "typescript": "passed",
+  "productionBuild": "passed",
+  "browserChecks": [
+    "Five sections each display 100 questions",
+    "Reading complete group and numbered paragraph rendering",
+    "Saved answer survives reload and resume",
+    "Submit and results",
+    "Six original Mathematics diagrams loaded in a geometry practice set"
+  ],
+  "scope": "skill practice and shortened section/full-test previews",
+  "pending": [
+    "Full-length presets and 298-question exam",
+    "Physical iPad Safari including offline and background recovery",
+    "GitHub upload and deployed verification"
+  ],
+  "deployed": false
+}

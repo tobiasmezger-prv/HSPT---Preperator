@@ -1,0 +1,148 @@
+{
+  "bankSha256": "cfac012735d3904a0700c84fb8b007772f0aac9378c8b618a20a4b9a799a11a4",
+  "passageSha256": null,
+  "assetHashes": {},
+  "policy": "full-corpus-v3-risk-format-complete-reading-groups-1",
+  "decisions": [
+    {
+      "id": "ver-a1-003",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "ver-a1-013",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "ver-a1-015",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "ver-a1-022",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "ver-a1-025",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "ver-a1-026",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "ver-a1-032",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "ver-a1-036",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "ver-a1-043",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "ver-a1-046",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "ver-a1-065",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "ver-a1-067",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "ver-a1-068",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "ver-a1-069",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "ver-a1-075",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "ver-a1-078",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "ver-a1-082",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "ver-a1-089",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "ver-a1-094",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    },
+    {
+      "id": "ver-a1-100",
+      "decision": "pending",
+      "reviewer": null,
+      "date": null,
+      "notes": ""
+    }
+  ]
+}

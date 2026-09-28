@@ -1,0 +1,30 @@
+{
+  "manifestSha256": "c00d66440754d905d4e63a33eb3bc2404260e96776ff870db5e341ad0fad9835",
+  "status": "partial_spot_checks_only",
+  "inspected": [
+    "review/index.html",
+    "review/reading-100.html (opening)",
+    "review/mathematics-20.html (opening)",
+    "review/language-20.html (opening)",
+    "review/verbal-20.html (opening)"
+  ],
+  "observation": "Visible headings and introductory content wrapped in a narrow in-app browser viewport without observed overlap. This does not certify all items or iPad rendering.",
+  "remaining": [
+    "full content scrolling",
+    "answer-guide rendering",
+    "iPad Safari",
+    "screen reader",
+    "production app rendering"
+  ],
+  "fileSha256": {
+    "language-100.html": "5ec5f7b9469415ef8fa2424b27709d49589d88e686ceb905dcb8f6f91c05a7a6",
+    "index.html": "9993c34585fd8f8e92aa13ddb1e5fa9a2033d3d88fbed4a2fc68608b29c68271",
+    "verbal-20.html": "9192521dc483abe4c5fa026782c66afe789b6464ebf1e7f5d16aa2627a06da0b",
+    "language-20.html": "402e6882bbbc9f4e8364c5c8b825d54217718c16d67fbb38bc42dbcf3b9c1104",
+    "reading-100.html": "357170c990b96cace649b6b2712de39a386d2afeda8349a8377a63ec8f15fc8c",
+    "verbal-100.html": "caf4f4bb55166ef00722c9153a7ae32954dffa576351e5d741f8604102aa5081",
+    "mathematics-100.html": "239a9c33aa0da1ec9b42e8cc319e5e462f522a7a6870746e6390130865cbf14c",
+    "mathematics-20.html": "7a0f1dd281812b4e33f806816ba6c16babaf5cf0a6decde318aa46bb8fe1b8d9",
+    "reading-20.html": "bd17109a2090b16bb3a719cb38b5fc4c95637d72e6a8a6d360e5040db0c95e28"
+  }
+}

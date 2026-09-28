@@ -1,0 +1,17 @@
+const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict'),path=require('node:path');
+const root=path.resolve(__dirname,'../../content/staging/additional-v3');
+const html=fs.readFileSync(path.join(root,'review/all-sections-80.html'),'utf8');
+const data=JSON.parse(html.match(/<script id="review-data" type="application\/json">([\s\S]*?)<\/script>/)[1]);
+const script=html.match(/<script>([\s\S]*?)<\/script>/)[1];
+const handlers={};const control=(id,kind)=>({dataset:{[kind]:id},value:'',addEventListener:(event,fn)=>{handlers[kind+id+event]=fn;}});
+const decisions=data.items.map(q=>control(q.id,'decision')),notes=data.items.map(q=>control(q.id,'notes'));
+const elements={'review-data':{textContent:JSON.stringify(data)},reviewer:control('reviewer','field'),progress:{textContent:''},export:control('export','button'),print:control('print','button')};
+let blob,clicked=false,store={};
+const context={JSON,Date,Blob,setTimeout:fn=>fn(),URL:{createObjectURL:b=>{blob=b;return 'blob:test';},revokeObjectURL:()=>{}},localStorage:{getItem:k=>store[k]||null,setItem:(k,v)=>store[k]=v},document:{getElementById:id=>elements[id],querySelectorAll:sel=>sel==='[data-decision]'?decisions:sel==='[data-notes]'?notes:[],createElement:()=>({click:()=>clicked=true})},window:{print:()=>{}}};
+vm.runInNewContext(script,context);
+assert.equal(elements.progress.textContent,'0 of 80 decisions recorded on this browser.');
+elements.reviewer.value='Automated test only';handlers.fieldreviewerinput();
+decisions[0].value='revise';handlers['decision'+data.items[0].id+'change']();
+notes[0].value='Test note';handlers['notes'+data.items[0].id+'input']();
+handlers.buttonexportclick();assert(clicked);
+blob.text().then(t=>{const p=JSON.parse(t);assert.equal(p.decisions.length,80);assert.equal(p.decisions[0].decision,'revise');assert.equal(p.decisions[0].notes,'Test note');assert.equal(p.decisions.slice(1).every(x=>x.decision==='pending'),true);assert.equal(p.reviewer,'Automated test only');assert.equal(p.packetHash,data.packetHash);assert.deepEqual(p.manifests,data.manifests);console.log('Export payload, revision bindings, save handlers, and pending defaults passed. No deliverable decisions changed.');}).catch(e=>{console.error(e);process.exitCode=1});

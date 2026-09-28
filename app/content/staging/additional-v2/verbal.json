@@ -1,0 +1,2709 @@
+{
+  "schemaVersion": "hspt-draft-1",
+  "batchId": "verbal-additional-v2",
+  "section": "verbal",
+  "version": 2,
+  "status": "draft_not_for_publication",
+  "questions": [
+    {
+      "id": "ver-a1-001",
+      "revision": 2,
+      "section": "verbal",
+      "skill": "synonyms",
+      "format": "synonyms",
+      "difficulty": 2,
+      "templateFamily": "synonyms-covet",
+      "stem": "Which word is most nearly a synonym for COVET?",
+      "choices": [
+        "conceal",
+        "purchase",
+        "desire",
+        "reject"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "To covet something is to desire it strongly; it does not mean that one has purchased or hidden it.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-002",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "synonyms",
+      "format": "synonyms",
+      "difficulty": 2,
+      "templateFamily": "synonyms-reluctant",
+      "stem": "Which word is most nearly a synonym for RELUCTANT?",
+      "choices": [
+        "forgetful",
+        "eager",
+        "unwilling",
+        "distant"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Reluctant means hesitant or unwilling. Unwilling is the closest meaning; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-003",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "synonyms",
+      "format": "synonyms",
+      "difficulty": 2,
+      "templateFamily": "synonyms-concise",
+      "stem": "Which word is most nearly a synonym for CONCISE?",
+      "choices": [
+        "friendly",
+        "confusing",
+        "brief",
+        "ancient"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Concise means expressed in few words. Brief is the closest meaning; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-004",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "synonyms",
+      "format": "synonyms",
+      "difficulty": 2,
+      "templateFamily": "synonyms-obsolete",
+      "stem": "Which word is most nearly a synonym for OBSOLETE?",
+      "choices": [
+        "valuable",
+        "delicate",
+        "outdated",
+        "ordinary"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Obsolete means no longer current or in use. Outdated is the closest meaning; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-005",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "synonyms",
+      "format": "synonyms",
+      "difficulty": 2,
+      "templateFamily": "synonyms-impartial",
+      "stem": "Which word is most nearly a synonym for IMPARTIAL?",
+      "choices": [
+        "impatient",
+        "incomplete",
+        "unbiased",
+        "unusual"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Impartial means fair and free from favoritism. Unbiased is the closest meaning; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-006",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "synonyms",
+      "format": "synonyms",
+      "difficulty": 2,
+      "templateFamily": "synonyms-resilient",
+      "stem": "Which word is most nearly a synonym for RESILIENT?",
+      "choices": [
+        "careless",
+        "tough",
+        "fragile",
+        "motionless"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Resilient means able to recover after difficulty. Tough is the closest meaning; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-007",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "synonyms",
+      "format": "synonyms",
+      "difficulty": 2,
+      "templateFamily": "synonyms-frugal",
+      "stem": "Which word is most nearly a synonym for FRUGAL?",
+      "choices": [
+        "generous",
+        "economical",
+        "reckless",
+        "cheerful"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Frugal means careful to avoid waste. Economical is the closest meaning; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-008",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "synonyms",
+      "format": "synonyms",
+      "difficulty": 2,
+      "templateFamily": "synonyms-candid",
+      "stem": "Which word is most nearly a synonym for CANDID?",
+      "choices": [
+        "frank",
+        "timid",
+        "polished",
+        "secretive"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Candid means honest and direct. Frank is the closest meaning; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-009",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "synonyms",
+      "format": "synonyms",
+      "difficulty": 2,
+      "templateFamily": "synonyms-vigilant",
+      "stem": "Which word is most nearly a synonym for VIGILANT?",
+      "choices": [
+        "watchful",
+        "drowsy",
+        "confused",
+        "talkative"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Vigilant means alert to possible danger. Watchful is the closest meaning; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-010",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "synonyms",
+      "format": "synonyms",
+      "difficulty": 2,
+      "templateFamily": "synonyms-plausible",
+      "stem": "Which word is most nearly a synonym for PLAUSIBLE?",
+      "choices": [
+        "certain",
+        "believable",
+        "impossible",
+        "unpleasant"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Plausible means apparently reasonable or believable. Believable is the closest meaning; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-011",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "synonyms",
+      "format": "synonyms",
+      "difficulty": 2,
+      "templateFamily": "synonyms-coax",
+      "stem": "Which word is most nearly a synonym for COAX?",
+      "choices": [
+        "persuade",
+        "punish",
+        "ignore",
+        "announce"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Coax means gently persuade. Persuade is the closest meaning; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-012",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "synonyms",
+      "format": "synonyms",
+      "difficulty": 2,
+      "templateFamily": "synonyms-scrutinize",
+      "stem": "Which word is most nearly a synonym for SCRUTINIZE?",
+      "choices": [
+        "decorate",
+        "examine",
+        "discard",
+        "remember"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Scrutinize means examine closely. Examine is the closest meaning; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-013",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "synonyms",
+      "format": "synonyms",
+      "difficulty": 2,
+      "templateFamily": "synonyms-alleviate",
+      "stem": "Which word is most nearly a synonym for ALLEVIATE?",
+      "choices": [
+        "conceal",
+        "predict",
+        "increase",
+        "ease"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Alleviate means make less severe. Ease is the closest meaning; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-014",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "synonyms",
+      "format": "synonyms",
+      "difficulty": 2,
+      "templateFamily": "synonyms-replenish",
+      "stem": "Which word is most nearly a synonym for REPLENISH?",
+      "choices": [
+        "divide",
+        "remove",
+        "measure",
+        "refill"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Replenish means fill up again. Refill is the closest meaning; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-015",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "synonyms",
+      "format": "synonyms",
+      "difficulty": 2,
+      "templateFamily": "synonyms-prohibit",
+      "stem": "Which word is most nearly a synonym for PROHIBIT?",
+      "choices": [
+        "suggest",
+        "permit",
+        "forbid",
+        "describe"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Prohibit means formally forbid. Forbid is the closest meaning; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-016",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "synonyms",
+      "format": "synonyms",
+      "difficulty": 2,
+      "templateFamily": "synonyms-nimble",
+      "stem": "Which word is most nearly a synonym for NIMBLE?",
+      "choices": [
+        "heavy",
+        "noisy",
+        "agile",
+        "patient"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Nimble means quick and light in movement. Agile is the closest meaning; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-017",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "synonyms",
+      "format": "synonyms",
+      "difficulty": 2,
+      "templateFamily": "synonyms-sturdy",
+      "stem": "Which word is most nearly a synonym for STURDY?",
+      "choices": [
+        "strong",
+        "elegant",
+        "hollow",
+        "flexible"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Sturdy means solidly built and strong. Strong is the closest meaning; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-018",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "synonyms",
+      "format": "synonyms",
+      "difficulty": 2,
+      "templateFamily": "synonyms-tranquil",
+      "stem": "Which word is most nearly a synonym for TRANQUIL?",
+      "choices": [
+        "crowded",
+        "peaceful",
+        "sudden",
+        "colorful"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Tranquil means calm and peaceful. Peaceful is the closest meaning; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-019",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "synonyms",
+      "format": "synonyms",
+      "difficulty": 2,
+      "templateFamily": "synonyms-elaborate",
+      "stem": "Which word is most nearly a synonym for ELABORATE?",
+      "choices": [
+        "detailed",
+        "plain",
+        "accidental",
+        "expensive"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Elaborate means complex and carefully developed. Detailed is the closest meaning; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-020",
+      "revision": 2,
+      "section": "verbal",
+      "skill": "synonyms",
+      "format": "synonyms",
+      "difficulty": 2,
+      "templateFamily": "synonyms-inert",
+      "stem": "Which word is most nearly a synonym for INERT?",
+      "choices": [
+        "weightless",
+        "invisible",
+        "inactive",
+        "valuable"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Inert describes something that does not move or act; inactive is the closest meaning.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-021",
+      "revision": 2,
+      "section": "verbal",
+      "skill": "synonyms",
+      "format": "synonyms",
+      "difficulty": 2,
+      "templateFamily": "synonyms-tentative",
+      "stem": "Which word is most nearly a synonym for TENTATIVE?",
+      "choices": [
+        "definite",
+        "lengthy",
+        "uncertain",
+        "immediate"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Tentative means not yet settled or definite; uncertain is the closest choice.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-022",
+      "revision": 2,
+      "section": "verbal",
+      "skill": "synonyms",
+      "format": "synonyms",
+      "difficulty": 2,
+      "templateFamily": "synonyms-reprieve",
+      "stem": "Which word is most nearly a synonym for REPRIEVE?",
+      "choices": [
+        "punishment",
+        "postponement",
+        "request",
+        "celebration"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "A reprieve is a temporary delay or relief, especially a postponement of punishment.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-023",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "synonyms",
+      "format": "synonyms",
+      "difficulty": 2,
+      "templateFamily": "synonyms-conspicuous",
+      "stem": "Which word is most nearly a synonym for CONSPICUOUS?",
+      "choices": [
+        "temporary",
+        "hidden",
+        "familiar",
+        "noticeable"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Conspicuous means easy to see or notice. Noticeable is the closest meaning; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-024",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "synonyms",
+      "format": "synonyms",
+      "difficulty": 2,
+      "templateFamily": "synonyms-wary",
+      "stem": "Which word is most nearly a synonym for WARY?",
+      "choices": [
+        "weary",
+        "confident",
+        "angry",
+        "cautious"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Wary means alert to possible problems. Cautious is the closest meaning; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-025",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "synonyms",
+      "format": "synonyms",
+      "difficulty": 2,
+      "templateFamily": "synonyms-verify",
+      "stem": "Which word is most nearly a synonym for VERIFY?",
+      "choices": [
+        "confirm",
+        "doubt",
+        "invent",
+        "delay"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Verify means establish that something is true. Confirm is the closest meaning; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-026",
+      "revision": 2,
+      "section": "verbal",
+      "skill": "antonyms",
+      "format": "antonyms",
+      "difficulty": 2,
+      "templateFamily": "antonyms-authentic",
+      "stem": "Which word is most nearly opposite in meaning to AUTHENTIC?",
+      "choices": [
+        "unusual",
+        "valuable",
+        "counterfeit",
+        "ancient"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Authentic means genuine. Counterfeit means made to imitate something genuine and is the opposite.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-027",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "antonyms",
+      "format": "antonyms",
+      "difficulty": 2,
+      "templateFamily": "antonyms-rigid",
+      "stem": "Which word is most nearly opposite in meaning to RIGID?",
+      "choices": [
+        "solid",
+        "straight",
+        "flexible",
+        "narrow"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Rigid means stiff and resistant to bending. Flexible is the opposite; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-028",
+      "revision": 2,
+      "section": "verbal",
+      "skill": "antonyms",
+      "format": "antonyms",
+      "difficulty": 2,
+      "templateFamily": "antonyms-durable",
+      "stem": "Which word is most nearly opposite in meaning to DURABLE?",
+      "choices": [
+        "lasting",
+        "heavy",
+        "useful",
+        "fragile"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Durable things withstand wear or damage; fragile things are easily damaged.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-029",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "antonyms",
+      "format": "antonyms",
+      "difficulty": 2,
+      "templateFamily": "antonyms-expand",
+      "stem": "Which word is most nearly opposite in meaning to EXPAND?",
+      "choices": [
+        "open",
+        "stretch",
+        "extend",
+        "shrink"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Expand means become larger. Shrink is the opposite; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-030",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "antonyms",
+      "format": "antonyms",
+      "difficulty": 2,
+      "templateFamily": "antonyms-conceal",
+      "stem": "Which word is most nearly opposite in meaning to CONCEAL?",
+      "choices": [
+        "collect",
+        "cover",
+        "protect",
+        "reveal"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Conceal means hide from view. Reveal is the opposite; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-031",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "antonyms",
+      "format": "antonyms",
+      "difficulty": 2,
+      "templateFamily": "antonyms-optimistic",
+      "stem": "Which word is most nearly opposite in meaning to OPTIMISTIC?",
+      "choices": [
+        "pessimistic",
+        "hopeful",
+        "certain",
+        "energetic"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Optimistic means expecting a favorable result. Pessimistic is the opposite; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-032",
+      "revision": 2,
+      "section": "verbal",
+      "skill": "antonyms",
+      "format": "antonyms",
+      "difficulty": 2,
+      "templateFamily": "antonyms-benevolent",
+      "stem": "Which word is most nearly opposite in meaning to BENEVOLENT?",
+      "choices": [
+        "generous",
+        "distant",
+        "malicious",
+        "uncertain"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Benevolent describes goodwill; malicious describes an intention to cause harm.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-033",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "antonyms",
+      "format": "antonyms",
+      "difficulty": 2,
+      "templateFamily": "antonyms-transparent",
+      "stem": "Which word is most nearly opposite in meaning to TRANSPARENT?",
+      "choices": [
+        "colorless",
+        "clear",
+        "fragile",
+        "opaque"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Transparent means allowing objects to be seen through it. Opaque is the opposite; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-034",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "antonyms",
+      "format": "antonyms",
+      "difficulty": 2,
+      "templateFamily": "antonyms-voluntary",
+      "stem": "Which word is most nearly opposite in meaning to VOLUNTARY?",
+      "choices": [
+        "helpful",
+        "generous",
+        "compulsory",
+        "intentional"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Voluntary means done by choice. Compulsory is the opposite; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-035",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "antonyms",
+      "format": "antonyms",
+      "difficulty": 2,
+      "templateFamily": "antonyms-initial",
+      "stem": "Which word is most nearly opposite in meaning to INITIAL?",
+      "choices": [
+        "final",
+        "early",
+        "brief",
+        "original"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Initial means occurring at the beginning. Final is the opposite; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-036",
+      "revision": 2,
+      "section": "verbal",
+      "skill": "antonyms",
+      "format": "antonyms",
+      "difficulty": 2,
+      "templateFamily": "antonyms-ascend",
+      "stem": "Which word is most nearly opposite in meaning to ASCEND?",
+      "choices": [
+        "pause",
+        "approach",
+        "descend",
+        "wander"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Ascend means move upward; descend means move downward.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-037",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "antonyms",
+      "format": "antonyms",
+      "difficulty": 2,
+      "templateFamily": "antonyms-mitigate",
+      "stem": "Which word is most nearly opposite in meaning to MITIGATE?",
+      "choices": [
+        "reduce",
+        "worsen",
+        "measure",
+        "ignore"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Mitigate means make less severe. Worsen is the opposite; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-038",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "antonyms",
+      "format": "antonyms",
+      "difficulty": 2,
+      "templateFamily": "antonyms-diligent",
+      "stem": "Which word is most nearly opposite in meaning to DILIGENT?",
+      "choices": [
+        "exhausted",
+        "careful",
+        "negligent",
+        "skilled"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Diligent means showing steady care and effort. Negligent is the opposite; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-039",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "antonyms",
+      "format": "antonyms",
+      "difficulty": 2,
+      "templateFamily": "antonyms-include",
+      "stem": "Which word is most nearly opposite in meaning to INCLUDE?",
+      "choices": [
+        "exclude",
+        "gather",
+        "contain",
+        "combine"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Include means have as a part. Exclude is the opposite; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-040",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "antonyms",
+      "format": "antonyms",
+      "difficulty": 2,
+      "templateFamily": "antonyms-hostile",
+      "stem": "Which word is most nearly opposite in meaning to HOSTILE?",
+      "choices": [
+        "friendly",
+        "angry",
+        "formal",
+        "distant"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Hostile means unfriendly or antagonistic. Friendly is the opposite; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-041",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "antonyms",
+      "format": "antonyms",
+      "difficulty": 2,
+      "templateFamily": "antonyms-approximate",
+      "stem": "Which word is most nearly opposite in meaning to APPROXIMATE?",
+      "choices": [
+        "exact",
+        "nearby",
+        "rough",
+        "large"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Approximate means close to but not precisely correct. Exact is the opposite; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-042",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "antonyms",
+      "format": "antonyms",
+      "difficulty": 2,
+      "templateFamily": "antonyms-perilous",
+      "stem": "Which word is most nearly opposite in meaning to PERILOUS?",
+      "choices": [
+        "risky",
+        "safe",
+        "remote",
+        "exciting"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Perilous means dangerous. Safe is the opposite; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-043",
+      "revision": 2,
+      "section": "verbal",
+      "skill": "antonyms",
+      "format": "antonyms",
+      "difficulty": 2,
+      "templateFamily": "antonyms-dormant",
+      "stem": "Which word is most nearly opposite in meaning to DORMANT?",
+      "choices": [
+        "active",
+        "hidden",
+        "sleeping",
+        "delayed"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Dormant means inactive for a time. Active is its opposite.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-044",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "antonyms",
+      "format": "antonyms",
+      "difficulty": 2,
+      "templateFamily": "antonyms-accelerate",
+      "stem": "Which word is most nearly opposite in meaning to ACCELERATE?",
+      "choices": [
+        "decelerate",
+        "hasten",
+        "continue",
+        "depart"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Accelerate means increase speed. Decelerate is the opposite; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-045",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "antonyms",
+      "format": "antonyms",
+      "difficulty": 2,
+      "templateFamily": "antonyms-unanimous",
+      "stem": "Which word is most nearly opposite in meaning to UNANIMOUS?",
+      "choices": [
+        "loud",
+        "complete",
+        "divided",
+        "certain"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Unanimous means in full agreement. Divided is the opposite; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-046",
+      "revision": 2,
+      "section": "verbal",
+      "skill": "antonyms",
+      "format": "antonyms",
+      "difficulty": 2,
+      "templateFamily": "antonyms-docile",
+      "stem": "Which word is most nearly opposite in meaning to DOCILE?",
+      "choices": [
+        "defiant",
+        "calm",
+        "patient",
+        "compliant"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Docile describes willingness to follow guidance; defiant describes resistance to it.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-047",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "antonyms",
+      "format": "antonyms",
+      "difficulty": 2,
+      "templateFamily": "antonyms-reinforce",
+      "stem": "Which word is most nearly opposite in meaning to REINFORCE?",
+      "choices": [
+        "support",
+        "weaken",
+        "repair",
+        "repeat"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Reinforce means make stronger. Weaken is the opposite; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-048",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "antonyms",
+      "format": "antonyms",
+      "difficulty": 2,
+      "templateFamily": "antonyms-legible",
+      "stem": "Which word is most nearly opposite in meaning to LEGIBLE?",
+      "choices": [
+        "lengthy",
+        "written",
+        "neat",
+        "unreadable"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Legible means clear enough to read. Unreadable is the opposite; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-049",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "antonyms",
+      "format": "antonyms",
+      "difficulty": 2,
+      "templateFamily": "antonyms-seldom",
+      "stem": "Which word is most nearly opposite in meaning to SELDOM?",
+      "choices": [
+        "rarely",
+        "frequently",
+        "recently",
+        "quietly"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Seldom means not often. Frequently is the opposite; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-050",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "antonyms",
+      "format": "antonyms",
+      "difficulty": 2,
+      "templateFamily": "antonyms-wane",
+      "stem": "Which word is most nearly opposite in meaning to WANE?",
+      "choices": [
+        "pause",
+        "fade",
+        "increase",
+        "vanish"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Wane means decrease in strength or extent. Increase is the opposite; the other choices do not express that relationship.",
+        "shortcut": "Decide the meaning first, then check whether the question asks for a synonym or an opposite."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-051",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "analogies",
+      "format": "analogies",
+      "difficulty": 2,
+      "templateFamily": "reference aid to document",
+      "stem": "Complete the analogy: index : book :: legend : ?",
+      "choices": [
+        "voyage",
+        "map",
+        "library",
+        "sentence"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "An index helps a reader locate information in a book; a legend helps a reader interpret symbols on a map.",
+        "shortcut": "Describe the first relationship in a short sentence and preserve its direction."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-052",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "analogies",
+      "format": "analogies",
+      "difficulty": 2,
+      "templateFamily": "instrument to quantity",
+      "stem": "Complete the analogy: thermometer : temperature :: odometer : ?",
+      "choices": [
+        "direction",
+        "pressure",
+        "speed",
+        "distance"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "A thermometer measures temperature; an odometer measures distance traveled.",
+        "shortcut": "Describe the first relationship in a short sentence and preserve its direction."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-053",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "analogies",
+      "format": "analogies",
+      "difficulty": 2,
+      "templateFamily": "developmental stage",
+      "stem": "Complete the analogy: bud : blossom :: caterpillar : ?",
+      "choices": [
+        "leaf",
+        "nest",
+        "butterfly",
+        "antenna"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "A bud develops into a blossom; a caterpillar develops into a butterfly.",
+        "shortcut": "Describe the first relationship in a short sentence and preserve its direction."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-054",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "analogies",
+      "format": "analogies",
+      "difficulty": 2,
+      "templateFamily": "worker to object",
+      "stem": "Complete the analogy: editor : manuscript :: mechanic : ?",
+      "choices": [
+        "driver",
+        "garage",
+        "wrench",
+        "engine"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "An editor works to improve a manuscript; a mechanic works to repair an engine.",
+        "shortcut": "Describe the first relationship in a short sentence and preserve its direction."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-055",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "analogies",
+      "format": "analogies",
+      "difficulty": 2,
+      "templateFamily": "part to whole",
+      "stem": "Complete the analogy: stanza : poem :: scene : ?",
+      "choices": [
+        "play",
+        "audience",
+        "actor",
+        "costume"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "A stanza is a structural part of a poem; a scene is a structural part of a play.",
+        "shortcut": "Describe the first relationship in a short sentence and preserve its direction."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-056",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "analogies",
+      "format": "analogies",
+      "difficulty": 2,
+      "templateFamily": "action to prevented effect",
+      "stem": "Complete the analogy: insulate : heat loss :: waterproof : ?",
+      "choices": [
+        "water temperature",
+        "water penetration",
+        "surface color",
+        "air pressure"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Insulating reduces heat loss; waterproofing prevents water penetration.",
+        "shortcut": "Describe the first relationship in a short sentence and preserve its direction."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-057",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "analogies",
+      "format": "analogies",
+      "difficulty": 2,
+      "templateFamily": "opposites",
+      "stem": "Complete the analogy: tentative : definite :: doubtful : ?",
+      "choices": [
+        "curious",
+        "careful",
+        "puzzled",
+        "certain"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Tentative and definite contrast uncertainty and certainty, as doubtful and certain do.",
+        "shortcut": "Describe the first relationship in a short sentence and preserve its direction."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-058",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "analogies",
+      "format": "analogies",
+      "difficulty": 2,
+      "templateFamily": "source to product",
+      "stem": "Complete the analogy: orchard : fruit :: quarry : ?",
+      "choices": [
+        "grain",
+        "water",
+        "trees",
+        "stone"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "An orchard is a source of fruit; a quarry is a source of stone.",
+        "shortcut": "Describe the first relationship in a short sentence and preserve its direction."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-059",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "analogies",
+      "format": "analogies",
+      "difficulty": 2,
+      "templateFamily": "manner of action",
+      "stem": "Complete the analogy: whisper : speak :: stroll : ?",
+      "choices": [
+        "wander",
+        "race",
+        "rest",
+        "walk"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Whispering is a quiet way of speaking; strolling is a leisurely way of walking.",
+        "shortcut": "Describe the first relationship in a short sentence and preserve its direction."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-060",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "analogies",
+      "format": "analogies",
+      "difficulty": 2,
+      "templateFamily": "plan to product",
+      "stem": "Complete the analogy: blueprint : building :: outline : ?",
+      "choices": [
+        "essay",
+        "pencil",
+        "dictionary",
+        "paragraph mark"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "A blueprint plans a building; an outline plans an essay.",
+        "shortcut": "Describe the first relationship in a short sentence and preserve its direction."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-061",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "analogies",
+      "format": "analogies",
+      "difficulty": 2,
+      "templateFamily": "property to tendency",
+      "stem": "Complete the analogy: fragile : shatter :: flammable : ?",
+      "choices": [
+        "freeze",
+        "ignite",
+        "bend",
+        "dissolve"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Something fragile is easily shattered; something flammable is easily ignited.",
+        "shortcut": "Describe the first relationship in a short sentence and preserve its direction."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-062",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "analogies",
+      "format": "analogies",
+      "difficulty": 2,
+      "templateFamily": "object to appropriate action",
+      "stem": "Complete the analogy: seed : sow :: evidence : ?",
+      "choices": [
+        "assume",
+        "forget",
+        "present",
+        "suspect"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "One sows a seed and presents evidence; preserve object-to-action order.",
+        "shortcut": "Describe the first relationship in a short sentence and preserve its direction."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-063",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "analogies",
+      "format": "analogies",
+      "difficulty": 2,
+      "templateFamily": "barrier property",
+      "stem": "Complete the analogy: opaque : light :: soundproof : ?",
+      "choices": [
+        "wall",
+        "sound",
+        "echo chamber",
+        "darkness"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "An opaque material blocks light; soundproof material blocks sound.",
+        "shortcut": "Describe the first relationship in a short sentence and preserve its direction."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-064",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "analogies",
+      "format": "analogies",
+      "difficulty": 2,
+      "templateFamily": "creator to creation",
+      "stem": "Complete the analogy: composer : score :: choreographer : ?",
+      "choices": [
+        "instrument",
+        "orchestra",
+        "theater",
+        "dance"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "A composer creates a musical score; a choreographer creates a dance.",
+        "shortcut": "Describe the first relationship in a short sentence and preserve its direction."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-065",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "analogies",
+      "format": "analogies",
+      "difficulty": 2,
+      "templateFamily": "type to category",
+      "stem": "Complete the analogy: anecdote : story :: sonnet : ?",
+      "choices": [
+        "poem",
+        "author",
+        "novel",
+        "rhyme"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "An anecdote is a kind of story; a sonnet is a kind of poem.",
+        "shortcut": "Describe the first relationship in a short sentence and preserve its direction."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-066",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "analogies",
+      "format": "analogies",
+      "difficulty": 2,
+      "templateFamily": "verb to noun",
+      "stem": "Complete the analogy: expand : expansion :: decide : ?",
+      "choices": [
+        "decision",
+        "decisive",
+        "deciding",
+        "decided"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Expansion names the act or result of expanding; decision names the act or result of deciding.",
+        "shortcut": "Describe the first relationship in a short sentence and preserve its direction."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-067",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "analogies",
+      "format": "analogies",
+      "difficulty": 2,
+      "templateFamily": "tool to measured property",
+      "stem": "Complete the analogy: compass : direction :: balance scale : ?",
+      "choices": [
+        "distance",
+        "mass",
+        "volume",
+        "time"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "A compass indicates direction; a balance scale compares masses.",
+        "shortcut": "Describe the first relationship in a short sentence and preserve its direction."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-068",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "analogies",
+      "format": "analogies",
+      "difficulty": 2,
+      "templateFamily": "opposites",
+      "stem": "Complete the analogy: rough : smooth :: uneven : ?",
+      "choices": [
+        "steep",
+        "level",
+        "coarse",
+        "narrow"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Rough contrasts with smooth; uneven contrasts with level.",
+        "shortcut": "Describe the first relationship in a short sentence and preserve its direction."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-069",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "analogies",
+      "format": "analogies",
+      "difficulty": 2,
+      "templateFamily": "book element to position",
+      "stem": "Complete the analogy: preface : beginning :: epilogue : ?",
+      "choices": [
+        "chapter",
+        "conflict",
+        "author",
+        "ending"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "A preface appears at the beginning of a book; an epilogue appears at its end.",
+        "shortcut": "Describe the first relationship in a short sentence and preserve its direction."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-070",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "analogies",
+      "format": "analogies",
+      "difficulty": 2,
+      "templateFamily": "tool to function",
+      "stem": "Complete the analogy: sieve : separate :: clamp : ?",
+      "choices": [
+        "cut",
+        "hold",
+        "polish",
+        "measure"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "A sieve separates materials; a clamp holds objects firmly.",
+        "shortcut": "Describe the first relationship in a short sentence and preserve its direction."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-071",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "classifications",
+      "format": "classifications",
+      "difficulty": 1,
+      "templateFamily": "measurement category",
+      "stem": "Which word is not a unit of length?",
+      "choices": [
+        "inch",
+        "meter",
+        "liter",
+        "mile"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "A liter measures volume; the others measure length.",
+        "shortcut": "Identify the stated category, then test each choice against it."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-072",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "classifications",
+      "format": "classifications",
+      "difficulty": 1,
+      "templateFamily": "music category",
+      "stem": "Which word is not a musical instrument?",
+      "choices": [
+        "oboe",
+        "melody",
+        "cello",
+        "trombone"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "A melody is a sequence of notes, not an instrument.",
+        "shortcut": "Identify the stated category, then test each choice against it."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-073",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "classifications",
+      "format": "classifications",
+      "difficulty": 1,
+      "templateFamily": "weather category",
+      "stem": "Which word is not a type of precipitation?",
+      "choices": [
+        "hail",
+        "rain",
+        "sleet",
+        "breeze"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "A breeze is moving air; rain, sleet and hail fall from clouds.",
+        "shortcut": "Identify the stated category, then test each choice against it."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-074",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "classifications",
+      "format": "classifications",
+      "difficulty": 1,
+      "templateFamily": "book category",
+      "stem": "Which word is not a written account of someone's life?",
+      "choices": [
+        "biography",
+        "atlas",
+        "memoir",
+        "autobiography"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "An atlas is a collection of maps; the other words name life accounts.",
+        "shortcut": "Identify the stated category, then test each choice against it."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-075",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "classifications",
+      "format": "classifications",
+      "difficulty": 1,
+      "templateFamily": "repair meanings",
+      "stem": "Which word is not a synonym for repair?",
+      "choices": [
+        "damage",
+        "mend",
+        "restore",
+        "fix"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Damage means harm; the others mean to put something right.",
+        "shortcut": "Identify the stated category, then test each choice against it."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-076",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "classifications",
+      "format": "classifications",
+      "difficulty": 1,
+      "templateFamily": "sound meanings",
+      "stem": "Which word does not describe a lack of sound?",
+      "choices": [
+        "hushed",
+        "silent",
+        "clamorous",
+        "noiseless"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Clamorous means noisy, whereas the others describe quiet.",
+        "shortcut": "Identify the stated category, then test each choice against it."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-077",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "classifications",
+      "format": "classifications",
+      "difficulty": 1,
+      "templateFamily": "shape category",
+      "stem": "Which word is not a polygon?",
+      "choices": [
+        "pentagon",
+        "hexagon",
+        "triangle",
+        "sphere"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "A sphere is a three-dimensional curved solid; the others are plane polygons.",
+        "shortcut": "Identify the stated category, then test each choice against it."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-078",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "classifications",
+      "format": "classifications",
+      "difficulty": 1,
+      "templateFamily": "object function",
+      "stem": "Which word is not a means of fastening objects?",
+      "choices": [
+        "rivet",
+        "cushion",
+        "staple",
+        "bolt"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "A cushion provides padding; the others can fasten objects.",
+        "shortcut": "Identify the stated category, then test each choice against it."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-079",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "classifications",
+      "format": "classifications",
+      "difficulty": 1,
+      "templateFamily": "water category",
+      "stem": "Which word is not a form of running water?",
+      "choices": [
+        "river",
+        "brook",
+        "stream",
+        "glacier"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "A glacier is a mass of ice; the others are flowing bodies of liquid water.",
+        "shortcut": "Identify the stated category, then test each choice against it."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-080",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "classifications",
+      "format": "classifications",
+      "difficulty": 1,
+      "templateFamily": "attitude meanings",
+      "stem": "Which word is not a synonym for hesitation?",
+      "choices": [
+        "readiness",
+        "reluctance",
+        "indecision",
+        "uncertainty"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Readiness indicates preparedness; the others can indicate hesitation.",
+        "shortcut": "Identify the stated category, then test each choice against it."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-081",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "classifications",
+      "format": "classifications",
+      "difficulty": 1,
+      "templateFamily": "tool function",
+      "stem": "Which word is not a tool used to cut material?",
+      "choices": [
+        "anvil",
+        "shears",
+        "saw",
+        "knife"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "An anvil is a working surface; the others have cutting edges.",
+        "shortcut": "Identify the stated category, then test each choice against it."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-082",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "classifications",
+      "format": "classifications",
+      "difficulty": 1,
+      "templateFamily": "animal category",
+      "stem": "Which word is not a body part of a bird?",
+      "choices": [
+        "beak",
+        "gill",
+        "wing",
+        "feather"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Birds breathe with lungs rather than gills.",
+        "shortcut": "Identify the stated category, then test each choice against it."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-083",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "classifications",
+      "format": "classifications",
+      "difficulty": 1,
+      "templateFamily": "evaluation meanings",
+      "stem": "Which word is not a synonym for praise?",
+      "choices": [
+        "rebuke",
+        "commendation",
+        "tribute",
+        "acclaim"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "A rebuke expresses disapproval; the others express admiration.",
+        "shortcut": "Identify the stated category, then test each choice against it."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-084",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "classifications",
+      "format": "classifications",
+      "difficulty": 1,
+      "templateFamily": "process purpose",
+      "stem": "Which word is not a way of preserving food?",
+      "choices": [
+        "drying",
+        "freezing",
+        "serving",
+        "canning"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Serving presents food for eating rather than preserving it.",
+        "shortcut": "Identify the stated category, then test each choice against it."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-085",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "classifications",
+      "format": "classifications",
+      "difficulty": 1,
+      "templateFamily": "activity purpose",
+      "stem": "Which activity primarily prepares performers for a later presentation?",
+      "choices": [
+        "rehearsal",
+        "recital",
+        "concert",
+        "show"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "A rehearsal is preparation for a performance; the others name performances.",
+        "shortcut": "Identify the stated category, then test each choice against it."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-086",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "logical_reasoning",
+      "format": "logical_reasoning",
+      "difficulty": 1,
+      "templateFamily": "class membership",
+      "stem": "Every item in the blue bin is recyclable. This jar is in the blue bin. Which conclusion must follow?",
+      "choices": [
+        "Every recyclable item is in the blue bin.",
+        "This jar is recyclable.",
+        "Every jar is in the blue bin.",
+        "No item outside the bin is recyclable."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The jar belongs to the group whose members are all recyclable. The rule does not run backward.",
+        "shortcut": "Use only the stated facts. Do not reverse an implication or change some into all."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-087",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "logical_reasoning",
+      "format": "logical_reasoning",
+      "difficulty": 2,
+      "templateFamily": "disjoint sets",
+      "stem": "No members of the chess club are on the sailing team. Kira is on the sailing team. What must be true?",
+      "choices": [
+        "Kira is not in the chess club.",
+        "Kira dislikes chess.",
+        "Every sailor is a student.",
+        "Kira belongs to no other club."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The two named groups do not overlap; nothing is said about preferences or other clubs.",
+        "shortcut": "Use only the stated facts. Do not reverse an implication or change some into all."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-088",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "logical_reasoning",
+      "format": "logical_reasoning",
+      "difficulty": 2,
+      "templateFamily": "existential intersection",
+      "stem": "Some museum guides speak Japanese. Every museum guide wears a badge. What must be true?",
+      "choices": [
+        "All badge wearers speak Japanese.",
+        "Some badge wearers speak Japanese.",
+        "All Japanese speakers are guides.",
+        "No guide speaks any other language."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The guides who speak Japanese also wear badges. Some cannot be changed to all.",
+        "shortcut": "Use only the stated facts. Do not reverse an implication or change some into all."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-089",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "logical_reasoning",
+      "format": "logical_reasoning",
+      "difficulty": 2,
+      "templateFamily": "necessary condition",
+      "stem": "A workshop runs only if at least six people register. The workshop ran. What must be true?",
+      "choices": [
+        "Every registered person attended.",
+        "Exactly six people attended.",
+        "At least six people registered.",
+        "Fewer than six people registered."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Running requires six registrations; attendance and exact totals are not specified.",
+        "shortcut": "Use only the stated facts. Do not reverse an implication or change some into all."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-090",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "logical_reasoning",
+      "format": "logical_reasoning",
+      "difficulty": 3,
+      "templateFamily": "contrapositive",
+      "stem": "Whenever the alarm sounds, the caretaker checks the panel. The caretaker did not check the panel today. What follows from these statements?",
+      "choices": [
+        "The alarm sounded once today.",
+        "The alarm is broken.",
+        "The caretaker checked another room.",
+        "The alarm did not sound today."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "If the alarm had sounded, the stated rule would require a panel check. The cause of the silence is unknown.",
+        "shortcut": "Use only the stated facts. Do not reverse an implication or change some into all."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-091",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "logical_reasoning",
+      "format": "logical_reasoning",
+      "difficulty": 2,
+      "templateFamily": "only condition",
+      "stem": "Only sealed envelopes enter the sorting machine. Envelope R entered the machine. What must be true?",
+      "choices": [
+        "No envelope was rejected.",
+        "Every sealed envelope entered.",
+        "Envelope R contained a letter.",
+        "Envelope R was sealed."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Entry requires sealing; the statement does not require all sealed envelopes to enter.",
+        "shortcut": "Use only the stated facts. Do not reverse an implication or change some into all."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-092",
+      "revision": 2,
+      "section": "verbal",
+      "skill": "logical_reasoning",
+      "format": "logical_reasoning",
+      "difficulty": 3,
+      "templateFamily": "necessary-condition-and-exclusion",
+      "stem": "Only volunteers who complete training may lead a tour. Iris led a tour, and Theo has not completed training. Assuming the rule was followed, which statement must be true?",
+      "choices": [
+        "Every trained volunteer has led a tour.",
+        "Theo may lead a tour if Iris joins him.",
+        "Iris was the only volunteer who completed training.",
+        "Iris completed training, and Theo may not lead a tour."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Leading a tour requires training, so Iris completed it. Theo lacks the required training and is not permitted to lead. Training alone does not prove anyone has actually led a tour.",
+        "shortcut": "Use only the stated facts. Do not reverse an implication or change some into all."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-093",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "logical_reasoning",
+      "format": "logical_reasoning",
+      "difficulty": 1,
+      "templateFamily": "ordering",
+      "stem": "The red folder must be filed before the green folder. The blue folder must be filed after the green folder. Which folder must be filed first among these three?",
+      "choices": [
+        "red",
+        "green",
+        "blue",
+        "The order cannot be determined."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The constraints give red before green before blue.",
+        "shortcut": "Use only the stated facts. Do not reverse an implication or change some into all."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-094",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "logical_reasoning",
+      "format": "logical_reasoning",
+      "difficulty": 2,
+      "templateFamily": "ordering insertion",
+      "stem": "Four runners finish with no ties. Uma finishes ahead of Vic; Vic ahead of Wes; and Tia behind Uma but ahead of Vic. Who finishes second?",
+      "choices": [
+        "Wes",
+        "Uma",
+        "Vic",
+        "Tia"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The order is Uma, Tia, Vic, Wes.",
+        "shortcut": "Use only the stated facts. Do not reverse an implication or change some into all."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-095",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "logical_reasoning",
+      "format": "logical_reasoning",
+      "difficulty": 3,
+      "templateFamily": "exhaustive alternatives",
+      "stem": "A badge is either round or square, never both. Every round badge is gold. This badge is not gold. Which conclusion follows?",
+      "choices": [
+        "It is both round and square.",
+        "It is round.",
+        "It is silver.",
+        "It is square."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "A round badge would be gold. Therefore it is not round and must be the other permitted shape.",
+        "shortcut": "Use only the stated facts. Do not reverse an implication or change some into all."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-096",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "logical_reasoning",
+      "format": "logical_reasoning",
+      "difficulty": 1,
+      "templateFamily": "exclusive choice",
+      "stem": "Exactly one of two switches, A and B, is on. Switch A is off. What must be true?",
+      "choices": [
+        "Both switches are off.",
+        "Switch B is on.",
+        "Switch B is off.",
+        "Switch A is broken."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "With exactly one on and A off, B must be on. A switch being off does not mean it is broken.",
+        "shortcut": "Use only the stated facts. Do not reverse an implication or change some into all."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-097",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "logical_reasoning",
+      "format": "logical_reasoning",
+      "difficulty": 2,
+      "templateFamily": "restricted implication",
+      "stem": "Every volunteer who handles animals has completed training. Noel is a volunteer who has not completed training. What must be true?",
+      "choices": [
+        "Every trained volunteer handles animals.",
+        "Noel cannot ever complete training.",
+        "Noel does not volunteer.",
+        "Noel does not handle animals."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Animal handling requires training, so the stated lack of training rules out that role.",
+        "shortcut": "Use only the stated facts. Do not reverse an implication or change some into all."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-098",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "logical_reasoning",
+      "format": "logical_reasoning",
+      "difficulty": 1,
+      "templateFamily": "inclusive alternative",
+      "stem": "A route uses the tunnel or the bridge, or both. The route does not use the tunnel. What follows?",
+      "choices": [
+        "The route uses neither.",
+        "The bridge is shorter.",
+        "The route uses the bridge.",
+        "The route uses two bridges."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "At least one of the two is used. Excluding the tunnel leaves the bridge.",
+        "shortcut": "Use only the stated facts. Do not reverse an implication or change some into all."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-099",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "logical_reasoning",
+      "format": "logical_reasoning",
+      "difficulty": 2,
+      "templateFamily": "material implication",
+      "stem": "Every brass key opens cabinet A. Key P does not open cabinet A. Which conclusion must follow?",
+      "choices": [
+        "No key opens cabinet A.",
+        "Key P opens cabinet B.",
+        "Key P is not brass.",
+        "Every nonbrass key opens cabinet A."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "A brass key would open A; P does not, so P cannot be brass.",
+        "shortcut": "Use only the stated facts. Do not reverse an implication or change some into all."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "ver-a1-100",
+      "revision": 1,
+      "section": "verbal",
+      "skill": "logical_reasoning",
+      "format": "logical_reasoning",
+      "difficulty": 3,
+      "templateFamily": "qualified universal",
+      "stem": "All members of the mural team are artists. No artists on the team are absent today. Which conclusion must follow?",
+      "choices": [
+        "All artists belong to the mural team.",
+        "No member of the mural team is absent today.",
+        "No student is absent today.",
+        "The mural team has exactly ten members."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Each team member is an artist on the team and therefore is not absent. The statements give no team size.",
+        "shortcut": "Use only the stated facts. Do not reverse an implication or change some into all."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27"
+      },
+      "calibrationReference": "PLAN.md#calibration-sources",
+      "reviewStatus": "pending_human_review"
+    }
+  ]
+}

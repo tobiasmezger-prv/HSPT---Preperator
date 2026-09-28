@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "hspt-draft-1",
+  "batchId": "additional-v1",
+  "status": "draft_not_for_publication",
+  "sections": {
+    "verbal": {
+      "file": "verbal.json",
+      "version": 1,
+      "questionCount": 100,
+      "sha256": "e520125bba6f7402b35e444598b7c9c06581e6d0455f7dc8be48645f881280ba"
+    },
+    "reading": {
+      "file": "reading.json",
+      "version": 1,
+      "questionCount": 100,
+      "sha256": "81062b5e44b8080f7a6416d5d049228fad3916d984470c73d191bcaad7bb2290"
+    },
+    "mathematics": {
+      "file": "mathematics.json",
+      "version": 1,
+      "questionCount": 100,
+      "sha256": "3d50b20fb1a1f9a846dd971474ae621efd157598e1c7f8b37d0d8c18ae4b9d35"
+    },
+    "language": {
+      "file": "language.json",
+      "version": 1,
+      "questionCount": 100,
+      "sha256": "e77edda10b6bc70382184b729defeb686ac63fbdcd71a6634fe56fdbef8af6ee"
+    }
+  },
+  "passages": {
+    "file": "reading-passages.json",
+    "sha256": "d11fa68347b200c8b195a42d4be10c9debbe741f2c37a077ea98e86106ef8c6b"
+  }
+}

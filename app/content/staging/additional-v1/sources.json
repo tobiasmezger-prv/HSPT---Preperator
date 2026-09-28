@@ -1,0 +1,33 @@
+{
+  "accessed": "2026-09-27",
+  "publisherScope": "https://www.ststesting.com/hp_int_sts.pdf",
+  "hostPage": "https://gablestutoring.com/practice-tests/",
+  "sources": [
+    {
+      "webLabel": "Test 1",
+      "title": "Catholic High School Entrance Exams For Dummies, HSPT Practice Test 1",
+      "questionUrl": "https://gablestutoring.com/wp-content/uploads/2020/08/HSPT-Test-3.pdf",
+      "answerUrl": "https://gablestutoring.com/wp-content/uploads/2020/08/HSPT-TEST-3-Answers.pdf",
+      "status": "initial_calibration_only"
+    },
+    {
+      "webLabel": "Test 2",
+      "title": "Peterson’s, Practice Test 5: HSPT",
+      "questionUrl": "https://gablestutoring.com/wp-content/uploads/2020/08/HSPT-TEST-4-1.pdf",
+      "answerUrl": "https://gablestutoring.com/wp-content/uploads/2020/08/HSPT-TEST-4-Answers.pdf",
+      "status": "initial_calibration_only"
+    },
+    {
+      "webLabel": "Test 3",
+      "title": "Catholic High School Entrance Exams For Dummies, HSPT Practice Test 2",
+      "questionUrl": "https://gablestutoring.com/wp-content/uploads/2020/08/HSPT-TEST-5.pdf",
+      "answerUrl": "https://gablestutoring.com/wp-content/uploads/2020/08/HSPT-TEST-5-Answers.pdf",
+      "status": "initial_calibration_only"
+    }
+  ],
+  "exclusions": [
+    "Do not infer source clearance from empty scanned-PDF extraction.",
+    "Do not reconstruct missing glyphs or words in scanned explanations.",
+    "No source answer guide is used as the sole correctness oracle."
+  ]
+}

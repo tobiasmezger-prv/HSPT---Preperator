@@ -1,0 +1,72 @@
+{
+  "policy": "full-corpus-v3-risk-format-complete-reading-groups-1",
+  "seed": "fba61fa82795b6e4f871c16672fa0a1a37faedb28b1720fee95985e1e93119d3",
+  "bankSha256": "68f7b2780ec36cdff0d0783e0b208a78fb48a89fd7bc87d16634390c066dda3a",
+  "passageSha256": null,
+  "assetHashes": {
+    "mat-a1-056": "aac6a8f0947549abfbd58a23962c1fd31c1f7fa709b4c80e5fd2690559d24532",
+    "mat-a1-057": "9abd7e355f87a541ff213e9440140fe8300bf432d44c4dba7781289841dec2e7",
+    "mat-a1-058": "b2108288d52b7ec7d4ecf133c6959f20a5c6e909656a3cbe91e3908cc31e7b50",
+    "mat-a1-059": "385f4fc09df68dd1168b72dc9b2f91b9059f5e638fd4e3da0344b306d5a930ed",
+    "mat-a1-060": "04a6cc51c00a8917d556875fbb7f38e012b6cbabe675ba47c9addb44e16b6e75",
+    "mat-a1-061": "872ae4395d7332717d2d44fb2dbe9639ca4f4b015855ae605a389bda6e761aac",
+    "mat-a1-062": "2e852ef77030722399c9d3f1b0387e998922c02f910dd7d0cdb0440678451ebe",
+    "mat-a1-063": "b86cd5509b35f6002b2e14e8b4f28cf5afe81b9d149671fefcac52cc9a5a1029",
+    "mat-a1-064": "7342af64e29d8bf6a28e9d74ef7a59e61d887ea63f5892377e32e886e83d367f",
+    "mat-a1-065": "4056f68381d0a71959aaa517b98aa591f480ac21a038c1c4fa30182a3d0f698e",
+    "mat-a1-066": "6a7d384e61dc21d1cc138728581ab512d3748fb81cf804b809c5ff23e2bbadae",
+    "mat-a1-067": "310240accdabd962c3a2894a2f22807e9d6067dc221a7f63be2b90b82cdfe12b",
+    "mat-a1-068": "8f8352e89ce07b5bdb99f7833c56f28bcac53ae00596a1771b16a21c857919c8",
+    "mat-a1-069": "4d07f3eeb5cec6e516975533e76b2d7918baa18555c48bb39711f33cbbd9ba48",
+    "mat-a1-070": "7118a72185835dbd0966f4935bd31cf6e012afa9b8e6da11c2845f1871fdadb6",
+    "mat-a1-071": "6b5124ee38e4123e458a94033e5c8ccacd65021fdf7ee70088d19ccaf958ab5e"
+  },
+  "questionIds": [
+    "mat-a1-004",
+    "mat-a1-008",
+    "mat-a1-014",
+    "mat-a1-034",
+    "mat-a1-039",
+    "mat-a1-040",
+    "mat-a1-042",
+    "mat-a1-054",
+    "mat-a1-055",
+    "mat-a1-063",
+    "mat-a1-065",
+    "mat-a1-066",
+    "mat-a1-067",
+    "mat-a1-071",
+    "mat-a1-072",
+    "mat-a1-082",
+    "mat-a1-083",
+    "mat-a1-084",
+    "mat-a1-090",
+    "mat-a1-100"
+  ],
+  "skills": {
+    "number_computation": 3,
+    "ratios_percent": 3,
+    "measurement": 3,
+    "geometry": 4,
+    "statistics_probability": 3,
+    "number_concepts": 1,
+    "algebra": 3
+  },
+  "formats": {
+    "number_computation": 3,
+    "ratios_percent": 3,
+    "conceptual": 4,
+    "measurement": 2,
+    "figure_numeric": 5,
+    "geometry": 1,
+    "algebra": 1,
+    "statistics_probability": 1
+  },
+  "difficulty": {
+    "2": 7,
+    "3": 12,
+    "1": 1
+  },
+  "purpose": "fixed_human_review_pending",
+  "selectionNotes": "Risk-prioritized, seeded tie breaks, skill/format/difficulty coverage. Reading uses two complete eight-question groups plus four standalone vocabulary items; this intentionally overweights comprehension in a 20-item sample to avoid splitting passages. Not a timed exam form. Language deliberately overrepresents composition to cover every new format. Math includes at least five figures and three conceptual items."
+}

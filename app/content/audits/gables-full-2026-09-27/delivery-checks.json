@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "bankCounts": {
+    "verbal": 100,
+    "reading": 100,
+    "mathematics": 100,
+    "language": 100
+  },
+  "sourcePositionsWithPageAndGuideReference": 894,
+  "localAuditItems": 500,
+  "revisedReadingDependencies": 6,
+  "reviewPackets": "all 400 question IDs present; pending samples match current bank hashes",
+  "newLexicalTargetsChecked": 17,
+  "releaseReady": false
+}

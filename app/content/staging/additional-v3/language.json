@@ -1,0 +1,2892 @@
+{
+  "schemaVersion": "hspt-draft-1",
+  "batchId": "language-additional-v3",
+  "section": "language",
+  "version": 3,
+  "status": "draft_not_for_publication",
+  "questions": [
+    {
+      "id": "lan-a1-001",
+      "revision": 2,
+      "section": "language",
+      "skill": "grammar",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "error-1",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "A bundle of cables were hanging behind the desk.",
+        "Several empty drawers were left open.",
+        "The technician has carefully labeled every connector behind the desk.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Bundle is singular: a bundle was hanging. The other sentences have agreement and complete predicates.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-002",
+      "revision": 2,
+      "section": "language",
+      "skill": "grammar",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "error-2",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "The results of the experiment supports our prediction.",
+        "A chart summarizes the observations.",
+        "Both partners signed the report.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The plural subject results requires support; experiment is inside an of phrase.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-003",
+      "revision": 2,
+      "section": "language",
+      "skill": "grammar",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "error-3",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "Each usher knows exactly where the manager keeps the remaining tickets.",
+        "Either the ushers or the manager have the spare tickets.",
+        "The manager keeps them in a locked drawer.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "With either/or here, the nearer subject manager is singular, so use has.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-004",
+      "revision": 2,
+      "section": "language",
+      "skill": "grammar",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "error-4",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "The librarian gave Ava and I a tour.",
+        "Ava and I visited the new library.",
+        "The librarian invited us to return.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The verb gave needs object pronouns: Ava and me. I is correct in the subject of the other sentence.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-005",
+      "revision": 2,
+      "section": "language",
+      "skill": "grammar",
+      "format": "error_detection",
+      "difficulty": 1,
+      "templateFamily": "error-5",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "Them are the photographs selected for the exhibit.",
+        "We selected three views of the harbor.",
+        "Those photographs were taken from the harbor wall just before sunrise.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "A subject demonstrative is needed: Those are the photographs, not Them are.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-006",
+      "revision": 2,
+      "section": "language",
+      "skill": "grammar",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "error-6",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "They had studied the weather report.",
+        "The earlier route crossed an exposed ridge.",
+        "By noon, the workers had chose a new route.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Had takes the past participle chosen, not the simple past chose.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-007",
+      "revision": 2,
+      "section": "language",
+      "skill": "grammar",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "error-7",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "Yesterday, we have seen the finished model.",
+        "We saw the plans last Tuesday.",
+        "We have seen several earlier versions during our visits to the workshop.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "A finished time marked by yesterday takes saw, not have seen in standard usage.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-008",
+      "revision": 2,
+      "section": "language",
+      "skill": "grammar",
+      "format": "error_detection",
+      "difficulty": 1,
+      "templateFamily": "error-8",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "The exit is marked above the door.",
+        "Everyone should walk calmly to the stairs.",
+        "If the bell rings, everyone will leaves the room.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Will requires the base form leave; the plural everyone issue does not arise because everyone is singular but modal verbs do not take -s.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-009",
+      "revision": 2,
+      "section": "language",
+      "skill": "grammar",
+      "format": "error_detection",
+      "difficulty": 1,
+      "templateFamily": "error-9",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "The narrow ledge curved around the cliff before reaching a sheltered platform.",
+        "The climber moved cautious along the ledge.",
+        "A guide waited near the turn.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Moved needs the adverb cautiously; cautious is an adjective.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-010",
+      "revision": 2,
+      "section": "language",
+      "skill": "grammar",
+      "format": "error_detection",
+      "difficulty": 1,
+      "templateFamily": "error-10",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "The class compared the two methods.",
+        "Both solutions produce the same result.",
+        "The second solution is more simpler than the first.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Use simpler alone; more simpler is a double comparative.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-011",
+      "revision": 2,
+      "section": "language",
+      "skill": "grammar",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "error-11",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "The smallest design uses recycled wood.",
+        "Of the four proposals, this is the less expensive.",
+        "We considered four different designs before discussing their likely costs.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Comparison among four requires least expensive, not less expensive.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-012",
+      "revision": 2,
+      "section": "language",
+      "skill": "grammar",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "error-12",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "Their finished works fill two display cases.",
+        "The club enjoys drawing, painting, and to sculpt.",
+        "Its members meet after school.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Use sculpting to maintain the parallel -ing series.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-013",
+      "revision": 2,
+      "section": "language",
+      "skill": "grammar",
+      "format": "error_detection",
+      "difficulty": 3,
+      "templateFamily": "error-13",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "The players stored their instrument cases carefully in the compartment under the bus.",
+        "After packing the instruments, the bus was ready to leave.",
+        "The driver checked the luggage compartment.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The introductory phrase makes the bus the packer. Name the people: After packing the instruments, the players boarded the bus.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-014",
+      "revision": 2,
+      "section": "language",
+      "skill": "grammar",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "error-14",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "Several teachers praised the design.",
+        "The poster included a clear map.",
+        "The student which designed the poster won a prize.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Use who or that for the student here, not which.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-015",
+      "revision": 2,
+      "section": "language",
+      "skill": "grammar",
+      "format": "error_detection",
+      "difficulty": 1,
+      "templateFamily": "error-15",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "The longer route took another ten minutes.",
+        "Because the bridge was closed.",
+        "We followed the marked detour.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The because clause is dependent and stands as a fragment; attach it to an independent clause.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-016",
+      "revision": 2,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "error-16",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "The ushers checked the tickets.",
+        "We waited until our row was called.",
+        "The doors opened, the crowd moved inside.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Two independent clauses are joined only by a comma. Use a period, semicolon, or comma with an appropriate conjunction.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-017",
+      "revision": 2,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "error_detection",
+      "difficulty": 3,
+      "templateFamily": "error-17",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "A stagehand checked the curtain cord while the audience waited quietly in the hall.",
+        "The audience waited quietly.",
+        "The band was ready however, the curtain remained closed.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "However is not a coordinating conjunction. Use The band was ready; however, the curtain remained closed.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-018",
+      "revision": 3,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "error_detection",
+      "difficulty": 1,
+      "templateFamily": "error-18",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "Before the guests arrived we set the table.",
+        "The plates were blue.",
+        "We placed a folded napkin beside each plate.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Set off the introductory dependent clause: Before the guests arrived, we set the table.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-019",
+      "revision": 2,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "error_detection",
+      "difficulty": 1,
+      "templateFamily": "error-19",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "Its polished surface reflects the changing afternoon light from the fountain.",
+        "The sculpture, stands beside the fountain.",
+        "Visitors often pause beside it.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "A comma must not separate the simple subject sculpture from its predicate stands.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-020",
+      "revision": 2,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "error-20",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "Each helmet had an adjustable strap.",
+        "We checked the equipment before leaving.",
+        "Our equipment includes: gloves, ropes, and helmets.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Do not put a colon between includes and its direct objects. Our equipment includes gloves, ropes, and helmets.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-021",
+      "revision": 2,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "error_detection",
+      "difficulty": 1,
+      "templateFamily": "error-21",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "Each notebook had a sturdy cover designed to protect the pages inside.",
+        "The folders were green.",
+        "We packed pencils notebooks and folders.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Separate the three items with commas: pencils, notebooks, and folders. The final serial comma is optional; the missing first separator is not.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-022",
+      "revision": 2,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "error-22",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "Each dancer had a different role.",
+        "Their shoes waited beside the stage.",
+        "The three dancers costumes were ready.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The costumes belong to the three dancers: dancers' costumes requires the plural possessive apostrophe.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-023",
+      "revision": 2,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "error-23",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "The womens' relay starts at noon.",
+        "The men's relay follows it.",
+        "Several teams from neighboring schools have registered for the afternoon races.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Women is already plural and takes apostrophe-s: women's relay.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-024",
+      "revision": 2,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "error_detection",
+      "difficulty": 1,
+      "templateFamily": "error-24",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "The lid still fits.",
+        "It's a useful container despite the damage.",
+        "Its' handle is cracked.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The possessive pronoun is its, without an apostrophe. It's in the other sentence correctly means it is.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-025",
+      "revision": 2,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "error-25",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "The visitor asked \"Where is the gallery?\"",
+        "The guide pointed toward the stairs leading to the gallery on the second floor.",
+        "The gallery opens at ten.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Use a comma before the direct quotation: The visitor asked, \"Where is the gallery?\"",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-026",
+      "revision": 2,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "error_detection",
+      "difficulty": 1,
+      "templateFamily": "error-26",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "The attendant checked each ticket.",
+        "\"Please wait here, said the attendant.",
+        "The visitors formed a short line.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Close the quotation after the comma: \"Please wait here,\" said the attendant.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-027",
+      "revision": 3,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "error_detection",
+      "difficulty": 1,
+      "templateFamily": "error-27",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "We could'nt hear the final announcement.",
+        "An usher repeated the message for us.",
+        "The speakers near the door were working.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Couldn't places the apostrophe where the o in not is omitted; could'nt is misplaced.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-028",
+      "revision": 2,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "error_detection",
+      "difficulty": 1,
+      "templateFamily": "error-28",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "Mina please hand me the blue folder.",
+        "The folder contains the final schedule.",
+        "I will put it beside the register.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Direct address needs a comma: Mina, please hand me the blue folder.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-029",
+      "revision": 2,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "error-29",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "Several fishing boats returned together just as the afternoon wind began to drop.",
+        "The wind had dropped by noon.",
+        "We visited the harbor; and watched the boats.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The second part has no subject and is not an independent clause; omit the semicolon.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-030",
+      "revision": 2,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "error-30",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "Passengers may wait inside the station while the crew repairs the damaged signal.",
+        "The reason for the delay is, that a signal failed.",
+        "The crew is repairing the signal.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The comma wrongly separates is from its following complement; omit it.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-031",
+      "revision": 2,
+      "section": "language",
+      "skill": "capitalization",
+      "format": "error_detection",
+      "difficulty": 1,
+      "templateFamily": "error-31",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "Our guide described the feeding schedule.",
+        "The tour began at noon.",
+        "We visited the aquarium last saturday.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Days of the week are capitalized: Saturday.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-032",
+      "revision": 2,
+      "section": "language",
+      "skill": "capitalization",
+      "format": "error_detection",
+      "difficulty": 1,
+      "templateFamily": "error-32",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "Both students spoke English during their presentation about life at their school.",
+        "They described their school to us.",
+        "The delegation included two brazilian students.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "A nationality adjective is capitalized: Brazilian.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-033",
+      "revision": 2,
+      "section": "language",
+      "skill": "capitalization",
+      "format": "error_detection",
+      "difficulty": 1,
+      "templateFamily": "error-33",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "His house is near a mountain trail.",
+        "My uncle lives in new Mexico.",
+        "He moved there last year.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Both words in the state name are capitalized: New Mexico.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-034",
+      "revision": 2,
+      "section": "language",
+      "skill": "capitalization",
+      "format": "error_detection",
+      "difficulty": 1,
+      "templateFamily": "error-34",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "The ceremony will take place in september.",
+        "Invitations will arrive next month.",
+        "The school orchestra will perform a new arrangement during the opening ceremony.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Months are capitalized: September.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-035",
+      "revision": 2,
+      "section": "language",
+      "skill": "capitalization",
+      "format": "error_detection",
+      "difficulty": 1,
+      "templateFamily": "error-35",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "They met several student guides.",
+        "Our principal, dr. Chen, welcomed the visitors.",
+        "The visitors toured the classrooms.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "An abbreviated title before a name is capitalized: Dr. Chen.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-036",
+      "revision": 2,
+      "section": "language",
+      "skill": "capitalization",
+      "format": "error_detection",
+      "difficulty": 1,
+      "templateFamily": "error-36",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "The ferry crossed the atlantic Ocean.",
+        "The passengers watched from the deck.",
+        "The crossing took several days.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Both words in the proper name Atlantic Ocean are capitalized.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-037",
+      "revision": 2,
+      "section": "language",
+      "skill": "capitalization",
+      "format": "error_detection",
+      "difficulty": 1,
+      "templateFamily": "error-37",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "Her favorite class meets in the morning.",
+        "She practices the language with a friend who lives in the same apartment building.",
+        "My cousin studies spanish and mathematics.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "A language name is capitalized: Spanish. The general subject mathematics stays lowercase.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-038",
+      "revision": 2,
+      "section": "language",
+      "skill": "capitalization",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "error-38",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "The guests carried their bags upstairs.",
+        "\"The room is ready,\" Said the assistant.",
+        "The assistant checked the next reservation.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The dialogue tag continues the sentence, so said is lowercase.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-039",
+      "revision": 2,
+      "section": "language",
+      "skill": "usage",
+      "format": "error_detection",
+      "difficulty": 1,
+      "templateFamily": "error-39",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "We listened without speaking as the soloist began the most difficult passage.",
+        "The conductor asked us to remain quite during the solo.",
+        "The soloist stood near the piano.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The intended word is quiet, meaning silent; quite is a different word.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-040",
+      "revision": 2,
+      "section": "language",
+      "skill": "usage",
+      "format": "error_detection",
+      "difficulty": 1,
+      "templateFamily": "error-40",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "We waited until the view improved.",
+        "The captain checked the weather.",
+        "The fog made it difficult to sea the harbor.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The verb is see; sea names a body of water.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-041",
+      "revision": 2,
+      "section": "language",
+      "skill": "usage",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "error-41",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "The tripod stood on a level floor.",
+        "The photographer sat the camera on a tripod.",
+        "We waited beside the camera while the photographer adjusted the lens and checked the light.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Use set, meaning placed, for the camera. Sat is the past of sit and does not take camera as an object here.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-042",
+      "revision": 2,
+      "section": "language",
+      "skill": "usage",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "error-42",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "Several neighbors stayed to help.",
+        "We should have went to the earlier meeting.",
+        "The later meeting ended after sunset.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Have requires the participle gone, not went.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-043",
+      "revision": 2,
+      "section": "language",
+      "skill": "usage",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "error-43",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "She did good on the written examination.",
+        "Her preparation was thorough.",
+        "The teacher returned the papers on Friday.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "When good means performing successfully here, the standard adverb is well: did well.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-044",
+      "revision": 2,
+      "section": "language",
+      "skill": "usage",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "error-44",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "This route is different then the one on the map.",
+        "The map shows a path along the river.",
+        "We asked a guide which route to use.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Then concerns time; comparison here calls for than or a rephrasing with different from.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-045",
+      "revision": 2,
+      "section": "language",
+      "skill": "usage",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "error-45",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "Their leaders signed the agreement after discussing access to the new service.",
+        "The two organizations shared a common principal: equal access.",
+        "The new service opens next week.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "A governing belief is a principle; principal has other senses such as chief or a school administrator.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-046",
+      "revision": 3,
+      "section": "language",
+      "skill": "usage",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "error-46",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "She thanked us after the talk.",
+        "Several listeners asked further questions.",
+        "The speaker accepted our complement on her clear explanation.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "An expression of praise is a compliment; a complement completes something.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-047",
+      "revision": 3,
+      "section": "language",
+      "skill": "grammar",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "error-47",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "The instructions were wrote on the back of the card.",
+        "The card was inside the box.",
+        "A diagram inside the box showed how the separate parts fit into the finished model.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The passive were needs the past participle written, not wrote.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-048",
+      "revision": 3,
+      "section": "language",
+      "skill": "grammar",
+      "format": "error_detection",
+      "difficulty": 3,
+      "templateFamily": "error-48",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "Several volunteers offered to stand.",
+        "A number of volunteers was waiting outside.",
+        "The number of available seats was small.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "A number of meaning several takes the plural verb were. The number of is singular and correctly takes was.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-049",
+      "revision": 2,
+      "section": "language",
+      "skill": "grammar",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "error-49",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "Neither answer are correct.",
+        "The class will review the conversion before attempting another question about units.",
+        "Both answers use the wrong unit.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The singular subject neither answer requires is, not are.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-050",
+      "revision": 2,
+      "section": "language",
+      "skill": "grammar",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "error-50",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "The package, along with its instructions, were missing.",
+        "A clerk searched the storage room while the other packages remained on the shelf.",
+        "A clerk searched the storage room.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Along with does not make the singular subject package plural; use was missing.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": false
+    },
+    {
+      "id": "lan-a1-051",
+      "revision": 2,
+      "section": "language",
+      "skill": "grammar",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "no-error-51",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "Both students have revised their work.",
+        "The teacher has read each revision.",
+        "Neither answer is complete.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Neither is singular, both students is plural, and teacher is singular; all verbs agree.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": true
+    },
+    {
+      "id": "lan-a1-052",
+      "revision": 2,
+      "section": "language",
+      "skill": "grammar",
+      "format": "error_detection",
+      "difficulty": 1,
+      "templateFamily": "no-error-52",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "The committee has announced its decision.",
+        "A copy is posted beside the door.",
+        "We have received the notice.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Each subject agrees with its verb, and all sentences are complete.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": true
+    },
+    {
+      "id": "lan-a1-053",
+      "revision": 2,
+      "section": "language",
+      "skill": "grammar",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "no-error-53",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "Sam and I waited near the track.",
+        "The coach spoke to us after practice.",
+        "The coach asked Sam and me to stay.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Me and us are objects; I is part of the subject. All cases are correct.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": true
+    },
+    {
+      "id": "lan-a1-054",
+      "revision": 2,
+      "section": "language",
+      "skill": "grammar",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "no-error-54",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "By evening, the snow had fallen steadily for hours.",
+        "The crew had already begun clearing them.",
+        "The roads were covered.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Fallen and begun are correct participles after had; roads correctly takes were.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": true
+    },
+    {
+      "id": "lan-a1-055",
+      "revision": 2,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "no-error-55",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "The referee blew the whistle.",
+        "The sky darkened, but the game continued.",
+        "When the rain began, we left the field.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The coordinating conjunction and introductory dependent clause are punctuated correctly.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": true
+    },
+    {
+      "id": "lan-a1-056",
+      "revision": 2,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "no-error-56",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "The jug contained water.",
+        "The bowl was empty.",
+        "The cupboard held three items: a bowl, a jug, and a tray.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The colon follows a complete introduction, and the list is properly separated.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": true
+    },
+    {
+      "id": "lan-a1-057",
+      "revision": 2,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "no-error-57",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "The assistant called my name.",
+        "I raised my hand.",
+        "\"Who is next?\" asked the assistant.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The question mark belongs inside the quoted question; the following tag stays lowercase.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": true
+    },
+    {
+      "id": "lan-a1-058",
+      "revision": 2,
+      "section": "language",
+      "skill": "capitalization",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "no-error-58",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "My cousin studies German.",
+        "The meeting is on Thursday.",
+        "We traveled west from Boston.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The direction is generic and lowercase; Boston, German and Thursday are proper names.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": true
+    },
+    {
+      "id": "lan-a1-059",
+      "revision": 2,
+      "section": "language",
+      "skill": "capitalization",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "no-error-59",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "I asked Grandma to bring her photographs.",
+        "My grandmother visits in December.",
+        "We keep the pictures in a wooden box.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The kinship word after my is generic; Grandma used as a name and December are capitalized.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": true
+    },
+    {
+      "id": "lan-a1-060",
+      "revision": 2,
+      "section": "language",
+      "skill": "usage",
+      "format": "error_detection",
+      "difficulty": 3,
+      "templateFamily": "no-error-60",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "Yesterday, I laid the map there too.",
+        "The books are lying on the table.",
+        "Please lay the folder beside them.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Lying is intransitive; lay takes folder as object; laid is the past form for placing an object.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": true
+    },
+    {
+      "id": "lan-a1-061",
+      "revision": 2,
+      "section": "language",
+      "skill": "usage",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "no-error-61",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "The trail leads farther into the woods.",
+        "We need fewer bags this time.",
+        "There is less water in this bottle.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Farther describes physical distance; fewer modifies countable bags; less modifies water.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": true
+    },
+    {
+      "id": "lan-a1-062",
+      "revision": 2,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "no-error-62",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "Its rim is chipped.",
+        "It's the dog's bowl.",
+        "The dog still uses it.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "It's means it is; dog's is singular possessive; its is a possessive pronoun without an apostrophe.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": true
+    },
+    {
+      "id": "lan-a1-063",
+      "revision": 2,
+      "section": "language",
+      "skill": "grammar",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "no-error-63",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "The runner who won the race thanked her coach.",
+        "Her teammates cheered loudly.",
+        "Each teammate received a ribbon.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Who is the subject of won; loudly is an adverb; each takes singular received without any agreement conflict.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": true
+    },
+    {
+      "id": "lan-a1-064",
+      "revision": 2,
+      "section": "language",
+      "skill": "grammar",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "no-error-64",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "They wanted to arrive before dark.",
+        "To reach the shelter, the hikers followed the marked route.",
+        "The leader checked the distance.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The hikers are the implied travelers in the introductory infinitive phrase; the remaining sentences are complete.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": true
+    },
+    {
+      "id": "lan-a1-065",
+      "revision": 2,
+      "section": "language",
+      "skill": "punctuation",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "no-error-65",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "We arrived before the performance began.",
+        "The delay was brief.",
+        "The road was blocked; we took another route.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The semicolon joins independent clauses, and no extra comma is required in the final integrated time clause.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": true
+    },
+    {
+      "id": "lan-a1-066",
+      "revision": 3,
+      "section": "language",
+      "skill": "usage",
+      "format": "error_detection",
+      "difficulty": 2,
+      "templateFamily": "no-error-66",
+      "stem": "Which sentence contains an error? If all three sentences are correct in standard written American English, choose No error.",
+      "choices": [
+        "We will assess the change after a week.",
+        "The new plan will affect our schedule.",
+        "Its effect may be small.",
+        "No error."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Affect correctly means influence; effect means result. Both fit their contexts.",
+        "shortcut": "Check each complete sentence. Choose No error only when all three sentences follow standard written American English."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "noErrorCorrect": true
+    },
+    {
+      "id": "lan-a1-067",
+      "revision": 3,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-rhythm",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "rythm",
+        "rhythm",
+        "rhythem",
+        "rhythum"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Rhythm is spelled r-h-y-t-h-m.",
+        "shortcut": "Check every syllable and any doubled consonants."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "rhythm"
+    },
+    {
+      "id": "lan-a1-068",
+      "revision": 2,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-cylinder",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "cylinder",
+        "cillinder",
+        "cylender",
+        "cylindar"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Cylinder has one l and ends in -der.",
+        "shortcut": "Check every syllable and any doubled consonants."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "cylinder"
+    },
+    {
+      "id": "lan-a1-069",
+      "revision": 3,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 3,
+      "templateFamily": "spelling-fluorescent",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "fluorescant",
+        "fluorecent",
+        "flourescent",
+        "fluorescent"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Fluorescent begins fluor- and ends -escent.",
+        "shortcut": "Check the internal vowel sequence as well as doubled consonants."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "fluorescent"
+    },
+    {
+      "id": "lan-a1-070",
+      "revision": 2,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-miniature",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "minature",
+        "miniatuer",
+        "miniture",
+        "miniature"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Miniature includes the sequence mini-a-ture.",
+        "shortcut": "Check every syllable and any doubled consonants."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "miniature"
+    },
+    {
+      "id": "lan-a1-071",
+      "revision": 3,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-occasion",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "occassion",
+        "ocasion",
+        "occasion",
+        "ocassion"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Occasion has two c's and one s.",
+        "shortcut": "Check every syllable and any doubled consonants."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "occasion"
+    },
+    {
+      "id": "lan-a1-072",
+      "revision": 2,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-mischievous",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "mischivous",
+        "mischievious",
+        "mischevious",
+        "mischievous"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Mischievous ends in -vous, with no extra i after v.",
+        "shortcut": "Check every syllable and any doubled consonants."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "mischievous"
+    },
+    {
+      "id": "lan-a1-073",
+      "revision": 3,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-embarrass",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "embarrass",
+        "embarass",
+        "embarras",
+        "embarres"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Embarrass has two r's and two s's.",
+        "shortcut": "Check every syllable and any doubled consonants."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "embarrass"
+    },
+    {
+      "id": "lan-a1-074",
+      "revision": 2,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-broccoli",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "broccoli",
+        "brocoli",
+        "brocolli",
+        "broccolli"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Broccoli has two c letters and one l.",
+        "shortcut": "Check every syllable and any doubled consonants."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "broccoli"
+    },
+    {
+      "id": "lan-a1-075",
+      "revision": 2,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-accommodate",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "acommodate",
+        "accommodate",
+        "accomodate",
+        "acomodate"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Accommodate has two c's and two m's.",
+        "shortcut": "Check every syllable and any doubled consonants."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "accommodate"
+    },
+    {
+      "id": "lan-a1-076",
+      "revision": 2,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-conscience",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "consience",
+        "conscience",
+        "consciense",
+        "concience"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Conscience includes the sequence -science.",
+        "shortcut": "Check every syllable and any doubled consonants."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "conscience"
+    },
+    {
+      "id": "lan-a1-077",
+      "revision": 3,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-perseverance",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "persiverance",
+        "perseverence",
+        "perseverance",
+        "perserverance"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Perseverance ends in -ance and has no r after the first s.",
+        "shortcut": "Check every syllable and any doubled consonants."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "perseverance"
+    },
+    {
+      "id": "lan-a1-078",
+      "revision": 2,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-lantern",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "lanterrn",
+        "lantern",
+        "lanturn",
+        "lantarn"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Lantern is spelled l-a-n-t-e-r-n.",
+        "shortcut": "Check every syllable and any doubled consonants."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "lantern"
+    },
+    {
+      "id": "lan-a1-079",
+      "revision": 2,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 3,
+      "templateFamily": "spelling-liaison",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "liaision",
+        "liason",
+        "lieaison",
+        "liaison"
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Liaison contains the sequence l-i-a-i-s-o-n.",
+        "shortcut": "Check the internal vowel sequence as well as doubled consonants."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "liaison"
+    },
+    {
+      "id": "lan-a1-080",
+      "revision": 3,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 3,
+      "templateFamily": "spelling-auxiliary",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "auxilary",
+        "auxilliary",
+        "auxiliary",
+        "auxillary"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Auxiliary has one l and the sequence -iliary.",
+        "shortcut": "Check the internal vowel sequence as well as doubled consonants."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "auxiliary"
+    },
+    {
+      "id": "lan-a1-081",
+      "revision": 2,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-obstacle",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "obstacal",
+        "obsticle",
+        "obstacle",
+        "obstacel"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Obstacle ends in -acle.",
+        "shortcut": "Check every syllable and any doubled consonants."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "obstacle"
+    },
+    {
+      "id": "lan-a1-082",
+      "revision": 2,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-itinerary",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "itinerery",
+        "itinerary",
+        "itenerary",
+        "itinarary"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Itinerary uses i-ti-ner-ar-y.",
+        "shortcut": "Check the whole word rather than accepting its familiar beginning."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "itinerary"
+    },
+    {
+      "id": "lan-a1-083",
+      "revision": 2,
+      "section": "language",
+      "skill": "spelling",
+      "format": "spelling",
+      "difficulty": 2,
+      "templateFamily": "spelling-questionnaire",
+      "stem": "Which word is spelled correctly?",
+      "choices": [
+        "questionaire",
+        "questionnare",
+        "questionnaire",
+        "questionnair"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Questionnaire has two n letters and ends in -aire.",
+        "shortcut": "Check the whole word rather than accepting its familiar beginning."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review",
+      "targetWord": "questionnaire"
+    },
+    {
+      "id": "lan-a1-084",
+      "revision": 2,
+      "section": "language",
+      "skill": "composition",
+      "format": "paragraph_order",
+      "difficulty": 1,
+      "templateFamily": "paragraph_order-84",
+      "stem": "Arrange these sentences into the clearest sequence: (1) Finally, attach a label to each pot. (2) Place soil in the empty pots. (3) Once the soil is in place, press one seed into each pot.",
+      "choices": [
+        "1, 2, 3",
+        "3, 2, 1",
+        "2, 3, 1",
+        "2, 1, 3"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Sentence 3 depends on soil placed in 2; Finally signals the last step in 1.",
+        "shortcut": "Identify the paragraph’s purpose and preserve its meaning, references, and sequence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-085",
+      "revision": 2,
+      "section": "language",
+      "skill": "composition",
+      "format": "paragraph_order",
+      "difficulty": 2,
+      "templateFamily": "paragraph_order-85",
+      "stem": "Arrange these sentences into the clearest paragraph: (1) This covering kept dust off the model. (2) Before leaving, Ren placed a cloth over the model. (3) The next morning, the clean model was ready for display.",
+      "choices": [
+        "2, 1, 3",
+        "1, 2, 3",
+        "2, 3, 1",
+        "3, 1, 2"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "This covering refers back to the cloth in 2; the next morning follows the protective action and its purpose.",
+        "shortcut": "Identify the paragraph’s purpose and preserve its meaning, references, and sequence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-086",
+      "revision": 2,
+      "section": "language",
+      "skill": "composition",
+      "format": "paragraph_insertion",
+      "difficulty": 2,
+      "templateFamily": "paragraph_insertion-86",
+      "stem": "Paragraph: (1) Our class collected used crayons. (2) We sorted them by color. (3) The molds then went into a warm oven. Insert: “Next, we placed the sorted pieces in small molds.” Where does it belong?",
+      "choices": [
+        "Before sentence 1.",
+        "After sentence 3.",
+        "Between sentences 1 and 2.",
+        "Between sentences 2 and 3."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Sorted pieces depends on 2, and the molds in 3 needs the newly introduced molds.",
+        "shortcut": "Identify the paragraph’s purpose and preserve its meaning, references, and sequence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-087",
+      "revision": 2,
+      "section": "language",
+      "skill": "composition",
+      "format": "paragraph_insertion",
+      "difficulty": 2,
+      "templateFamily": "paragraph_insertion-87",
+      "stem": "Paragraph: (1) A label on the box was unreadable. (2) No one knew which room should receive it. (3) We checked the shipping record. Insert: “The ink had washed away during the storm.” Where does it best belong?",
+      "choices": [
+        "Between sentences 1 and 2.",
+        "Before sentence 1.",
+        "Between sentences 2 and 3.",
+        "After sentence 3."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The ink sentence explains the unreadable label before the consequence is stated.",
+        "shortcut": "Identify the paragraph’s purpose and preserve its meaning, references, and sequence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-088",
+      "revision": 2,
+      "section": "language",
+      "skill": "composition",
+      "format": "irrelevant_sentence",
+      "difficulty": 1,
+      "templateFamily": "irrelevant_sentence-88",
+      "stem": "Which sentence should be removed from this paragraph about preparing a telescope for observation? (1) We set the tripod on firm ground. (2) We checked that its legs were secure. (3) My jacket has a silver zipper. (4) Then we attached the telescope.",
+      "choices": [
+        "Sentence 1.",
+        "Sentence 3.",
+        "Sentence 4.",
+        "Sentence 2."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The jacket detail does not develop the preparation sequence; the other sentences do.",
+        "shortcut": "Identify the paragraph’s purpose and preserve its meaning, references, and sequence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-089",
+      "revision": 2,
+      "section": "language",
+      "skill": "composition",
+      "format": "irrelevant_sentence",
+      "difficulty": 2,
+      "templateFamily": "irrelevant_sentence-89",
+      "stem": "Which sentence least supports a paragraph arguing for covered bicycle parking? (1) A roof would keep seats dry. (2) Shade would protect parked bicycles from direct sun. (3) A cover could make parking more useful in bad weather. (4) Our town has several steep hills.",
+      "choices": [
+        "Sentence 1.",
+        "Sentence 3.",
+        "Sentence 4.",
+        "Sentence 2."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "Hill steepness does not directly support a cover over parked bicycles.",
+        "shortcut": "Identify the paragraph’s purpose and preserve its meaning, references, and sequence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-090",
+      "revision": 2,
+      "section": "language",
+      "skill": "composition",
+      "format": "topic_sentence",
+      "difficulty": 2,
+      "templateFamily": "topic_sentence-90",
+      "stem": "Which sentence best introduces these details? “Visitors can listen to a translated description. Large-print labels are available. A raised model lets visitors explore the object's shape by touch.”",
+      "choices": [
+        "The exhibit concentrates on the history of translation.",
+        "The exhibit is designed mainly to display raised models.",
+        "The exhibit has replaced all its printed labels.",
+        "The exhibit offers several ways to access its information."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "The details share access through different modes; the other choices narrow or contradict the set.",
+        "shortcut": "Identify the paragraph’s purpose and preserve its meaning, references, and sequence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-091",
+      "revision": 2,
+      "section": "language",
+      "skill": "composition",
+      "format": "concluding_sentence",
+      "difficulty": 2,
+      "templateFamily": "concluding_sentence-91",
+      "stem": "Paragraph: “Our repair log records each fault, the attempted solution, and the result. Before opening a machine, we consult earlier entries. This often prevents us from repeating an unsuccessful fix.” Which conclusion fits best?",
+      "choices": [
+        "New machines have fewer faults than machines used for years.",
+        "The most important repairs should be omitted from the log.",
+        "Repair work is easier when every machine uses identical parts.",
+        "A careful record makes earlier experience useful in later repairs."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Only the first conclusion follows the paragraph's point about learning from logged experience.",
+        "shortcut": "Identify the paragraph’s purpose and preserve its meaning, references, and sequence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-092",
+      "revision": 2,
+      "section": "language",
+      "skill": "composition",
+      "format": "transition",
+      "difficulty": 1,
+      "templateFamily": "transition-92",
+      "stem": "Choose the best transition: “The smaller tent weighs less. ___, the larger tent offers more space for equipment.”",
+      "choices": [
+        "For the same reason",
+        "On the other hand",
+        "As a result",
+        "For example"
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "The sentences contrast advantages; the second is neither a result nor an example of the first.",
+        "shortcut": "Identify the paragraph’s purpose and preserve its meaning, references, and sequence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-093",
+      "revision": 2,
+      "section": "language",
+      "skill": "composition",
+      "format": "transition",
+      "difficulty": 2,
+      "templateFamily": "transition-93",
+      "stem": "Choose the best transition: “The first trial used only one sample. ___, the result should be treated as preliminary.”",
+      "choices": [
+        "Similarly",
+        "Meanwhile",
+        "Therefore",
+        "Nevertheless"
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The limited evidence is a reason for treating the result as preliminary.",
+        "shortcut": "Identify the paragraph’s purpose and preserve its meaning, references, and sequence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-094",
+      "revision": 2,
+      "section": "language",
+      "skill": "composition",
+      "format": "sentence_combining",
+      "difficulty": 2,
+      "templateFamily": "sentence_combining-94",
+      "stem": "Choose the clearest combination without changing the meaning: “The plaque was small. Its lettering could be read from the doorway.”",
+      "choices": [
+        "The plaque was small, and the doorway could be read from its lettering.",
+        "Although the plaque was small, its lettering could be read from the doorway.",
+        "Because the plaque was small, its lettering could not be read from the doorway.",
+        "The plaque was small so that its lettering could be read only nearby."
+      ],
+      "guide": {
+        "correctChoiceId": "B",
+        "explanation": "Although preserves the contrast and both original facts; the others reverse or distort them.",
+        "shortcut": "Identify the paragraph’s purpose and preserve its meaning, references, and sequence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-095",
+      "revision": 2,
+      "section": "language",
+      "skill": "composition",
+      "format": "sentence_combining",
+      "difficulty": 2,
+      "templateFamily": "sentence_combining-95",
+      "stem": "Combine without changing the time relationship: “The guests arrived. We had already moved the chairs indoors.”",
+      "choices": [
+        "We would move the chairs indoors if the guests arrived.",
+        "After the guests arrived, we moved the chairs indoors.",
+        "The guests arrived while we were starting to move the chairs indoors.",
+        "Before the guests arrived, we had moved the chairs indoors."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Already and had moved place the chair move before the arrival.",
+        "shortcut": "Identify the paragraph’s purpose and preserve its meaning, references, and sequence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-096",
+      "revision": 2,
+      "section": "language",
+      "skill": "composition",
+      "format": "pronoun_clarity",
+      "difficulty": 2,
+      "templateFamily": "pronoun_clarity-96",
+      "stem": "Revise to make clear that Daria, not Mei, found the missing card: “Daria told Mei that she had found the missing card.”",
+      "choices": [
+        "Daria told Mei, “I found the missing card.”",
+        "She told Mei that Daria's card had been found.",
+        "Daria told Mei that the card she wanted was missing.",
+        "Daria told her that she had found the missing card."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "The direct quotation assigns I to Daria and preserves the act of telling Mei.",
+        "shortcut": "Identify the paragraph’s purpose and preserve its meaning, references, and sequence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-097",
+      "revision": 2,
+      "section": "language",
+      "skill": "composition",
+      "format": "concision",
+      "difficulty": 1,
+      "templateFamily": "concision-97",
+      "stem": "Which revision removes redundancy while preserving meaning? “The two partners cooperated together to finish the mural.”",
+      "choices": [
+        "The two partners cooperated to finish the mural.",
+        "The two partners agreed that the mural was finished.",
+        "The mural was finished before the partners cooperated.",
+        "The two partners finished the mural independently."
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "Cooperated already means worked together; the other revisions change the facts.",
+        "shortcut": "Identify the paragraph’s purpose and preserve its meaning, references, and sequence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-098",
+      "revision": 2,
+      "section": "language",
+      "skill": "composition",
+      "format": "supporting_detail",
+      "difficulty": 2,
+      "templateFamily": "supporting_detail-98",
+      "stem": "Claim: “Moving the sign to eye level made it easier for visitors to find the room.” Which detail most directly supports it?",
+      "choices": [
+        "The sign had been painted by a local artist.",
+        "The room's chairs were replaced during the summer.",
+        "Many visitors preferred the sign's blue background.",
+        "After the move, fewer visitors asked where the room was."
+      ],
+      "guide": {
+        "correctChoiceId": "D",
+        "explanation": "Fewer requests for directions bear directly on finding the room; the other details do not test that claim.",
+        "shortcut": "Identify the paragraph’s purpose and preserve its meaning, references, and sequence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-099",
+      "revision": 2,
+      "section": "language",
+      "skill": "composition",
+      "format": "paragraph_revision",
+      "difficulty": 3,
+      "templateFamily": "paragraph_revision-99",
+      "stem": "Paragraph: “The box is lightweight. It carries a heavy load. It is easy to lift when empty.” Which revision best reduces repetition while retaining all three ideas?",
+      "choices": [
+        "The empty box cannot carry a heavy load because it is lightweight.",
+        "The box carries a heavy load and is always easy to lift.",
+        "The lightweight box is easy to lift when empty yet can carry a heavy load.",
+        "The box is lightweight because a heavy load makes it easy to lift."
+      ],
+      "guide": {
+        "correctChoiceId": "C",
+        "explanation": "The correct version preserves the empty-box condition and the contrast with capacity.",
+        "shortcut": "Identify the paragraph’s purpose and preserve its meaning, references, and sequence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review"
+    },
+    {
+      "id": "lan-a1-100",
+      "revision": 2,
+      "section": "language",
+      "skill": "composition",
+      "format": "paragraph_order",
+      "difficulty": 2,
+      "templateFamily": "paragraph_order-100",
+      "stem": "Arrange these sentences into the clearest paragraph: (1) That result led us to test a second material. (2) The first cover tore during the wind test. (3) The second cover remained intact under the same conditions.",
+      "choices": [
+        "2, 1, 3",
+        "2, 3, 1",
+        "3, 2, 1",
+        "1, 3, 2"
+      ],
+      "guide": {
+        "correctChoiceId": "A",
+        "explanation": "That result refers to the tear in 2 and motivates testing the second material whose result appears in 3.",
+        "shortcut": "Identify the paragraph’s purpose and preserve its meaning, references, and sequence."
+      },
+      "provenance": {
+        "origin": "original_agent_authored_draft",
+        "authoredAt": "2026-09-27",
+        "revisionReason": "full_corpus_format_and_editorial_revision"
+      },
+      "calibrationReference": "source-calibration.json#language",
+      "reviewStatus": "pending_human_review"
+    }
+  ]
+}

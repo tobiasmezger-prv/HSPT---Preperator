@@ -1,18 +1,22 @@
 export const schemaVersion=1;
-const skills=['sequence_additive','sequence_multiplicative','numeric_comparison','number_manipulation','symbolic_pattern','odd_one_out','geometric_comparison'];
-const formats=['number_series','number_manipulation','nongeometric_comparison','geometric_comparison'];
+const skills=["algebra", "analogies", "antonyms", "author_purpose", "capitalization", "classification", "composition", "detail", "evidence", "geometry", "grammar", "inference", "literary_interpretation", "logical_reasoning", "main_idea", "measurement", "number_computation", "number_concepts", "punctuation", "ratios_percent", "spelling", "standalone_vocabulary", "statistics_probability", "structure", "synonyms", "tone", "usage", "vocabulary_context"].concat(['math_practice','verbal_practice','reading_comprehension','language_usage','sequence_additive','sequence_multiplicative','numeric_comparison','number_manipulation','symbolic_pattern','odd_one_out','geometric_comparison']);
+const formats={"verbal": ["analogies", "antonyms", "classification", "logical_reasoning", "synonyms"], "reading": ["passage_author_purpose", "passage_detail", "passage_evidence", "passage_inference", "passage_literary_interpretation", "passage_main_idea", "passage_structure", "passage_tone", "passage_vocabulary_context", "standalone_vocabulary"], "mathematics": ["algebra", "conceptual", "figure_numeric", "geometry", "measurement", "number_computation", "ratios_percent", "statistics_probability"], "language": ["concision", "concluding_sentence", "error_detection", "irrelevant_sentence", "paragraph_insertion", "paragraph_order", "paragraph_revision", "pronoun_clarity", "sentence_combining", "spelling", "supporting_detail", "topic_sentence", "transition"], "quantitative": ["number_series", "number_manipulation", "nongeometric_comparison", "geometric_comparison"]};
 const assert=(ok,message)=>{if(!ok)throw new Error(message);};
 const text=x=>typeof x==='string'&&x.trim().length>0;
 export function validateQuestion(q,published=false){
  assert(q&&typeof q==='object'&&text(q.id)&&/^[a-zA-Z0-9_-]+$/.test(q.id)&&skills.includes(q.skill)&&text(q.stem)&&text(q.templateFamily),'Invalid question fields');
  assert(Array.isArray(q.choices)&&q.choices.length===4&&q.choices.every(text)&&new Set(q.choices.map(x=>x.trim())).size===4,'Invalid choices');
+ if(q.passage)assert(text(q.passage.id)&&text(q.passage.title)&&text(q.passage.text),'Invalid passage');
+ if(q.passage?.paragraphs)assert(Array.isArray(q.passage.paragraphs)&&q.passage.paragraphs.length>0&&q.passage.paragraphs.every(text),'Invalid passage paragraphs');
+ if(q.dummy!==undefined)assert(q.dummy===true&&!published,'Dummy questions cannot be published');
  if(q.variantGroupId!==undefined)assert(text(q.variantGroupId),'Invalid variant group');
  if(q.revision!==undefined)assert(Number.isInteger(q.revision)&&q.revision>0,'Invalid question revision');
  if(q.guide||published)assert(q.guide&&'ABCD'.includes(q.guide.correctChoiceId)&&q.guide.correctChoiceId.length===1&&text(q.guide.explanation)&&(!q.guide.shortcut||text(q.guide.shortcut)),'Invalid answer guide');
  if(published){
-  assert(q.section==='quantitative'&&[1,2,3].includes(q.difficulty)&&formats.includes(q.format)&&Number.isInteger(q.revision)&&q.revision>0,'Unsupported question schema or format');
+  assert(Object.hasOwn(formats,q.section)&&[1,2,3].includes(q.difficulty)&&formats[q.section].includes(q.format)&&Number.isInteger(q.revision)&&q.revision>0,'Unsupported question schema or format');
+  assert(q.section!=='reading'||(q.format==='standalone_vocabulary'?!q.passage:!!q.passage),'Missing or unexpected reading passage');
   assert(q.acceptance?.batchStatus==='sample_reviewed'&&text(q.acceptance.batchId)&&['approved','not_individually_reviewed'].includes(q.acceptance.individualStatus)&&q.provenance&&text(q.provenance.origin),'Missing acceptance/provenance');
-  assert(q.format!=='geometric_comparison'||!!q.diagram,'Missing visual diagram');
+  assert(!['geometric_comparison','figure_numeric'].includes(q.format)||!!q.diagram,'Missing visual diagram');
  }
  if(q.diagram){
   assert(text(q.diagram.alt)&&text(q.diagram.svg)&&q.diagram.svg.length<100000,'Invalid diagram');
@@ -31,6 +35,6 @@ export function validateManifest(m){
 export function validateBank(b,m){
  validateManifest(m);assert(b&&b.schemaVersion===1&&b.releaseId===m.releaseId&&Array.isArray(b.questions)&&b.questions.length===m.questionCount,'Bank does not match manifest');
  const ids=new Set(),signatures=new Set();
- for(const q of b.questions){validateQuestion(q,true);assert(!ids.has(q.id),'Duplicate question ID');ids.add(q.id);const signature=JSON.stringify([q.stem.toLowerCase().replace(/\s+/g,' ').trim(),q.choices.map(x=>x.trim()).sort(),q.diagram?.svg??'']);assert(!signatures.has(signature),'Duplicate question');signatures.add(signature);}
+ for(const q of b.questions){validateQuestion(q,true);assert(!ids.has(q.id),'Duplicate question ID');ids.add(q.id);const signature=JSON.stringify([q.stem.toLowerCase().replace(/\s+/g,' ').trim(),q.choices.map(x=>x.trim()).sort(),q.diagram?.svg??'',q.passage?.text??'']);assert(!signatures.has(signature),'Duplicate question');signatures.add(signature);}
  return b;
 }

@@ -1,0 +1,25 @@
+{
+  "batchId": "additional-v3",
+  "structuralAndSamplingRegressionTests": {
+    "passed": 13,
+    "failed": 0
+  },
+  "priorDraftRegressionTests": {
+    "passed": 10,
+    "failed": 0
+  },
+  "exportPayloadUnitCheck": "passed; revision bindings, 80 decisions, pending defaults, reviewer and notes",
+  "browserUI": {
+    "saveReload": "passed in isolated QA copy",
+    "answersInitiallyCollapsed": "verified in packet accessibility tree",
+    "downloadEvent": "not confirmed by browser tool; export event wait timed out. Export payload and handler logic independently tested."
+  },
+  "sourceReconciliation": {
+    "pages": 156,
+    "sourceQuestionPositions": 894,
+    "matchedPriorPdfHashes": 6
+  },
+  "liveQuantitativeSha256": "214c7e43dcdf94aff1c38e9cca14b7637bac60583712cfd542a68d82812afb8c",
+  "humanReview": "all 80 deliverable decisions pending",
+  "productionChanges": false
+}

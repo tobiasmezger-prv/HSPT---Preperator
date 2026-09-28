@@ -1,0 +1,37 @@
+{
+  "manifestSha256": "d6013ed69336689360c27b9a5922bea742799ec22bd2372b320ef3ff4d3385ff",
+  "counts": {
+    "verbal": 100,
+    "reading": 100,
+    "mathematics": 100,
+    "language": 100
+  },
+  "answerPositions": {
+    "verbal": {
+      "C": 25,
+      "B": 25,
+      "A": 25,
+      "D": 25
+    },
+    "reading": {
+      "A": 25,
+      "B": 25,
+      "D": 25,
+      "C": 25
+    },
+    "mathematics": {
+      "C": 25,
+      "B": 25,
+      "A": 25,
+      "D": 25
+    },
+    "language": {
+      "D": 25,
+      "B": 25,
+      "C": 25,
+      "A": 25
+    }
+  },
+  "arithmeticChecks": 100,
+  "releaseReady": false
+}

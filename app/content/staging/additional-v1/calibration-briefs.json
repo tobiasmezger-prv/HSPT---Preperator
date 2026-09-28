@@ -1,0 +1,301 @@
+{
+  "analogies": {
+    "section": "verbal",
+    "reasoningDemand": "analogies",
+    "scopeReference": {
+      "url": "https://www.ststesting.com/hp_int_sts.pdf",
+      "printedPage": 1,
+      "accessed": "2026-09-27"
+    },
+    "answerFormat": "four-choice selection",
+    "authoringGuidance": "Describe the first relationship in a short sentence and preserve its direction.",
+    "calibrationStatus": "scope_aligned_initial_examples_inspected_full_census_pending",
+    "sourceOriginality": "not_yet_cleared"
+  },
+  "antonyms": {
+    "section": "verbal",
+    "reasoningDemand": "antonyms",
+    "scopeReference": {
+      "url": "https://www.ststesting.com/hp_int_sts.pdf",
+      "printedPage": 1,
+      "accessed": "2026-09-27"
+    },
+    "answerFormat": "four-choice selection",
+    "authoringGuidance": "Decide the meaning first, then check whether the question asks for a synonym or an opposite.",
+    "calibrationStatus": "scope_aligned_initial_examples_inspected_full_census_pending",
+    "sourceOriginality": "not_yet_cleared"
+  },
+  "classifications": {
+    "section": "verbal",
+    "reasoningDemand": "classifications",
+    "scopeReference": {
+      "url": "https://www.ststesting.com/hp_int_sts.pdf",
+      "printedPage": 1,
+      "accessed": "2026-09-27"
+    },
+    "answerFormat": "four-choice selection",
+    "authoringGuidance": "Identify the stated category, then test each choice against it.",
+    "calibrationStatus": "scope_aligned_initial_examples_inspected_full_census_pending",
+    "sourceOriginality": "not_yet_cleared"
+  },
+  "logical_reasoning": {
+    "section": "verbal",
+    "reasoningDemand": "logical reasoning",
+    "scopeReference": {
+      "url": "https://www.ststesting.com/hp_int_sts.pdf",
+      "printedPage": 1,
+      "accessed": "2026-09-27"
+    },
+    "answerFormat": "four-choice selection",
+    "authoringGuidance": "Use only the stated facts. Do not reverse an implication or change some into all.",
+    "calibrationStatus": "scope_aligned_initial_examples_inspected_full_census_pending",
+    "sourceOriginality": "not_yet_cleared"
+  },
+  "synonyms": {
+    "section": "verbal",
+    "reasoningDemand": "synonyms",
+    "scopeReference": {
+      "url": "https://www.ststesting.com/hp_int_sts.pdf",
+      "printedPage": 1,
+      "accessed": "2026-09-27"
+    },
+    "answerFormat": "four-choice selection",
+    "authoringGuidance": "Decide the meaning first, then check whether the question asks for a synonym or an opposite.",
+    "calibrationStatus": "scope_aligned_initial_examples_inspected_full_census_pending",
+    "sourceOriginality": "not_yet_cleared"
+  },
+  "detail": {
+    "section": "reading",
+    "reasoningDemand": "detail",
+    "scopeReference": {
+      "url": "https://www.ststesting.com/hp_int_sts.pdf",
+      "printedPage": 2,
+      "accessed": "2026-09-27"
+    },
+    "answerFormat": "four-choice selection",
+    "authoringGuidance": "Return to the named paragraph and match the exact detail.",
+    "calibrationStatus": "scope_aligned_initial_examples_inspected_full_census_pending",
+    "sourceOriginality": "not_yet_cleared"
+  },
+  "inference": {
+    "section": "reading",
+    "reasoningDemand": "inference",
+    "scopeReference": {
+      "url": "https://www.ststesting.com/hp_int_sts.pdf",
+      "printedPage": 2,
+      "accessed": "2026-09-27"
+    },
+    "answerFormat": "four-choice selection",
+    "authoringGuidance": "Choose what the evidence supports without adding an unstated assumption.",
+    "calibrationStatus": "scope_aligned_initial_examples_inspected_full_census_pending",
+    "sourceOriginality": "not_yet_cleared"
+  },
+  "literary": {
+    "section": "reading",
+    "reasoningDemand": "literary",
+    "scopeReference": {
+      "url": "https://www.ststesting.com/hp_int_sts.pdf",
+      "printedPage": 2,
+      "accessed": "2026-09-27"
+    },
+    "answerFormat": "four-choice selection",
+    "authoringGuidance": "Connect the literary device or character judgment to specific words and actions.",
+    "calibrationStatus": "scope_aligned_initial_examples_inspected_full_census_pending",
+    "sourceOriginality": "not_yet_cleared"
+  },
+  "main_idea": {
+    "section": "reading",
+    "reasoningDemand": "main idea",
+    "scopeReference": {
+      "url": "https://www.ststesting.com/hp_int_sts.pdf",
+      "printedPage": 2,
+      "accessed": "2026-09-27"
+    },
+    "answerFormat": "four-choice selection",
+    "authoringGuidance": "Choose the statement that covers the whole passage, not just one detail.",
+    "calibrationStatus": "scope_aligned_initial_examples_inspected_full_census_pending",
+    "sourceOriginality": "not_yet_cleared"
+  },
+  "structure": {
+    "section": "reading",
+    "reasoningDemand": "structure",
+    "scopeReference": {
+      "url": "https://www.ststesting.com/hp_int_sts.pdf",
+      "printedPage": 2,
+      "accessed": "2026-09-27"
+    },
+    "answerFormat": "four-choice selection",
+    "authoringGuidance": "Ask what the paragraph or example contributes to the passage.",
+    "calibrationStatus": "scope_aligned_initial_examples_inspected_full_census_pending",
+    "sourceOriginality": "not_yet_cleared"
+  },
+  "vocabulary_context": {
+    "section": "reading",
+    "reasoningDemand": "vocabulary context",
+    "scopeReference": {
+      "url": "https://www.ststesting.com/hp_int_sts.pdf",
+      "printedPage": 2,
+      "accessed": "2026-09-27"
+    },
+    "answerFormat": "four-choice selection",
+    "authoringGuidance": "Substitute each meaning into the original sentence.",
+    "calibrationStatus": "scope_aligned_initial_examples_inspected_full_census_pending",
+    "sourceOriginality": "not_yet_cleared"
+  },
+  "algebra": {
+    "section": "mathematics",
+    "reasoningDemand": "algebra",
+    "scopeReference": {
+      "url": "https://www.ststesting.com/hp_int_sts.pdf",
+      "printedPage": 2,
+      "accessed": "2026-09-27"
+    },
+    "answerFormat": "four-choice selection",
+    "authoringGuidance": "Estimate the size of the result, then check the required operation and units.",
+    "calibrationStatus": "scope_aligned_initial_examples_inspected_full_census_pending",
+    "sourceOriginality": "not_yet_cleared"
+  },
+  "geometry": {
+    "section": "mathematics",
+    "reasoningDemand": "geometry",
+    "scopeReference": {
+      "url": "https://www.ststesting.com/hp_int_sts.pdf",
+      "printedPage": 2,
+      "accessed": "2026-09-27"
+    },
+    "answerFormat": "four-choice selection",
+    "authoringGuidance": "Estimate the size of the result, then check the required operation and units.",
+    "calibrationStatus": "scope_aligned_initial_examples_inspected_full_census_pending",
+    "sourceOriginality": "not_yet_cleared"
+  },
+  "measurement": {
+    "section": "mathematics",
+    "reasoningDemand": "measurement",
+    "scopeReference": {
+      "url": "https://www.ststesting.com/hp_int_sts.pdf",
+      "printedPage": 2,
+      "accessed": "2026-09-27"
+    },
+    "answerFormat": "four-choice selection",
+    "authoringGuidance": "Estimate the size of the result, then check the required operation and units.",
+    "calibrationStatus": "scope_aligned_initial_examples_inspected_full_census_pending",
+    "sourceOriginality": "not_yet_cleared"
+  },
+  "number_computation": {
+    "section": "mathematics",
+    "reasoningDemand": "number computation",
+    "scopeReference": {
+      "url": "https://www.ststesting.com/hp_int_sts.pdf",
+      "printedPage": 2,
+      "accessed": "2026-09-27"
+    },
+    "answerFormat": "four-choice selection",
+    "authoringGuidance": "Estimate the size of the result, then check the required operation and units.",
+    "calibrationStatus": "scope_aligned_initial_examples_inspected_full_census_pending",
+    "sourceOriginality": "not_yet_cleared"
+  },
+  "ratios_percent": {
+    "section": "mathematics",
+    "reasoningDemand": "ratios percent",
+    "scopeReference": {
+      "url": "https://www.ststesting.com/hp_int_sts.pdf",
+      "printedPage": 2,
+      "accessed": "2026-09-27"
+    },
+    "answerFormat": "four-choice selection",
+    "authoringGuidance": "Estimate the size of the result, then check the required operation and units.",
+    "calibrationStatus": "scope_aligned_initial_examples_inspected_full_census_pending",
+    "sourceOriginality": "not_yet_cleared"
+  },
+  "statistics_probability": {
+    "section": "mathematics",
+    "reasoningDemand": "statistics probability",
+    "scopeReference": {
+      "url": "https://www.ststesting.com/hp_int_sts.pdf",
+      "printedPage": 2,
+      "accessed": "2026-09-27"
+    },
+    "answerFormat": "four-choice selection",
+    "authoringGuidance": "Estimate the size of the result, then check the required operation and units.",
+    "calibrationStatus": "scope_aligned_initial_examples_inspected_full_census_pending",
+    "sourceOriginality": "not_yet_cleared"
+  },
+  "capitalization": {
+    "section": "language",
+    "reasoningDemand": "capitalization",
+    "scopeReference": {
+      "url": "https://www.ststesting.com/hp_int_sts.pdf",
+      "printedPage": 2,
+      "accessed": "2026-09-27"
+    },
+    "answerFormat": "four-choice selection",
+    "authoringGuidance": "Read the complete sentence and identify the convention being tested before comparing choices.",
+    "calibrationStatus": "scope_aligned_initial_examples_inspected_full_census_pending",
+    "sourceOriginality": "not_yet_cleared"
+  },
+  "composition": {
+    "section": "language",
+    "reasoningDemand": "composition",
+    "scopeReference": {
+      "url": "https://www.ststesting.com/hp_int_sts.pdf",
+      "printedPage": 2,
+      "accessed": "2026-09-27"
+    },
+    "answerFormat": "four-choice selection",
+    "authoringGuidance": "Read the complete sentence and identify the convention being tested before comparing choices.",
+    "calibrationStatus": "scope_aligned_initial_examples_inspected_full_census_pending",
+    "sourceOriginality": "not_yet_cleared"
+  },
+  "grammar": {
+    "section": "language",
+    "reasoningDemand": "grammar",
+    "scopeReference": {
+      "url": "https://www.ststesting.com/hp_int_sts.pdf",
+      "printedPage": 2,
+      "accessed": "2026-09-27"
+    },
+    "answerFormat": "four-choice selection",
+    "authoringGuidance": "Read the complete sentence and identify the convention being tested before comparing choices.",
+    "calibrationStatus": "scope_aligned_initial_examples_inspected_full_census_pending",
+    "sourceOriginality": "not_yet_cleared"
+  },
+  "punctuation": {
+    "section": "language",
+    "reasoningDemand": "punctuation",
+    "scopeReference": {
+      "url": "https://www.ststesting.com/hp_int_sts.pdf",
+      "printedPage": 2,
+      "accessed": "2026-09-27"
+    },
+    "answerFormat": "four-choice selection",
+    "authoringGuidance": "Read the complete sentence and identify the convention being tested before comparing choices.",
+    "calibrationStatus": "scope_aligned_initial_examples_inspected_full_census_pending",
+    "sourceOriginality": "not_yet_cleared"
+  },
+  "spelling": {
+    "section": "language",
+    "reasoningDemand": "spelling",
+    "scopeReference": {
+      "url": "https://www.ststesting.com/hp_int_sts.pdf",
+      "printedPage": 2,
+      "accessed": "2026-09-27"
+    },
+    "answerFormat": "four-choice selection",
+    "authoringGuidance": "Check the whole word, especially doubled consonants and its ending.",
+    "calibrationStatus": "scope_aligned_initial_examples_inspected_full_census_pending",
+    "sourceOriginality": "not_yet_cleared"
+  },
+  "usage": {
+    "section": "language",
+    "reasoningDemand": "usage",
+    "scopeReference": {
+      "url": "https://www.ststesting.com/hp_int_sts.pdf",
+      "printedPage": 2,
+      "accessed": "2026-09-27"
+    },
+    "answerFormat": "four-choice selection",
+    "authoringGuidance": "Read the complete sentence and identify the convention being tested before comparing choices.",
+    "calibrationStatus": "scope_aligned_initial_examples_inspected_full_census_pending",
+    "sourceOriginality": "not_yet_cleared"
+  }
+}

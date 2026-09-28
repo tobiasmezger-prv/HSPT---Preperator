@@ -1,0 +1,59 @@
+{
+  "policy": "full-corpus-v3-risk-format-complete-reading-groups-1",
+  "seed": "2b148519b78160e98d6b9a0ea792b21ee548bc8696195ecbd6fe948d82847503",
+  "bankSha256": "f8e03f294ac348ba02941e3efabb83c6f7638ec333ed4823341720a66803408e",
+  "passageSha256": null,
+  "assetHashes": {},
+  "questionIds": [
+    "lan-a1-004",
+    "lan-a1-013",
+    "lan-a1-017",
+    "lan-a1-029",
+    "lan-a1-048",
+    "lan-a1-059",
+    "lan-a1-060",
+    "lan-a1-069",
+    "lan-a1-079",
+    "lan-a1-085",
+    "lan-a1-087",
+    "lan-a1-089",
+    "lan-a1-090",
+    "lan-a1-091",
+    "lan-a1-093",
+    "lan-a1-095",
+    "lan-a1-096",
+    "lan-a1-097",
+    "lan-a1-098",
+    "lan-a1-099"
+  ],
+  "skills": {
+    "grammar": 3,
+    "punctuation": 2,
+    "capitalization": 1,
+    "usage": 1,
+    "spelling": 2,
+    "composition": 11
+  },
+  "formats": {
+    "error_detection": 7,
+    "spelling": 2,
+    "paragraph_order": 1,
+    "paragraph_insertion": 1,
+    "irrelevant_sentence": 1,
+    "topic_sentence": 1,
+    "concluding_sentence": 1,
+    "transition": 1,
+    "sentence_combining": 1,
+    "pronoun_clarity": 1,
+    "concision": 1,
+    "supporting_detail": 1,
+    "paragraph_revision": 1
+  },
+  "difficulty": {
+    "2": 12,
+    "3": 7,
+    "1": 1
+  },
+  "purpose": "fixed_human_review_pending",
+  "selectionNotes": "Risk-prioritized, seeded tie breaks, skill/format/difficulty coverage. Reading uses two complete eight-question groups plus four standalone vocabulary items; this intentionally overweights comprehension in a 20-item sample to avoid splitting passages. Not a timed exam form. Language deliberately overrepresents composition to cover every new format. Math includes at least five figures and three conceptual items."
+}

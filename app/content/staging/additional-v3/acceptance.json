@@ -1,0 +1,13 @@
+{
+  "batchId": "additional-v3",
+  "status": "sample_reviewed",
+  "humanDecisionsRequired": 80,
+  "humanDecisionsReceived": 80,
+  "releaseReady": true,
+  "deviceReview": "actual_iPad_Safari_pending",
+  "integration": "all-sections-v0002",
+  "deployment": "not_performed",
+  "permittedUse": "skill_practice_and_shortened_previews",
+  "approvalRecord": "../../review/additional-v3/decisions.json",
+  "releaseReadinessScope": "Local content integration and GitHub upload; not completed full Phase III or physical-device certification"
+}

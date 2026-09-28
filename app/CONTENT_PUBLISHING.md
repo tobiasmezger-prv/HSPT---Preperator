@@ -1,3 +1,23 @@
+# Current release update — September 27, 2026
+
+The active release is `all-sections-v0002` (500 questions); `quantitative-v0001` remains an immutable rollback target. App version is 0.3.0. The original workflow below remains valid for Quantitative batches.
+
+For additional-v3, `scripts/accepted-additional.mjs` imports the exact section files and embeds approved passages/figures. Its gate checks the file-bound conversation approval in `content/review/additional-v3/decisions.json`, fixed 20-item samples, all-item editorial evidence, math evidence, full 894-position/156-page source ledger, overlap resolution and diagram review. Natural-language and novelty findings remain documented agent judgments, not automatic proofs. Physical iPad checks remain pending.
+
+Original draft files and pending browser templates are preserved. Their historical pending labels do not supersede the new approval receipt. Only sampled IDs receive individual `approved`; all others are `not_individually_reviewed`. First published revisions are 1, with prior drafting revision retained as `provenance.authoringRevision`. Reviewed stems, choices, answers, tips, passages and figure content were not rewritten during import.
+
+```sh
+pnpm content:validate
+# Build a new immutable candidate from this accepted source if needed:
+pnpm content build --release NEW_RELEASE_ID --batch content/staging/additional-v3 --review content/review/additional-v3
+# Local rollback; redeploy the compatible app/bank together when reversing a deployment:
+pnpm content rollback --release quantitative-v0001
+```
+
+A Quantitative-only rollback leaves the four other sections unavailable for new practice; old snapshots remain readable. Do not use authoring regeneration scripts to update an accepted release. Changed content requires a new draft and renewed evidence/review. Never change an immutable bank file in place.
+
+---
+
 # Publishing accepted questions
 
 Phase II local implementation. GitHub/Vercel setup and production publishing are intentionally pending at the owner's request. There is no student backend, login, or cloud history. Commands below modify local release files; they never upload content or credentials by themselves.

@@ -1,0 +1,50 @@
+{
+  "purpose": "provisional_inspection_not_formal_acceptance",
+  "policy": "draft-inspection-v1",
+  "bankSha256": "3d50b20fb1a1f9a846dd971474ae621efd157598e1c7f8b37d0d8c18ae4b9d35",
+  "passageSha256": null,
+  "seed": "d3f4830b5a64c9ae71ae578175a070ef1c35ed8831ee10d2bdf6bd1d25f3f798",
+  "questionIds": [
+    "mat-a1-008",
+    "mat-a1-011",
+    "mat-a1-015",
+    "mat-a1-019",
+    "mat-a1-022",
+    "mat-a1-029",
+    "mat-a1-030",
+    "mat-a1-039",
+    "mat-a1-049",
+    "mat-a1-050",
+    "mat-a1-055",
+    "mat-a1-061",
+    "mat-a1-064",
+    "mat-a1-072",
+    "mat-a1-075",
+    "mat-a1-077",
+    "mat-a1-080",
+    "mat-a1-090",
+    "mat-a1-094",
+    "mat-a1-099"
+  ],
+  "skills": {
+    "number_computation": 4,
+    "ratios_percent": 4,
+    "measurement": 3,
+    "geometry": 4,
+    "algebra": 3,
+    "statistics_probability": 2
+  },
+  "formats": [
+    "algebra",
+    "geometry",
+    "measurement",
+    "number_computation",
+    "ratios_percent",
+    "statistics_probability"
+  ],
+  "difficulty": {
+    "2": 5,
+    "1": 9,
+    "3": 6
+  }
+}

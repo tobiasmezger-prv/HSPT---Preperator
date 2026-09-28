@@ -1,0 +1,210 @@
+{
+  "verbal": {
+    "count": 100,
+    "skills": {
+      "synonyms": 25,
+      "antonyms": 25,
+      "analogies": 20,
+      "classification": 15,
+      "logical_reasoning": 15
+    },
+    "formats": {
+      "synonyms": 25,
+      "antonyms": 25,
+      "analogies": 20,
+      "classification": 15,
+      "logical_reasoning": 15
+    },
+    "difficulty": {
+      "2": 69,
+      "1": 20,
+      "3": 11
+    },
+    "answerPositions": {
+      "B": 25,
+      "C": 25,
+      "A": 25,
+      "D": 25
+    },
+    "strictlyLongestCorrect": 14
+  },
+  "reading": {
+    "count": 100,
+    "skills": {
+      "main_idea": 8,
+      "detail": 8,
+      "inference": 12,
+      "vocabulary_context": 8,
+      "structure": 8,
+      "literary_interpretation": 3,
+      "author_purpose": 6,
+      "tone": 4,
+      "evidence": 7,
+      "standalone_vocabulary": 36
+    },
+    "formats": {
+      "passage_main_idea": 8,
+      "passage_detail": 8,
+      "passage_inference": 12,
+      "passage_vocabulary_context": 8,
+      "passage_structure": 8,
+      "passage_literary_interpretation": 3,
+      "passage_author_purpose": 6,
+      "passage_tone": 4,
+      "passage_evidence": 7,
+      "standalone_vocabulary": 36
+    },
+    "difficulty": {
+      "2": 58,
+      "1": 11,
+      "3": 31
+    },
+    "answerPositions": {
+      "A": 25,
+      "D": 25,
+      "B": 25,
+      "C": 25
+    },
+    "strictlyLongestCorrect": 27
+  },
+  "mathematics": {
+    "count": 100,
+    "skills": {
+      "number_computation": 16,
+      "number_concepts": 5,
+      "ratios_percent": 20,
+      "measurement": 16,
+      "geometry": 16,
+      "statistics_probability": 14,
+      "algebra": 13
+    },
+    "formats": {
+      "number_computation": 16,
+      "conceptual": 12,
+      "ratios_percent": 20,
+      "measurement": 12,
+      "figure_numeric": 16,
+      "geometry": 4,
+      "algebra": 10,
+      "statistics_probability": 10
+    },
+    "difficulty": {
+      "1": 36,
+      "2": 46,
+      "3": 18
+    },
+    "answerPositions": {
+      "A": 25,
+      "C": 25,
+      "B": 25,
+      "D": 25
+    },
+    "strictlyLongestCorrect": 4
+  },
+  "language": {
+    "count": 100,
+    "skills": {
+      "grammar": 25,
+      "punctuation": 20,
+      "capitalization": 10,
+      "usage": 11,
+      "spelling": 17,
+      "composition": 17
+    },
+    "formats": {
+      "error_detection": 66,
+      "spelling": 17,
+      "paragraph_order": 3,
+      "paragraph_insertion": 2,
+      "irrelevant_sentence": 2,
+      "topic_sentence": 1,
+      "concluding_sentence": 1,
+      "transition": 2,
+      "sentence_combining": 2,
+      "pronoun_clarity": 1,
+      "concision": 1,
+      "supporting_detail": 1,
+      "paragraph_revision": 1
+    },
+    "difficulty": {
+      "2": 66,
+      "1": 26,
+      "3": 8
+    },
+    "answerPositions": {
+      "A": 25,
+      "B": 25,
+      "C": 25,
+      "D": 25
+    },
+    "strictlyLongestCorrect": 23
+  },
+  "readingAssembly": {
+    "passageGroups": {
+      "passage-a3-01": 8,
+      "passage-a3-02": 8,
+      "passage-a3-03": 8,
+      "passage-a3-04": 8,
+      "passage-a3-05": 8,
+      "passage-a3-06": 8,
+      "passage-a3-07": 8,
+      "passage-a3-08": 8
+    },
+    "wordCounts": {
+      "passage-a3-01": 194,
+      "passage-a3-02": 268,
+      "passage-a3-03": 135,
+      "passage-a3-04": 386,
+      "passage-a3-05": 254,
+      "passage-a3-06": 234,
+      "passage-a3-07": 317,
+      "passage-a3-08": 154
+    },
+    "bankMix": {
+      "comprehension": 64,
+      "standaloneVocabulary": 36
+    },
+    "example62ItemForm": {
+      "passages": [
+        "passage-a3-01",
+        "passage-a3-02",
+        "passage-a3-03",
+        "passage-a3-04",
+        "passage-a3-05"
+      ],
+      "comprehensionCount": 40,
+      "vocabularyIds": [
+        "rea-a1-065",
+        "rea-a1-066",
+        "rea-a1-067",
+        "rea-a1-068",
+        "rea-a1-069",
+        "rea-a1-070",
+        "rea-a1-071",
+        "rea-a1-072",
+        "rea-a1-073",
+        "rea-a1-074",
+        "rea-a1-075",
+        "rea-a1-076",
+        "rea-a1-077",
+        "rea-a1-078",
+        "rea-a1-079",
+        "rea-a1-080",
+        "rea-a1-081",
+        "rea-a1-082",
+        "rea-a1-083",
+        "rea-a1-084",
+        "rea-a1-085",
+        "rea-a1-086"
+      ],
+      "vocabularyCount": 22
+    },
+    "tenItemPracticeBurst": {
+      "completePassageGroup": 8,
+      "standaloneVocabulary": 2
+    },
+    "timingValidation": "pending_student_data"
+  },
+  "status": "structural_and_content_checks_complete_pending_human_device_review",
+  "releaseReady": false
+}

@@ -1,0 +1,57 @@
+{
+  "primaryMarkdown": "output/markdown/HSPT_ALL_SIX_PDFS.md",
+  "markdownSha256": "fc8aaa4684fc2538ba3c7005397b48766417d6537567b3c205fb39aa49a358fe",
+  "preferredSyncedPath": "sources/HSPT_ALL_SIX_PDFS.md",
+  "syncStatus": "using identical generated fallback; uploaded project copy not visible in local sources mirror",
+  "documents": [
+    {
+      "id": "test1",
+      "filename": "HSPT-Test-3.pdf",
+      "pdfSha256": "5ebde5fcbd47fa1af71ddd86c497b776acf22349547befaaf1aefa2bc2608644",
+      "pages": 34,
+      "priorFullInspection": "all pages text-read; mathematical symbols and figures visually inspected"
+    },
+    {
+      "id": "answers1",
+      "filename": "HSPT-TEST-3-Answers.pdf",
+      "pdfSha256": "c1703de73e1a2b96c2fa8597f8ebee0a05d16265745183820ac7634455977233",
+      "pages": 20,
+      "priorFullInspection": "all pages text-read; mathematical symbols and figures visually inspected"
+    },
+    {
+      "id": "test2",
+      "filename": "HSPT-TEST-4-1.pdf",
+      "pdfSha256": "ea0b82a239c6f4a2d1c3361f50228c926d0b3cf2e310eade118c17b36fb07c75",
+      "pages": 31,
+      "priorFullInspection": "all pages visually inspected; OCR used as reading aid"
+    },
+    {
+      "id": "answers2",
+      "filename": "HSPT-TEST-4-Answers.pdf",
+      "pdfSha256": "78d9117887ab8d02bf2d76d607ff49049a047e68c7da6204d2cc93ddff1e5027",
+      "pages": 18,
+      "priorFullInspection": "all pages visually inspected; OCR used as reading aid"
+    },
+    {
+      "id": "test3",
+      "filename": "HSPT-TEST-5.pdf",
+      "pdfSha256": "addf2b79d25563c467366adc63029d3cf37af6771c066de5921475fdc6a6eda3",
+      "pages": 33,
+      "priorFullInspection": "all pages text-read; mathematical symbols and figures visually inspected"
+    },
+    {
+      "id": "answers3",
+      "filename": "HSPT-TEST-5-Answers.pdf",
+      "pdfSha256": "264019864a927b31ebc92135a4cea7e90a84871ad1f3f3e831fc422e2c3bfeec",
+      "pages": 20,
+      "priorFullInspection": "all pages text-read; mathematical symbols and figures visually inspected"
+    }
+  ],
+  "coverage": {
+    "pages": 156,
+    "questionPositions": 894,
+    "allSections": true
+  },
+  "priorAudit": "app/content/audits/gables-full-2026-09-27",
+  "exceptionsPreserved": true
+}

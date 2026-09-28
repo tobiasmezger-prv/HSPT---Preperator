@@ -1,0 +1,50 @@
+{
+  "purpose": "provisional_inspection_not_formal_acceptance",
+  "policy": "draft-inspection-v1",
+  "bankSha256": "6713fefa70628ba2f45ea01e4ea9dfd6ba72d555a703ba6b192d98f38307834e",
+  "passageSha256": null,
+  "seed": "6853e22c862a5e6ad4fb96e727e1cb76d70ab3faa80af76a13fb8ebebe6a01ad",
+  "questionIds": [
+    "lan-a1-002",
+    "lan-a1-003",
+    "lan-a1-013",
+    "lan-a1-015",
+    "lan-a1-023",
+    "lan-a1-026",
+    "lan-a1-032",
+    "lan-a1-037",
+    "lan-a1-041",
+    "lan-a1-045",
+    "lan-a1-054",
+    "lan-a1-057",
+    "lan-a1-064",
+    "lan-a1-066",
+    "lan-a1-070",
+    "lan-a1-077",
+    "lan-a1-084",
+    "lan-a1-091",
+    "lan-a1-092",
+    "lan-a1-095"
+  ],
+  "skills": {
+    "grammar": 4,
+    "usage": 4,
+    "punctuation": 3,
+    "capitalization": 2,
+    "spelling": 3,
+    "composition": 4
+  },
+  "formats": [
+    "capitalization",
+    "composition",
+    "grammar",
+    "punctuation",
+    "spelling",
+    "usage"
+  ],
+  "difficulty": {
+    "1": 7,
+    "2": 11,
+    "3": 2
+  }
+}

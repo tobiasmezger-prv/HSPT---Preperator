@@ -1,0 +1,25 @@
+{
+  "releaseId": "all-sections-v0002",
+  "bankChecksum": "c01aeb15966390d4f73cc96b794de690089eb8a1b6ebc5b1c2e3a02414bbbec2",
+  "acceptedBatches": [
+    {
+      "batchDir": "content/staging/gables-v2",
+      "reviewDir": "content/review/gables-v2",
+      "bankSha256": "47b86200c6c70a9c0e77aea7f200d0ea09399e59e5fcf1633d5c00afcf7d12f1",
+      "decisionsSha256": "ad83db53cebe1ffe54e6c48b35d79be0b37823c0c50c1494a5eac14e90d90fc6"
+    },
+    {
+      "kind": "additional-v3",
+      "batchDir": "content/staging/additional-v3",
+      "reviewDir": "content/review/additional-v3",
+      "bankSha256": "d18d9ce23254906fdd55e94200b02c7109b91455b65b8e9687b1598c7acb6626",
+      "decisionsSha256": "333464064dd49bdb9059b2c2505fdd0d83392d802f8cf2da9d8f9369787f8496"
+    }
+  ],
+  "changes": {
+    "added": 400,
+    "revised": 0,
+    "retired": 0,
+    "total": 500
+  }
+}

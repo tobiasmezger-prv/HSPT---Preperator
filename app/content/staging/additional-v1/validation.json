@@ -1,0 +1,263 @@
+{
+  "manifestSha256": "c00d66440754d905d4e63a33eb3bc2404260e96776ff870db5e341ad0fad9835",
+  "status": "structural_checks_passed_editorial_pending",
+  "sections": {
+    "verbal": {
+      "count": 100,
+      "skills": {
+        "synonyms": 25,
+        "antonyms": 25,
+        "analogies": 20,
+        "classifications": 15,
+        "logical_reasoning": 15
+      },
+      "difficulty": {
+        "2": 77,
+        "1": 19,
+        "3": 4
+      },
+      "answerPositions": {
+        "C": 25,
+        "B": 25,
+        "A": 25,
+        "D": 25
+      },
+      "largestFamily": 2,
+      "correctAnswerStrictlyLongest": 20,
+      "longestAnswerIds": [
+        "ver-a1-007",
+        "ver-a1-020",
+        "ver-a1-023",
+        "ver-a1-025",
+        "ver-a1-026",
+        "ver-a1-031",
+        "ver-a1-032",
+        "ver-a1-040",
+        "ver-a1-044",
+        "ver-a1-046",
+        "ver-a1-048",
+        "ver-a1-049",
+        "ver-a1-050",
+        "ver-a1-053",
+        "ver-a1-073",
+        "ver-a1-078",
+        "ver-a1-079",
+        "ver-a1-085",
+        "ver-a1-092",
+        "ver-a1-100"
+      ],
+      "warning": "Answer-length cueing, distractor plausibility, family variety and difficulty require editorial review."
+    },
+    "reading": {
+      "count": 100,
+      "skills": {
+        "main_idea": 16,
+        "detail": 18,
+        "inference": 26,
+        "vocabulary_context": 16,
+        "literary": 8,
+        "structure": 16
+      },
+      "difficulty": {
+        "2": 60,
+        "1": 27,
+        "3": 13
+      },
+      "answerPositions": {
+        "A": 25,
+        "B": 25,
+        "D": 25,
+        "C": 25
+      },
+      "largestFamily": 12,
+      "correctAnswerStrictlyLongest": 57,
+      "longestAnswerIds": [
+        "rea-a1-001",
+        "rea-a1-006",
+        "rea-a1-007",
+        "rea-a1-008",
+        "rea-a1-014",
+        "rea-a1-015",
+        "rea-a1-017",
+        "rea-a1-018",
+        "rea-a1-019",
+        "rea-a1-021",
+        "rea-a1-024",
+        "rea-a1-025",
+        "rea-a1-029",
+        "rea-a1-030",
+        "rea-a1-031",
+        "rea-a1-036",
+        "rea-a1-037",
+        "rea-a1-040",
+        "rea-a1-041",
+        "rea-a1-042",
+        "rea-a1-043",
+        "rea-a1-045",
+        "rea-a1-047",
+        "rea-a1-048",
+        "rea-a1-049",
+        "rea-a1-050",
+        "rea-a1-051",
+        "rea-a1-054",
+        "rea-a1-055",
+        "rea-a1-056",
+        "rea-a1-057",
+        "rea-a1-058",
+        "rea-a1-060",
+        "rea-a1-066",
+        "rea-a1-067",
+        "rea-a1-069",
+        "rea-a1-070",
+        "rea-a1-072",
+        "rea-a1-075",
+        "rea-a1-076",
+        "rea-a1-077",
+        "rea-a1-078",
+        "rea-a1-079",
+        "rea-a1-080",
+        "rea-a1-081",
+        "rea-a1-082",
+        "rea-a1-084",
+        "rea-a1-085",
+        "rea-a1-086",
+        "rea-a1-087",
+        "rea-a1-089",
+        "rea-a1-091",
+        "rea-a1-093",
+        "rea-a1-094",
+        "rea-a1-096",
+        "rea-a1-098",
+        "rea-a1-099"
+      ],
+      "warning": "Answer-length cueing, distractor plausibility, family variety and difficulty require editorial review."
+    },
+    "mathematics": {
+      "count": 100,
+      "skills": {
+        "number_computation": 20,
+        "ratios_percent": 20,
+        "measurement": 15,
+        "geometry": 20,
+        "algebra": 15,
+        "statistics_probability": 10
+      },
+      "difficulty": {
+        "1": 40,
+        "2": 46,
+        "3": 14
+      },
+      "answerPositions": {
+        "C": 25,
+        "B": 25,
+        "A": 25,
+        "D": 25
+      },
+      "largestFamily": 1,
+      "correctAnswerStrictlyLongest": 3,
+      "longestAnswerIds": [
+        "mat-a1-055",
+        "mat-a1-083",
+        "mat-a1-093"
+      ],
+      "warning": "Answer-length cueing, distractor plausibility, family variety and difficulty require editorial review."
+    },
+    "language": {
+      "count": 100,
+      "skills": {
+        "grammar": 20,
+        "usage": 20,
+        "punctuation": 15,
+        "capitalization": 10,
+        "spelling": 15,
+        "composition": 20
+      },
+      "difficulty": {
+        "1": 42,
+        "2": 51,
+        "3": 7
+      },
+      "answerPositions": {
+        "D": 25,
+        "B": 25,
+        "C": 25,
+        "A": 25
+      },
+      "largestFamily": 1,
+      "correctAnswerStrictlyLongest": 18,
+      "longestAnswerIds": [
+        "lan-a1-016",
+        "lan-a1-018",
+        "lan-a1-035",
+        "lan-a1-040",
+        "lan-a1-053",
+        "lan-a1-054",
+        "lan-a1-072",
+        "lan-a1-074",
+        "lan-a1-081",
+        "lan-a1-082",
+        "lan-a1-088",
+        "lan-a1-090",
+        "lan-a1-091",
+        "lan-a1-092",
+        "lan-a1-094",
+        "lan-a1-097",
+        "lan-a1-098",
+        "lan-a1-100"
+      ],
+      "warning": "Answer-length cueing, distractor plausibility, family variety and difficulty require editorial review."
+    }
+  },
+  "releaseReady": false,
+  "readingAssembly": {
+    "completePassageGroups": {
+      "passage-a1-01": 6,
+      "passage-a1-02": 6,
+      "passage-a1-03": 6,
+      "passage-a1-04": 6,
+      "passage-a1-05": 6,
+      "passage-a1-06": 6,
+      "passage-a1-07": 6,
+      "passage-a1-08": 6,
+      "passage-a1-09": 6,
+      "passage-a1-10": 6,
+      "passage-a1-11": 6,
+      "passage-a1-12": 6,
+      "passage-a1-13": 7,
+      "passage-a1-14": 7,
+      "passage-a1-15": 7,
+      "passage-a1-16": 7
+    },
+    "example62QuestionPassages": [
+      "passage-a1-01",
+      "passage-a1-02",
+      "passage-a1-03",
+      "passage-a1-04",
+      "passage-a1-05",
+      "passage-a1-06",
+      "passage-a1-07",
+      "passage-a1-08",
+      "passage-a1-13",
+      "passage-a1-14"
+    ],
+    "passageWordCounts": {
+      "passage-a1-01": 169,
+      "passage-a1-02": 158,
+      "passage-a1-03": 161,
+      "passage-a1-04": 168,
+      "passage-a1-05": 164,
+      "passage-a1-06": 155,
+      "passage-a1-07": 174,
+      "passage-a1-08": 161,
+      "passage-a1-09": 167,
+      "passage-a1-10": 163,
+      "passage-a1-11": 161,
+      "passage-a1-12": 159,
+      "passage-a1-13": 160,
+      "passage-a1-14": 176,
+      "passage-a1-15": 168,
+      "passage-a1-16": 171
+    },
+    "limitation": "Arithmetic assembly only; not an approved timed form. A ten-question burst cannot be made from these complete 6/7-item groups; use a disclosed 6/7-item group or add reviewed shorter groups."
+  }
+}

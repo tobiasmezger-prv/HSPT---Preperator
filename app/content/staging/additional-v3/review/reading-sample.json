@@ -1,0 +1,60 @@
+{
+  "policy": "full-corpus-v3-risk-format-complete-reading-groups-1",
+  "seed": "735f5d0b63d2420eb0b9e44ea90c75adf2a2fa9587ed4863a7caf97e1991ed89",
+  "bankSha256": "5e87f20d187839e0cb467c9378a7e0383100affc8424c5553ecdb10a47e22345",
+  "passageSha256": "9b5d7b019da217cca55ddf10d4f2514af96c8f6d51675f38327f396cff1cdb15",
+  "assetHashes": {},
+  "questionIds": [
+    "rea-a1-009",
+    "rea-a1-010",
+    "rea-a1-011",
+    "rea-a1-012",
+    "rea-a1-013",
+    "rea-a1-014",
+    "rea-a1-015",
+    "rea-a1-016",
+    "rea-a1-025",
+    "rea-a1-026",
+    "rea-a1-027",
+    "rea-a1-028",
+    "rea-a1-029",
+    "rea-a1-030",
+    "rea-a1-031",
+    "rea-a1-032",
+    "rea-a1-068",
+    "rea-a1-082",
+    "rea-a1-087",
+    "rea-a1-098"
+  ],
+  "skills": {
+    "main_idea": 2,
+    "detail": 2,
+    "inference": 3,
+    "vocabulary_context": 2,
+    "structure": 2,
+    "author_purpose": 1,
+    "evidence": 2,
+    "literary_interpretation": 1,
+    "tone": 1,
+    "standalone_vocabulary": 4
+  },
+  "formats": {
+    "passage_main_idea": 2,
+    "passage_detail": 2,
+    "passage_inference": 3,
+    "passage_vocabulary_context": 2,
+    "passage_structure": 2,
+    "passage_author_purpose": 1,
+    "passage_evidence": 2,
+    "passage_literary_interpretation": 1,
+    "passage_tone": 1,
+    "standalone_vocabulary": 4
+  },
+  "difficulty": {
+    "2": 10,
+    "1": 2,
+    "3": 8
+  },
+  "purpose": "fixed_human_review_pending",
+  "selectionNotes": "Risk-prioritized, seeded tie breaks, skill/format/difficulty coverage. Reading uses two complete eight-question groups plus four standalone vocabulary items; this intentionally overweights comprehension in a 20-item sample to avoid splitting passages. Not a timed exam form. Language deliberately overrepresents composition to cover every new format. Math includes at least five figures and three conceptual items."
+}

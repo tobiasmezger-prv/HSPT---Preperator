@@ -1,8 +1,10 @@
 # HSPT Practice
 
-An iPad-first, paper-style Quantitative Skills practice app. Includes 100 original, mathematically checked questions with a human-reviewed sample, diagrams, grading, explanations, and tips.
+An iPad-first, paper-style practice app covering all five HSPT sections. Version **0.3.0** includes **500 original questions: 100 per section**, answer explanations, original diagrams, and shared Reading passages. Each bank has a human-reviewed 20-question sample; unsampled questions are not individually human-approved.
 
-Phase II adds versioned question-bank delivery, browser-local progress, backup/restore, repeat cooldowns, and an owner-controlled content publishing workflow. Student practice data stays in the browser; no account or backend is required.
+Phase III content is integrated into the existing practice experience. Five-minute bursts, 10-question section previews, and a 50-question five-section preview are available. Full-length section presets and the 298-question exam remain planned work; this version is not the completed Phase III exam simulator.
+
+Question-bank updates are versioned. Progress, answer snapshots, backups, and repeat cooldowns stay on the device; no account or backend is required.
 
 ## Run locally
 
@@ -27,15 +29,17 @@ The build validates accepted content, runs the automated tests, checks TypeScrip
 
 Import this repository into Vercel and set **Root Directory** to `app`, **Framework** to Vite, and **Node.js** to 24. The checked-in Vercel configuration sets the build, output directory, and content cache headers. Use one stable production URL so browser progress remains available across deployments.
 
-GitHub contains the source and published bank; pushing to GitHub alone does not create a live website.
+A push to a repository connected to Vercel may trigger deployment. Use a branch/preview deployment before promoting to production.
 
 ## Content and review
 
 - [Publishing, preview, and rollback](app/CONTENT_PUBLISHING.md)
 - [Question creation and calibration process](QUESTION_BANK_CREATION_PROCESS.md)
 - [Import and acceptance process](app/content/QUESTION_IMPORT_PROCESS.md)
-- [Phase II status and remaining manual checks](app/PHASE_II_STATUS.md)
-- [Twenty-question review packet](app/content/review/gables-v2/REVIEW_20.md)
+- [Current Phase III status](app/PHASE_III_PREVIEW.md)
+- [Next-version upload instructions](GITHUB_UPLOAD.md)
+- [Release notes](RELEASE_NOTES.md)
+- [Additional-bank approval](app/content/review/additional-v3/decisions.json)
 
 Accepted bank releases are under `app/public/content/`. Drafts and acceptance evidence are under `app/content/` and are never automatically selected for practice. Older sessions keep their original question snapshots.
 

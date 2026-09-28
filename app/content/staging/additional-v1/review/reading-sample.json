@@ -1,0 +1,50 @@
+{
+  "purpose": "provisional_inspection_not_formal_acceptance",
+  "policy": "draft-inspection-v1",
+  "bankSha256": "81062b5e44b8080f7a6416d5d049228fad3916d984470c73d191bcaad7bb2290",
+  "passageSha256": "d11fa68347b200c8b195a42d4be10c9debbe741f2c37a077ea98e86106ef8c6b",
+  "seed": "02b01a7834db0b03f45819af49005f397d96ab14f7831ca01accfc3c57f0926e",
+  "questionIds": [
+    "rea-a1-001",
+    "rea-a1-008",
+    "rea-a1-012",
+    "rea-a1-017",
+    "rea-a1-023",
+    "rea-a1-026",
+    "rea-a1-031",
+    "rea-a1-033",
+    "rea-a1-034",
+    "rea-a1-039",
+    "rea-a1-043",
+    "rea-a1-048",
+    "rea-a1-054",
+    "rea-a1-058",
+    "rea-a1-065",
+    "rea-a1-068",
+    "rea-a1-077",
+    "rea-a1-084",
+    "rea-a1-090",
+    "rea-a1-099"
+  ],
+  "skills": {
+    "main_idea": 3,
+    "detail": 3,
+    "inference": 5,
+    "literary": 3,
+    "structure": 3,
+    "vocabulary_context": 3
+  },
+  "formats": [
+    "detail",
+    "inference",
+    "literary",
+    "main_idea",
+    "structure",
+    "vocabulary_context"
+  ],
+  "difficulty": {
+    "2": 9,
+    "1": 4,
+    "3": 7
+  }
+}

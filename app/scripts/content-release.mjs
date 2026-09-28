@@ -2,12 +2,14 @@
 // Owner-only file workflow. No credentials, publishing API, or child data.
 import fs from 'node:fs';import path from 'node:path';import crypto from 'node:crypto';import {fileURLToPath} from 'node:url';
 import {validateBank,validateManifest} from '../src/domain/contentSchema.mjs';
+import {acceptedAdditional} from './accepted-additional.mjs';
 const ROOT=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const hash=s=>crypto.createHash('sha256').update(s).digest('hex');const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));const digest=p=>hash(fs.readFileSync(p));const fail=s=>{throw new Error(s);};
 const publicDir=path.join(ROOT,'public');const content=path.join(publicDir,'content');const records=path.join(ROOT,'content/releases');
 function target(url){if(!/^\/content\/banks\/[\w-]+\.json$/.test(url))fail('Unsafe manifest target');return path.join(publicDir,url);}
 export function validateRelease(m){validateManifest(m);const p=target(m.bankUrl);if(!fs.existsSync(p))fail('Manifest bank is missing');if(digest(p)!==m.checksum)fail('Checksum mismatch');const b=read(p);validateBank(b,m);return b;}
 function accepted(batchDir,reviewDir){
+ if(fs.existsSync(path.join(batchDir,'reading-passages.json'))&&fs.existsSync(path.join(batchDir,'manifest.json')))return acceptedAdditional(batchDir,reviewDir,ROOT);
  const bankPath=path.join(batchDir,'bank.json'),sha=digest(bankPath),bank=read(bankPath);if(!Array.isArray(bank)||bank.length%100!==0||!bank.length)fail('Accepted batches must contain complete hundreds');
  const math=read(path.join(batchDir,'validation.json')),audit=read(path.join(batchDir,'item-audit.json')),editorial=read(path.join(batchDir,'editorial-review.json')),visual=read(path.join(batchDir,'visual-review.json')),overlap=read(path.join(batchDir,'overlap-log.json')),manifest=read(path.join(reviewDir,'manifest.json')),decisions=read(path.join(reviewDir,'decisions.json'));
  if([math,audit,visual,overlap,manifest,decisions].some(x=>x.bankSha256!==sha)||editorial.reviewedBankSha256!==sha)fail('Stale acceptance evidence');
@@ -22,7 +24,7 @@ function accepted(batchDir,reviewDir){
  return {bank,sha,reviewed:new Set(ids),evidence:{batchDir:path.relative(ROOT,batchDir),reviewDir:path.relative(ROOT,reviewDir),bankSha256:sha,decisionsSha256:digest(path.join(reviewDir,'decisions.json'))}};
 }
 function convert(q,batch,dir,revision){return {...q,revision,skill:q.format==='geometric_comparison'?'geometric_comparison':q.skill,reviewStatus:'sample_reviewed',acceptance:{batchId:path.basename(dir),batchStatus:'sample_reviewed',individualStatus:batch.reviewed.has(q.id)?'approved':'not_individually_reviewed'},diagram:q.visual?{svg:fs.readFileSync(path.join(dir,'assets',q.id+'.svg'),'utf8'),alt:q.visual.alt}:q.diagram};}
-function contentKey(q){return JSON.stringify([q.section,q.skill,q.format,q.difficulty,q.stem,q.choices,q.guide,q.templateFamily,q.variantGroupId??null,q.diagram??null]);}
+function contentKey(q){return JSON.stringify([q.section,q.skill,q.format,q.difficulty,q.stem,q.choices,q.guide,q.templateFamily,q.variantGroupId??null,q.diagram??null,q.passage??null]);}
 function immutable(file,text){if(fs.existsSync(file)&&fs.readFileSync(file,'utf8')!==text)fail('Immutable file already exists with different content: '+file);fs.mkdirSync(path.dirname(file),{recursive:true});if(!fs.existsSync(file))fs.writeFileSync(file,text);}
 function proposal(id){if(!/^[\w-]+$/.test(id??''))fail('Supply --release with a safe release ID');return path.join(records,id+'.manifest.json');}
 function authorize(m){const record=read(path.join(records,m.releaseId+'.receipt.json'));if(record.bankChecksum!==m.checksum)fail('Release receipt mismatch');for(const e of record.acceptedBatches){const a=accepted(path.join(ROOT,e.batchDir),path.join(ROOT,e.reviewDir));if(a.sha!==e.bankSha256||digest(path.join(ROOT,e.reviewDir,'decisions.json'))!==e.decisionsSha256)fail('Accepted source changed');}if(!record.acceptedBatches.length)fail('No accepted batch evidence');return record;}

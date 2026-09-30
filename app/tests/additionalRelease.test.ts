@@ -1,11 +1,11 @@
 import {it,expect} from 'vitest';
 import bank from '../public/content/banks/all-sections-v0002.json';
 import previous from '../public/content/banks/quantitative-v0001.json';
-import manifest from '../public/content/manifest.json';
+import manifest from '../content/releases/all-sections-v0002.manifest.json';
 import {validateBank,validateQuestion,type Bank,type Manifest} from '../src/domain/contentSchema.mjs';
 import {pickFresh,availableQuestions,type Exposure} from '../src/domain/freshSelection';
 import {sections,type Section,type Skill} from '../src/domain/types';
-import {planSession} from '../src/domain/testPlan';
+import {createSession} from '../src/domain/session';
 import {parseBackup} from '../src/domain/backup';
 import {gradeSession} from '../src/domain/scoring';
 const questions=(bank as unknown as Bank).questions;
@@ -32,7 +32,7 @@ it('offers complete eight-item focused comprehension sets and independent vocabu
  expect(pickFresh(reading,'main_idea',[],[],7)).toHaveLength(0);
 });
 it('snapshots and grades every new skill, passage and figure through backup round-trip',()=>{
- for(const section of Object.keys(sections)){const qs=questions.filter(q=>q.section===section);const s=planSession([{section:section as Section,questions:qs}],'burst','untimed',1000);for(const q of qs)s.responses[q.id].answer=q.guide!.correctChoiceId;s.status='submitted';s.completedAt=2000;const restored=parseBackup(JSON.stringify({format:'hspt-progress',version:1,sessions:[s],exposures:[]})).sessions[0];expect(restored).toEqual(s);expect(gradeSession(restored).correct).toBe(100);}
+ for(const section of Object.keys(sections)){const qs=questions.filter(q=>q.section===section);const s=createSession(qs,'untimed','mixed',1000);for(const q of qs)s.responses[q.id].answer=q.guide!.correctChoiceId;s.status='submitted';s.completedAt=2000;const restored=parseBackup(JSON.stringify({format:'hspt-progress',version:1,sessions:[s],exposures:[]})).sessions[0];expect(restored).toEqual(s);expect(gradeSession(restored).correct).toBe(100);}
 });
 it('rejects missing passages, missing figures and cross-section formats',()=>{
  const q=reading.find(q=>q.passage)!;expect(()=>validateQuestion({...q,passage:undefined},true)).toThrow();

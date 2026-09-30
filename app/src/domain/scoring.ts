@@ -9,6 +9,7 @@ export function withGuide(q:Question):Question {
  return original?.guide?{...q,guide:original.guide}:q;
 }
 export function gradeSession(session:Session){
+ if(session.status==='aborted')throw new Error('Aborted practice has no score.');
  if(session.status==='active')throw new Error('Finish practice before reviewing answers.');
  const items=session.questions.map((raw,index)=>{
   const question=withGuide(raw);

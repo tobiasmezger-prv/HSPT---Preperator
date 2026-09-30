@@ -27,3 +27,6 @@ export function selectQuestions(bank:Question[],skill:Skill|'mixed',seen:string[
  }
  return selected;
 }
+
+export function abort(session:Session,now=Date.now()):Session{return session.status==='active'?{...session,status:'aborted',abortedAt:now,deadlineAt:undefined}:session;}
+export function isCompleted(s:Session){return s.status==='submitted'||s.status==='expired';}

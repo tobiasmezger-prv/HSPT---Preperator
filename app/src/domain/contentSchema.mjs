@@ -5,19 +5,20 @@ const assert=(ok,message)=>{if(!ok)throw new Error(message);};
 const text=x=>typeof x==='string'&&x.trim().length>0;
 export function validateQuestion(q,published=false){
  assert(q&&typeof q==='object'&&text(q.id)&&/^[a-zA-Z0-9_-]+$/.test(q.id)&&skills.includes(q.skill)&&text(q.stem)&&text(q.templateFamily),'Invalid question fields');
- assert(Array.isArray(q.choices)&&q.choices.length===4&&q.choices.every(text)&&new Set(q.choices.map(x=>x.trim())).size===4,'Invalid choices');
+ assert(Array.isArray(q.choices)&&[3,4].includes(q.choices.length)&&q.choices.every(text)&&new Set(q.choices.map(x=>x.trim())).size===q.choices.length,'Invalid choices');
  if(q.passage)assert(text(q.passage.id)&&text(q.passage.title)&&text(q.passage.text),'Invalid passage');
  if(q.passage?.paragraphs)assert(Array.isArray(q.passage.paragraphs)&&q.passage.paragraphs.length>0&&q.passage.paragraphs.every(text),'Invalid passage paragraphs');
  if(q.dummy!==undefined)assert(q.dummy===true&&!published,'Dummy questions cannot be published');
  if(q.variantGroupId!==undefined)assert(text(q.variantGroupId),'Invalid variant group');
  if(q.revision!==undefined)assert(Number.isInteger(q.revision)&&q.revision>0,'Invalid question revision');
- if(q.guide||published)assert(q.guide&&'ABCD'.includes(q.guide.correctChoiceId)&&q.guide.correctChoiceId.length===1&&text(q.guide.explanation)&&(!q.guide.shortcut||text(q.guide.shortcut)),'Invalid answer guide');
+ if(q.guide||published)assert(q.guide&&'ABCD'.slice(0,q.choices.length).includes(q.guide.correctChoiceId)&&q.guide.correctChoiceId.length===1&&text(q.guide.explanation)&&(!q.guide.shortcut||text(q.guide.shortcut)),'Invalid answer guide');
  if(published){
   assert(Object.hasOwn(formats,q.section)&&[1,2,3].includes(q.difficulty)&&formats[q.section].includes(q.format)&&Number.isInteger(q.revision)&&q.revision>0,'Unsupported question schema or format');
   assert(q.section!=='reading'||(q.format==='standalone_vocabulary'?!q.passage:!!q.passage),'Missing or unexpected reading passage');
   assert(q.acceptance?.batchStatus==='sample_reviewed'&&text(q.acceptance.batchId)&&['approved','not_individually_reviewed'].includes(q.acceptance.individualStatus)&&q.provenance&&text(q.provenance.origin),'Missing acceptance/provenance');
-  assert(!['geometric_comparison','figure_numeric'].includes(q.format)||!!q.diagram,'Missing visual diagram');
+  assert(!['geometric_comparison','figure_numeric'].includes(q.format)||!!q.diagram||!!q.image,'Missing visual diagram');
  }
+ if(q.image)assert(text(q.image.alt)&&typeof q.image.dataUrl==='string'&&q.image.dataUrl.length<2000000&&/^data:image\/(png|jpeg);base64,[A-Za-z0-9+/]+={0,2}$/.test(q.image.dataUrl),'Invalid source image');
  if(q.diagram){
   assert(text(q.diagram.alt)&&text(q.diagram.svg)&&q.diagram.svg.length<100000,'Invalid diagram');
   const svg=q.diagram.svg;
@@ -34,7 +35,8 @@ export function validateManifest(m){
 }
 export function validateBank(b,m){
  validateManifest(m);assert(b&&b.schemaVersion===1&&b.releaseId===m.releaseId&&Array.isArray(b.questions)&&b.questions.length===m.questionCount,'Bank does not match manifest');
+ if(m.sectionCounts){assert(Object.keys(m.sectionCounts).length===5,'Invalid section index');for(const section of Object.keys(formats))assert(m.sectionCounts[section]===b.questions.filter(q=>(q.section??'quantitative')===section).length,'Section index count mismatch');}
  const ids=new Set(),signatures=new Set();
- for(const q of b.questions){validateQuestion(q,true);assert(!ids.has(q.id),'Duplicate question ID');ids.add(q.id);const signature=JSON.stringify([q.stem.toLowerCase().replace(/\s+/g,' ').trim(),q.choices.map(x=>x.trim()).sort(),q.diagram?.svg??'',q.passage?.text??'']);assert(!signatures.has(signature),'Duplicate question');signatures.add(signature);}
+ for(const q of b.questions){validateQuestion(q,true);assert(!ids.has(q.id),'Duplicate question ID');ids.add(q.id);const signature=JSON.stringify([q.stem.toLowerCase().replace(/\s+/g,' ').trim(),q.choices.map(x=>x.trim()).sort(),q.diagram?.svg??q.image?.dataUrl??'',q.passage?.text??'']);assert(!signatures.has(signature),'Duplicate question');signatures.add(signature);}
  return b;
 }

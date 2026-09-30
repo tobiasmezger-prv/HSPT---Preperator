@@ -8,7 +8,7 @@ import {parseBackup,type Backup} from '../domain/backup';
 import {gradeSession} from '../domain/scoring';
 export default function ProgressSettings({view='settings',sessions,installed,status,checking,onCheck,onRefresh,onReview}:{view?:'settings'|'progress';sessions:Session[];installed:InstalledBank|null;status:string;checking:boolean;onCheck:()=>void;onRefresh:()=>Promise<void>;onReview:(s:Session)=>void}){
  const [message,setMessage]=useState('');const [backup,setBackup]=useState<Backup|null>(null);const [reset,setReset]=useState(false);const [busy,setBusy]=useState(false);
- const completed=sessions.filter(s=>s.status!=='active').sort((a,b)=>(b.completedAt??0)-(a.completedAt??0));
+ const completed=sessions.filter(s=>s.status==='submitted'||s.status==='expired').sort((a,b)=>(b.completedAt??0)-(a.completedAt??0));
  async function task(work:()=>Promise<void>){setBusy(true);try{await work();}catch(e){setMessage(e instanceof Error?e.message:'Could not save changes. Please retry.');}finally{setBusy(false);}}
  const unique=backup?.sessions.filter(s=>!sessions.some(old=>old.id===s.id)).length??0;
  const sectionTotals=new Map<string,{correct:number;total:number}>();for(const s of completed)for(const item of gradeSession(s).items){const key=item.question.section??'quantitative',t=sectionTotals.get(key)??{correct:0,total:0};t.total++;t.correct+=Number(item.outcome==='correct');sectionTotals.set(key,t);}

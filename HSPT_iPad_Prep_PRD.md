@@ -1,11 +1,11 @@
 # Product Requirements Document: HSPT Practice
-**Version:** 2.0 — consolidated Phase III planning  
+**Version:** 2.6 — Phase IV exam pacing and reviewed source-bank imports  
 **Platform:** iPad-first responsive web application (Safari; landscape optimized)  
 **Primary user:** One middle-school student preparing for the HSPT  
 **Initial build:** Phase I — Quantitative Skills prototype  
-**Status:** Phase III app 0.3.0 integrates 500 sample-reviewed questions across all five sections. Shortened previews work; full-length presets/exam, physical iPad checks and production release remain pending. See [implementation status](app/PHASE_III_PREVIEW.md).
+**Status:** App 0.3.0 has 100 questions per section (500 total), ten-question/five-minute section previews, and a 50-question/25-minute full-test preview. Phase IV is the next planned implementation: correct exam pacing and full-length presets, plus reviewed imports from the Gables and Barron’s Markdown sources. Physical iPad and production checks remain required. See [implementation status](app/PHASE_III_PREVIEW.md).
 
-This is the working overall PRD. It consolidates the original Phase I requirements and the Phase III plan, including subsequent timing verification and the required burst/full-section options. The synced original under `sources/` remains a read-only historical reference. The content-review policy follows [QUESTION_BANK_CREATION_PROCESS.md](QUESTION_BANK_CREATION_PROCESS.md).
+This is the working overall PRD. It consolidates the original Phase I requirements, the Phase III plan, and the Phase IV requirements in section 12. Phase IV supersedes earlier proposed ten-question bursts and carries forward the unimplemented full-length requirements from Phase III. The synced original under `sources/` remains a read-only historical reference. The content-review policy follows [QUESTION_BANK_CREATION_PROCESS.md](QUESTION_BANK_CREATION_PROCESS.md).
 
 ## 1. Product vision
 Build a calm, paper-like HSPT practice experience that trains both accuracy and speed. A student should be able to sit down with an iPad, launch a timed practice burst, answer questions in any order on a familiar question-and-answer-sheet layout, and receive useful explanations and actionable performance feedback.
@@ -15,21 +15,18 @@ The long-term product supports all five HSPT sections, full-length and section-s
 **Product principles:** (1) Authentic paper-test feel, (2) fast to start and easy to navigate, (3) accurate questions before volume, (4) speed and accuracy measured separately, (5) student privacy and minimal distraction.
 
 ## 2. Scope and phased delivery
-| Capability | Phase I baseline | Phase III | Later |
+| Capability | Phase III baseline (app 0.3.0) | Phase IV — next | Later |
 |---|---|---|---|
-| Platform | iPad Safari responsive PWA | Preserve iPad, offline, and local-first behavior | Native app only if justified |
-| Sections | Quantitative Skills | All five core HSPT sections | Optional school tests if justified |
-| Modes | 10-question, 5-minute burst; untimed | **5-minute burst and full-section practice for every section**, plus full five-section exam | Custom accommodation presets |
-| Test UI | Paper-style questions and answer sheet | Long sections, passages, additional formats | Further refinement |
-| Timer | Hideable countdown and auto-submit | Verified section-specific limits and exam transitions | — |
-| Results | Score, errors, omissions, explanations | Section/mode-aware results and full-exam summary | Rich longitudinal dashboards |
-| Question library | 100 original Quantitative items under the review process | Proposed 100 per section / 500 total, keys and explanations included | Expanded validated supply |
-| Analytics | Local history, skill accuracy, approximate attention time | Preserve history and distinguish sections/modes | Adaptive recommendations |
-| Targeted practice | Manual skill selection | Section-specific skill practice | Automatically prescribed bursts |
-| Accounts | Single local profile | Single local profile, no sign-in | Optional secure sync |
-| Delivery | Static-site deployability | App and broader bank on GitHub; verified Vercel production release | — |
+| Platform | iPad-first browser/PWA, local progress | Preserve Safari, offline, backup, and resume behavior | Native app only if justified |
+| Sections | All five core sections | All five with correct pacing and full-length modes | Optional school tests if justified |
+| Bursts | Up to ten questions in five minutes | Section-specific counts derived from exam pace | Adaptive practice |
+| Section tests | Ten-question, five-minute previews | 60/52/62/64/60 questions with the matching section deadlines | Accommodation presets |
+| Full test | 50-question, 25-minute preview | 298 questions; 143 timed minutes | — |
+| Bank | 100 questions per section, 500 total | Review and import all Gables/Barron’s source questions, preserving the existing bank | Expanded validated supply |
+| Progress | Browser-local sessions and exposure | Preserve history; distinguish source practice and exam modes | Final Phase V: email-passcode accounts and sync |
+| Delivery | GitHub-ready source package | GitHub → Vercel app/content release, verified on iPad | — |
 
-**Phase III has exactly two major milestones:** (1) full Quantitative section practice; (2) all five sections, broader bank, and GitHub-to-Vercel release. Full Quantitative practice moves from the earlier Phase II roadmap to Phase III Milestone 1. Detailed requirements and acceptance criteria appear in section 11.
+**Scope reassignment:** Section 11 retains the earlier two-milestone Phase III plan as historical requirements. The implemented baseline is app 0.3.0, not completion of every item in that plan. Correct burst pacing, full sections, and the full 298-question exam are now explicitly Phase IV work, governed by section 12. This reassignment does not waive content or release checks.
 
 **Not in Phase I:** live LLM question generation, official HSPT copyrighted content, cloud sync, payment, leaderboards, social features, full-length exam simulation, parental monitoring, or inferred standardized-test scores.
 
@@ -40,9 +37,9 @@ The long-term product supports all five HSPT sections, full-length and section-s
 
 **Phase I flow:** Home → choose Quantitative Skills → choose Mixed or a skill focus → start 10-question/5-minute burst → paper-style test → submit or auto-submit at time expiry → score/review → history.
 
-**Phase III section flow:** Home → choose any of five sections → choose **5-minute burst** or **Full-section practice** → confirm count/timing → test → results and explanations → section/mode history. Untimed practice remains an additional option.
+**Phase IV section flow:** Home → choose any of five sections → choose **5-minute burst** or **Full-section practice** → confirm count/timing → test → results and explanations → section/mode history. Phase IV removes the untimed option for new practice; bursts default to five minutes.
 
-**Phase III exam flow:** Home → full five-section practice exam → section instructions → timed section → transition/break → next section → final results and review.
+**Phase IV exam flow:** Home → full five-section practice exam → section instructions → timed section → transition/break → next section → final results and review.
 
 ## 4. Phase I functional requirements
 
@@ -243,44 +240,38 @@ This is the Phase III storage decision. Do not maintain a second hand-edited mon
 
 **Phase III:** Two milestones defined in section 11. Every core section must offer both a five-minute burst and full-section practice. The phase ends with the app and broader question-and-answer bank versioned on GitHub and verified in Vercel production.
 
-**Phase IV:** Controlled AI-assisted generation behind a validation pipeline, expanded template families, adaptive five-minute practice, optional secure account/sync, and richer progress visualizations. AI must not directly publish unverified items.
+**Phase IV:** Correct section-specific burst counts, full-section timing/counts, and the complete 298-question test; review and integrate all questions from the Gables and Barron’s Markdown sources. Detailed requirements are in section 12.
+
+**Deferred enhancements:** Controlled AI-assisted generation, adaptive recommendations, and richer visualizations remain future work and are not part of Phase IV. AI must not directly publish unverified items.
+
+**Phase V — final planned phase:** Student email accounts using emailed one-time passcodes, with account-scoped online history and cross-device repeat protection. Keep local-only practice available. Do not store student passwords; use managed authentication, expiring single-use codes, resend/attempt limits, and a configured email delivery service. Import local history explicitly and idempotently; isolate account data at sign-out and synchronize offline uploads without duplicate sessions. Cross-device repeat guarantees require connectivity. Accounts and cloud progress are outside Phase IV.
 
 ### Current implementation baseline
 
-The current app has a five-minute deadline and ten-question selection built into its session logic. Its question types and skill tags are quantitative-specific. The Gables v2 bank is integrated locally; its integration record reports passing automated checks but pending browser/iPad verification and no deployment. These are recorded findings, not newly rerun checks. This workspace is not a Git checkout, and a GitHub remote and Vercel production project have not been established from the local files inspected.
+The inspected GitHub-ready package is `output/github/HSPT-Phase-III-v0.3.0`, with content release `all-sections-v0002`. It contains 100 questions in each of the five sections. Its session logic still selects ten questions per section and assigns five-minute deadlines; a full-test preview contains 50 questions. These are separate facts: expanded bank volume does not imply implemented exam presets. The intended GitHub repository is `tobiasmezger-prv/HSPT---Preperator`; confirm the connected Vercel project and production address before release. Do not infer a deployed version from a local package.
 
+## 11. Earlier Phase III requirements and delivery
 
-## 11. Phase III requirements and delivery
+**Historical plan:** Full-length requirements not implemented in app 0.3.0 are carried into Phase IV. Where timing, burst counts, source-content policy, or scope conflict, section 12 takes precedence.
 
 **Outcome:** Full-section practice, then a five-section app and broader reviewed question-and-answer bank, ending with a GitHub-to-Vercel release.
 
 ### 11.1 Verified exam structure
 
-**Thirty minutes is correct for Quantitative Skills only.** Use the following standard section presets:
+**Thirty minutes is correct for Quantitative Skills only.** The app uses one Verbal preset: 60 questions in 18 minutes. This table is aligned with the Phase IV requirements in section 12.
 
 | Section | Questions | Time limit |
 |---|---:|---:|
-| Verbal Skills | 60 | 16 minutes |
+| Verbal Skills | 60 | 18 minutes |
 | Quantitative Skills | 52 | 30 minutes |
 | Reading | 62 | 25 minutes |
 | Mathematics | 64 | 45 minutes |
 | Language | 60 | 25 minutes |
-| **Total** | **298** | **141 minutes (2 hours 21 minutes)** |
+| **Total** | **298** | **143 minutes (2 hours 23 minutes)** |
 
-Section names and counts: [STS interpretive manual, printed pages 1–2](https://www.ststesting.com/hp_int_sts.pdf). Standard time limits: [Archdiocese of Washington HSPT guide](https://adwcatholicschools.org/high-school/placement-tests/about-hspt/). Cross-check: [Huntington section table](https://secureapplication.huntingtonhelps.com/high-school-placement-test). Sources checked September 26, 2026.
+Section scope and counts: [STS interpretive manual](https://www.ststesting.com/hp_int_sts.pdf). Timing reference for the chosen preset: [STS E-Score administration manual](https://adwcatholicschools.org/wp-content/uploads/_pda/2018/08/HSPT-EScore-User-Manual.pdf). The supplied Barron’s sample also uses 18 minutes for Verbal. This is the app’s selected practice configuration; do not add alternative Verbal profiles or a profile selector.
 
-The total above excludes instructions and breaks. Do not model the test as five 30-minute sections or assume one universal break schedule. Optional school-specific tests are outside this phase.
-
-#### Timing cross-check
-
-A second online check confirmed the section presets against multiple sources:
-
-- [Archdiocese of Washington](https://adwcatholicschools.org/high-school/placement-tests/about-hspt/) explicitly lists 16 / 30 / 25 / 45 / 25 minutes. It allows three hours for administration, including two short breaks and 30 minutes for distributing/collecting materials.
-- [Woodlands Academy's entrance-exam page](https://www.woodlandsacademy.org/exam) independently lists all five matching section limits and question counts.
-- [Cardinal Education](https://www.cardinaleducation.com/test-prep/private-school-test-prep/hspt-test-prep/) also lists the same five limits and counts.
-- [STS's product listing](https://www.stsme.com/prod/HSPT/) gives an overall completion time of 2.5 hours, without a section-by-section breakdown on that page. Treat this as an overall duration description, not a reason to increase the sum of the individual clocks to 150 minutes.
-
-The arithmetic is **16 + 30 + 25 + 45 + 25 = 141 minutes**. For the app, label the complete exam **“2 hours 21 minutes of timed questions, plus breaks.”** Actual school appointment duration depends on local administration. Keep that separate from the app's section deadlines.
+The arithmetic is **18 + 30 + 25 + 45 + 25 = 143 minutes**. Label the complete exam **“2 hours 23 minutes of timed questions, plus breaks.”** Instructions and breaks are additional; actual school appointment duration depends on local administration. Do not model the test as five 30-minute sections or assume a universal break schedule. Optional school-specific tests remain outside this phase.
 
 ### 11.2 Milestone 1 — Full Quantitative Skills section
 
@@ -327,12 +318,12 @@ Select exactly 52 distinct eligible questions, favor unseen content where covera
 
 Scope reference: [STS interpretive manual, printed pages 1–2](https://www.ststesting.com/hp_int_sts.pdf). Keep Mathematics and Quantitative Skills as separate subjects in the interface, bank, and history.
 
-- Add a five-section home/setup flow. **Every section must offer both a 5-minute burst and full-section practice.** Present these as two clearly labeled choices after selecting a section; neither option is optional or limited to Quantitative Skills. Untimed practice remains an additional option.
+- Add a five-section home/setup flow. **Every section must offer both a 5-minute burst and full-section practice.** Present these as two clearly labeled choices after selecting a section; neither option is optional or limited to Quantitative Skills. Phase IV removes the untimed option for new practice; bursts default to five minutes.
 - Every burst has a five-minute deadline. Proposed burst question count: 10, explicitly labeled practice pacing rather than official exam pacing; Reading passage-group handling is specified below. Full-section practice uses the verified count and time limit for the selected section.
 
 | Section | Required burst option | Required full-section option |
 |---|---|---|
-| Verbal Skills | 5 minutes | 60 questions · 16 minutes |
+| Verbal Skills | 5 minutes | 60 questions · 18 minutes |
 | Quantitative Skills | 5 minutes | 52 questions · 30 minutes |
 | Reading | 5 minutes | 62 questions · 25 minutes |
 | Mathematics | 5 minutes | 64 questions · 45 minutes |
@@ -351,7 +342,7 @@ Provide a full practice exam within this milestone: Verbal → Quantitative → 
 - Allow navigation only within the active section. On submission or expiry, lock it and show a transition screen. Unused time does not transfer.
 - Provide between-section breaks as a clearly labeled practice setting, separate from test time; do not claim a universal official break schedule.
 - Save exam progress and active-section deadlines through refresh or browser closure. Returning after expiry closes the active section but does not silently start subsequent sections.
-- Reveal answers after the entire exam is completed or explicitly ended. Report unfinished sections separately if the student ends early.
+- Reveal answers after the entire exam is completed. Phase IV supersedes early-end behavior: intentionally aborting an exam produces no scored results and does not count toward statistics (see 12.2.1).
 - Show section scores and total correct out of 298 for a completed exam. Do not manufacture official scaled scores, percentiles, or admissions predictions.
 
 #### Broader question-and-answer bank
@@ -403,6 +394,120 @@ Within Milestone 2: establish the shared section/passage schema, manifest, valid
 
 The 100-per-section bank floor and burst question counts are proposed product decisions. Offering both a five-minute burst and full-section practice for every section is a confirmed requirement. Repository/deployment destinations and release owners must be recorded before deployment. Human content review is a real delivery dependency; scheduling should account for the four new review packets and corrections.
 
-## 12. Implementation handoff
+## 12. Phase IV — Correct exam pacing and reviewed source imports
 
-Use this consolidated PRD as the working product specification. Inspect the existing app and the question-bank process before making changes. Preserve the existing experience, saved sessions, and accepted content. Implement Phase III in its two milestone order; use the section presets and both required practice modes for every section. Treat proposed bank volume and burst question counts as planning defaults, not verified existing capabilities. Complete real content-review gates and iPad verification before claiming release readiness. Finish with the app and broader bank in GitHub and a verified Vercel production deployment, recording the release identifiers and rollback path.
+### 12.1 Outcomes and boundaries
+
+1. Every section offers a five-minute burst with an appropriate section-specific question count.
+2. Full-section practice uses the actual section count and time allocation; the full test combines all five sections with independent clocks and 298 questions.
+3. Inventory, review, and import all questions from both source collections into the test bank, including their passages, figures, answer keys, and explanations where available.
+4. Preserve the current 500-item bank, stable IDs, progress, repeat protection, offline behavior, and existing session snapshots. Do not replace the bank with the imports or silently reset local history.
+
+This is a PRD update, not evidence that these features or imports have been implemented, reviewed, uploaded, or deployed. Accounts, cloud progress, live AI generation, adaptive practice, and standardized-score predictions are not in this phase.
+
+### 12.2 Shared timing and count configuration
+
+Create one versioned preset source used by selection, session creation, setup labels, countdowns, transitions, results, and tests. Remove hard-coded ten-question/five-minute assumptions from full-section and exam code. A burst always has a five-minute deadline; full-section deadlines depend on the selected section.
+
+| Section | Full-section questions | Section minutes | Average seconds/question | Five-minute burst target |
+|---|---:|---:|---:|---:|
+| Verbal Skills | 60 | 18 | 18.0 | 17 |
+| Quantitative Skills | 52 | 30 | 34.6 | 9 |
+| Reading | 62 | 25 | 24.2 | 12 |
+| Mathematics | 64 | 45 | 42.2 | 7 |
+| Language | 60 | 25 | 25.0 | 12 |
+
+**Calculation:** average seconds per item = section minutes × 60 ÷ section questions. Burst target = round(section questions × 5 ÷ section minutes), using nearest-integer rounding. Whole questions make this an approximation; do not describe rounded bursts as mathematically identical to exam pace. Reading time includes reading the passages.
+
+**Verbal preset:** Use **60 questions in 18 minutes**, matching the supplied Barron’s sample and the 18-minute instructions in the [STS E-Score administration manual, printed page 12 / PDF page 14](https://adwcatholicschools.org/wp-content/uploads/_pda/2018/08/HSPT-EScore-User-Manual.pdf). The user has selected this single configuration for the app. Do not implement a second Verbal timing option or a profile picker.
+
+- Full-test total: **298 questions / 143 timed minutes (2h 23m)**. Breaks and instructions are additional.
+- Persist preset ID/version, actual question count, duration, section, and mode in new sessions. Preserve earlier preview sessions as previews with their original deadlines and counts.
+- Remove the unlimited/untimed option from all new-practice setup screens. Bursts default to a five-minute timer; full sections and full tests retain their configured exam deadlines. Hiding the timer never pauses it. Preserve legacy untimed session history, backups, and any already-started untimed session without converting or deleting them.
+
+### 12.2.1 UX simplifications
+
+- **Available-question labels:** On the section/question-bank selection screen, use “100 questions available” instead of “100 questions.” Derive the number from the installed eligible bank for that section; do not hard-code 100. Use singular wording for one question. This label describes the section’s available bank, not the size of the next burst or the number never seen; show cooldown-filtered availability separately in setup when it affects selection.
+- **Timed practice by default:** Remove the unlimited/untimed practice option, entry points, and mode selector for new practice. A burst starts with the five-minute timer by default. Full-section and full-test modes still use their correct section-specific limits; this simplification does not turn them into five-minute tests. Timer visibility can still be toggled without pausing the clock.
+- **H logo navigation:** The H logo and adjacent app-name link take the student to the Practice home screen. During an active burst, full section, or full test (including between-section breaks), clicking either aborts the active attempt before returning home. Use an accessible label that communicates “Abort test and return home” while a test is active; otherwise use “Home.”
+- **Explicit abort control:** Once a test starts, show a clearly visible “Abort test” button on every question and between-section break screen, with a comfortable touch target. It performs the same action as the H logo: end the attempt and return home without requiring submission. Aborting a full test discards the entire attempt from statistics, including any sections already completed within it.
+- **Aborted attempts do not count:** Persist a terminal aborted status and abort timestamp, stop its timers, release its active-session lock, and remove its Resume option. Do not submit, score, show a results screen, or reveal answer keys as part of aborting. Exclude the entire attempt from scores, accuracy, question/section completion totals, practice time, skill trends, streaks, and all progress statistics and their denominators. Do not treat unanswered items as incorrect or create a zero score. If retained in history, label it “Aborted” with no score and keep it separate from completed attempts.
+- **Persistence and interruption:** Persist abort consistently so another tab, delayed save, timer callback, reload, or backup restore cannot revive or count the attempt. Keep recorded question exposure separate from performance statistics to prevent immediate repeats; an aborted attempt does not earn completed-session cooldown credit. Refreshing, backgrounding Safari, or closing the browser without explicitly aborting retains the existing resume behavior and original deadlines. Apply the existing save-failure warning if the abort cannot be persisted.
+- **Compatibility:** Removal of new untimed practice does not invalidate older saved sessions or backups. Preserve their original behavior and labels as historical/legacy practice.
+
+### 12.3 Burst selection, full sections, and exam behavior
+
+**Five-minute bursts**
+- Use the targets above for every new burst, including skill-focused practice and results-page practice actions. Prefer unseen questions, then respect the existing cooldown; review explicitly permits earlier repeats.
+- Reading must preserve coherent passage groups and appropriate vocabulary items. Target 12 questions. Prefer an exact fit using complete groups plus vocabulary; if a coherent set cannot hit the target, offer the largest suitable set below it, disclose its count and that its pace differs, and require the shorter-set choice. Never cut a passage’s dependent questions arbitrarily merely to meet a count.
+- If eligible content is insufficient in any section, offer a clearly labeled shorter burst, explicit review, or another focus. Never silently repeat an item or extend the five-minute timer.
+
+**Full-section practice**
+- Assemble exactly 60 Verbal, 52 Quantitative, 62 Reading, 64 Mathematics, or 60 Language questions, using the section’s configured time limit. Selection must meet documented coverage and content eligibility, not only count.
+- Full sections use a representative mixed selection. Skill filtering belongs to burst practice. Use complete Reading groups, include required figures, and avoid duplicate IDs and near-identical variants where feasible.
+- If a full section cannot be assembled, explain what is missing. Offer explicit review when exposure limits are the issue; do not silently substitute a short preview for a full section.
+- Preserve answer-sheet navigation, flags, corrections, and question jumps across long lists. Record outcomes and review all errors and omissions without implying an official scaled score.
+
+**Full practice test**
+- Use Verbal → Quantitative → Reading → Mathematics → Language, with the same verified full-section presets. Persist the complete 298-question form and snapshots before starting; reserve it transactionally to prevent competing tabs from creating overlapping fresh sessions.
+- Start only the current section’s clock. Lock a submitted/expired section; unused time never transfers. Returning after expiry finalizes that section once and does not automatically start the next.
+- Between-section breaks remain an explicit practice setting, stored separately from timed work. Do not present a universal official break schedule. Display timed total and optional break duration separately.
+- Resume retains the current section, original deadline, completed parts, and break state. Account for clock expiry while Safari is backgrounded and reject late answers.
+- Reveal keys and explanations only after completing the exam. Intentional early exit uses the abort behavior in 12.2.1: no submission, no scored results, and no contribution from any part of that exam to progress statistics.
+- Completed results show per-section scores and total correct out of 298; history distinguishes bursts, full sections, full exams, legacy untimed work, and older preview sessions. Exclude breaks from reported test-working time.
+
+### 12.4 Gables and Barron’s source-bank imports
+
+**Source scope — all questions, not just calibration examples**
+
+| Source | Working reference | Expected raw inventory |
+|---|---|---:|
+| Gabel/Gables collection | `output/markdown/HSPT_ALL_SIX_PDFS.md` (use the identical synced `sources/` copy when available), including embedded scans and all three test/guide pairs | 894 questions (three 298-question tests), subject to inventory verification |
+| Barron’s Practice Test 1 | `output/HSPT Prep Barrons/HSPT Prep Barrons.md`, its embedded images, and supplied PDF as needed | 298 questions, numbered 1–298 |
+| Total new source inventory | Before duplicate resolution or review exclusions | 1,192 questions |
+
+Inventory every source question. The target is to make every eligible, reviewed item available in the bank. With the existing 500 items, the arithmetic upper bound is 1,692 items; this is not a promise of that many distinct accepted questions. Reconcile duplicates, missing material, and blocked items explicitly rather than inventing replacements or silently dropping them.
+
+Gables is a collection label, not necessarily the original publisher. Preserve the actual test/book identity for each of its three forms. Do not edit the synced source files. Store converted drafts, review evidence, and acceptance records outside `sources/`.
+
+**Use the existing Phase III framework:** Import the two Markdown collections into the current five section banks using the existing staging, item schema, review packets, acceptance records, immutable releases, and shared manifest/index. Extend that pipeline only where source formats or the simplified sample policy require it; do not create a parallel question-bank system, replace the existing banks, or introduce a database service. Both Markdown files contain embedded page images; use those images for transcription checks.
+
+**Sampling approves the full checked import:** The 20 questions per section are a human-review sample, not the number to import. After the user approves the five samples and correctness/consistency checks pass for every source question, add **all questions from both Markdown collections** to their respective section banks, including the unsampled questions. Sample approval applies to the full checked section import; individual human-review metadata applies only to sampled items. Resolve or correct failed items before accepting the full import. Any item that cannot be resolved must be explicitly reported as blocked, and duplicates linked to existing canonical questions rather than added twice. Do not silently limit publication to the 100 sampled questions or describe a partial import as complete.
+
+**Simplified source-import review workflow**
+1. **Inventory and provenance:** Record source file checksum, original publisher/test, section, source question number, page locator, passage/figure references, and source key. Record permitted use/distribution before including third-party content in a public GitHub/Vercel release; unresolved items can be staged and reviewed but remain outside that release. Possessing a Markdown transcription does not establish redistribution permission.
+2. **Transcribe against scans:** OCR is a starting point. Check every imported stem, choice, key, and essential formatting against the source images. Verify fractions, exponents, inequalities, underlining, passage line/paragraph references, diagram labels, and answer-key row alignment. Preserve intentional spelling/grammar mistakes in Language questions. Never use a whole page image containing answers as the student-facing question asset; extract only the required figure/passage content.
+3. **Normalize without losing source fidelity:** Map items to section-specific skills/formats, stable IDs/revisions, original question numbers, provisional difficulty, template/variant families, and versioned passage/asset references. Imported questions remain distinguishable from original authored items. Support actual source choice counts, including three-choice questions; update validation, answer-sheet rendering, scoring, and backups instead of inventing a fourth distractor.
+4. **Check every item:** Run structural validation, duplicate/near-duplicate comparisons against both sources and the live bank, independently recompute math answers, and verify source keys and explanations. For verbal/language/reading, check logical validity, conventions, ambiguity, and passage evidence. A published source key is evidence, not automatic proof of correctness. If a guide is missing, author and review an explanation; do not invent a source attribution.
+5. **Provide 20 calibration/review questions per section:** After checking every candidate item, give the user five reproducible review packets: Verbal, Quantitative, Reading, Mathematics, and Language, each containing exactly 20 questions (100 total for this combined source-import delivery). “Calibration” here means the user’s review sample, not another comparison against Gables. Follow the packet format and sampling principles in `QUESTION_BANK_CREATION_PROCESS.md`: questions first, separate answer key and explanations afterward, skill/difficulty/format coverage, risk-based selection, and no cherry-picking. Represent both Barron’s and Gables and, where available, all three Gables forms within each section’s sample. Include complete Reading passages and required figures. Include source locators, stable IDs, a revision-bound sample manifest, and approve/revise/reject fields with notes, reviewer, and date. If fewer than 20 eligible items exist in a section, show all and report the shortfall; never fabricate or duplicate items to fill the packet.
+6. **Repair and acceptance:** The user reviews these sample packets to approve the full checked source import for each section, not merely the 20 sampled questions. After sample approval and successful all-item checks, accept all checked questions in that section for integration, including unsampled items. Independently inspect all flagged items in addition to the normal sample, and surface unresolved issues separately. A wrong key, ambiguous wording, broken diagram, or unsupported inference blocks affected content; inspect the relevant family/source region and revalidate corrected revisions. Expand human review only when defects warrant it, rather than automatically multiplying packets by every 100 source questions. Bind decisions and evidence to content hashes; changed questions require fresh relevant checks and review. Record the scope of acceptance (burst/full-section). Unsampled items remain checked but not individually human-approved. Adapt the existing acceptance gate to this explicit source-import policy; never fabricate per-100 approvals to satisfy an older gate.
+7. **Reconcile and append:** Produce a report for all 1,192 expected source entries: accepted/imported, duplicate linked to a canonical item, or blocked with a reason. Preserve original source/test mappings after deduplication. After sample approval and all-item checks, every accepted new source question—sampled or unsampled—receives a unique stable ID and is added to its existing section bank alongside the current questions. The 20-question sample is never an import cap. For each section, report previous count, added unique count, duplicate count, blocked count, and resulting total. Re-importing the same source must not add duplicates. Preserve existing IDs, revisions, acceptance records, exposure, and historical snapshots.
+8. **Respect known prior exposure:** The project notes that the student has already completed the three Gables tests. Preserve that provenance and offer a clearly labeled source-review path; do not automatically describe imported Gables items as novel to this student. Allow the parent to mark source forms previously practiced without fabricating answer results or exact encounter dates. Normal question-ID exposure and cooldown tracking continues for app attempts.
+9. **Update the overall index and publish:** Build new immutable cumulative section bank/asset releases containing the existing questions plus accepted additions. Update the existing shared manifest/index with every section’s correct release reference, question count, schema/version, checksum, and required asset references; derive the overall total from the section counts. Validate index-to-bank counts, unique IDs, references, and checksums together. Publish through the existing GitHub → Vercel workflow. Question-only commits still trigger a website build/deployment. Validate all manifest targets and assets before production activation; browser updates are atomic and never replace an active test’s content. Keep source scans, raw transcriptions, and unresolved imports outside the public release unless explicitly appropriate and permitted.
+
+**Source-import exceptions to the creation process:** `QUESTION_BANK_CREATION_PROCESS.md` remains the framework for checks, sample presentation, decisions, and integration. For these two named Markdown collections only, use the simplified source-import track: import the existing source questions instead of authoring replacements; skip the full Gables difficulty/style calibration comparison for both collections (Gables would otherwise be calibrated against itself); and provide 20 user-review questions per section for the combined import, rather than 20 per 100 source items. Record that comparison as not applicable under this policy, not as a passed calibration. This exemption does not waive scan fidelity, independent answer/explanation checking, consistency, visual checks, duplicate detection, known-source-defect review, or the user’s sample review. Source items are intentionally recognizable imports and must retain provenance rather than being rejected merely for matching their own source. Newly authored questions retain the existing originality and full calibration requirements. Before implementation, document this source-import track in the writable creation-process document and align the existing validators and acceptance gate; synced references remain read-only.
+
+**Ongoing additions are cumulative:** All future question additions, including authored batches and further reviewed source imports, append to the appropriate existing section banks and update the same overall manifest/index. They do not replace a section with only the latest batch or reset the overall index. New releases are complete cumulative snapshots, even when only one section changes; unchanged sections retain valid existing references. Corrections and retirements are explicit separate operations under the existing revision rules, never a side effect of adding questions. Historical releases and active-session snapshots remain intact, and browser activation stays atomic.
+
+### 12.5 Implementation sequence and acceptance criteria
+
+**Milestone A — Presets and pacing:** Implement versioned section presets, rounded burst targets, setup labels, the UX simplifications in 12.2.1, and compatible session migration. Verify 17, 9, 12, 7, and 12-question burst targets and the Reading exception behavior.
+
+**Milestone B — Real-length modes:** Implement all five full sections and the 298-question exam using shared presets, independent section clocks, persisted transitions, abort handling, and long-list/passage navigation. Preserve old preview sessions unchanged.
+
+**Milestone C — Source imports:** Extend the content procedure/schema/validators, inventory all named source questions, transcribe and check them, provide the five 20-question user-review packets, record decisions under the simplified source-import policy, reconcile every item, and append only accepted eligible additions to the existing section banks with an updated overall index. Imports must not bypass the bank’s acceptance gate.
+
+**Milestone D — Verification and delivery:** Run automated configuration, selection, timing, scoring, migration, import, passage/asset, bank-update, and backup checks. Verify on actual iPad Safari, then package and release through the existing GitHub/Vercel destinations with version identifiers and rollback instructions.
+
+Phase IV acceptance requires:
+1. Setup and runtime agree on the actual count and deadline for every section/mode, including the single 18-minute Verbal preset. Burst limits remain five minutes; full sections use the table in 12.2.
+2. Completed full exams contain exactly 298 unique question IDs, with 143 timed minutes. Tests cover section-boundary locks, timeout after backgrounding, concurrent tabs, late answers, resume, breaks, and aborting.
+3. All source questions are accounted for in an import manifest; accepted items are selectable with correct provenance, choices, keys, explanations, and assets. Every blocked or duplicate item has an explicit disposition; remaining blockers are reported rather than calling the entire import complete. Deliver five reproducible 20-question review packets (100 total), with separate keys/explanations and recorded user decisions; all imported items receive correctness and consistency checks, with the Gables comparison explicitly exempted for this source-import track. After sample approval and all-item checks, verify that all accepted source questions, including unsampled questions, are present in the banks; importing only the 100 sample questions does not satisfy this requirement.
+4. Reading form assembly preserves complete passages and meaningful references. Math/visual questions render accurately; three-choice source items work without fabricated choices. New bank volume and imported-source exposure are reflected honestly in setup.
+5. Existing 500-item content, saved sessions, original deadlines, IDs/revisions, exposure, and backups survive the update. For additions, verify each resulting section bank contains its previous items plus accepted unique additions, the overall manifest/index matches every section and aggregate count, and repeating an import adds no duplicates. Offline use includes all needed passages and figures; a failed release download leaves the prior bank usable.
+6. Selection displays the actual “N questions available” label; no new untimed/unlimited entry point remains. The H logo returns home from every screen and aborts any active attempt. Verify both the logo and visible Abort test button during bursts, full sections, full exams, and breaks: no submission is required, no Resume remains, a new test can start, and all performance statistics remain unchanged (including previously completed sections of an aborted exam). Test competing tabs, delayed saves, timer callbacks, reload, and backup restore so an aborted attempt cannot be revived or counted. Verify ordinary browser interruption still preserves resume state and deadlines, with expiry finalized only once. Verify legacy untimed backups still import and their sessions remain readable.
+7. GitHub/Vercel release checks record the app version, bank release/checksums, production URL, successful smoke test, and rollback path. Completion claims distinguish local automated tests, actual-device checks, content review, and production verification.
+
+## 13. Implementation handoff
+
+Use this working PRD and the current app 0.3.0 as the baseline. **Implement Phase IV next when build work is requested**, following section 12; do not restart Phase III or assume its earlier full-length requirements are already implemented. First inspect the actual banks, runtime selection/timers, source Markdown/images, and review process. Preserve existing content and student history. Implement shared timing/count presets, correct bursts and full-length tests, then the reviewed Gables/Barron’s import workflow. Do not claim unchecked imports are accepted, deploy unresolved content, or add accounts/AI generation in this phase. Final Phase V retains student email-passcode accounts and cross-device history. Updating this PRD alone does not authorize an immediate deployment.

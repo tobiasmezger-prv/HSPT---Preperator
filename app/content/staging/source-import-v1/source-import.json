@@ -1,0 +1,19 @@
+{
+  "policy": "source-import-20-per-section-v1",
+  "inventorySha256": "1ed85d45506668f0ad3c1f0fdd11dda6125013925ed2bcc10babdaa21623a206",
+  "distribution": {
+    "status": "permitted",
+    "basis": "Owner supplied these sources and explicitly requested incorporation into the existing personal Phase IV app build on 2026-09-29. This records user authorization for this build, not an assertion of a third-party public redistribution license."
+  },
+  "sources": [
+    {
+      "path": "output/markdown/HSPT_ALL_SIX_PDFS.md",
+      "sha256": "fc8aaa4684fc2538ba3c7005397b48766417d6537567b3c205fb39aa49a358fe"
+    },
+    {
+      "path": "output/HSPT Prep Barrons/HSPT Prep Barrons.md",
+      "sha256": "17f61210f7f8b96b3694f35e391ba402ba16ab6e3dc7d4f700aee9061881fdb8"
+    }
+  ],
+  "priorGablesAuditHashMatches": true
+}

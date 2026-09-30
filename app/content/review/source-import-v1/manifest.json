@@ -1,0 +1,509 @@
+{
+  "policy": "source-import-20-per-section-v1",
+  "bankSha256": "7691f3658f9c18120b552defa5ad0358e58a0f08117702685e5901cf41da8774",
+  "checksSha256": "60ab33145134746417320522bc6c6239816ddb33eaa2b7e7a0471c4fa6a430fa",
+  "policySha256": "fca58c0d7c4d2ce7fefa71ce26933a45f46609e20dba0ac77cf74c9dec886ab1",
+  "sample": [
+    {
+      "id": "gables-1-004",
+      "section": "verbal",
+      "sourceForm": "gables-1"
+    },
+    {
+      "id": "gables-1-005",
+      "section": "verbal",
+      "sourceForm": "gables-1"
+    },
+    {
+      "id": "gables-1-019",
+      "section": "verbal",
+      "sourceForm": "gables-1"
+    },
+    {
+      "id": "gables-1-028",
+      "section": "verbal",
+      "sourceForm": "gables-1"
+    },
+    {
+      "id": "gables-1-036",
+      "section": "verbal",
+      "sourceForm": "gables-1"
+    },
+    {
+      "id": "gables-1-061",
+      "section": "quantitative",
+      "sourceForm": "gables-1"
+    },
+    {
+      "id": "gables-1-064",
+      "section": "quantitative",
+      "sourceForm": "gables-1"
+    },
+    {
+      "id": "gables-1-070",
+      "section": "quantitative",
+      "sourceForm": "gables-1"
+    },
+    {
+      "id": "gables-1-080",
+      "section": "quantitative",
+      "sourceForm": "gables-1"
+    },
+    {
+      "id": "gables-1-087",
+      "section": "quantitative",
+      "sourceForm": "gables-1"
+    },
+    {
+      "id": "gables-1-113",
+      "section": "reading",
+      "sourceForm": "gables-1"
+    },
+    {
+      "id": "gables-1-115",
+      "section": "reading",
+      "sourceForm": "gables-1"
+    },
+    {
+      "id": "gables-1-116",
+      "section": "reading",
+      "sourceForm": "gables-1"
+    },
+    {
+      "id": "gables-1-153",
+      "section": "reading",
+      "sourceForm": "gables-1"
+    },
+    {
+      "id": "gables-1-168",
+      "section": "reading",
+      "sourceForm": "gables-1"
+    },
+    {
+      "id": "gables-1-180",
+      "section": "mathematics",
+      "sourceForm": "gables-1"
+    },
+    {
+      "id": "gables-1-190",
+      "section": "mathematics",
+      "sourceForm": "gables-1"
+    },
+    {
+      "id": "gables-1-201",
+      "section": "mathematics",
+      "sourceForm": "gables-1"
+    },
+    {
+      "id": "gables-1-218",
+      "section": "mathematics",
+      "sourceForm": "gables-1"
+    },
+    {
+      "id": "gables-1-231",
+      "section": "mathematics",
+      "sourceForm": "gables-1"
+    },
+    {
+      "id": "gables-1-239",
+      "section": "language",
+      "sourceForm": "gables-1"
+    },
+    {
+      "id": "gables-1-250",
+      "section": "language",
+      "sourceForm": "gables-1"
+    },
+    {
+      "id": "gables-1-270",
+      "section": "language",
+      "sourceForm": "gables-1"
+    },
+    {
+      "id": "gables-1-283",
+      "section": "language",
+      "sourceForm": "gables-1"
+    },
+    {
+      "id": "gables-1-294",
+      "section": "language",
+      "sourceForm": "gables-1"
+    },
+    {
+      "id": "gables-2-006",
+      "section": "verbal",
+      "sourceForm": "gables-2"
+    },
+    {
+      "id": "gables-2-011",
+      "section": "verbal",
+      "sourceForm": "gables-2"
+    },
+    {
+      "id": "gables-2-015",
+      "section": "verbal",
+      "sourceForm": "gables-2"
+    },
+    {
+      "id": "gables-2-020",
+      "section": "verbal",
+      "sourceForm": "gables-2"
+    },
+    {
+      "id": "gables-2-024",
+      "section": "verbal",
+      "sourceForm": "gables-2"
+    },
+    {
+      "id": "gables-2-061",
+      "section": "quantitative",
+      "sourceForm": "gables-2"
+    },
+    {
+      "id": "gables-2-064",
+      "section": "quantitative",
+      "sourceForm": "gables-2"
+    },
+    {
+      "id": "gables-2-069",
+      "section": "quantitative",
+      "sourceForm": "gables-2"
+    },
+    {
+      "id": "gables-2-075",
+      "section": "quantitative",
+      "sourceForm": "gables-2"
+    },
+    {
+      "id": "gables-2-081",
+      "section": "quantitative",
+      "sourceForm": "gables-2"
+    },
+    {
+      "id": "gables-2-133",
+      "section": "reading",
+      "sourceForm": "gables-2"
+    },
+    {
+      "id": "gables-2-135",
+      "section": "reading",
+      "sourceForm": "gables-2"
+    },
+    {
+      "id": "gables-2-136",
+      "section": "reading",
+      "sourceForm": "gables-2"
+    },
+    {
+      "id": "gables-2-153",
+      "section": "reading",
+      "sourceForm": "gables-2"
+    },
+    {
+      "id": "gables-2-162",
+      "section": "reading",
+      "sourceForm": "gables-2"
+    },
+    {
+      "id": "gables-2-176",
+      "section": "mathematics",
+      "sourceForm": "gables-2"
+    },
+    {
+      "id": "gables-2-177",
+      "section": "mathematics",
+      "sourceForm": "gables-2"
+    },
+    {
+      "id": "gables-2-178",
+      "section": "mathematics",
+      "sourceForm": "gables-2"
+    },
+    {
+      "id": "gables-2-220",
+      "section": "mathematics",
+      "sourceForm": "gables-2"
+    },
+    {
+      "id": "gables-2-222",
+      "section": "mathematics",
+      "sourceForm": "gables-2"
+    },
+    {
+      "id": "gables-2-263",
+      "section": "language",
+      "sourceForm": "gables-2"
+    },
+    {
+      "id": "gables-2-265",
+      "section": "language",
+      "sourceForm": "gables-2"
+    },
+    {
+      "id": "gables-2-268",
+      "section": "language",
+      "sourceForm": "gables-2"
+    },
+    {
+      "id": "gables-2-281",
+      "section": "language",
+      "sourceForm": "gables-2"
+    },
+    {
+      "id": "gables-2-298",
+      "section": "language",
+      "sourceForm": "gables-2"
+    },
+    {
+      "id": "gables-3-004",
+      "section": "verbal",
+      "sourceForm": "gables-3"
+    },
+    {
+      "id": "gables-3-005",
+      "section": "verbal",
+      "sourceForm": "gables-3"
+    },
+    {
+      "id": "gables-3-019",
+      "section": "verbal",
+      "sourceForm": "gables-3"
+    },
+    {
+      "id": "gables-3-028",
+      "section": "verbal",
+      "sourceForm": "gables-3"
+    },
+    {
+      "id": "gables-3-036",
+      "section": "verbal",
+      "sourceForm": "gables-3"
+    },
+    {
+      "id": "gables-3-061",
+      "section": "quantitative",
+      "sourceForm": "gables-3"
+    },
+    {
+      "id": "gables-3-064",
+      "section": "quantitative",
+      "sourceForm": "gables-3"
+    },
+    {
+      "id": "gables-3-070",
+      "section": "quantitative",
+      "sourceForm": "gables-3"
+    },
+    {
+      "id": "gables-3-080",
+      "section": "quantitative",
+      "sourceForm": "gables-3"
+    },
+    {
+      "id": "gables-3-087",
+      "section": "quantitative",
+      "sourceForm": "gables-3"
+    },
+    {
+      "id": "gables-3-123",
+      "section": "reading",
+      "sourceForm": "gables-3"
+    },
+    {
+      "id": "gables-3-125",
+      "section": "reading",
+      "sourceForm": "gables-3"
+    },
+    {
+      "id": "gables-3-127",
+      "section": "reading",
+      "sourceForm": "gables-3"
+    },
+    {
+      "id": "gables-3-153",
+      "section": "reading",
+      "sourceForm": "gables-3"
+    },
+    {
+      "id": "gables-3-168",
+      "section": "reading",
+      "sourceForm": "gables-3"
+    },
+    {
+      "id": "gables-3-180",
+      "section": "mathematics",
+      "sourceForm": "gables-3"
+    },
+    {
+      "id": "gables-3-190",
+      "section": "mathematics",
+      "sourceForm": "gables-3"
+    },
+    {
+      "id": "gables-3-201",
+      "section": "mathematics",
+      "sourceForm": "gables-3"
+    },
+    {
+      "id": "gables-3-218",
+      "section": "mathematics",
+      "sourceForm": "gables-3"
+    },
+    {
+      "id": "gables-3-231",
+      "section": "mathematics",
+      "sourceForm": "gables-3"
+    },
+    {
+      "id": "gables-3-239",
+      "section": "language",
+      "sourceForm": "gables-3"
+    },
+    {
+      "id": "gables-3-250",
+      "section": "language",
+      "sourceForm": "gables-3"
+    },
+    {
+      "id": "gables-3-270",
+      "section": "language",
+      "sourceForm": "gables-3"
+    },
+    {
+      "id": "gables-3-283",
+      "section": "language",
+      "sourceForm": "gables-3"
+    },
+    {
+      "id": "gables-3-294",
+      "section": "language",
+      "sourceForm": "gables-3"
+    },
+    {
+      "id": "barrons-1-009",
+      "section": "verbal",
+      "sourceForm": "barrons-1"
+    },
+    {
+      "id": "barrons-1-019",
+      "section": "verbal",
+      "sourceForm": "barrons-1"
+    },
+    {
+      "id": "barrons-1-031",
+      "section": "verbal",
+      "sourceForm": "barrons-1"
+    },
+    {
+      "id": "barrons-1-044",
+      "section": "verbal",
+      "sourceForm": "barrons-1"
+    },
+    {
+      "id": "barrons-1-051",
+      "section": "verbal",
+      "sourceForm": "barrons-1"
+    },
+    {
+      "id": "barrons-1-068",
+      "section": "quantitative",
+      "sourceForm": "barrons-1"
+    },
+    {
+      "id": "barrons-1-074",
+      "section": "quantitative",
+      "sourceForm": "barrons-1"
+    },
+    {
+      "id": "barrons-1-083",
+      "section": "quantitative",
+      "sourceForm": "barrons-1"
+    },
+    {
+      "id": "barrons-1-100",
+      "section": "quantitative",
+      "sourceForm": "barrons-1"
+    },
+    {
+      "id": "barrons-1-106",
+      "section": "quantitative",
+      "sourceForm": "barrons-1"
+    },
+    {
+      "id": "barrons-1-133",
+      "section": "reading",
+      "sourceForm": "barrons-1"
+    },
+    {
+      "id": "barrons-1-135",
+      "section": "reading",
+      "sourceForm": "barrons-1"
+    },
+    {
+      "id": "barrons-1-139",
+      "section": "reading",
+      "sourceForm": "barrons-1"
+    },
+    {
+      "id": "barrons-1-166",
+      "section": "reading",
+      "sourceForm": "barrons-1"
+    },
+    {
+      "id": "barrons-1-173",
+      "section": "reading",
+      "sourceForm": "barrons-1"
+    },
+    {
+      "id": "barrons-1-178",
+      "section": "mathematics",
+      "sourceForm": "barrons-1"
+    },
+    {
+      "id": "barrons-1-184",
+      "section": "mathematics",
+      "sourceForm": "barrons-1"
+    },
+    {
+      "id": "barrons-1-193",
+      "section": "mathematics",
+      "sourceForm": "barrons-1"
+    },
+    {
+      "id": "barrons-1-218",
+      "section": "mathematics",
+      "sourceForm": "barrons-1"
+    },
+    {
+      "id": "barrons-1-237",
+      "section": "mathematics",
+      "sourceForm": "barrons-1"
+    },
+    {
+      "id": "barrons-1-247",
+      "section": "language",
+      "sourceForm": "barrons-1"
+    },
+    {
+      "id": "barrons-1-254",
+      "section": "language",
+      "sourceForm": "barrons-1"
+    },
+    {
+      "id": "barrons-1-277",
+      "section": "language",
+      "sourceForm": "barrons-1"
+    },
+    {
+      "id": "barrons-1-282",
+      "section": "language",
+      "sourceForm": "barrons-1"
+    },
+    {
+      "id": "barrons-1-297",
+      "section": "language",
+      "sourceForm": "barrons-1"
+    }
+  ],
+  "sampleSelection": "Same 20 per section already reviewed and approved by the owner; no new random sample."
+}

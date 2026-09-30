@@ -1,8 +1,8 @@
 # HSPT Practice
 
-An iPad-first, paper-style practice app covering all five HSPT sections. Version **0.3.0** includes **500 original questions: 100 per section**, answer explanations, original diagrams, and shared Reading passages. Each bank has a human-reviewed 20-question sample; unsampled questions are not individually human-approved.
+An iPad-first, paper-style practice app covering all five HSPT sections. Version **0.4.0 (Phase IV)** includes **1,691 questions**: the original 500 plus 1,191 reviewed Barron’s/Gables additions, with explanations, recreated vector diagrams, and shared Reading passages. The approved 20-question samples per section represent the imported batch; unsampled questions are not individually human-approved.
 
-Phase III content is integrated into the existing practice experience. Five-minute bursts, 10-question section previews, and a 50-question five-section preview are available. Full-length section presets and the 298-question exam remain planned work; this version is not the completed Phase III exam simulator.
+Five-minute bursts use section-specific question counts. Full sections use the correct counts and timers, including 60 Verbal questions in 18 minutes. The full test has 298 questions and 143 timed minutes. The H logo and Abort test button end a test without counting it in completed-test statistics.
 
 Question-bank updates are versioned. Progress, answer snapshots, backups, and repeat cooldowns stay on the device; no account or backend is required.
 
@@ -36,7 +36,8 @@ A push to a repository connected to Vercel may trigger deployment. Use a branch/
 - [Publishing, preview, and rollback](app/CONTENT_PUBLISHING.md)
 - [Question creation and calibration process](QUESTION_BANK_CREATION_PROCESS.md)
 - [Import and acceptance process](app/content/QUESTION_IMPORT_PROCESS.md)
-- [Current Phase III status](app/PHASE_III_PREVIEW.md)
+- [Current Phase IV status](app/PHASE_IV_STATUS.md)
+- [Question bank index and section counts](app/content/QUESTION_BANK_INDEX.md)
 - [Next-version upload instructions](GITHUB_UPLOAD.md)
 - [Release notes](RELEASE_NOTES.md)
 - [Additional-bank approval](app/content/review/additional-v3/decisions.json)

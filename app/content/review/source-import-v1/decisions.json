@@ -1,0 +1,511 @@
+{
+  "bankSha256": "7691f3658f9c18120b552defa5ad0358e58a0f08117702685e5901cf41da8774",
+  "manifestSha256": "9d2ab68ba80648a93469b64baf92e8963b2dce646fc00099898e822358ca7cae",
+  "reviewer": "Project owner — explicit chat approval",
+  "date": "2026-09-29",
+  "approvalStatement": "Approved on all the manual review items. Can you fix the 211 questions that have flagged issues?",
+  "releaseAuthorization": "Great, can you add the updated questions to my existing question banks and questions index and add everything to my phase IV build?",
+  "scope": "Approval of the prior samples plus explicit authorization to integrate the corrected full batch; later normalization edits are logged, not falsely represented as separately read by the user.",
+  "items": [
+    {
+      "id": "gables-1-004",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-1-005",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-1-019",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-1-028",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-1-036",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-1-061",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-1-064",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-1-070",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-1-080",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-1-087",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-1-113",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-1-115",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-1-116",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-1-153",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-1-168",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-1-180",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-1-190",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-1-201",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-1-218",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-1-231",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-1-239",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-1-250",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-1-270",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-1-283",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-1-294",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-2-006",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-2-011",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-2-015",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-2-020",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-2-024",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-2-061",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-2-064",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-2-069",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-2-075",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-2-081",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-2-133",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-2-135",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-2-136",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-2-153",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-2-162",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-2-176",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-2-177",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-2-178",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-2-220",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-2-222",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-2-263",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-2-265",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-2-268",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-2-281",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-2-298",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-3-004",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-3-005",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-3-019",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-3-028",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-3-036",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-3-061",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-3-064",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-3-070",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-3-080",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-3-087",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-3-123",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-3-125",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-3-127",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-3-153",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-3-168",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-3-180",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-3-190",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-3-201",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-3-218",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-3-231",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-3-239",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-3-250",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-3-270",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-3-283",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "gables-3-294",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "barrons-1-009",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "barrons-1-019",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "barrons-1-031",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "barrons-1-044",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "barrons-1-051",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "barrons-1-068",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "barrons-1-074",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "barrons-1-083",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "barrons-1-100",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "barrons-1-106",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "barrons-1-133",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "barrons-1-135",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "barrons-1-139",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "barrons-1-166",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "barrons-1-173",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "barrons-1-178",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "barrons-1-184",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "barrons-1-193",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "barrons-1-218",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "barrons-1-237",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "barrons-1-247",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "barrons-1-254",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "barrons-1-277",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "barrons-1-282",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    },
+    {
+      "id": "barrons-1-297",
+      "decision": "approve",
+      "notes": "Owner-approved sample; authorized corrected-batch incorporation into Phase IV."
+    }
+  ]
+}

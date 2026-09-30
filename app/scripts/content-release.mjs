@@ -2,6 +2,7 @@
 // Owner-only file workflow. No credentials, publishing API, or child data.
 import fs from 'node:fs';import path from 'node:path';import crypto from 'node:crypto';import {fileURLToPath} from 'node:url';
 import {validateBank,validateManifest} from '../src/domain/contentSchema.mjs';
+import {acceptedSource} from './accepted-source.mjs';
 import {acceptedAdditional} from './accepted-additional.mjs';
 const ROOT=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const hash=s=>crypto.createHash('sha256').update(s).digest('hex');const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));const digest=p=>hash(fs.readFileSync(p));const fail=s=>{throw new Error(s);};
@@ -9,6 +10,7 @@ const publicDir=path.join(ROOT,'public');const content=path.join(publicDir,'cont
 function target(url){if(!/^\/content\/banks\/[\w-]+\.json$/.test(url))fail('Unsafe manifest target');return path.join(publicDir,url);}
 export function validateRelease(m){validateManifest(m);const p=target(m.bankUrl);if(!fs.existsSync(p))fail('Manifest bank is missing');if(digest(p)!==m.checksum)fail('Checksum mismatch');const b=read(p);validateBank(b,m);return b;}
 function accepted(batchDir,reviewDir){
+ if(fs.existsSync(path.join(batchDir,'source-import.json')))return acceptedSource(batchDir,reviewDir,ROOT);
  if(fs.existsSync(path.join(batchDir,'reading-passages.json'))&&fs.existsSync(path.join(batchDir,'manifest.json')))return acceptedAdditional(batchDir,reviewDir,ROOT);
  const bankPath=path.join(batchDir,'bank.json'),sha=digest(bankPath),bank=read(bankPath);if(!Array.isArray(bank)||bank.length%100!==0||!bank.length)fail('Accepted batches must contain complete hundreds');
  const math=read(path.join(batchDir,'validation.json')),audit=read(path.join(batchDir,'item-audit.json')),editorial=read(path.join(batchDir,'editorial-review.json')),visual=read(path.join(batchDir,'visual-review.json')),overlap=read(path.join(batchDir,'overlap-log.json')),manifest=read(path.join(reviewDir,'manifest.json')),decisions=read(path.join(reviewDir,'decisions.json'));
@@ -24,7 +26,7 @@ function accepted(batchDir,reviewDir){
  return {bank,sha,reviewed:new Set(ids),evidence:{batchDir:path.relative(ROOT,batchDir),reviewDir:path.relative(ROOT,reviewDir),bankSha256:sha,decisionsSha256:digest(path.join(reviewDir,'decisions.json'))}};
 }
 function convert(q,batch,dir,revision){return {...q,revision,skill:q.format==='geometric_comparison'?'geometric_comparison':q.skill,reviewStatus:'sample_reviewed',acceptance:{batchId:path.basename(dir),batchStatus:'sample_reviewed',individualStatus:batch.reviewed.has(q.id)?'approved':'not_individually_reviewed'},diagram:q.visual?{svg:fs.readFileSync(path.join(dir,'assets',q.id+'.svg'),'utf8'),alt:q.visual.alt}:q.diagram};}
-function contentKey(q){return JSON.stringify([q.section,q.skill,q.format,q.difficulty,q.stem,q.choices,q.guide,q.templateFamily,q.variantGroupId??null,q.diagram??null,q.passage??null]);}
+function contentKey(q){return JSON.stringify([q.section,q.skill,q.format,q.difficulty,q.stem,q.choices,q.guide,q.templateFamily,q.variantGroupId??null,q.diagram??null,q.image??null,q.passage??null]);}
 function immutable(file,text){if(fs.existsSync(file)&&fs.readFileSync(file,'utf8')!==text)fail('Immutable file already exists with different content: '+file);fs.mkdirSync(path.dirname(file),{recursive:true});if(!fs.existsSync(file))fs.writeFileSync(file,text);}
 function proposal(id){if(!/^[\w-]+$/.test(id??''))fail('Supply --release with a safe release ID');return path.join(records,id+'.manifest.json');}
 function authorize(m){const record=read(path.join(records,m.releaseId+'.receipt.json'));if(record.bankChecksum!==m.checksum)fail('Release receipt mismatch');for(const e of record.acceptedBatches){const a=accepted(path.join(ROOT,e.batchDir),path.join(ROOT,e.reviewDir));if(a.sha!==e.bankSha256||digest(path.join(ROOT,e.reviewDir,'decisions.json'))!==e.decisionsSha256)fail('Accepted source changed');}if(!record.acceptedBatches.length)fail('No accepted batch evidence');return record;}
@@ -37,7 +39,7 @@ try{
   for(const q of batch.bank){const old=map.get(q.id);let next=convert(q,batch,dir,q.revision??1);if(retire.has(q.id))continue;if(old){if(contentKey(next)===contentKey(old))continue;if(!revisions.has(q.id)||q.revision!==old.revision+1)fail(`Collision ${q.id}: explicit --revise and revision ${old.revision+1} required`);revised++;}else{if(next.revision!==1)fail('New IDs start at revision 1');added++;}map.set(q.id,next);}
   for(const id of revisions)if(!prior.questions.some(q=>q.id===id)||!batch.bank.some(q=>q.id===id))fail('Unknown revision ID '+id);
   for(const id of retire)if(!map.delete(id))fail('Unknown retirement '+id);
-  const bank={schemaVersion:1,releaseId:id,questions:[...map.values()]};const text=JSON.stringify(bank,null,2)+'\n';const manifest={schemaVersion:1,releaseId:id,publishedAt:new Date().toISOString(),bankUrl:`/content/banks/${id}.json`,questionCount:bank.questions.length,checksum:hash(text)};validateBank(bank,manifest);
+  const bank={schemaVersion:1,releaseId:id,questions:[...map.values()]};const text=JSON.stringify(bank,null,2)+'\n';const manifest={schemaVersion:1,releaseId:id,publishedAt:new Date().toISOString(),bankUrl:`/content/banks/${id}.json`,questionCount:bank.questions.length,sectionCounts:Object.fromEntries(['verbal','quantitative','reading','mathematics','language'].map(section=>[section,bank.questions.filter(q=>(q.section??'quantitative')===section).length])),checksum:hash(text)};validateBank(bank,manifest);
   // Refuse duplicate immutable names before writing anything.
   if(fs.existsSync(out)||fs.existsSync(target(manifest.bankUrl)))fail('Release ID already used. Choose a new immutable ID.');
   const sources=[...(previous?.acceptedBatches??[]),batch.evidence];const receipt={releaseId:id,bankChecksum:manifest.checksum,acceptedBatches:[...new Map(sources.map(e=>[e.bankSha256,e])).values()],changes:{added,revised,retired:retire.size,total:bank.questions.length}};

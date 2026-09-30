@@ -11,3 +11,10 @@
 @media(max-width:760px){.practice-modes,.section-grid{grid-template-columns:1fr}.quick-practice{flex-direction:column}.brand{flex-wrap:wrap;gap:12px}.main-nav{width:100%}.mode-card{padding:22px}.section-order span{float:none;display:block}}
 
 .paragraph-number{color:#64746e;font-size:.85em;font-weight:600}
+
+/* Match the headline typography; preserve the approved graffiti artwork. */
+.brand-wordmark{display:flex;align-items:center;gap:8px;width:320px;max-width:100%}
+.brand-hspt{font-family:Georgia,'Times New Roman',serif;font-size:36px;font-weight:400;letter-spacing:-.035em;line-height:1.13;color:#234d46;flex:none}
+.brand-preparator{display:block;flex:1;min-width:0;aspect-ratio:4.3;background:#253731;mask-size:165.289% auto;mask-position:right center;mask-repeat:no-repeat;-webkit-mask-size:165.289% auto;-webkit-mask-position:right center;-webkit-mask-repeat:no-repeat}
+.brand>a{max-width:100%;min-height:44px}
+@media(max-width:720px){.brand-wordmark{width:280px}.brand-hspt{font-size:32px}}

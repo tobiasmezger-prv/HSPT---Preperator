@@ -1,0 +1,23 @@
+{
+  "release": "all-sections-v0003",
+  "localDate": "2026-09-29",
+  "automatedTests": {
+    "passed": 68,
+    "files": 14
+  },
+  "releaseValidation": "passed",
+  "typescript": "passed",
+  "productionBuild": "passed",
+  "pwaGeneration": "passed",
+  "questionCount": 1691,
+  "originalQuestionsPreserved": 500,
+  "sourceQuestionsAdded": 1191,
+  "sourcePositionsReconciled": 1192,
+  "duplicatePositionsConsolidated": 1,
+  "sourceSvgFigures": 57,
+  "sourcePassages": 18,
+  "browserVisualCheck": "blocked: browser security-policy verification unavailable",
+  "physicalIPadSafari": "not performed",
+  "githubPush": "not performed",
+  "vercelDeployment": "not performed"
+}

@@ -1,0 +1,19 @@
+{
+  "sourcePositions": 1192,
+  "included": 1191,
+  "duplicates": {
+    "gables-3-083": "gables-2-066"
+  },
+  "blocked": 0,
+  "sectionAdditions": {
+    "verbal": 240,
+    "quantitative": 207,
+    "reading": 248,
+    "mathematics": 256,
+    "language": 240
+  },
+  "bankSha256": "7691f3658f9c18120b552defa5ad0358e58a0f08117702685e5901cf41da8774",
+  "guideExplanationsImported": 454,
+  "integrationEdits": 267,
+  "sampleCount": 100
+}

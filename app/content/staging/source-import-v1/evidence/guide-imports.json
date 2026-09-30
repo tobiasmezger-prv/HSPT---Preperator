@@ -1,0 +1,3180 @@
+[
+  {
+    "id": "gables-1-002",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 1,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-003",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 1,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-006",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 1,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-007",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 1,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-008",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 1,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-009",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 1,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-010",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 1,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-011",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 1,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-012",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 1,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-013",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 2,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-014",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 2,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-015",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 2,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-016",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 2,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-017",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 2,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-018",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 2,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-020",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 2,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-021",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 2,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-022",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 2,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-023",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 2,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-024",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 2,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-025",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 2,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-026",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 2,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-027",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 2,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-030",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 3,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-031",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 3,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-032",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 3,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-033",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 3,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-034",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 3,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-035",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 3,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-037",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 3,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-038",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 3,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-039",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 3,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-040",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 3,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-041",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 3,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-042",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 3,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-043",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 3,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-044",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 3,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-045",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 3,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-046",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 3,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-047",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 4,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-048",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 4,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-049",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 4,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-050",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 4,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-051",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 4,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-052",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 4,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-053",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 4,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-054",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 4,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-055",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 4,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-056",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 4,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-057",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 4,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-059",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 4,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-060",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 4,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-063",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 5,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-065",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 5,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-066",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 5,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-067",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 5,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-068",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 5,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-069",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 5,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-072",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 6,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-073",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 6,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-074",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 6,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-075",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 6,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-077",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 6,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-078",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 6,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-079",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 6,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-081",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 6,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-082",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 6,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-084",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 6,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-085",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 6,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-086",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 6,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-090",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 7,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-092",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 7,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-095",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 7,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-096",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 7,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-098",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 7,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-100",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 7,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-103",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 7,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-106",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 8,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-107",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 8,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-108",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 8,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-109",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 8,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-110",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 8,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-111",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 8,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-112",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 8,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-114",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 8,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-117",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 8,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-118",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 9,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-119",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 9,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-121",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 9,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-122",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 9,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-123",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 9,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-124",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 9,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-125",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 9,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-126",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 9,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-127",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 9,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-128",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 9,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-129",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 9,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-130",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 9,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-131",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 9,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-132",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 9,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-133",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 9,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-134",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 9,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-135",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 10,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-136",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 10,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-137",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 10,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-138",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 10,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-139",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 10,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-140",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 10,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-141",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 10,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-142",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 10,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-143",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 10,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-144",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 10,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-145",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 10,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-146",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 10,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-147",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 10,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-148",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 10,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-149",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 10,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-150",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 11,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-151",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 11,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-152",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 11,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-154",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 11,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-155",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 11,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-156",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 11,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-157",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 11,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-158",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 11,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-159",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 11,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-160",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 11,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-161",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 11,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-162",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 11,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-163",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 11,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-164",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 11,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-165",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 11,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-166",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 11,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-167",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 11,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-169",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 12,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-170",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 12,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-171",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 12,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-172",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 12,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-173",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 12,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-174",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 12,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-175",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 12,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-176",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 12,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-177",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 12,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-178",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 12,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-179",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 12,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-181",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 12,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-182",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 12,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-185",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 13,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-186",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 13,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-187",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 13,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-188",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 13,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-191",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 13,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-192",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 13,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-193",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 13,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-194",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 13,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-195",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 13,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-198",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 13,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-199",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 13,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-200",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 13,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-203",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 13,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-204",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 14,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-205",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 14,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-206",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 14,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-208",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 14,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-209",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 14,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-210",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 14,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-212",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 14,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-213",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 14,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-214",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 14,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-216",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 14,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-219",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 14,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-220",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 14,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-221",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 14,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-222",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 14,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-223",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 14,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-225",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 14,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-226",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 15,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-227",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 15,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-229",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 15,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-232",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 15,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-233",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 15,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-234",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 15,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-236",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 15,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-237",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 15,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-241",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 15,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-242",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 15,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-243",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 16,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-244",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 16,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-245",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 16,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-246",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 16,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-247",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 16,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-248",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 16,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-249",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 16,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-251",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 16,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-252",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 16,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-253",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 16,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-254",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 16,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-255",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 16,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-256",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 16,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-257",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 16,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-259",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 16,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-260",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 16,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-261",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 16,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-262",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 16,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-263",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 16,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-264",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 16,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-265",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 16,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-266",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 16,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-267",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 16,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-268",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 16,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-269",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 17,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-272",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 17,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-273",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 17,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-274",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 17,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-275",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 17,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-277",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 17,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-279",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 17,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-280",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 17,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-281",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 17,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-282",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 17,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-284",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 17,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-285",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 17,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-286",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 17,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-288",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 17,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-289",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 17,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-290",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 17,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-291",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 17,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-292",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 17,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-293",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 17,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-295",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 18,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-296",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 18,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-297",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 18,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-1-298",
+    "sourceForm": "gables-1",
+    "answerGuidePage": 18,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-001",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 1,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-002",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 1,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-003",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 1,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-006",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 1,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-007",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 1,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-008",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 1,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-009",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 1,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-010",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 1,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-011",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 1,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-012",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 1,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-013",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 2,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-014",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 2,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-015",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 2,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-016",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 2,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-017",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 2,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-018",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 2,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-020",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 2,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-021",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 2,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-023",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 2,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-024",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 2,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-025",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 2,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-026",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 2,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-027",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 2,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-029",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 3,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-030",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 3,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-031",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 3,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-032",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 3,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-033",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 3,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-034",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 3,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-035",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 3,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-037",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 3,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-038",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 3,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-039",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 3,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-040",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 3,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-041",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 3,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-042",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 3,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-043",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 3,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-044",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 4,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-045",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 4,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-046",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 4,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-047",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 4,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-048",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 4,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-049",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 4,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-050",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 4,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-051",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 4,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-052",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 4,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-053",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 4,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-054",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 4,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-055",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 4,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-056",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 4,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-057",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 4,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-058",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 5,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-059",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 5,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-060",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 5,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-062",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 5,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-063",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 5,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-065",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 5,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-066",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 5,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-067",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 5,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-069",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 5,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-071",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 5,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-072",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 5,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-073",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 5,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-074",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 6,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-075",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 6,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-076",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 6,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-077",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 6,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-078",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 6,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-079",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 6,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-081",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 6,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-082",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 6,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-084",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 6,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-085",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 6,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-086",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 6,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-090",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 6,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-092",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 6,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-093",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 7,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-094",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 7,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-095",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 7,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-096",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 7,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-097",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 7,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-098",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 7,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-099",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 7,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-100",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 7,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-104",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 7,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-105",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 7,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-106",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 7,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-107",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 7,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-109",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 7,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-110",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 7,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-112",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 8,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-113",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 8,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-114",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 8,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-115",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 8,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-116",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 8,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-117",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 8,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-118",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 8,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-119",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 8,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-120",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 8,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-121",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 8,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-122",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 8,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-124",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 9,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-126",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 9,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-128",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 9,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-149",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 10,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-150",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 10,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-151",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 10,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-152",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 10,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-154",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 11,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-155",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 11,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-156",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 11,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-157",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 11,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-158",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 11,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-159",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 11,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-160",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 11,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-161",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 11,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-162",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 11,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-163",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 11,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-164",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 11,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-165",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 11,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-166",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 11,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-167",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 11,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-169",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 11,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-170",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 11,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-171",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 11,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-172",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 11,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-173",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 11,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-174",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 11,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-175",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 12,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-176",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 12,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-178",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 12,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-179",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 12,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-181",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 12,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-183",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 12,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-186",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 12,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-187",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 12,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-188",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 12,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-189",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 12,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-191",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 13,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-192",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 13,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-193",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 13,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-194",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 13,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-197",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 13,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-199",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 13,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-203",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 13,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-204",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 13,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-205",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 13,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-207",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 13,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-208",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 13,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-209",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 13,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-210",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 13,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-211",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 13,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-214",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 14,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-216",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 14,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-220",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 14,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-221",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 14,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-222",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 14,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-223",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 14,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-225",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 14,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-226",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 14,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-230",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 15,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-232",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 15,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-233",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 15,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-234",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 15,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-236",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 15,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-237",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 15,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-238",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 15,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-240",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 15,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-241",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 15,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-243",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 15,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-244",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 15,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-245",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 15,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-246",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 15,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-247",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 16,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-248",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 16,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-249",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 16,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-251",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 16,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-252",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 16,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-253",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 16,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-254",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 16,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-255",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 16,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-256",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 16,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-257",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 16,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-258",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 16,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-259",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 16,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-260",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 16,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-261",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 16,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-262",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 16,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-263",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 16,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-264",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 16,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-265",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 16,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-266",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 16,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-267",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 16,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-268",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 16,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-269",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 16,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-271",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 17,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-272",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 17,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-273",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 17,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-274",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 17,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-275",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 17,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-276",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 17,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-277",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 17,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-278",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 17,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-279",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 17,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-280",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 17,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-281",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 17,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-282",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 17,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-284",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 17,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-285",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 17,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-286",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 17,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-287",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 17,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-288",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 17,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-289",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 17,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-290",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 17,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-291",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 17,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-292",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 17,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-293",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 17,
+    "key": "B",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-295",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 18,
+    "key": "A",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-296",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 18,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-297",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 18,
+    "key": "D",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  },
+  {
+    "id": "gables-3-298",
+    "sourceForm": "gables-3",
+    "answerGuidePage": 18,
+    "key": "C",
+    "method": "Supplied answer guide, previously inspected in full-source audit; mapped by item and checked against repaired answer key."
+  }
+]

@@ -1,3 +1,30 @@
+# HSPT Practice 0.4.0 — Phase IV
+
+September 29, 2026 (local date) · Content release `all-sections-v0003`
+
+The local build now contains **1,691 questions**. All 500 existing records are preserved, and 1,191 Barron’s/Gables questions are appended. All 1,192 source positions are accounted for: one duplicate is consolidated, with both source references retained. The section and overall indexes are updated.
+
+| Section | Questions available | Full section | Five-minute burst |
+|---|---:|---|---:|
+| Verbal | 340 | 60 / 18 min | 17 |
+| Quantitative | 307 | 52 / 30 min | 9 |
+| Reading | 348 | 62 / 25 min | 12 |
+| Mathematics | 356 | 64 / 45 min | 7 |
+| Language | 340 | 60 / 25 min | 12 |
+
+- Full test: 298 questions and 143 timed minutes, with separate section clocks.
+- All 211 flagged source items have recorded resolutions. Final conversion also corrects remaining OCR in explanations and choices; the edit history is retained.
+- Imported questions use individual text, 57 recreated SVG diagrams and 18 shared passages. No scanned pages are displayed as questions.
+- The previously approved 100 samples and explicit integration authorization are recorded with the accepted batch. Existing full-source review evidence was reconciled; this is not a claim of fresh independent re-solving or psychometric calibration of every item.
+- Browser-local progress, historical question snapshots, repeat cooldowns and whole reading-passage groups remain supported.
+- Availability labels include “questions available.” New practice defaults to five minutes; full-section/full-test modes have their own timers. Logo and Abort controls end tests without submission or completed-test credit.
+
+Validation: 68 automated tests passed across 14 files; accepted-release validation, TypeScript and production/PWA build passed. Tests cover expanded-bank selection, counts/timers, prior progress, passage groups and repeat prevention. A fresh browser visual check was blocked by unavailable browser security-policy verification. Actual iPad Safari and deployed/offline update behavior remain manual checks.
+
+Activated locally and packaged for handoff; not pushed to GitHub or deployed to Vercel. See the [question bank index](app/content/QUESTION_BANK_INDEX.md).
+
+---
+
 # HSPT Practice 0.3.0 — Phase III content update
 
 September 27, 2026 · Content release `all-sections-v0002`

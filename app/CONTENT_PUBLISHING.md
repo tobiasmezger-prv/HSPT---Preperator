@@ -123,3 +123,11 @@ Backups are local JSON files with a format version, session snapshots and exposu
 10. Simulate storage denial/quota in a test profile. Verify failed bank install/session start is atomic, Retry works, and temporary practice requires acknowledgment.
 
 Browser automation could not run here because the browser security-policy check was unavailable. GitHub/Vercel configuration, real-browser end-to-end publishing, and physical iPad verification remain external acceptance requirements. No additional unreviewed questions were created to simulate a genuine accepted expansion.
+
+## Phase IV source imports and cumulative section index
+
+The existing publisher accepts a source-import batch when its directory contains `source-import.json` with policy `source-import-20-per-section-v1`. The batch must include `bank.json`, a 1,192-position reconciled `inventory.json`, and checksum-bound `checks.json`. Every item requires independent transcription, correctness, consistency, visual, and duplicate checks with a recorded method and findings. Self-calibration is explicitly exempted. Record distribution eligibility before release.
+
+After those checks, run `node scripts/prepare-source-review.mjs content/staging/source-import-v1 content/review/source-import-v1`. It creates five questions-first 20-item packets and pending decisions. Fill decisions only from real user review. The gate accepts all checked source questions after those 100 approvals; it does not limit import to the samples. Changes to questions, checks, policy or the review manifest invalidate stale evidence.
+
+Use the same build/validate/preview/publish commands above. Each new release combines existing questions with accepted additions. Its shared manifest includes validated per-section counts plus the total. Re-importing identical IDs/content is idempotent; accidental collisions and exact duplicate content are refused. Existing release files remain immutable. Source staging and public activation are separate.

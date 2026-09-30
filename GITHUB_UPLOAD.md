@@ -1,4 +1,4 @@
-# Upload HSPT Practice 0.3.0
+# Upload HSPT Practice 0.4.0
 
 Target repository: [tobiasmezger-prv/HSPT---Preperator](https://github.com/tobiasmezger-prv/HSPT---Preperator).
 
@@ -6,10 +6,10 @@ The delivery ZIP contains a complete source folder, including the `app/` folder,
 
 ## Add the next version
 
-1. Unzip the delivery package. Use the **contents** of `HSPT-Phase-III-v0.3.0`, not the enclosing folder or the ZIP itself, at the repository root.
-2. In GitHub Desktop, open or clone the repository. Create a branch such as `phase-iii-reviewed-banks` for this update.
+1. Unzip the delivery package. Use the **contents** of `HSPT-Phase-IV-v0.4.0`, not the enclosing folder or the ZIP itself, at the repository root.
+2. In GitHub Desktop, open or clone the repository. Create a branch such as `phase-iv-source-banks` for this update.
 3. Copy the extracted contents into that checkout, including hidden `.github` and `.gitignore` files. Preserve the checkout's `.git` folder. Remove `app/src/data/previewQuestions.ts` if the older version contains it; the historical fixture has moved to `app/tests/fixtures/legacyPreviewQuestions.ts`.
-4. Review the changes and commit with **“Integrate reviewed banks across all five HSPT sections”**, then publish the branch.
+4. Review the changes and commit with **“Complete Phase IV timing and append reviewed source banks”**, then publish the branch.
 5. Let the GitHub validation workflow finish and check the Vercel preview before merging to the production branch. A connected Vercel project can deploy automatically on push/merge.
 
 The ZIP also contains `PACKAGE_CONTENTS.sha256`, listing exact source-file hashes for this delivery. No credentials are included or needed by the app.
@@ -30,9 +30,9 @@ For local development, run those install/build commands from `app/`, then `pnpm 
 
 Export existing progress first if you want a personal recovery copy. Keep it private. On the stable production origin, updates preserve browser-local progress; a different preview URL has its own separate storage.
 
-Confirm 100 questions in all five sections, Reading passages and Mathematics figures, answer/submit/review, resume after backgrounding, and download/offline behavior on the actual iPad. The content update is ready to upload, but physical-device and deployed behavior have not been verified here.
+Confirm available counts of 340 Verbal, 307 Quantitative, 348 Reading, 356 Mathematics and 340 Language, Reading passages and Mathematics figures, answer/submit/review, resume after backgrounding, and download/offline behavior on the actual iPad. The content update is ready to upload, but physical-device and deployed behavior have not been verified here.
 
-Section/full-test modes remain shortened previews. Completing the full Phase III PRD still requires full-length presets and the 298-question exam. See `app/PHASE_III_PREVIEW.md`.
+Confirm section counts/timers, the 298-question full test, five-minute bursts and abort behavior. See `app/PHASE_IV_STATUS.md` and `app/content/QUESTION_BANK_INDEX.md`.
 
 ## Recovery
 

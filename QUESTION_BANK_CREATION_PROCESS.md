@@ -1,7 +1,7 @@
 # HSPT question-bank creation, calibration, and import process
 
 **Project:** HSPT Practice  
-**Version:** 3.0 — Full-set calibration from the project Gables Markdown source  
+**Version:** 3.1 — Phase IV source-import sampling exception  
 **Purpose:** Create original, dependable practice for all five HSPT sections in batches of 100, using full-set source calibration and independent answer review of every authored question. The normal human-review checkpoint remains 20 questions per batch.
 
 This is the reusable project instruction. It supersedes the earlier requirement to human-review all 100 questions. Keep source documents under `sources/` read-only. Do not publish new content or label it approved merely because it passes arithmetic tests.
@@ -241,3 +241,16 @@ Tobias explicitly approved the gables-v2 sample and authorized integration. The 
 ### Additional-bank integration update — September 27, 2026
 
 Tobias approved the additional-v3 review packets and authorized integration in the project conversation. The active `all-sections-v0002` release combines the unchanged 100 Quantitative questions with 100 each for Verbal, Reading, Mathematics and Language. The approval is preserved at `app/content/review/additional-v3/decisions.json`, separately from historical pending draft templates. Only the fixed 20 per section are individually approved. The import preserves reviewed question content, embeds original figures and numbered passage paragraphs, and retains authored revision provenance. Acceptance permits skill practice and shortened previews; full-length exam presets, empirical difficulty/timing and actual iPad Safari checks remain outstanding. See `app/PHASE_III_PREVIEW.md` and `app/CONTENT_PUBLISHING.md` for current integration and release details.
+
+## 11. Phase IV source-import track — Barron’s and Gables
+
+This explicit exception implements PRD §12.4 for the two existing Markdown collections. Continue to use the Phase III staging, question format, evidence, review packets, cumulative releases, and shared index. The original-authorship rules above still apply to newly authored material.
+
+1. Inventory all 894 Gables and 298 Barron’s source positions, keeping source hashes, form/question/page locators, passages, figures, original keys, and known exceptions. Preserve the source Markdown files.
+2. Normalize the full inventory and check every question against its scan. Independently verify every answer and explanation, logical consistency, choice uniqueness, passage evidence, and visual accuracy. Fix source errors with a recorded explanation; quarantine unresolved items. The existing Gables audit may be reused only where its source hash and scope match. Inventory or structural validation alone is not correctness review.
+3. Skip the additional Gables style/difficulty calibration comparison for these named source imports: record `not_applicable_source_import`. Do not reject an imported item merely because it matches its own source. Still reconcile duplicates against both collections and the existing bank.
+4. After all-item checks, provide exactly **20 sampled questions in each of five sections (100 total)** for this combined import. Use reproducible selection covering source forms, skills, difficulty, formats, and risks. Follow §8’s questions-first layout with separate keys/explanations, complete passages/figures, and approve/revise/reject decisions. This source-import policy replaces 20-per-100 sampling only for this named combined delivery.
+5. User approval of the samples approves the **full checked import**. Append all accepted questions, including unsampled questions, to the existing section banks. Do not publish only the sampled 100. Keep sample approval and individual review distinct. Recheck changed content; never manufacture user approvals.
+6. Build a new cumulative release through the existing publisher. Preserve existing IDs and historical snapshots. Update the shared manifest’s section counts and overall count; repeated imports must not duplicate questions. Corrections/retirements require separate explicit operations.
+
+Implementation: `app/scripts/stage-source-import.py` creates the inventory once; `prepare-source-review.mjs` prepares packets only after all-item checks; `accepted-source.mjs` enforces checks, samples, decisions and reconciliation inside `content-release.mjs`. Record distribution eligibility before publishing source material. See `app/PHASE_IV_STATUS.md` for actual completion status.

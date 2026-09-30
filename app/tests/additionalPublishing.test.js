@@ -7,7 +7,7 @@ import {fileURLToPath} from 'node:url';
 it('revalidates approval and rejects changed questions, passages, figures or decisions',()=>{
  const root=mkdtempSync(join(tmpdir(),'hspt-additional-'));const app=fileURLToPath(new URL('..',import.meta.url));
  try{
-  for(const item of ['scripts','src/domain','content/releases','content/review','content/staging/gables-v2','content/staging/additional-v3','public/content'])cpSync(join(app,item),join(root,item),{recursive:true});
+  for(const item of ['scripts','src/domain','content/releases','content/review','content/staging/gables-v2','content/staging/additional-v3','content/staging/source-import-v1','public/content'])cpSync(join(app,item),join(root,item),{recursive:true});
   const run=()=>spawnSync(process.execPath,[join(root,'scripts/content-release.mjs'),'validate'],{encoding:'utf8'});
   expect(run().status).toBe(0);
   for(const file of ['content/staging/additional-v3/verbal.json','content/staging/additional-v3/reading-passages.json','content/staging/additional-v3/assets/mat-a1-056.svg','content/review/additional-v3/decisions.json']){const dest=join(root,file),before=readFileSync(dest,'utf8');writeFileSync(dest,before+' ');expect(run().status).not.toBe(0);writeFileSync(dest,before);}

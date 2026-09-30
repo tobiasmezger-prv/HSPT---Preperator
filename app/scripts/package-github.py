@@ -4,7 +4,7 @@ from pathlib import Path
 import hashlib, shutil, zipfile
 ROOT=Path(__file__).resolve().parents[2]
 OUT=ROOT/'output/github'
-NAME='HSPT-Phase-III-v0.3.0'
+NAME='HSPT-Phase-IV-v0.4.0'
 DEST=OUT/NAME
 roots=['app','.github','.gitignore','README.md','RELEASE_NOTES.md','GITHUB_UPLOAD.md','HSPT_iPad_Prep_PRD.md','HSPT_Phase_III_PRD.md','QUESTION_BANK_CREATION_PROCESS.md']
 excluded={'node_modules','dist','__pycache__','.git','.pnpm-store'}
@@ -17,7 +17,7 @@ for name in roots:
   if f.name=='.DS_Store' or f.name.startswith('.env') or f.suffix in {'.pyc','.tsbuildinfo','.zip'}:continue
   if f.name.startswith(('qa-','figure-check-')):continue
   files.append(f)
-# Replace only our previous generated output, never project or source files.
+# Preserve previous delivery outputs and all project/source files.
 if DEST.exists():
  raise SystemExit('Delivery folder already exists; choose a new version or preserve it before rebuilding.')
 DEST.mkdir(parents=True)
